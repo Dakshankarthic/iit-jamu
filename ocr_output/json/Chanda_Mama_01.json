@@ -1,0 +1,1337 @@
+{
+  "image": "I:\\restoration image\\image\\Chanda_Mama_01.jpg",
+  "image_size": [
+    2271,
+    2835
+  ],
+  "text": "\nव\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nत\n",
+  "coordinate_system": "EXIF-oriented input image pixels",
+  "polygonization": {
+    "method": "kraken-scaled",
+    "scale": [
+      1000,
+      0
+    ],
+    "topline": true,
+    "fallback_boundaries": 0
+  },
+  "lines": [
+    {
+      "id": "_695e940e-6922-4d87-aeef-49ce7c835b03",
+      "baseline": [
+        [
+          179,
+          1860
+        ],
+        [
+          234,
+          1860
+        ]
+      ],
+      "boundary": [
+        [
+          178,
+          1916
+        ],
+        [
+          229,
+          1919
+        ],
+        [
+          232,
+          1859
+        ],
+        [
+          232,
+          1638
+        ],
+        [
+          181,
+          1624
+        ],
+        [
+          178,
+          1859
+        ],
+        [
+          178,
+          1916
+        ]
+      ],
+      "text": "",
+      "confidence": {
+        "characters": 0,
+        "mean": null,
+        "p10": null,
+        "minimum": null,
+        "below_0_80_fraction": null
+      }
+    },
+    {
+      "id": "_295dcc6a-e08a-471a-9143-cae7775e97e7",
+      "baseline": [
+        [
+          208,
+          2082
+        ],
+        [
+          266,
+          2074
+        ],
+        [
+          345,
+          2080
+        ]
+      ],
+      "boundary": [
+        [
+          206,
+          2080
+        ],
+        [
+          206,
+          2112
+        ],
+        [
+          334,
+          2146
+        ],
+        [
+          343,
+          2078
+        ],
+        [
+          340,
+          2012
+        ],
+        [
+          246,
+          1998
+        ],
+        [
+          243,
+          1998
+        ],
+        [
+          240,
+          1998
+        ],
+        [
+          204,
+          2010
+        ],
+        [
+          206,
+          2080
+        ]
+      ],
+      "text": "व",
+      "confidence": {
+        "characters": 1,
+        "mean": 0.287751168012619,
+        "p10": 0.287751168012619,
+        "minimum": 0.287751168012619,
+        "below_0_80_fraction": 1.0
+      }
+    },
+    {
+      "id": "_68f9e9fe-dff0-4ca9-aa9f-5e208d97afd3",
+      "baseline": [
+        [
+          170,
+          2209
+        ],
+        [
+          291,
+          2205
+        ]
+      ],
+      "boundary": [
+        [
+          167,
+          2208
+        ],
+        [
+          170,
+          2304
+        ],
+        [
+          198,
+          2304
+        ],
+        [
+          223,
+          2304
+        ],
+        [
+          255,
+          2270
+        ],
+        [
+          289,
+          2265
+        ],
+        [
+          289,
+          2202
+        ],
+        [
+          283,
+          2188
+        ],
+        [
+          164,
+          2197
+        ],
+        [
+          167,
+          2208
+        ]
+      ],
+      "text": "",
+      "confidence": {
+        "characters": 0,
+        "mean": null,
+        "p10": null,
+        "minimum": null,
+        "below_0_80_fraction": null
+      }
+    },
+    {
+      "id": "_ba7b934a-b08f-4e3f-9123-0c69dffd38db",
+      "baseline": [
+        [
+          130,
+          2312
+        ],
+        [
+          237,
+          2308
+        ]
+      ],
+      "boundary": [
+        [
+          127,
+          2310
+        ],
+        [
+          127,
+          2384
+        ],
+        [
+          235,
+          2370
+        ],
+        [
+          235,
+          2307
+        ],
+        [
+          232,
+          2296
+        ],
+        [
+          124,
+          2293
+        ],
+        [
+          127,
+          2310
+        ]
+      ],
+      "text": "",
+      "confidence": {
+        "characters": 0,
+        "mean": null,
+        "p10": null,
+        "minimum": null,
+        "below_0_80_fraction": null
+      }
+    },
+    {
+      "id": "_74e73705-f577-4c4c-a34b-243b91c4b415",
+      "baseline": [
+        [
+          105,
+          2395
+        ],
+        [
+          296,
+          2411
+        ]
+      ],
+      "boundary": [
+        [
+          104,
+          2392
+        ],
+        [
+          99,
+          2440
+        ],
+        [
+          286,
+          2446
+        ],
+        [
+          294,
+          2409
+        ],
+        [
+          292,
+          2358
+        ],
+        [
+          104,
+          2358
+        ],
+        [
+          104,
+          2392
+        ]
+      ],
+      "text": "",
+      "confidence": {
+        "characters": 0,
+        "mean": null,
+        "p10": null,
+        "minimum": null,
+        "below_0_80_fraction": null
+      }
+    },
+    {
+      "id": "_5922d4ef-4b91-4085-9783-5e048c186c11",
+      "baseline": [
+        [
+          140,
+          2627
+        ],
+        [
+          187,
+          2619
+        ]
+      ],
+      "boundary": [
+        [
+          138,
+          2625
+        ],
+        [
+          144,
+          2667
+        ],
+        [
+          187,
+          2664
+        ],
+        [
+          184,
+          2616
+        ],
+        [
+          181,
+          2605
+        ],
+        [
+          133,
+          2605
+        ],
+        [
+          138,
+          2625
+        ]
+      ],
+      "text": "",
+      "confidence": {
+        "characters": 0,
+        "mean": null,
+        "p10": null,
+        "minimum": null,
+        "below_0_80_fraction": null
+      }
+    },
+    {
+      "id": "_9c75db21-e2c8-4b39-b207-3d16536e50ca",
+      "baseline": [
+        [
+          277,
+          2765
+        ],
+        [
+          312,
+          2760
+        ]
+      ],
+      "boundary": [
+        [
+          275,
+          2764
+        ],
+        [
+          277,
+          2798
+        ],
+        [
+          314,
+          2795
+        ],
+        [
+          311,
+          2758
+        ],
+        [
+          306,
+          2730
+        ],
+        [
+          269,
+          2732
+        ],
+        [
+          275,
+          2764
+        ]
+      ],
+      "text": "",
+      "confidence": {
+        "characters": 0,
+        "mean": null,
+        "p10": null,
+        "minimum": null,
+        "below_0_80_fraction": null
+      }
+    },
+    {
+      "id": "_b2a4aca9-9ed7-42af-8371-c4f1d06dac0b",
+      "baseline": [
+        [
+          340,
+          2203
+        ],
+        [
+          412,
+          2203
+        ]
+      ],
+      "boundary": [
+        [
+          337,
+          2202
+        ],
+        [
+          337,
+          2253
+        ],
+        [
+          408,
+          2256
+        ],
+        [
+          411,
+          2202
+        ],
+        [
+          408,
+          2182
+        ],
+        [
+          337,
+          2182
+        ],
+        [
+          337,
+          2202
+        ]
+      ],
+      "text": "",
+      "confidence": {
+        "characters": 0,
+        "mean": null,
+        "p10": null,
+        "minimum": null,
+        "below_0_80_fraction": null
+      }
+    },
+    {
+      "id": "_357f35f6-5367-4d16-a9c1-cbfd81c6d1ad",
+      "baseline": [
+        [
+          449,
+          2359
+        ],
+        [
+          504,
+          2364
+        ]
+      ],
+      "boundary": [
+        [
+          447,
+          2358
+        ],
+        [
+          445,
+          2406
+        ],
+        [
+          493,
+          2415
+        ],
+        [
+          501,
+          2361
+        ],
+        [
+          498,
+          2250
+        ],
+        [
+          450,
+          2262
+        ],
+        [
+          447,
+          2358
+        ]
+      ],
+      "text": "",
+      "confidence": {
+        "characters": 0,
+        "mean": null,
+        "p10": null,
+        "minimum": null,
+        "below_0_80_fraction": null
+      }
+    },
+    {
+      "id": "_3d0e4a36-bf0c-4bd5-8d62-dc2f076e527b",
+      "baseline": [
+        [
+          327,
+          2450
+        ],
+        [
+          393,
+          2453
+        ],
+        [
+          452,
+          2471
+        ],
+        [
+          499,
+          2472
+        ]
+      ],
+      "boundary": [
+        [
+          326,
+          2449
+        ],
+        [
+          320,
+          2511
+        ],
+        [
+          388,
+          2491
+        ],
+        [
+          430,
+          2523
+        ],
+        [
+          433,
+          2523
+        ],
+        [
+          436,
+          2523
+        ],
+        [
+          439,
+          2523
+        ],
+        [
+          442,
+          2523
+        ],
+        [
+          493,
+          2500
+        ],
+        [
+          498,
+          2469
+        ],
+        [
+          501,
+          2423
+        ],
+        [
+          331,
+          2387
+        ],
+        [
+          326,
+          2449
+        ]
+      ],
+      "text": "",
+      "confidence": {
+        "characters": 0,
+        "mean": null,
+        "p10": null,
+        "minimum": null,
+        "below_0_80_fraction": null
+      }
+    },
+    {
+      "id": "_509ae5ab-af18-476d-8c32-1db7a9cb7d26",
+      "baseline": [
+        [
+          523,
+          2705
+        ],
+        [
+          545,
+          2702
+        ]
+      ],
+      "boundary": [
+        [
+          524,
+          2758
+        ],
+        [
+          544,
+          2761
+        ],
+        [
+          544,
+          2701
+        ],
+        [
+          538,
+          2670
+        ],
+        [
+          518,
+          2664
+        ],
+        [
+          521,
+          2704
+        ],
+        [
+          524,
+          2758
+        ]
+      ],
+      "text": "",
+      "confidence": {
+        "characters": 0,
+        "mean": null,
+        "p10": null,
+        "minimum": null,
+        "below_0_80_fraction": null
+      }
+    },
+    {
+      "id": "_5eee9942-3d82-4aaf-bdac-365edc048a5f",
+      "baseline": [
+        [
+          613,
+          2386
+        ],
+        [
+          698,
+          2401
+        ]
+      ],
+      "boundary": [
+        [
+          612,
+          2384
+        ],
+        [
+          592,
+          2489
+        ],
+        [
+          669,
+          2517
+        ],
+        [
+          697,
+          2398
+        ],
+        [
+          697,
+          2378
+        ],
+        [
+          615,
+          2364
+        ],
+        [
+          612,
+          2384
+        ]
+      ],
+      "text": "",
+      "confidence": {
+        "characters": 0,
+        "mean": null,
+        "p10": null,
+        "minimum": null,
+        "below_0_80_fraction": null
+      }
+    },
+    {
+      "id": "_02cd3017-1097-4510-a678-8d3c7e170663",
+      "baseline": [
+        [
+          724,
+          2044
+        ],
+        [
+          751,
+          2041
+        ]
+      ],
+      "boundary": [
+        [
+          722,
+          2041
+        ],
+        [
+          739,
+          2205
+        ],
+        [
+          765,
+          2197
+        ],
+        [
+          748,
+          2038
+        ],
+        [
+          739,
+          2010
+        ],
+        [
+          720,
+          2015
+        ],
+        [
+          722,
+          2041
+        ]
+      ],
+      "text": "",
+      "confidence": {
+        "characters": 0,
+        "mean": null,
+        "p10": null,
+        "minimum": null,
+        "below_0_80_fraction": null
+      }
+    },
+    {
+      "id": "_420ef0fb-095e-4527-9011-b332af92d192",
+      "baseline": [
+        [
+          717,
+          2581
+        ],
+        [
+          813,
+          2540
+        ],
+        [
+          879,
+          2545
+        ]
+      ],
+      "boundary": [
+        [
+          714,
+          2579
+        ],
+        [
+          734,
+          2656
+        ],
+        [
+          895,
+          2656
+        ],
+        [
+          878,
+          2542
+        ],
+        [
+          867,
+          2500
+        ],
+        [
+          808,
+          2500
+        ],
+        [
+          805,
+          2500
+        ],
+        [
+          802,
+          2500
+        ],
+        [
+          705,
+          2551
+        ],
+        [
+          714,
+          2579
+        ]
+      ],
+      "text": "",
+      "confidence": {
+        "characters": 0,
+        "mean": null,
+        "p10": null,
+        "minimum": null,
+        "below_0_80_fraction": null
+      }
+    },
+    {
+      "id": "_40e2690c-9f0c-4e41-90d4-8922d9d913ea",
+      "baseline": [
+        [
+          1627,
+          1135
+        ],
+        [
+          1661,
+          1134
+        ]
+      ],
+      "boundary": [
+        [
+          1624,
+          1134
+        ],
+        [
+          1624,
+          1176
+        ],
+        [
+          1655,
+          1185
+        ],
+        [
+          1658,
+          1134
+        ],
+        [
+          1652,
+          1077
+        ],
+        [
+          1624,
+          1088
+        ],
+        [
+          1624,
+          1134
+        ]
+      ],
+      "text": "",
+      "confidence": {
+        "characters": 0,
+        "mean": null,
+        "p10": null,
+        "minimum": null,
+        "below_0_80_fraction": null
+      }
+    },
+    {
+      "id": "_6b608d40-49c1-46c8-b388-f9764187f4ef",
+      "baseline": [
+        [
+          1761,
+          33
+        ],
+        [
+          1905,
+          22
+        ]
+      ],
+      "boundary": [
+        [
+          1760,
+          31
+        ],
+        [
+          1760,
+          56
+        ],
+        [
+          1899,
+          56
+        ],
+        [
+          1902,
+          19
+        ],
+        [
+          1896,
+          2
+        ],
+        [
+          1757,
+          11
+        ],
+        [
+          1760,
+          31
+        ]
+      ],
+      "text": "",
+      "confidence": {
+        "characters": 0,
+        "mean": null,
+        "p10": null,
+        "minimum": null,
+        "below_0_80_fraction": null
+      }
+    },
+    {
+      "id": "_afd8f769-1f70-4af9-a5fe-7183b66df063",
+      "baseline": [
+        [
+          1733,
+          83
+        ],
+        [
+          1799,
+          91
+        ],
+        [
+          1927,
+          89
+        ]
+      ],
+      "boundary": [
+        [
+          1732,
+          82
+        ],
+        [
+          1729,
+          110
+        ],
+        [
+          1919,
+          119
+        ],
+        [
+          1925,
+          87
+        ],
+        [
+          1922,
+          68
+        ],
+        [
+          1811,
+          56
+        ],
+        [
+          1808,
+          56
+        ],
+        [
+          1732,
+          70
+        ],
+        [
+          1732,
+          82
+        ]
+      ],
+      "text": "",
+      "confidence": {
+        "characters": 0,
+        "mean": null,
+        "p10": null,
+        "minimum": null,
+        "below_0_80_fraction": null
+      }
+    },
+    {
+      "id": "_0c4bce43-2c51-4f78-bba1-ba3ac12bc49f",
+      "baseline": [
+        [
+          1033,
+          1540
+        ],
+        [
+          1093,
+          1540
+        ]
+      ],
+      "boundary": [
+        [
+          1032,
+          1539
+        ],
+        [
+          1034,
+          1610
+        ],
+        [
+          1091,
+          1590
+        ],
+        [
+          1091,
+          1539
+        ],
+        [
+          1088,
+          1482
+        ],
+        [
+          1032,
+          1482
+        ],
+        [
+          1032,
+          1539
+        ]
+      ],
+      "text": "",
+      "confidence": {
+        "characters": 0,
+        "mean": null,
+        "p10": null,
+        "minimum": null,
+        "below_0_80_fraction": null
+      }
+    },
+    {
+      "id": "_825eacb6-7efe-4b6a-8322-12f43f27ee11",
+      "baseline": [
+        [
+          37,
+          420
+        ],
+        [
+          851,
+          423
+        ]
+      ],
+      "boundary": [
+        [
+          36,
+          419
+        ],
+        [
+          34,
+          462
+        ],
+        [
+          206,
+          450
+        ],
+        [
+          223,
+          464
+        ],
+        [
+          223,
+          467
+        ],
+        [
+          226,
+          467
+        ],
+        [
+          229,
+          467
+        ],
+        [
+          232,
+          470
+        ],
+        [
+          317,
+          470
+        ],
+        [
+          317,
+          467
+        ],
+        [
+          320,
+          467
+        ],
+        [
+          323,
+          467
+        ],
+        [
+          345,
+          450
+        ],
+        [
+          413,
+          450
+        ],
+        [
+          430,
+          464
+        ],
+        [
+          430,
+          467
+        ],
+        [
+          433,
+          467
+        ],
+        [
+          436,
+          467
+        ],
+        [
+          439,
+          470
+        ],
+        [
+          513,
+          470
+        ],
+        [
+          513,
+          467
+        ],
+        [
+          516,
+          467
+        ],
+        [
+          518,
+          467
+        ],
+        [
+          541,
+          450
+        ],
+        [
+          620,
+          450
+        ],
+        [
+          683,
+          467
+        ],
+        [
+          686,
+          467
+        ],
+        [
+          688,
+          467
+        ],
+        [
+          691,
+          467
+        ],
+        [
+          762,
+          450
+        ],
+        [
+          842,
+          467
+        ],
+        [
+          850,
+          422
+        ],
+        [
+          850,
+          379
+        ],
+        [
+          36,
+          374
+        ],
+        [
+          36,
+          419
+        ]
+      ],
+      "text": "",
+      "confidence": {
+        "characters": 0,
+        "mean": null,
+        "p10": null,
+        "minimum": null,
+        "below_0_80_fraction": null
+      }
+    },
+    {
+      "id": "_5b896bf6-c6a2-4bab-97dd-048047705653",
+      "baseline": [
+        [
+          308,
+          844
+        ],
+        [
+          455,
+          841
+        ]
+      ],
+      "boundary": [
+        [
+          306,
+          841
+        ],
+        [
+          306,
+          873
+        ],
+        [
+          450,
+          881
+        ],
+        [
+          453,
+          839
+        ],
+        [
+          447,
+          810
+        ],
+        [
+          303,
+          813
+        ],
+        [
+          306,
+          841
+        ]
+      ],
+      "text": "त",
+      "confidence": {
+        "characters": 1,
+        "mean": 0.10934489220380783,
+        "p10": 0.10934489220380783,
+        "minimum": 0.10934489220380783,
+        "below_0_80_fraction": 1.0
+      }
+    },
+    {
+      "id": "_e879f07b-a5b9-4da4-a6bf-8997c56b23e8",
+      "baseline": [
+        [
+          862,
+          423
+        ],
+        [
+          884,
+          423
+        ]
+      ],
+      "boundary": [
+        [
+          861,
+          510
+        ],
+        [
+          881,
+          510
+        ],
+        [
+          881,
+          422
+        ],
+        [
+          881,
+          388
+        ],
+        [
+          864,
+          385
+        ],
+        [
+          861,
+          422
+        ],
+        [
+          861,
+          510
+        ]
+      ],
+      "text": "",
+      "confidence": {
+        "characters": 0,
+        "mean": null,
+        "p10": null,
+        "minimum": null,
+        "below_0_80_fraction": null
+      }
+    }
+  ],
+  "review": {
+    "method": "reference-free-heuristic-v0.1",
+    "risk_score": 100,
+    "quality_confidence": "low",
+    "review_priority": "high",
+    "reasons": [
+      "The recognizer returned no text for 19 detected line(s).",
+      "The detector returned an unusually high 21 lines.",
+      "95% of baselines are tiny page fragments.",
+      "100% of detected lines produced fewer than 8 characters.",
+      "Mean character confidence is only 0.199.",
+      "The bottom confidence decile is 0.127.",
+      "100% of characters have confidence below 0.80.",
+      "The page produced unusually few characters per detected line."
+    ],
+    "flags": [
+      "empty_recognition_line",
+      "many_lines",
+      "tiny_line_fragments",
+      "short_outputs",
+      "low_mean_confidence",
+      "low_confidence_tail",
+      "many_uncertain_characters",
+      "sparse_output"
+    ],
+    "signals": {
+      "line_count": 21,
+      "character_count": 2,
+      "empty_recognition_lines": 19,
+      "mean_character_confidence": 0.19854803010821342,
+      "p10_character_confidence": 0.12718551978468895,
+      "low_character_confidence_fraction": 1.0,
+      "short_line_fraction": 0.9523809523809523,
+      "tiny_line_fraction": 0.9523809523809523,
+      "thin_polygon_fraction": 0.0,
+      "very_short_text_line_fraction": 1.0,
+      "unexpected_character_fraction": 0.0,
+      "longest_repeated_character_run": 1,
+      "polygonization_failures": 0,
+      "ink_fraction": 0.8398723323170731
+    },
+    "warning": "This score ranks review risk; it is not a calibrated probability of correctness."
+  },
+  "release": "v1.0",
+  "index": 1,
+  "filename": "Chanda_Mama_01.jpg"
+}
