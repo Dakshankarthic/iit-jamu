@@ -1,0 +1,298 @@
+{
+  "page": 11,
+  "source_image": "image/Chanda_Mama_11.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        1474,
+        1149,
+        2523
+      ],
+      "text": "अतिथिः आसीत्‌ । अनन्तरं सः भस्ट्ककेतुम्‌\nआगच्छामि\" इत्ति उक्ता भल्टरककेतुः अद्द्यः\nस्वमातुः दीनावस्थां कृशशरीरं च दृष्ट्वा\nपिङ्ाटः निर्विण्णः। कम्पमानेन स्वरेण आहवयन्तं\nपत्रं दृष्ट्वा माता चकिता! ष्टती सा --\n“पत्र! इदानीम्‌ आगतः वा? भवन्तम्‌ अदष्ट्वा\nबहु कारः अतीतः इति वदन्ती पुत्रम्‌\nआङिङ्गितवती ।\nतां सान्त्रयन्‌ पिङ्भाटः उक्तवान्‌ **अम्बर !\nभवत्याः परिस्थितिः कथम्‌ एवं शोचनीया",
+      "line_count": 10
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1182,
+        1474,
+        2146,
+        2523
+      ],
+      "text": "1 अ ~ अ (1\nआख्य स्वगृहं प्राप्तवान्‌ । “अपेक्षिते समये\nगतः। पिङ्गाटः द्रीनां स्वमातरं दृष्टवान्‌ ||\nअभवत्‌ £ प्रयाणतः पव अहं सहस\nदीनारान्‌, दत्तव्रान्‌ किट ? तत्‌ किं अभवत्‌\nकि चौ अभवत्‌ £ इदानीं भव्याः योग-\nकषेमस्य का व्यवस्था: अग्रजदरयं कुत्र ? ` ' इति।\nशाकतप्ता माता शीघ्रं उत्तरं दातुं न शक्त.\nवती । अश्रुमाजनं कुर्वती सा-- “*भवतः\nअप्रनकारणतः एव॒ मम एषा दृरस्था, पुत्र !",
+      "line_count": 10
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "अतिथिः आसीत्‌ । अनन्तरं सः भस्ट्ककेतुम्‌",
+      "bbox": [
+        269,
+        1521,
+        1149,
+        1594
+      ],
+      "confidence": 57.29,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "आगच्छामि\" इत्ति उक्ता भल्टरककेतुः अद्द्यः",
+      "bbox": [
+        270,
+        1615,
+        1149,
+        1687
+      ],
+      "confidence": 32.35,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "स्वमातुः दीनावस्थां कृशशरीरं च दृष्ट्वा",
+      "bbox": [
+        311,
+        1770,
+        1134,
+        1844
+      ],
+      "confidence": 69.73,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "पिङ्ाटः निर्विण्णः। कम्पमानेन स्वरेण आहवयन्तं",
+      "bbox": [
+        230,
+        1857,
+        1132,
+        1938
+      ],
+      "confidence": 69.93,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "पत्रं दृष्ट्वा माता चकिता! ष्टती सा --",
+      "bbox": [
+        228,
+        1955,
+        1128,
+        2027
+      ],
+      "confidence": 71.53,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "“पत्र! इदानीम्‌ आगतः वा? भवन्तम्‌ अदष्ट्वा",
+      "bbox": [
+        233,
+        2046,
+        1128,
+        2126
+      ],
+      "confidence": 87.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "बहु कारः अतीतः इति वदन्ती पुत्रम्‌",
+      "bbox": [
+        225,
+        2149,
+        1130,
+        2218
+      ],
+      "confidence": 72.08,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "आङिङ्गितवती ।",
+      "bbox": [
+        225,
+        2232,
+        553,
+        2308
+      ],
+      "confidence": 39.51,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "तां सान्त्रयन्‌ पिङ्भाटः उक्तवान्‌ **अम्बर !",
+      "bbox": [
+        299,
+        2334,
+        1114,
+        2401
+      ],
+      "confidence": 31.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "भवत्याः परिस्थितिः कथम्‌ एवं शोचनीया",
+      "bbox": [
+        220,
+        2427,
+        1117,
+        2493
+      ],
+      "confidence": 92.25,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "right",
+      "text": "1 अ ~ अ (1",
+      "bbox": [
+        1188,
+        1474,
+        1919,
+        1493
+      ],
+      "confidence": 28.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "right",
+      "text": "आख्य स्वगृहं प्राप्तवान्‌ । “अपेक्षिते समये",
+      "bbox": [
+        1188,
+        1519,
+        2042,
+        1593
+      ],
+      "confidence": 77.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "right",
+      "text": "गतः। पिङ्गाटः द्रीनां स्वमातरं दृष्टवान्‌ ||",
+      "bbox": [
+        1193,
+        1619,
+        1973,
+        1687
+      ],
+      "confidence": 56.63,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "right",
+      "text": "अभवत्‌ £ प्रयाणतः पव अहं सहस",
+      "bbox": [
+        1201,
+        1774,
+        2088,
+        1851
+      ],
+      "confidence": 82.69,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "दीनारान्‌, दत्तव्रान्‌ किट ? तत्‌ किं अभवत्‌",
+      "bbox": [
+        1196,
+        1863,
+        2055,
+        1943
+      ],
+      "confidence": 56.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "कि चौ अभवत्‌ £ इदानीं भव्याः योग-",
+      "bbox": [
+        1196,
+        1956,
+        2085,
+        2042
+      ],
+      "confidence": 81.73,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "कषेमस्य का व्यवस्था: अग्रजदरयं कुत्र ? ` ' इति।",
+      "bbox": [
+        1192,
+        2055,
+        2073,
+        2130
+      ],
+      "confidence": 70.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "शाकतप्ता माता शीघ्रं उत्तरं दातुं न शक्त.",
+      "bbox": [
+        1272,
+        2211,
+        2087,
+        2281
+      ],
+      "confidence": 59.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "वती । अश्रुमाजनं कुर्वती सा-- “*भवतः",
+      "bbox": [
+        1192,
+        2312,
+        2082,
+        2387
+      ],
+      "confidence": 62.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "अप्रनकारणतः एव॒ मम एषा दृरस्था, पुत्र !",
+      "bbox": [
+        1186,
+        2427,
+        2072,
+        2492
+      ],
+      "confidence": 49.24,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "अतिथिः आसीत्‌ । अनन्तरं सः भस्ट्ककेतुम्‌\nआगच्छामि\" इत्ति उक्ता भल्टरककेतुः अद्द्यः\nस्वमातुः दीनावस्थां कृशशरीरं च दृष्ट्वा\nपिङ्ाटः निर्विण्णः। कम्पमानेन स्वरेण आहवयन्तं\nपत्रं दृष्ट्वा माता चकिता! ष्टती सा --\n“पत्र! इदानीम्‌ आगतः वा? भवन्तम्‌ अदष्ट्वा\nबहु कारः अतीतः इति वदन्ती पुत्रम्‌\nआङिङ्गितवती ।\nतां सान्त्रयन्‌ पिङ्भाटः उक्तवान्‌ **अम्बर !\nभवत्याः परिस्थितिः कथम्‌ एवं शोचनीया\n\n1 अ ~ अ (1\nआख्य स्वगृहं प्राप्तवान्‌ । “अपेक्षिते समये\nगतः। पिङ्गाटः द्रीनां स्वमातरं दृष्टवान्‌ ||\nअभवत्‌ £ प्रयाणतः पव अहं सहस\nदीनारान्‌, दत्तव्रान्‌ किट ? तत्‌ किं अभवत्‌\nकि चौ अभवत्‌ £ इदानीं भव्याः योग-\nकषेमस्य का व्यवस्था: अग्रजदरयं कुत्र ? ` ' इति।\nशाकतप्ता माता शीघ्रं उत्तरं दातुं न शक्त.\nवती । अश्रुमाजनं कुर्वती सा-- “*भवतः\nअप्रनकारणतः एव॒ मम एषा दृरस्था, पुत्र !",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

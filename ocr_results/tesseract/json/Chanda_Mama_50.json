@@ -1,0 +1,454 @@
+{
+  "page": 50,
+  "source_image": "image/Chanda_Mama_50.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        226,
+        1161,
+        1729
+      ],
+      "text": "रधेणीयानि अँधिन्‌ । तीनि चित्रकारस्य नैपुष्य्य\nसाक्षीभूतानि आसन्‌।\nतानि चत्णि दृष्ट्वा अम्तरिका अतीव सन्तुष्टा ।\nसा चित्राणां विषये वार्ताखापं कुवैती पतिम्‌\nउक्तवती- “कियन्ति सुन्दराणि तानि! जीवन्ति\nइव सन्ति। यदि प्रयत्नः क्रियते भवता अपि\nतादृशानि चित्राणि ङेखितुं शक्यानि। अतः\nसुन्दरम्‌ एकं चित्रं भवान्‌ अपि आचख्खितु।'\nभस्करः आश्चर्येण उक्तवान्‌-किं £ मया चित्र\nछेखनीयं वा  चित्रडेखनं नाम कि कन्दुक-\nक्रीडन वा\n८“चित्रठेखनं सुर्भम्‌ इति न उक्तवती । यदि\nआग्रहेण रेखाः विन्यस्यन्ते, चित्रत्रेन परिण-\nमन्ति एव । अभ्यासात्‌ स्वेष्टसिद्धिः किट । अतः\nभवान्‌ अपि प्रयत्न करोतु\" इति अम्बिका\nसहासं उक्तवती ।",
+      "line_count": 16
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1182,
+        226,
+        2146,
+        1729
+      ],
+      "text": "भस्करः मृतवान्‌ । उक्तवान्‌ च-““तदिने\nमित्रस्य पल्याः गौर्याः गानं ञ्जुला भवत्ये अस-\nम्भव कायम्‌ उपदिष्टवान्‌। निःसारः सः उप-\nदेशः इति इदार्नी ज्ञातवान्‌ । कटासु नेपुण्ं नाम\nन सुल्भम्‌। बा्यात्‌ आरभ्य यदि अभ्यस्यते तदा\nनैपुण्य सम्पादयितु शक्यं भवेत्‌ । तत्रापि खभा-\nवतः श्रद्धा अपेक्षिता ।\n८“इदानीं किट ज्ञातं £ कटासु नैपुण्य न सुलभम्‌\nइति । इदानीं भवान्‌ यथा चित्रम्‌ आअेखितुं\nन शक्नोति तथा अहमपि गातुं नं शक्नोमि!\"\nइति अभ्बिका उक्तवती । व\n‹विन्तु इतः परम्‌ एवं कतु शक्यम्‌। तत्तत्कलासु\nनिपुणाः कठाविदः आमन््रणीयाः । ते सम्मान-\nनीयाः। तेषां कटातिबये आदरभावः प्रकटनीयः'\nइति भास्करः प्रत्युत्तरं दत्तत्रान्‌ ।\nअम्बिका मनसि आनन्देन उक्तवती-^कलायाः",
+      "line_count": 16
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "रधेणीयानि अँधिन्‌ । तीनि चित्रकारस्य नैपुष्य्य",
+      "bbox": [
+        248,
+        267,
+        1143,
+        339
+      ],
+      "confidence": 50.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "साक्षीभूतानि आसन्‌।",
+      "bbox": [
+        248,
+        362,
+        671,
+        438
+      ],
+      "confidence": 68.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "तानि चत्णि दृष्ट्वा अम्तरिका अतीव सन्तुष्टा ।",
+      "bbox": [
+        250,
+        456,
+        1143,
+        531
+      ],
+      "confidence": 60.62,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "सा चित्राणां विषये वार्ताखापं कुवैती पतिम्‌",
+      "bbox": [
+        251,
+        547,
+        1155,
+        620
+      ],
+      "confidence": 75.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "उक्तवती- “कियन्ति सुन्दराणि तानि! जीवन्ति",
+      "bbox": [
+        252,
+        643,
+        1145,
+        710
+      ],
+      "confidence": 68.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "इव सन्ति। यदि प्रयत्नः क्रियते भवता अपि",
+      "bbox": [
+        252,
+        725,
+        1144,
+        796
+      ],
+      "confidence": 88.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "तादृशानि चित्राणि ङेखितुं शक्यानि। अतः",
+      "bbox": [
+        251,
+        825,
+        1139,
+        896
+      ],
+      "confidence": 53.18,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "सुन्दरम्‌ एकं चित्रं भवान्‌ अपि आचख्खितु।'",
+      "bbox": [
+        255,
+        922,
+        1110,
+        990
+      ],
+      "confidence": 58.65,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "भस्करः आश्चर्येण उक्तवान्‌-किं £ मया चित्र",
+      "bbox": [
+        252,
+        1007,
+        1146,
+        1084
+      ],
+      "confidence": 60.57,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "छेखनीयं वा  चित्रडेखनं नाम कि कन्दुक-",
+      "bbox": [
+        254,
+        1101,
+        1139,
+        1178
+      ],
+      "confidence": 35.75,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "क्रीडन वा",
+      "bbox": [
+        253,
+        1197,
+        476,
+        1255
+      ],
+      "confidence": 85.55,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "८“चित्रठेखनं सुर्भम्‌ इति न उक्तवती । यदि",
+      "bbox": [
+        258,
+        1289,
+        1141,
+        1363
+      ],
+      "confidence": 49.12,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "आग्रहेण रेखाः विन्यस्यन्ते, चित्रत्रेन परिण-",
+      "bbox": [
+        254,
+        1383,
+        1139,
+        1450
+      ],
+      "confidence": 45.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "मन्ति एव । अभ्यासात्‌ स्वेष्टसिद्धिः किट । अतः",
+      "bbox": [
+        254,
+        1472,
+        1137,
+        1551
+      ],
+      "confidence": 69.38,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "left",
+      "text": "भवान्‌ अपि प्रयत्न करोतु\" इति अम्बिका",
+      "bbox": [
+        255,
+        1566,
+        1143,
+        1639
+      ],
+      "confidence": 65.3,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "left",
+      "text": "सहासं उक्तवती ।",
+      "bbox": [
+        254,
+        1659,
+        586,
+        1724
+      ],
+      "confidence": 87.07,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "भस्करः मृतवान्‌ । उक्तवान्‌ च-““तदिने",
+      "bbox": [
+        1204,
+        276,
+        2089,
+        356
+      ],
+      "confidence": 57.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "मित्रस्य पल्याः गौर्याः गानं ञ्जुला भवत्ये अस-",
+      "bbox": [
+        1202,
+        361,
+        2087,
+        439
+      ],
+      "confidence": 68.59,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "म्भव कायम्‌ उपदिष्टवान्‌। निःसारः सः उप-",
+      "bbox": [
+        1197,
+        451,
+        2087,
+        535
+      ],
+      "confidence": 83.64,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "देशः इति इदार्नी ज्ञातवान्‌ । कटासु नेपुण्ं नाम",
+      "bbox": [
+        1203,
+        551,
+        2089,
+        623
+      ],
+      "confidence": 57.64,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "न सुल्भम्‌। बा्यात्‌ आरभ्य यदि अभ्यस्यते तदा",
+      "bbox": [
+        1202,
+        646,
+        2089,
+        715
+      ],
+      "confidence": 67.77,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "नैपुण्य सम्पादयितु शक्यं भवेत्‌ । तत्रापि खभा-",
+      "bbox": [
+        1199,
+        735,
+        2088,
+        808
+      ],
+      "confidence": 59.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "वतः श्रद्धा अपेक्षिता ।",
+      "bbox": [
+        1200,
+        830,
+        1624,
+        891
+      ],
+      "confidence": 46.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "८“इदानीं किट ज्ञातं £ कटासु नैपुण्य न सुलभम्‌",
+      "bbox": [
+        1206,
+        922,
+        2096,
+        993
+      ],
+      "confidence": 71.65,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "इति । इदानीं भवान्‌ यथा चित्रम्‌ आअेखितुं",
+      "bbox": [
+        1202,
+        1017,
+        2089,
+        1085
+      ],
+      "confidence": 69.6,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "न शक्नोति तथा अहमपि गातुं नं शक्नोमि!\"",
+      "bbox": [
+        1200,
+        1107,
+        2077,
+        1180
+      ],
+      "confidence": 77.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "इति अभ्बिका उक्तवती । व",
+      "bbox": [
+        1200,
+        1198,
+        2033,
+        1267
+      ],
+      "confidence": 69.11,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "‹विन्तु इतः परम्‌ एवं कतु शक्यम्‌। तत्तत्कलासु",
+      "bbox": [
+        1204,
+        1287,
+        2090,
+        1361
+      ],
+      "confidence": 74.2,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "निपुणाः कठाविदः आमन््रणीयाः । ते सम्मान-",
+      "bbox": [
+        1200,
+        1385,
+        2087,
+        1453
+      ],
+      "confidence": 69.33,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "नीयाः। तेषां कटातिबये आदरभावः प्रकटनीयः'",
+      "bbox": [
+        1199,
+        1475,
+        2079,
+        1548
+      ],
+      "confidence": 45.29,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "इति भास्करः प्रत्युत्तरं दत्तत्रान्‌ ।",
+      "bbox": [
+        1199,
+        1568,
+        1800,
+        1640
+      ],
+      "confidence": 60.01,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "अम्बिका मनसि आनन्देन उक्तवती-^कलायाः",
+      "bbox": [
+        1201,
+        1654,
+        2081,
+        1723
+      ],
+      "confidence": 68.22,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "रधेणीयानि अँधिन्‌ । तीनि चित्रकारस्य नैपुष्य्य\nसाक्षीभूतानि आसन्‌।\nतानि चत्णि दृष्ट्वा अम्तरिका अतीव सन्तुष्टा ।\nसा चित्राणां विषये वार्ताखापं कुवैती पतिम्‌\nउक्तवती- “कियन्ति सुन्दराणि तानि! जीवन्ति\nइव सन्ति। यदि प्रयत्नः क्रियते भवता अपि\nतादृशानि चित्राणि ङेखितुं शक्यानि। अतः\nसुन्दरम्‌ एकं चित्रं भवान्‌ अपि आचख्खितु।'\nभस्करः आश्चर्येण उक्तवान्‌-किं £ मया चित्र\nछेखनीयं वा  चित्रडेखनं नाम कि कन्दुक-\nक्रीडन वा\n८“चित्रठेखनं सुर्भम्‌ इति न उक्तवती । यदि\nआग्रहेण रेखाः विन्यस्यन्ते, चित्रत्रेन परिण-\nमन्ति एव । अभ्यासात्‌ स्वेष्टसिद्धिः किट । अतः\nभवान्‌ अपि प्रयत्न करोतु\" इति अम्बिका\nसहासं उक्तवती ।\n\nभस्करः मृतवान्‌ । उक्तवान्‌ च-““तदिने\nमित्रस्य पल्याः गौर्याः गानं ञ्जुला भवत्ये अस-\nम्भव कायम्‌ उपदिष्टवान्‌। निःसारः सः उप-\nदेशः इति इदार्नी ज्ञातवान्‌ । कटासु नेपुण्ं नाम\nन सुल्भम्‌। बा्यात्‌ आरभ्य यदि अभ्यस्यते तदा\nनैपुण्य सम्पादयितु शक्यं भवेत्‌ । तत्रापि खभा-\nवतः श्रद्धा अपेक्षिता ।\n८“इदानीं किट ज्ञातं £ कटासु नैपुण्य न सुलभम्‌\nइति । इदानीं भवान्‌ यथा चित्रम्‌ आअेखितुं\nन शक्नोति तथा अहमपि गातुं नं शक्नोमि!\"\nइति अभ्बिका उक्तवती । व\n‹विन्तु इतः परम्‌ एवं कतु शक्यम्‌। तत्तत्कलासु\nनिपुणाः कठाविदः आमन््रणीयाः । ते सम्मान-\nनीयाः। तेषां कटातिबये आदरभावः प्रकटनीयः'\nइति भास्करः प्रत्युत्तरं दत्तत्रान्‌ ।\nअम्बिका मनसि आनन्देन उक्तवती-^कलायाः",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

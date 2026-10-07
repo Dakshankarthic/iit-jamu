@@ -1,0 +1,376 @@
+{
+  "page": 14,
+  "source_image": "image/Chanda_Mama_14.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        226,
+        1106,
+        1559
+      ],
+      "text": "पिङ्गलः विषयं ज्ञातु इच्छन्‌ तरया द्वारम्‌\nउदघाव्य दृष्टवान्‌ । तत्र अग्रजद्रयं-- जीवदत्तः\nच्तदत्तः च- परस्परम्‌ आटिङ्ग्य रोदनं करोति\nम्म । तयोः वस्राणि मलिनानि । केशाः अस्त-\nव्यस्ता; ।\nअतिदीनावस्थायां स्थितं अग्रजद्रयं दृष्ट्वा\nपरङड्गटश्य कापः समम्रः शान्तः । नद्छ्याने महा-\nदरप्रीतिः उत्पना । अग्रजया कष्टं कि स्यात्‌\nइति सः चिन्तितत्रान्‌ । अतः परिडगटः अग्र\nजयोः समीपं गत्रा उक्तवान्‌ - \"दुःखं मास्तु |\nभाग्यवशतः अहं ध्रनं सम्पाद्य गृहम्‌ आगतव्रान्‌\nअस्मि । कष्टं म॑ समाप्तम्‌ । इतःपरं सुग्व-\nमयानि दिनानि । प्रवृत्तं स माना टक्तवनी ।",
+      "line_count": 13
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1145,
+        226,
+        2146,
+        1559
+      ],
+      "text": "ह प्रवृत्ते तत्‌ गतम्‌ एर । इदानीम्‌ अन्तः\nआगच्छन्तु'\" इति ।\nपरिडगठस्य वचन श्रुता जीवदत्तः टश्षदत्तस्य\nमुखं साकूतं टृष्वान्‌ । अनन्तरं जीवदत्तः ष्टन्‌\nकम्पमानस्वरेण रक्तवान्‌- ˆ सदादर ! भवान्‌\nआगत्तवान्‌ । एतत्‌ युक्तम्‌ एव । वयं तु महा\nपापिनः ) जन्मदात्रयाः मातु: व्रिप्रये ए अस्मा-\nभिः कीटश्चः अपराधः कृतः इति भव्रता ज्ञातम्‌\nएव स्यात्‌ । इतःपरं कन वा मुखेन वयम्‌ एतत्‌\nगृहं प्रविशाम: ¢ भक्तः आगमनस्य प्रतीक्षाया\nत्रयम्‌ आस्म । इतःपरम्‌ अस्माकं शुकसरोवरः\nएव॒ शरणम्‌ । तत्र मरणं प्राप्यते चेत्‌ एव\nअष्माकं प्रापम्य प्रायरिचत्ते भवेत्‌ । मातुः कृत",
+      "line_count": 13
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "पिङ्गलः विषयं ज्ञातु इच्छन्‌ तरया द्वारम्‌",
+      "bbox": [
+        281,
+        258,
+        1100,
+        332
+      ],
+      "confidence": 70.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "उदघाव्य दृष्टवान्‌ । तत्र अग्रजद्रयं-- जीवदत्तः",
+      "bbox": [
+        202,
+        357,
+        1085,
+        426
+      ],
+      "confidence": 71.55,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "च्तदत्तः च- परस्परम्‌ आटिङ्ग्य रोदनं करोति",
+      "bbox": [
+        197,
+        446,
+        1091,
+        520
+      ],
+      "confidence": 72.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "म्म । तयोः वस्राणि मलिनानि । केशाः अस्त-",
+      "bbox": [
+        199,
+        538,
+        1086,
+        599
+      ],
+      "confidence": 61.92,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "व्यस्ता; ।",
+      "bbox": [
+        197,
+        646,
+        363,
+        690
+      ],
+      "confidence": 15.51,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "अतिदीनावस्थायां स्थितं अग्रजद्रयं दृष्ट्वा",
+      "bbox": [
+        283,
+        729,
+        1094,
+        803
+      ],
+      "confidence": 75.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "परङड्गटश्य कापः समम्रः शान्तः । नद्छ्याने महा-",
+      "bbox": [
+        195,
+        820,
+        1086,
+        894
+      ],
+      "confidence": 38.25,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "दरप्रीतिः उत्पना । अग्रजया कष्टं कि स्यात्‌",
+      "bbox": [
+        193,
+        927,
+        1083,
+        1002
+      ],
+      "confidence": 61.26,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "इति सः चिन्तितत्रान्‌ । अतः परिडगटः अग्र",
+      "bbox": [
+        192,
+        1022,
+        1083,
+        1094
+      ],
+      "confidence": 40.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "जयोः समीपं गत्रा उक्तवान्‌ - \"दुःखं मास्तु |",
+      "bbox": [
+        192,
+        1113,
+        1084,
+        1189
+      ],
+      "confidence": 70.47,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "भाग्यवशतः अहं ध्रनं सम्पाद्य गृहम्‌ आगतव्रान्‌",
+      "bbox": [
+        195,
+        1215,
+        1096,
+        1283
+      ],
+      "confidence": 53.59,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "अस्मि । कष्टं म॑ समाप्तम्‌ । इतःपरं सुग्व-",
+      "bbox": [
+        192,
+        1301,
+        1082,
+        1375
+      ],
+      "confidence": 50.69,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "मयानि दिनानि । प्रवृत्तं स माना टक्तवनी ।",
+      "bbox": [
+        191,
+        1396,
+        1084,
+        1464
+      ],
+      "confidence": 62.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "right",
+      "text": "ह प्रवृत्ते तत्‌ गतम्‌ एर । इदानीम्‌ अन्तः",
+      "bbox": [
+        1145,
+        226,
+        2044,
+        1554
+      ],
+      "confidence": 84.65,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "आगच्छन्तु'\" इति ।",
+      "bbox": [
+        1158,
+        360,
+        1544,
+        425
+      ],
+      "confidence": 64.58,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "परिडगठस्य वचन श्रुता जीवदत्तः टश्षदत्तस्य",
+      "bbox": [
+        1216,
+        451,
+        2050,
+        527
+      ],
+      "confidence": 59.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "मुखं साकूतं टृष्वान्‌ । अनन्तरं जीवदत्तः ष्टन्‌",
+      "bbox": [
+        1161,
+        548,
+        2057,
+        619
+      ],
+      "confidence": 53.75,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "कम्पमानस्वरेण रक्तवान्‌- ˆ सदादर ! भवान्‌",
+      "bbox": [
+        1159,
+        638,
+        2057,
+        710
+      ],
+      "confidence": 61.05,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "आगत्तवान्‌ । एतत्‌ युक्तम्‌ एव । वयं तु महा",
+      "bbox": [
+        1162,
+        738,
+        2028,
+        806
+      ],
+      "confidence": 82.6,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "पापिनः ) जन्मदात्रयाः मातु: व्रिप्रये ए अस्मा-",
+      "bbox": [
+        1157,
+        826,
+        2054,
+        895
+      ],
+      "confidence": 66.32,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "भिः कीटश्चः अपराधः कृतः इति भव्रता ज्ञातम्‌",
+      "bbox": [
+        1157,
+        925,
+        2053,
+        987
+      ],
+      "confidence": 79.91,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "एव स्यात्‌ । इतःपरं कन वा मुखेन वयम्‌ एतत्‌",
+      "bbox": [
+        1153,
+        1014,
+        2057,
+        1090
+      ],
+      "confidence": 76.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "गृहं प्रविशाम: ¢ भक्तः आगमनस्य प्रतीक्षाया",
+      "bbox": [
+        1152,
+        1112,
+        2042,
+        1179
+      ],
+      "confidence": 66.42,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "त्रयम्‌ आस्म । इतःपरम्‌ अस्माकं शुकसरोवरः",
+      "bbox": [
+        1153,
+        1200,
+        2037,
+        1273
+      ],
+      "confidence": 69.7,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "एव॒ शरणम्‌ । तत्र मरणं प्राप्यते चेत्‌ एव",
+      "bbox": [
+        1152,
+        1292,
+        2045,
+        1366
+      ],
+      "confidence": 61.23,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "अष्माकं प्रापम्य प्रायरिचत्ते भवेत्‌ । मातुः कृत",
+      "bbox": [
+        1155,
+        1388,
+        2048,
+        1456
+      ],
+      "confidence": 51.04,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "पिङ्गलः विषयं ज्ञातु इच्छन्‌ तरया द्वारम्‌\nउदघाव्य दृष्टवान्‌ । तत्र अग्रजद्रयं-- जीवदत्तः\nच्तदत्तः च- परस्परम्‌ आटिङ्ग्य रोदनं करोति\nम्म । तयोः वस्राणि मलिनानि । केशाः अस्त-\nव्यस्ता; ।\nअतिदीनावस्थायां स्थितं अग्रजद्रयं दृष्ट्वा\nपरङड्गटश्य कापः समम्रः शान्तः । नद्छ्याने महा-\nदरप्रीतिः उत्पना । अग्रजया कष्टं कि स्यात्‌\nइति सः चिन्तितत्रान्‌ । अतः परिडगटः अग्र\nजयोः समीपं गत्रा उक्तवान्‌ - \"दुःखं मास्तु |\nभाग्यवशतः अहं ध्रनं सम्पाद्य गृहम्‌ आगतव्रान्‌\nअस्मि । कष्टं म॑ समाप्तम्‌ । इतःपरं सुग्व-\nमयानि दिनानि । प्रवृत्तं स माना टक्तवनी ।\n\nह प्रवृत्ते तत्‌ गतम्‌ एर । इदानीम्‌ अन्तः\nआगच्छन्तु'\" इति ।\nपरिडगठस्य वचन श्रुता जीवदत्तः टश्षदत्तस्य\nमुखं साकूतं टृष्वान्‌ । अनन्तरं जीवदत्तः ष्टन्‌\nकम्पमानस्वरेण रक्तवान्‌- ˆ सदादर ! भवान्‌\nआगत्तवान्‌ । एतत्‌ युक्तम्‌ एव । वयं तु महा\nपापिनः ) जन्मदात्रयाः मातु: व्रिप्रये ए अस्मा-\nभिः कीटश्चः अपराधः कृतः इति भव्रता ज्ञातम्‌\nएव स्यात्‌ । इतःपरं कन वा मुखेन वयम्‌ एतत्‌\nगृहं प्रविशाम: ¢ भक्तः आगमनस्य प्रतीक्षाया\nत्रयम्‌ आस्म । इतःपरम्‌ अस्माकं शुकसरोवरः\nएव॒ शरणम्‌ । तत्र मरणं प्राप्यते चेत्‌ एव\nअष्माकं प्रापम्य प्रायरिचत्ते भवेत्‌ । मातुः कृत",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

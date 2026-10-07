@@ -1,0 +1,785 @@
+{
+  "source_image": "image/Chanda_Mama_38.jpg",
+  "image_size": [
+    2271,
+    2835
+  ],
+  "method": "manually reviewed layout blocks; column-constrained ink projection",
+  "reading_order": "alternating panel text blocks top-to-bottom",
+  "status": "segmentation only; recognition pending",
+  "blocks": [
+    {
+      "column": "panel-1",
+      "bbox": [
+        1403,
+        172,
+        2127,
+        921
+      ]
+    },
+    {
+      "column": "panel-2",
+      "bbox": [
+        211,
+        1074,
+        940,
+        1800
+      ]
+    },
+    {
+      "column": "panel-3",
+      "bbox": [
+        1398,
+        1984,
+        2150,
+        2679
+      ]
+    }
+  ],
+  "lines": [
+    {
+      "id": "panel-1-01",
+      "column": "panel-1",
+      "reading_order": 1,
+      "bbox": [
+        1414,
+        172,
+        2111,
+        247
+      ],
+      "boundary": [
+        [
+          1414,
+          172
+        ],
+        [
+          2111,
+          172
+        ],
+        [
+          2111,
+          247
+        ],
+        [
+          1414,
+          247
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-1-02",
+      "column": "panel-1",
+      "reading_order": 2,
+      "bbox": [
+        1407,
+        266,
+        2120,
+        355
+      ],
+      "boundary": [
+        [
+          1407,
+          266
+        ],
+        [
+          2120,
+          266
+        ],
+        [
+          2120,
+          355
+        ],
+        [
+          1407,
+          355
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-1-03",
+      "column": "panel-1",
+      "reading_order": 3,
+      "bbox": [
+        1408,
+        362,
+        2103,
+        429
+      ],
+      "boundary": [
+        [
+          1408,
+          362
+        ],
+        [
+          2103,
+          362
+        ],
+        [
+          2103,
+          429
+        ],
+        [
+          1408,
+          429
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-1-04",
+      "column": "panel-1",
+      "reading_order": 4,
+      "bbox": [
+        1407,
+        458,
+        2123,
+        523
+      ],
+      "boundary": [
+        [
+          1407,
+          458
+        ],
+        [
+          2123,
+          458
+        ],
+        [
+          2123,
+          523
+        ],
+        [
+          1407,
+          523
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-1-05",
+      "column": "panel-1",
+      "reading_order": 5,
+      "bbox": [
+        1406,
+        551,
+        2127,
+        621
+      ],
+      "boundary": [
+        [
+          1406,
+          551
+        ],
+        [
+          2127,
+          551
+        ],
+        [
+          2127,
+          621
+        ],
+        [
+          1406,
+          621
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-1-06",
+      "column": "panel-1",
+      "reading_order": 6,
+      "bbox": [
+        1409,
+        650,
+        2125,
+        718
+      ],
+      "boundary": [
+        [
+          1409,
+          650
+        ],
+        [
+          2125,
+          650
+        ],
+        [
+          2125,
+          718
+        ],
+        [
+          1409,
+          718
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-1-07",
+      "column": "panel-1",
+      "reading_order": 7,
+      "bbox": [
+        1406,
+        753,
+        2123,
+        805
+      ],
+      "boundary": [
+        [
+          1406,
+          753
+        ],
+        [
+          2123,
+          753
+        ],
+        [
+          2123,
+          805
+        ],
+        [
+          1406,
+          805
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-1-08",
+      "column": "panel-1",
+      "reading_order": 8,
+      "bbox": [
+        1406,
+        848,
+        1782,
+        897
+      ],
+      "boundary": [
+        [
+          1406,
+          848
+        ],
+        [
+          1782,
+          848
+        ],
+        [
+          1782,
+          897
+        ],
+        [
+          1406,
+          897
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-2-01",
+      "column": "panel-2",
+      "reading_order": 9,
+      "bbox": [
+        214,
+        1074,
+        923,
+        1133
+      ],
+      "boundary": [
+        [
+          214,
+          1074
+        ],
+        [
+          923,
+          1074
+        ],
+        [
+          923,
+          1133
+        ],
+        [
+          214,
+          1133
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-2-02",
+      "column": "panel-2",
+      "reading_order": 10,
+      "bbox": [
+        214,
+        1166,
+        904,
+        1233
+      ],
+      "boundary": [
+        [
+          214,
+          1166
+        ],
+        [
+          904,
+          1166
+        ],
+        [
+          904,
+          1233
+        ],
+        [
+          214,
+          1233
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-2-03",
+      "column": "panel-2",
+      "reading_order": 11,
+      "bbox": [
+        211,
+        1265,
+        924,
+        1324
+      ],
+      "boundary": [
+        [
+          211,
+          1265
+        ],
+        [
+          924,
+          1265
+        ],
+        [
+          924,
+          1324
+        ],
+        [
+          211,
+          1324
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-2-04",
+      "column": "panel-2",
+      "reading_order": 12,
+      "bbox": [
+        215,
+        1356,
+        921,
+        1430
+      ],
+      "boundary": [
+        [
+          215,
+          1356
+        ],
+        [
+          921,
+          1356
+        ],
+        [
+          921,
+          1430
+        ],
+        [
+          215,
+          1430
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-2-05",
+      "column": "panel-2",
+      "reading_order": 13,
+      "bbox": [
+        212,
+        1451,
+        912,
+        1511
+      ],
+      "boundary": [
+        [
+          212,
+          1451
+        ],
+        [
+          912,
+          1451
+        ],
+        [
+          912,
+          1511
+        ],
+        [
+          212,
+          1511
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-2-06",
+      "column": "panel-2",
+      "reading_order": 14,
+      "bbox": [
+        214,
+        1544,
+        898,
+        1619
+      ],
+      "boundary": [
+        [
+          214,
+          1544
+        ],
+        [
+          898,
+          1544
+        ],
+        [
+          898,
+          1619
+        ],
+        [
+          214,
+          1619
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-2-07",
+      "column": "panel-2",
+      "reading_order": 15,
+      "bbox": [
+        213,
+        1636,
+        922,
+        1702
+      ],
+      "boundary": [
+        [
+          213,
+          1636
+        ],
+        [
+          922,
+          1636
+        ],
+        [
+          922,
+          1702
+        ],
+        [
+          213,
+          1702
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-2-08",
+      "column": "panel-2",
+      "reading_order": 16,
+      "bbox": [
+        229,
+        1705,
+        251,
+        1728
+      ],
+      "boundary": [
+        [
+          229,
+          1705
+        ],
+        [
+          251,
+          1705
+        ],
+        [
+          251,
+          1728
+        ],
+        [
+          229,
+          1728
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-2-09",
+      "column": "panel-2",
+      "reading_order": 17,
+      "bbox": [
+        218,
+        1737,
+        746,
+        1795
+      ],
+      "boundary": [
+        [
+          218,
+          1737
+        ],
+        [
+          746,
+          1737
+        ],
+        [
+          746,
+          1795
+        ],
+        [
+          218,
+          1795
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-3-01",
+      "column": "panel-3",
+      "reading_order": 18,
+      "bbox": [
+        1410,
+        2012,
+        2135,
+        2075
+      ],
+      "boundary": [
+        [
+          1410,
+          2012
+        ],
+        [
+          2135,
+          2012
+        ],
+        [
+          2135,
+          2075
+        ],
+        [
+          1410,
+          2075
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-3-02",
+      "column": "panel-3",
+      "reading_order": 19,
+      "bbox": [
+        1407,
+        2106,
+        2124,
+        2178
+      ],
+      "boundary": [
+        [
+          1407,
+          2106
+        ],
+        [
+          2124,
+          2106
+        ],
+        [
+          2124,
+          2178
+        ],
+        [
+          1407,
+          2178
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-3-03",
+      "column": "panel-3",
+      "reading_order": 20,
+      "bbox": [
+        1407,
+        2200,
+        2111,
+        2277
+      ],
+      "boundary": [
+        [
+          1407,
+          2200
+        ],
+        [
+          2111,
+          2200
+        ],
+        [
+          2111,
+          2277
+        ],
+        [
+          1407,
+          2277
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-3-04",
+      "column": "panel-3",
+      "reading_order": 21,
+      "bbox": [
+        1408,
+        2295,
+        2109,
+        2381
+      ],
+      "boundary": [
+        [
+          1408,
+          2295
+        ],
+        [
+          2109,
+          2295
+        ],
+        [
+          2109,
+          2381
+        ],
+        [
+          1408,
+          2381
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-3-05",
+      "column": "panel-3",
+      "reading_order": 22,
+      "bbox": [
+        1409,
+        2401,
+        2121,
+        2462
+      ],
+      "boundary": [
+        [
+          1409,
+          2401
+        ],
+        [
+          2121,
+          2401
+        ],
+        [
+          2121,
+          2462
+        ],
+        [
+          1409,
+          2462
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-3-06",
+      "column": "panel-3",
+      "reading_order": 23,
+      "bbox": [
+        1410,
+        2486,
+        2118,
+        2565
+      ],
+      "boundary": [
+        [
+          1410,
+          2486
+        ],
+        [
+          2118,
+          2486
+        ],
+        [
+          2118,
+          2565
+        ],
+        [
+          1410,
+          2565
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-3-07",
+      "column": "panel-3",
+      "reading_order": 24,
+      "bbox": [
+        1410,
+        2577,
+        1951,
+        2649
+      ],
+      "boundary": [
+        [
+          1410,
+          2577
+        ],
+        [
+          1951,
+          2577
+        ],
+        [
+          1951,
+          2649
+        ],
+        [
+          1410,
+          2649
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    }
+  ]
+}

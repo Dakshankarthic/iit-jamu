@@ -1,0 +1,376 @@
+{
+  "page": 29,
+  "source_image": "image/Chanda_Mama_29.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        226,
+        1169,
+        1474
+      ],
+      "text": "ई प्रारिजातवृक्षः अस्ति। सः प्रातः आरभ्य\nसायपयन्तं निद्रां करोति । रात्रिकाठे जागरणं\nकरोति, तथा गृहस्य रक्षणं करोति । तस्य\nपत्राणि दर्शेन हसन्ति, उत्पाटनेन रोदनं\nकुवन्ति इति वदन्ति\" इति उक्तवान्‌ ।\nध््एवे वा} एषः कान्तेश्ः यः कोऽपि\nमान्त्रिकः वा रेन्द्रजाटिकिः वा म्यात्‌ !''\nइति आचर्येण कोटीशः उक्तवान्‌ ।\nत्रयः अपि भाषमाणाः चटन्ति स्म|\nतदा मार्भ पुनः अन्ये केचन मिचित-\nवन्तः । तेषं एवैकः अपि एकेकं विचित्र\nउक्तवान्‌ । कान्तेशस्य गृहे सम्माजनी\nस्वयमेव माजनकार्यं करोति इच्नि एकः । तस्य",
+      "line_count": 13
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1204,
+        226,
+        2146,
+        1474
+      ],
+      "text": "इति अन्यः | |\nएवं रीत्या आहत्य दद् जनाः\nकान्तेशस्य गृहं गतवन्तः । तस्मिन्‌ समये\nकान्तेशस्य॒गृहस्य द्वारं पिहितम्‌ आसीत्‌ ।\nकोटीशः द्वारशब्दं कृतवान्‌ ¦\nतदा पञ्चदश -वर्पीयः कथित्‌ बाट्कः आग\nतवान्‌ । सः आशशवर्येण “भवन्तः स्वै कमथम्‌\nआगतवन्तः ` इति पृष्टवान्‌ ।\n° भवतां गृहस्य विचित्राणि द्रष्टुम्‌ आगतवन्तः\"\nइति कोटीशः उक्तवान्‌ ।\n“एवं वा † भवन्तः प्रमादतः अन्यत्‌ गृहम्‌\nआगववन्तः इति मन्ये । अस्माकं गृहे त॒\nतादृशे विचित्रे किमपि नास्ति इति बाट्कः",
+      "line_count": 13
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "ई प्रारिजातवृक्षः अस्ति। सः प्रातः आरभ्य",
+      "bbox": [
+        229,
+        226,
+        1163,
+        1468
+      ],
+      "confidence": 62.97,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "सायपयन्तं निद्रां करोति । रात्रिकाठे जागरणं",
+      "bbox": [
+        277,
+        337,
+        1161,
+        402
+      ],
+      "confidence": 85.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "करोति, तथा गृहस्य रक्षणं करोति । तस्य",
+      "bbox": [
+        270,
+        432,
+        1159,
+        499
+      ],
+      "confidence": 88.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "पत्राणि दर्शेन हसन्ति, उत्पाटनेन रोदनं",
+      "bbox": [
+        269,
+        525,
+        1159,
+        592
+      ],
+      "confidence": 77.02,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "कुवन्ति इति वदन्ति\" इति उक्तवान्‌ ।",
+      "bbox": [
+        269,
+        614,
+        1002,
+        690
+      ],
+      "confidence": 45.42,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "ध््एवे वा} एषः कान्तेश्ः यः कोऽपि",
+      "bbox": [
+        358,
+        713,
+        1156,
+        778
+      ],
+      "confidence": 40.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "मान्त्रिकः वा रेन्द्रजाटिकिः वा म्यात्‌ !''",
+      "bbox": [
+        269,
+        805,
+        1149,
+        878
+      ],
+      "confidence": 68.09,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "इति आचर्येण कोटीशः उक्तवान्‌ ।",
+      "bbox": [
+        269,
+        895,
+        942,
+        964
+      ],
+      "confidence": 48.23,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "त्रयः अपि भाषमाणाः चटन्ति स्म|",
+      "bbox": [
+        351,
+        991,
+        1147,
+        1050
+      ],
+      "confidence": 81.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "तदा मार्भ पुनः अन्ये केचन मिचित-",
+      "bbox": [
+        267,
+        1080,
+        1148,
+        1149
+      ],
+      "confidence": 71.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "वन्तः । तेषं एवैकः अपि एकेकं विचित्र",
+      "bbox": [
+        269,
+        1172,
+        1152,
+        1241
+      ],
+      "confidence": 63.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "उक्तवान्‌ । कान्तेशस्य गृहे सम्माजनी",
+      "bbox": [
+        269,
+        1266,
+        1154,
+        1334
+      ],
+      "confidence": 77.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "स्वयमेव माजनकार्यं करोति इच्नि एकः । तस्य",
+      "bbox": [
+        271,
+        1355,
+        1155,
+        1425
+      ],
+      "confidence": 80.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "right",
+      "text": "इति अन्यः | |",
+      "bbox": [
+        1225,
+        248,
+        2118,
+        316
+      ],
+      "confidence": 85.42,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "एवं रीत्या आहत्य दद् जनाः",
+      "bbox": [
+        1330,
+        350,
+        2104,
+        420
+      ],
+      "confidence": 62.39,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "कान्तेशस्य गृहं गतवन्तः । तस्मिन्‌ समये",
+      "bbox": [
+        1223,
+        448,
+        2104,
+        517
+      ],
+      "confidence": 84.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "कान्तेशस्य॒गृहस्य द्वारं पिहितम्‌ आसीत्‌ ।",
+      "bbox": [
+        1223,
+        540,
+        2101,
+        617
+      ],
+      "confidence": 69.47,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "कोटीशः द्वारशब्दं कृतवान्‌ ¦",
+      "bbox": [
+        1221,
+        632,
+        1745,
+        714
+      ],
+      "confidence": 73.93,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "तदा पञ्चदश -वर्पीयः कथित्‌ बाट्कः आग",
+      "bbox": [
+        1303,
+        724,
+        2096,
+        805
+      ],
+      "confidence": 63.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "तवान्‌ । सः आशशवर्येण “भवन्तः स्वै कमथम्‌",
+      "bbox": [
+        1219,
+        820,
+        2106,
+        886
+      ],
+      "confidence": 42.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "आगतवन्तः ` इति पृष्टवान्‌ ।",
+      "bbox": [
+        1217,
+        915,
+        1774,
+        984
+      ],
+      "confidence": 37.89,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "° भवतां गृहस्य विचित्राणि द्रष्टुम्‌ आगतवन्तः\"",
+      "bbox": [
+        1266,
+        1005,
+        2124,
+        1076
+      ],
+      "confidence": 76.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "इति कोटीशः उक्तवान्‌ ।",
+      "bbox": [
+        1217,
+        1096,
+        1696,
+        1162
+      ],
+      "confidence": 88.24,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "“एवं वा † भवन्तः प्रमादतः अन्यत्‌ गृहम्‌",
+      "bbox": [
+        1307,
+        1189,
+        2107,
+        1265
+      ],
+      "confidence": 87.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "आगववन्तः इति मन्ये । अस्माकं गृहे त॒",
+      "bbox": [
+        1221,
+        1281,
+        2106,
+        1356
+      ],
+      "confidence": 81.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "तादृशे विचित्रे किमपि नास्ति इति बाट्कः",
+      "bbox": [
+        1223,
+        1371,
+        2100,
+        1445
+      ],
+      "confidence": 55.92,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "ई प्रारिजातवृक्षः अस्ति। सः प्रातः आरभ्य\nसायपयन्तं निद्रां करोति । रात्रिकाठे जागरणं\nकरोति, तथा गृहस्य रक्षणं करोति । तस्य\nपत्राणि दर्शेन हसन्ति, उत्पाटनेन रोदनं\nकुवन्ति इति वदन्ति\" इति उक्तवान्‌ ।\nध््एवे वा} एषः कान्तेश्ः यः कोऽपि\nमान्त्रिकः वा रेन्द्रजाटिकिः वा म्यात्‌ !''\nइति आचर्येण कोटीशः उक्तवान्‌ ।\nत्रयः अपि भाषमाणाः चटन्ति स्म|\nतदा मार्भ पुनः अन्ये केचन मिचित-\nवन्तः । तेषं एवैकः अपि एकेकं विचित्र\nउक्तवान्‌ । कान्तेशस्य गृहे सम्माजनी\nस्वयमेव माजनकार्यं करोति इच्नि एकः । तस्य\n\nइति अन्यः | |\nएवं रीत्या आहत्य दद् जनाः\nकान्तेशस्य गृहं गतवन्तः । तस्मिन्‌ समये\nकान्तेशस्य॒गृहस्य द्वारं पिहितम्‌ आसीत्‌ ।\nकोटीशः द्वारशब्दं कृतवान्‌ ¦\nतदा पञ्चदश -वर्पीयः कथित्‌ बाट्कः आग\nतवान्‌ । सः आशशवर्येण “भवन्तः स्वै कमथम्‌\nआगतवन्तः ` इति पृष्टवान्‌ ।\n° भवतां गृहस्य विचित्राणि द्रष्टुम्‌ आगतवन्तः\"\nइति कोटीशः उक्तवान्‌ ।\n“एवं वा † भवन्तः प्रमादतः अन्यत्‌ गृहम्‌\nआगववन्तः इति मन्ये । अस्माकं गृहे त॒\nतादृशे विचित्रे किमपि नास्ति इति बाट्कः",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

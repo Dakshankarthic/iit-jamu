@@ -1,0 +1,493 @@
+{
+  "page": 56,
+  "source_image": "image/Chanda_Mama_56.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        1530,
+        1123,
+        2608
+      ],
+      "text": "उक्तवती । तदनुसारम्‌ आज्ञनेयः तस्य प्राणान्‌\nनारितव।न्‌। महिरवणः मृतः। विष्णुपदं प्राप्ना-\nतु\" इति चन्द्रसेनं रामः अनुगृहीतवान्‌ ।\nएवं रावणस्य म।योपायाः सर्वे अपि विफटाः।\nअनन्तरं रावणः यागं कतम्‌ आरब्धवान्‌ ।\nतदा आज्ञनेयः रामलक्ष्मणौ टड्काम्‌ आनीत\nवान्‌ । विभीषणः रामस्य करते र्रणस्य यागस्य\nवार्ताम्‌ उक्तवान्‌ । सः यागः कृतः चेत्‌\nरावणस्य बं वर्धते । अतः तस्य यागस्य ध्वंसः\nकरणीयः\" इति सः रामं सूचितवान्‌ ।\nअङ्गदः 'अदद्यकारी ' इति विद्याप्रभावतः",
+      "line_count": 11
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1153,
+        226,
+        2146,
+        2608
+      ],
+      "text": "वेणीं गृहीला, ताम्‌ आकर्मन्‌ रावणसमीपम्‌\nआगतवान्‌ । तेन रवरणस्य यागदीक्षाभङ्गः\nअभैवत्‌ ।\n“अहं वञ्चितः इति ज्ञाता रावणः हताद्रा।\nसः युद्धाध सिद्धः अभवत्‌। तदा मण्डोदरी\nपुनः रावणं प्राथितवती - युद्धे मास्तु, कुपया\nसीर्ती प्रत्यपयतु\" इति ।\nरावणः उक्तवान्‌-“अदक्यम्‌ एतत्‌, राणः\nरावणः ए' । ततः एकवारं गजेनं कृता रथम\nआरूढवान्‌ । सः रामसमीप गन्तुं प्रस्थितान्‌।\nपुरतः कक्ष्मणः आसीत्‌ । तं द्ष्ट्वा रावणः\n\"मम प्रियपुत्रं इन्द्रजितं एषः एव मारितवान्‌\nइति स्मृतवान्‌ । तस्य क्रोधः द्विगुणितः अभ-\nवत्‌ । शरर्पणखायाः अवमानम्‌ अपि क्छ्मणः\nएव कृतवान्‌ किट ? पूर्वै रावणस्य कृते इन्द्रः\n'दाक्तिः' इतिं एकं महास्त्र दत्तवान्‌ आसीत्‌ ।\nरावणः तत्‌ अस्रं लक्ष्मणस्य उपरि प्रयुक्तवान्‌ ।\nरकष्मणः भूमौ पतितवान्‌ ।\nतत्क्षणमेव आज्नेयः हिमाट्यपर्वैतं गतवान्‌ ।\nसूयोदयतः पूर्व॑म्‌ एव॒ सञ्जीविनीमूिकाम्‌\nआनीतवान्‌ । तस्याः मृिकायाः प्रभवेण\nल््मणम्‌, अन्यवानरान्‌ च स्वस्थान्‌ कृतवान्‌ ।\nराम-रावणयोः युद्धम्‌ आरन्धम्‌। तदा इनदरः\nरामस्य कते दिव्यरथं प्रेषितवान्‌ । मार्तकिः",
+      "line_count": 24
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "उक्तवती । तदनुसारम्‌ आज्ञनेयः तस्य प्राणान्‌",
+      "bbox": [
+        228,
+        1567,
+        1111,
+        1659
+      ],
+      "confidence": 81.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "नारितव।न्‌। महिरवणः मृतः। विष्णुपदं प्राप्ना-",
+      "bbox": [
+        218,
+        1674,
+        1104,
+        1743
+      ],
+      "confidence": 38.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "तु\" इति चन्द्रसेनं रामः अनुगृहीतवान्‌ ।",
+      "bbox": [
+        223,
+        1769,
+        1020,
+        1836
+      ],
+      "confidence": 63.12,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "एवं रावणस्य म।योपायाः सर्वे अपि विफटाः।",
+      "bbox": [
+        287,
+        1859,
+        1105,
+        1923
+      ],
+      "confidence": 57.7,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "अनन्तरं रावणः यागं कतम्‌ आरब्धवान्‌ ।",
+      "bbox": [
+        225,
+        1949,
+        1104,
+        2020
+      ],
+      "confidence": 83.24,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "तदा आज्ञनेयः रामलक्ष्मणौ टड्काम्‌ आनीत",
+      "bbox": [
+        219,
+        2040,
+        1104,
+        2120
+      ],
+      "confidence": 44.83,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "वान्‌ । विभीषणः रामस्य करते र्रणस्य यागस्य",
+      "bbox": [
+        219,
+        2136,
+        1108,
+        2204
+      ],
+      "confidence": 83.37,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "वार्ताम्‌ उक्तवान्‌ । सः यागः कृतः चेत्‌",
+      "bbox": [
+        223,
+        2226,
+        1116,
+        2311
+      ],
+      "confidence": 91.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "रावणस्य बं वर्धते । अतः तस्य यागस्य ध्वंसः",
+      "bbox": [
+        218,
+        2317,
+        1101,
+        2381
+      ],
+      "confidence": 82.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "करणीयः\" इति सः रामं सूचितवान्‌ ।",
+      "bbox": [
+        216,
+        2412,
+        936,
+        2485
+      ],
+      "confidence": 81.2,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "अङ्गदः 'अदद्यकारी ' इति विद्याप्रभावतः",
+      "bbox": [
+        300,
+        2497,
+        1100,
+        2587
+      ],
+      "confidence": 43.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "right",
+      "text": "वेणीं गृहीला, ताम्‌ आकर्मन्‌ रावणसमीपम्‌",
+      "bbox": [
+        1174,
+        329,
+        2058,
+        402
+      ],
+      "confidence": 66.71,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "right",
+      "text": "आगतवान्‌ । तेन रवरणस्य यागदीक्षाभङ्गः",
+      "bbox": [
+        1173,
+        424,
+        2048,
+        504
+      ],
+      "confidence": 58.2,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "right",
+      "text": "अभैवत्‌ ।",
+      "bbox": [
+        1172,
+        523,
+        1339,
+        586
+      ],
+      "confidence": 73.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "“अहं वञ्चितः इति ज्ञाता रावणः हताद्रा।",
+      "bbox": [
+        1259,
+        613,
+        2055,
+        677
+      ],
+      "confidence": 57.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "सः युद्धाध सिद्धः अभवत्‌। तदा मण्डोदरी",
+      "bbox": [
+        1170,
+        701,
+        2055,
+        777
+      ],
+      "confidence": 80.12,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "पुनः रावणं प्राथितवती - युद्धे मास्तु, कुपया",
+      "bbox": [
+        1170,
+        790,
+        2055,
+        884
+      ],
+      "confidence": 63.78,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "सीर्ती प्रत्यपयतु\" इति ।",
+      "bbox": [
+        1168,
+        888,
+        1608,
+        958
+      ],
+      "confidence": 48.83,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "रावणः उक्तवान्‌-“अदक्यम्‌ एतत्‌, राणः",
+      "bbox": [
+        1254,
+        1018,
+        2053,
+        1080
+      ],
+      "confidence": 36.25,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "रावणः ए' । ततः एकवारं गजेनं कृता रथम",
+      "bbox": [
+        1171,
+        1097,
+        2056,
+        1184
+      ],
+      "confidence": 72.94,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "आरूढवान्‌ । सः रामसमीप गन्तुं प्रस्थितान्‌।",
+      "bbox": [
+        1173,
+        1189,
+        2050,
+        1262
+      ],
+      "confidence": 75.97,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "पुरतः कक्ष्मणः आसीत्‌ । तं द्ष्ट्वा रावणः",
+      "bbox": [
+        1257,
+        1289,
+        2049,
+        1361
+      ],
+      "confidence": 65.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "\"मम प्रियपुत्रं इन्द्रजितं एषः एव मारितवान्‌",
+      "bbox": [
+        1178,
+        1378,
+        2050,
+        1448
+      ],
+      "confidence": 46.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "इति स्मृतवान्‌ । तस्य क्रोधः द्विगुणितः अभ-",
+      "bbox": [
+        1170,
+        1471,
+        2055,
+        1542
+      ],
+      "confidence": 89.77,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "वत्‌ । शरर्पणखायाः अवमानम्‌ अपि क्छ्मणः",
+      "bbox": [
+        1170,
+        1563,
+        2050,
+        1637
+      ],
+      "confidence": 50.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "एव कृतवान्‌ किट ? पूर्वै रावणस्य कृते इन्द्रः",
+      "bbox": [
+        1170,
+        1659,
+        2054,
+        1740
+      ],
+      "confidence": 75.28,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "'दाक्तिः' इतिं एकं महास्त्र दत्तवान्‌ आसीत्‌ ।",
+      "bbox": [
+        1177,
+        1750,
+        2056,
+        1821
+      ],
+      "confidence": 63.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "रावणः तत्‌ अस्रं लक्ष्मणस्य उपरि प्रयुक्तवान्‌ ।",
+      "bbox": [
+        1172,
+        1845,
+        2054,
+        1913
+      ],
+      "confidence": 80.36,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "रकष्मणः भूमौ पतितवान्‌ ।",
+      "bbox": [
+        1172,
+        1930,
+        1667,
+        2010
+      ],
+      "confidence": 66.51,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "तत्क्षणमेव आज्नेयः हिमाट्यपर्वैतं गतवान्‌ ।",
+      "bbox": [
+        1255,
+        2034,
+        2058,
+        2108
+      ],
+      "confidence": 45.91,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "सूयोदयतः पूर्व॑म्‌ एव॒ सञ्जीविनीमूिकाम्‌",
+      "bbox": [
+        1171,
+        2128,
+        2064,
+        2205
+      ],
+      "confidence": 36.6,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "आनीतवान्‌ । तस्याः मृिकायाः प्रभवेण",
+      "bbox": [
+        1173,
+        2225,
+        2059,
+        2295
+      ],
+      "confidence": 67.52,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "ल््मणम्‌, अन्यवानरान्‌ च स्वस्थान्‌ कृतवान्‌ ।",
+      "bbox": [
+        1172,
+        2309,
+        2056,
+        2396
+      ],
+      "confidence": 68.85,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "राम-रावणयोः युद्धम्‌ आरन्धम्‌। तदा इनदरः",
+      "bbox": [
+        1171,
+        2393,
+        2050,
+        2476
+      ],
+      "confidence": 75.94,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "रामस्य कते दिव्यरथं प्रेषितवान्‌ । मार्तकिः",
+      "bbox": [
+        1172,
+        2500,
+        2052,
+        2583
+      ],
+      "confidence": 75.53,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "उक्तवती । तदनुसारम्‌ आज्ञनेयः तस्य प्राणान्‌\nनारितव।न्‌। महिरवणः मृतः। विष्णुपदं प्राप्ना-\nतु\" इति चन्द्रसेनं रामः अनुगृहीतवान्‌ ।\nएवं रावणस्य म।योपायाः सर्वे अपि विफटाः।\nअनन्तरं रावणः यागं कतम्‌ आरब्धवान्‌ ।\nतदा आज्ञनेयः रामलक्ष्मणौ टड्काम्‌ आनीत\nवान्‌ । विभीषणः रामस्य करते र्रणस्य यागस्य\nवार्ताम्‌ उक्तवान्‌ । सः यागः कृतः चेत्‌\nरावणस्य बं वर्धते । अतः तस्य यागस्य ध्वंसः\nकरणीयः\" इति सः रामं सूचितवान्‌ ।\nअङ्गदः 'अदद्यकारी ' इति विद्याप्रभावतः\n\nवेणीं गृहीला, ताम्‌ आकर्मन्‌ रावणसमीपम्‌\nआगतवान्‌ । तेन रवरणस्य यागदीक्षाभङ्गः\nअभैवत्‌ ।\n“अहं वञ्चितः इति ज्ञाता रावणः हताद्रा।\nसः युद्धाध सिद्धः अभवत्‌। तदा मण्डोदरी\nपुनः रावणं प्राथितवती - युद्धे मास्तु, कुपया\nसीर्ती प्रत्यपयतु\" इति ।\nरावणः उक्तवान्‌-“अदक्यम्‌ एतत्‌, राणः\nरावणः ए' । ततः एकवारं गजेनं कृता रथम\nआरूढवान्‌ । सः रामसमीप गन्तुं प्रस्थितान्‌।\nपुरतः कक्ष्मणः आसीत्‌ । तं द्ष्ट्वा रावणः\n\"मम प्रियपुत्रं इन्द्रजितं एषः एव मारितवान्‌\nइति स्मृतवान्‌ । तस्य क्रोधः द्विगुणितः अभ-\nवत्‌ । शरर्पणखायाः अवमानम्‌ अपि क्छ्मणः\nएव कृतवान्‌ किट ? पूर्वै रावणस्य कृते इन्द्रः\n'दाक्तिः' इतिं एकं महास्त्र दत्तवान्‌ आसीत्‌ ।\nरावणः तत्‌ अस्रं लक्ष्मणस्य उपरि प्रयुक्तवान्‌ ।\nरकष्मणः भूमौ पतितवान्‌ ।\nतत्क्षणमेव आज्नेयः हिमाट्यपर्वैतं गतवान्‌ ।\nसूयोदयतः पूर्व॑म्‌ एव॒ सञ्जीविनीमूिकाम्‌\nआनीतवान्‌ । तस्याः मृिकायाः प्रभवेण\nल््मणम्‌, अन्यवानरान्‌ च स्वस्थान्‌ कृतवान्‌ ।\nराम-रावणयोः युद्धम्‌ आरन्धम्‌। तदा इनदरः\nरामस्य कते दिव्यरथं प्रेषितवान्‌ । मार्तकिः",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

@@ -1,0 +1,493 @@
+{
+  "page": 40,
+  "source_image": "image/Chanda_Mama_40.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        1431,
+        1137,
+        2579
+      ],
+      "text": "वीरराजः चिन्तित्तवान्‌- शरभं निष्का-\n| सयितुम्‌ एषः एर युक्तः समयः इति । अनन्तर-\nदिने एव्र शरभस्य वेतनादि- व्यवहार समापित-\nवान्‌, गृहतः निष्कासितवान्‌ च ।\n**कः अपराधः अभवत्‌ ° किमधम्‌ उदयागः\nनष्टः 2\" इति शरभः न ज्ञातवान्‌ । वीरराजः\nबहूकोपशीलः इति शरभः जानाति एव्र ।\nअतः सः एतद्विषये यजमानसमीपे किमपि\nप्रस्ताव न कृतवान्‌ । स्वव्रस्ूनि स्ीक्रय\n| गृहतः निर्गतवान्‌ ।\n। अनन्तरं शरभः प्रामे अन्यत्र उद्योगे प्राप्तु\n| प्रयते कृतवान्‌ । किन्तु तस्य॒ कृते कोऽपि",
+      "line_count": 12
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1174,
+        226,
+        2146,
+        2579
+      ],
+      "text": "प्रधमम्‌ एव॒ बधिरः । पुनः चोयबुद्धिः अपि\nअस्ति इति श्जुतम्‌'' उति उचः उक्तवन्तः ।\nनिख्योगापेक्षय। चोरः इति आक्षेपेण शरभः बह\nखिन्नः । वीरराजः एर एतादृश किमपि चार्यल्य\nआरोप कतवान्‌ इति सः ज्ञातवान्‌ । शरमेण\nशास्चतिक्रः उद्योगः कुत्रापि न ट्न्यः।\nअतः सः प्रतिदिनम्‌ अपि एकैकत्र कायं कराति । |\nतेन एवे जीवति । |\nएकस्मिन्‌ दिने मध्याहसमये शरभः मार्गे\nगच्छति स्म । तद्रानीम्‌ उपमागतः वृषभद्वय\nषेण परस्परं कट कुत्‌ आगतम्‌ । तदा\nवीरराजस्य पञ्चवर्पीयः पुत्रः शालां गच्छन\nतस्मिन्‌ एव्र मार्गे आगतवान्‌ ।\nवृषभयोः कटहः प्रचटति । सर्वे गृहस्य\nवितर्दिकायां स्थिताः । बाकक मागमध्ये दष्ट्वा\nकेचन आक्रोशनं कुतवन्तः- ‹^हन्त! बीरराजस्य\nपुतरः'› इति । किन्तु बाटकस्य रक्षणार्थं कोऽ\nगृह लक्तु धयै न कृतान्‌ । |\nशरभः एतत्‌ दृष्टवान्‌ । धावन्‌ अगव वृष |\nभम्य पादे पतन्तम्‌ बाख्कं रक्षितवान्‌ । बालकः\nस्कन्धे आरोप्य प्रादवश्थं गृहे गतवान्‌ । तत्र\nसोपानारोहणसमये स्वटन्‌ पतितवान्‌ । वीर\nराजस्य पुत्रस्य किमपि न जातम्‌ । किन्त",
+      "line_count": 23
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "वीरराजः चिन्तित्तवान्‌- शरभं निष्का-",
+      "bbox": [
+        298,
+        1438,
+        1112,
+        1508
+      ],
+      "confidence": 59.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "| सयितुम्‌ एषः एर युक्तः समयः इति । अनन्तर-",
+      "bbox": [
+        184,
+        1431,
+        1116,
+        1625
+      ],
+      "confidence": 76.55,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "दिने एव्र शरभस्य वेतनादि- व्यवहार समापित-",
+      "bbox": [
+        218,
+        1622,
+        1121,
+        1695
+      ],
+      "confidence": 73.24,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "वान्‌, गृहतः निष्कासितवान्‌ च ।",
+      "bbox": [
+        216,
+        1724,
+        868,
+        1793
+      ],
+      "confidence": 91.89,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "**कः अपराधः अभवत्‌ ° किमधम्‌ उदयागः",
+      "bbox": [
+        305,
+        1810,
+        1118,
+        1883
+      ],
+      "confidence": 62.89,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "नष्टः 2\" इति शरभः न ज्ञातवान्‌ । वीरराजः",
+      "bbox": [
+        220,
+        1904,
+        1119,
+        1983
+      ],
+      "confidence": 80.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "बहूकोपशीलः इति शरभः जानाति एव्र ।",
+      "bbox": [
+        221,
+        2004,
+        1123,
+        2081
+      ],
+      "confidence": 57.91,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "अतः सः एतद्विषये यजमानसमीपे किमपि",
+      "bbox": [
+        227,
+        2095,
+        1124,
+        2164
+      ],
+      "confidence": 87.03,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "प्रस्ताव न कृतवान्‌ । स्वव्रस्ूनि स्ीक्रय",
+      "bbox": [
+        229,
+        2190,
+        1125,
+        2260
+      ],
+      "confidence": 69.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "| गृहतः निर्गतवान्‌ ।",
+      "bbox": [
+        198,
+        2286,
+        593,
+        2365
+      ],
+      "confidence": 84.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "। अनन्तरं शरभः प्रामे अन्यत्र उद्योगे प्राप्तु",
+      "bbox": [
+        198,
+        2368,
+        1129,
+        2444
+      ],
+      "confidence": 80.8,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "| प्रयते कृतवान्‌ । किन्तु तस्य॒ कृते कोऽपि",
+      "bbox": [
+        197,
+        2375,
+        1130,
+        2579
+      ],
+      "confidence": 64.42,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "right",
+      "text": "प्रधमम्‌ एव॒ बधिरः । पुनः चोयबुद्धिः अपि",
+      "bbox": [
+        1183,
+        238,
+        2086,
+        313
+      ],
+      "confidence": 53.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "right",
+      "text": "अस्ति इति श्जुतम्‌'' उति उचः उक्तवन्तः ।",
+      "bbox": [
+        1177,
+        336,
+        2072,
+        412
+      ],
+      "confidence": 76.44,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "निख्योगापेक्षय। चोरः इति आक्षेपेण शरभः बह",
+      "bbox": [
+        1174,
+        471,
+        2085,
+        543
+      ],
+      "confidence": 59.43,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "खिन्नः । वीरराजः एर एतादृश किमपि चार्यल्य",
+      "bbox": [
+        1176,
+        558,
+        2086,
+        632
+      ],
+      "confidence": 57.65,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "आरोप कतवान्‌ इति सः ज्ञातवान्‌ । शरमेण",
+      "bbox": [
+        1174,
+        658,
+        2084,
+        741
+      ],
+      "confidence": 73.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "शास्चतिक्रः उद्योगः कुत्रापि न ट्न्यः।",
+      "bbox": [
+        1174,
+        741,
+        2092,
+        826
+      ],
+      "confidence": 35.38,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "अतः सः प्रतिदिनम्‌ अपि एकैकत्र कायं कराति । |",
+      "bbox": [
+        1174,
+        845,
+        2139,
+        918
+      ],
+      "confidence": 63.62,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "तेन एवे जीवति । |",
+      "bbox": [
+        1174,
+        935,
+        2139,
+        1015
+      ],
+      "confidence": 84.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "एकस्मिन्‌ दिने मध्याहसमये शरभः मार्गे",
+      "bbox": [
+        1262,
+        1072,
+        2070,
+        1145
+      ],
+      "confidence": 79.59,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "गच्छति स्म । तद्रानीम्‌ उपमागतः वृषभद्वय",
+      "bbox": [
+        1175,
+        1163,
+        2081,
+        1235
+      ],
+      "confidence": 75.14,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "षेण परस्परं कट कुत्‌ आगतम्‌ । तदा",
+      "bbox": [
+        1177,
+        1260,
+        2087,
+        1333
+      ],
+      "confidence": 67.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "वीरराजस्य पञ्चवर्पीयः पुत्रः शालां गच्छन",
+      "bbox": [
+        1181,
+        1359,
+        2098,
+        1426
+      ],
+      "confidence": 71.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "तस्मिन्‌ एव्र मार्गे आगतवान्‌ ।",
+      "bbox": [
+        1183,
+        1454,
+        1777,
+        1525
+      ],
+      "confidence": 90.09,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "वृषभयोः कटहः प्रचटति । सर्वे गृहस्य",
+      "bbox": [
+        1273,
+        1579,
+        2089,
+        1649
+      ],
+      "confidence": 79.9,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "वितर्दिकायां स्थिताः । बाकक मागमध्ये दष्ट्वा",
+      "bbox": [
+        1192,
+        1671,
+        2090,
+        1748
+      ],
+      "confidence": 80.2,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "केचन आक्रोशनं कुतवन्तः- ‹^हन्त! बीरराजस्य",
+      "bbox": [
+        1190,
+        1768,
+        2089,
+        1844
+      ],
+      "confidence": 59.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "पुतरः'› इति । किन्तु बाटकस्य रक्षणार्थं कोऽ",
+      "bbox": [
+        1193,
+        1850,
+        2094,
+        1936
+      ],
+      "confidence": 51.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "गृह लक्तु धयै न कृतान्‌ । |",
+      "bbox": [
+        1192,
+        1954,
+        2146,
+        2089
+      ],
+      "confidence": 49.25,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "शरभः एतत्‌ दृष्टवान्‌ । धावन्‌ अगव वृष |",
+      "bbox": [
+        1275,
+        2099,
+        2146,
+        2156
+      ],
+      "confidence": 77.28,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "भम्य पादे पतन्तम्‌ बाख्कं रक्षितवान्‌ । बालकः",
+      "bbox": [
+        1191,
+        2180,
+        2094,
+        2245
+      ],
+      "confidence": 65.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "स्कन्धे आरोप्य प्रादवश्थं गृहे गतवान्‌ । तत्र",
+      "bbox": [
+        1192,
+        2269,
+        2094,
+        2341
+      ],
+      "confidence": 65.61,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "सोपानारोहणसमये स्वटन्‌ पतितवान्‌ । वीर",
+      "bbox": [
+        1193,
+        2367,
+        2088,
+        2436
+      ],
+      "confidence": 84.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "राजस्य पुत्रस्य किमपि न जातम्‌ । किन्त",
+      "bbox": [
+        1196,
+        2462,
+        2097,
+        2534
+      ],
+      "confidence": 78.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "वीरराजः चिन्तित्तवान्‌- शरभं निष्का-\n| सयितुम्‌ एषः एर युक्तः समयः इति । अनन्तर-\nदिने एव्र शरभस्य वेतनादि- व्यवहार समापित-\nवान्‌, गृहतः निष्कासितवान्‌ च ।\n**कः अपराधः अभवत्‌ ° किमधम्‌ उदयागः\nनष्टः 2\" इति शरभः न ज्ञातवान्‌ । वीरराजः\nबहूकोपशीलः इति शरभः जानाति एव्र ।\nअतः सः एतद्विषये यजमानसमीपे किमपि\nप्रस्ताव न कृतवान्‌ । स्वव्रस्ूनि स्ीक्रय\n| गृहतः निर्गतवान्‌ ।\n। अनन्तरं शरभः प्रामे अन्यत्र उद्योगे प्राप्तु\n| प्रयते कृतवान्‌ । किन्तु तस्य॒ कृते कोऽपि\n\nप्रधमम्‌ एव॒ बधिरः । पुनः चोयबुद्धिः अपि\nअस्ति इति श्जुतम्‌'' उति उचः उक्तवन्तः ।\nनिख्योगापेक्षय। चोरः इति आक्षेपेण शरभः बह\nखिन्नः । वीरराजः एर एतादृश किमपि चार्यल्य\nआरोप कतवान्‌ इति सः ज्ञातवान्‌ । शरमेण\nशास्चतिक्रः उद्योगः कुत्रापि न ट्न्यः।\nअतः सः प्रतिदिनम्‌ अपि एकैकत्र कायं कराति । |\nतेन एवे जीवति । |\nएकस्मिन्‌ दिने मध्याहसमये शरभः मार्गे\nगच्छति स्म । तद्रानीम्‌ उपमागतः वृषभद्वय\nषेण परस्परं कट कुत्‌ आगतम्‌ । तदा\nवीरराजस्य पञ्चवर्पीयः पुत्रः शालां गच्छन\nतस्मिन्‌ एव्र मार्गे आगतवान्‌ ।\nवृषभयोः कटहः प्रचटति । सर्वे गृहस्य\nवितर्दिकायां स्थिताः । बाकक मागमध्ये दष्ट्वा\nकेचन आक्रोशनं कुतवन्तः- ‹^हन्त! बीरराजस्य\nपुतरः'› इति । किन्तु बाटकस्य रक्षणार्थं कोऽ\nगृह लक्तु धयै न कृतान्‌ । |\nशरभः एतत्‌ दृष्टवान्‌ । धावन्‌ अगव वृष |\nभम्य पादे पतन्तम्‌ बाख्कं रक्षितवान्‌ । बालकः\nस्कन्धे आरोप्य प्रादवश्थं गृहे गतवान्‌ । तत्र\nसोपानारोहणसमये स्वटन्‌ पतितवान्‌ । वीर\nराजस्य पुत्रस्य किमपि न जातम्‌ । किन्त",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

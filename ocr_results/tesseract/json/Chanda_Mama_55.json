@@ -1,0 +1,545 @@
+{
+  "page": 55,
+  "source_image": "image/Chanda_Mama_55.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        226,
+        1099,
+        2608
+      ],
+      "text": "वरिदयुजिहवस्य हस्ते दत्तवान्‌ । उक्तवान्‌ च--\n“एतत्‌ शले आरोप्य सीतायाः कृते प्रदर्शयतु\"\nइति ।\nसीता तत्‌ दुष्ट्वा उक्तत्रती - ‹ एतेन अह\nवञ्चिता न भवामि । एतादुश्चानि अकार्याणि\nदृष्ट्वा अहं चिन्तयामि; यत्‌ र व्रणस्य शिरांसि\nशीघ्रम्‌ ए भूमो पतन्ति! इति ।\nइन्द्रजित्‌ मेघे विटीप रामल्क््मणयाः\nउपरि सर्प््रिप्रयोगं कृतवान्‌ । रामलक्ष्मणौ\nसर्पजारेन बद्धौ । सयः एव॒ गब्डः आगत्य\nसर्पाणां निमूटनं कृतवान्‌ रामलक्ष्मणयाः वरिमो-\nचनं कृतवान्‌ च ।\n'येन चतु्दश-वर्षपर्थन्तम्‌ आत्मानं विस्मृत्य\nश्रद्धया सीतारामयोः सेवा कृता, तेन ए\nलक्ष्मणेन इन्द्रजितः मरणं भविष्यति! इति\nविभीप्रणः उक्तत्रान्‌ ।\nलक्ष्मणः, विभीषणः, आज्ञनेधः इत्यादयः\nइन्द्रजितः समीपं गतवन्तः । सः निकरुम्भिखा-\nयाम्‌ अजवसिपू्कं यागं करोति स्म । आज्ञ-\nनेयादयः तस्य यागं विनाश्ितवन्तः । तत्र ए\nलक्मणः इन्द्रजितः सहारं कृतवान्‌ ।\nराण्य सवै अपि बान्धवाः मृताः। सः\nपाताकलडकाधिपतेः महिरावणस्य समीप्रं गत-\nवान्‌ । तं प्राथितवान्‌ च “महाका्याः कृते\nरामं ख्छछषणं च ब्रटि ददातु\" इति ।\nमरिगव्रणाः बद प्रायाच्री । स. स्वमायया",
+      "line_count": 26
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1139,
+        1445,
+        2146,
+        2608
+      ],
+      "text": "रमक्ष्मणो निद्रामद्मां कारयिता. तौ परातान्ट-\nलखाकम्‌ आनीतवान्‌ ।\nएतत्‌ ज्ञात्रा आन्ननयः परताललङ्काम\nआगतवान्‌ । द्रारपाटक-मत्स्यक्् भेन सह युद्धम\nआरग्धत्रान्‌ । तदा सुवचद्रादेवी तत्र आगत्य\n“भवन्तौ पितापुत्रौ\" इनि व्स्तुस्थितिम्‌ उक्न-\nवती । युद्धं स्थगितम्‌ ।\nततः आज्ञनेयः सृष्मदारीरण काल्याः आव्यं प्र-\nविष्टवान्‌ । रामलक्ष्मणो स्कन्धे आरोप्य बहिः\nआगतवान्‌ । रावणः मर्म अवरोधं कृतवान्‌ ।\nरामखक्ष्मणो तेन सह युद्धं कृतवन्तौ ।\nचन्द्रसेना इत्येका रामस्य परमभक्ता आसीत्‌\nप्ररिगानाा. नां करारा प्शातिननतान्य व्धार्फीन्य ।",
+      "line_count": 13
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "वरिदयुजिहवस्य हस्ते दत्तवान्‌ । उक्तवान्‌ च--",
+      "bbox": [
+        192,
+        235,
+        1069,
+        316
+      ],
+      "confidence": 53.66,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "“एतत्‌ शले आरोप्य सीतायाः कृते प्रदर्शयतु\"",
+      "bbox": [
+        195,
+        323,
+        1069,
+        409
+      ],
+      "confidence": 57.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "इति ।",
+      "bbox": [
+        195,
+        428,
+        305,
+        490
+      ],
+      "confidence": 88.18,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "सीता तत्‌ दुष्ट्वा उक्तत्रती - ‹ एतेन अह",
+      "bbox": [
+        276,
+        509,
+        1082,
+        602
+      ],
+      "confidence": 73.19,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "वञ्चिता न भवामि । एतादुश्चानि अकार्याणि",
+      "bbox": [
+        208,
+        604,
+        1079,
+        682
+      ],
+      "confidence": 58.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "दृष्ट्वा अहं चिन्तयामि; यत्‌ र व्रणस्य शिरांसि",
+      "bbox": [
+        201,
+        680,
+        1081,
+        780
+      ],
+      "confidence": 44.55,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "शीघ्रम्‌ ए भूमो पतन्ति! इति ।",
+      "bbox": [
+        197,
+        782,
+        801,
+        873
+      ],
+      "confidence": 59.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "इन्द्रजित्‌ मेघे विटीप रामल्क््मणयाः",
+      "bbox": [
+        280,
+        888,
+        1075,
+        961
+      ],
+      "confidence": 50.87,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "उपरि सर्प््रिप्रयोगं कृतवान्‌ । रामलक्ष्मणौ",
+      "bbox": [
+        198,
+        978,
+        1084,
+        1057
+      ],
+      "confidence": 53.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "सर्पजारेन बद्धौ । सयः एव॒ गब्डः आगत्य",
+      "bbox": [
+        197,
+        1059,
+        1076,
+        1141
+      ],
+      "confidence": 40.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "सर्पाणां निमूटनं कृतवान्‌ रामलक्ष्मणयाः वरिमो-",
+      "bbox": [
+        199,
+        1166,
+        1070,
+        1253
+      ],
+      "confidence": 53.52,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "चनं कृतवान्‌ च ।",
+      "bbox": [
+        202,
+        1278,
+        543,
+        1347
+      ],
+      "confidence": 63.74,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "'येन चतु्दश-वर्षपर्थन्तम्‌ आत्मानं विस्मृत्य",
+      "bbox": [
+        291,
+        1355,
+        1084,
+        1424
+      ],
+      "confidence": 46.92,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "श्रद्धया सीतारामयोः सेवा कृता, तेन ए",
+      "bbox": [
+        208,
+        1447,
+        1086,
+        1530
+      ],
+      "confidence": 79.26,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "left",
+      "text": "लक्ष्मणेन इन्द्रजितः मरणं भविष्यति! इति",
+      "bbox": [
+        204,
+        1541,
+        1086,
+        1608
+      ],
+      "confidence": 58.44,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "left",
+      "text": "विभीप्रणः उक्तत्रान्‌ ।",
+      "bbox": [
+        207,
+        1640,
+        616,
+        1705
+      ],
+      "confidence": 64.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "left",
+      "text": "लक्ष्मणः, विभीषणः, आज्ञनेधः इत्यादयः",
+      "bbox": [
+        288,
+        1728,
+        1078,
+        1793
+      ],
+      "confidence": 76.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "left",
+      "text": "इन्द्रजितः समीपं गतवन्तः । सः निकरुम्भिखा-",
+      "bbox": [
+        207,
+        1822,
+        1083,
+        1891
+      ],
+      "confidence": 58.92,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "left",
+      "text": "याम्‌ अजवसिपू्कं यागं करोति स्म । आज्ञ-",
+      "bbox": [
+        208,
+        1911,
+        1083,
+        1989
+      ],
+      "confidence": 64.59,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "left",
+      "text": "नेयादयः तस्य यागं विनाश्ितवन्तः । तत्र ए",
+      "bbox": [
+        208,
+        2007,
+        1089,
+        2071
+      ],
+      "confidence": 73.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "left",
+      "text": "लक्मणः इन्द्रजितः सहारं कृतवान्‌ ।",
+      "bbox": [
+        211,
+        2103,
+        878,
+        2173
+      ],
+      "confidence": 71.01,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "left",
+      "text": "राण्य सवै अपि बान्धवाः मृताः। सः",
+      "bbox": [
+        293,
+        2174,
+        1085,
+        2259
+      ],
+      "confidence": 79.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "left",
+      "text": "पाताकलडकाधिपतेः महिरावणस्य समीप्रं गत-",
+      "bbox": [
+        210,
+        2284,
+        1088,
+        2358
+      ],
+      "confidence": 36.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "left",
+      "text": "वान्‌ । तं प्राथितवान्‌ च “महाका्याः कृते",
+      "bbox": [
+        211,
+        2375,
+        1092,
+        2463
+      ],
+      "confidence": 52.03,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "left",
+      "text": "रामं ख्छछषणं च ब्रटि ददातु\" इति ।",
+      "bbox": [
+        212,
+        2470,
+        892,
+        2538
+      ],
+      "confidence": 38.06,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "left",
+      "text": "मरिगव्रणाः बद प्रायाच्री । स. स्वमायया",
+      "bbox": [
+        295,
+        2565,
+        1089,
+        2608
+      ],
+      "confidence": 37.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "रमक्ष्मणो निद्रामद्मां कारयिता. तौ परातान्ट-",
+      "bbox": [
+        1153,
+        1453,
+        2022,
+        1516
+      ],
+      "confidence": 34.42,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "लखाकम्‌ आनीतवान्‌ ।",
+      "bbox": [
+        1150,
+        1549,
+        1543,
+        1615
+      ],
+      "confidence": 62.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "एतत्‌ ज्ञात्रा आन्ननयः परताललङ्काम",
+      "bbox": [
+        1234,
+        1642,
+        2027,
+        1717
+      ],
+      "confidence": 46.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "आगतवान्‌ । द्रारपाटक-मत्स्यक्् भेन सह युद्धम",
+      "bbox": [
+        1152,
+        1731,
+        2025,
+        1806
+      ],
+      "confidence": 47.36,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "आरग्धत्रान्‌ । तदा सुवचद्रादेवी तत्र आगत्य",
+      "bbox": [
+        1154,
+        1823,
+        2034,
+        1896
+      ],
+      "confidence": 34.53,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "“भवन्तौ पितापुत्रौ\" इनि व्स्तुस्थितिम्‌ उक्न-",
+      "bbox": [
+        1158,
+        1916,
+        2028,
+        1988
+      ],
+      "confidence": 54.2,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "वती । युद्धं स्थगितम्‌ ।",
+      "bbox": [
+        1153,
+        2014,
+        1584,
+        2079
+      ],
+      "confidence": 92.75,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "ततः आज्ञनेयः सृष्मदारीरण काल्याः आव्यं प्र-",
+      "bbox": [
+        1155,
+        2103,
+        2031,
+        2177
+      ],
+      "confidence": 61.36,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "विष्टवान्‌ । रामलक्ष्मणो स्कन्धे आरोप्य बहिः",
+      "bbox": [
+        1160,
+        2192,
+        2031,
+        2266
+      ],
+      "confidence": 71.97,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 36,
+      "column": "right",
+      "text": "आगतवान्‌ । रावणः मर्म अवरोधं कृतवान्‌ ।",
+      "bbox": [
+        1156,
+        2289,
+        2030,
+        2373
+      ],
+      "confidence": 53.25,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 37,
+      "column": "right",
+      "text": "रामखक्ष्मणो तेन सह युद्धं कृतवन्तौ ।",
+      "bbox": [
+        1156,
+        2377,
+        1846,
+        2457
+      ],
+      "confidence": 52.4,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 38,
+      "column": "right",
+      "text": "चन्द्रसेना इत्येका रामस्य परमभक्ता आसीत्‌",
+      "bbox": [
+        1226,
+        2455,
+        2036,
+        2546
+      ],
+      "confidence": 69.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 39,
+      "column": "right",
+      "text": "प्ररिगानाा. नां करारा प्शातिननतान्य व्धार्फीन्य ।",
+      "bbox": [
+        1158,
+        2569,
+        2036,
+        2608
+      ],
+      "confidence": 16.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "वरिदयुजिहवस्य हस्ते दत्तवान्‌ । उक्तवान्‌ च--\n“एतत्‌ शले आरोप्य सीतायाः कृते प्रदर्शयतु\"\nइति ।\nसीता तत्‌ दुष्ट्वा उक्तत्रती - ‹ एतेन अह\nवञ्चिता न भवामि । एतादुश्चानि अकार्याणि\nदृष्ट्वा अहं चिन्तयामि; यत्‌ र व्रणस्य शिरांसि\nशीघ्रम्‌ ए भूमो पतन्ति! इति ।\nइन्द्रजित्‌ मेघे विटीप रामल्क््मणयाः\nउपरि सर्प््रिप्रयोगं कृतवान्‌ । रामलक्ष्मणौ\nसर्पजारेन बद्धौ । सयः एव॒ गब्डः आगत्य\nसर्पाणां निमूटनं कृतवान्‌ रामलक्ष्मणयाः वरिमो-\nचनं कृतवान्‌ च ।\n'येन चतु्दश-वर्षपर्थन्तम्‌ आत्मानं विस्मृत्य\nश्रद्धया सीतारामयोः सेवा कृता, तेन ए\nलक्ष्मणेन इन्द्रजितः मरणं भविष्यति! इति\nविभीप्रणः उक्तत्रान्‌ ।\nलक्ष्मणः, विभीषणः, आज्ञनेधः इत्यादयः\nइन्द्रजितः समीपं गतवन्तः । सः निकरुम्भिखा-\nयाम्‌ अजवसिपू्कं यागं करोति स्म । आज्ञ-\nनेयादयः तस्य यागं विनाश्ितवन्तः । तत्र ए\nलक्मणः इन्द्रजितः सहारं कृतवान्‌ ।\nराण्य सवै अपि बान्धवाः मृताः। सः\nपाताकलडकाधिपतेः महिरावणस्य समीप्रं गत-\nवान्‌ । तं प्राथितवान्‌ च “महाका्याः कृते\nरामं ख्छछषणं च ब्रटि ददातु\" इति ।\nमरिगव्रणाः बद प्रायाच्री । स. स्वमायया\n\nरमक्ष्मणो निद्रामद्मां कारयिता. तौ परातान्ट-\nलखाकम्‌ आनीतवान्‌ ।\nएतत्‌ ज्ञात्रा आन्ननयः परताललङ्काम\nआगतवान्‌ । द्रारपाटक-मत्स्यक्् भेन सह युद्धम\nआरग्धत्रान्‌ । तदा सुवचद्रादेवी तत्र आगत्य\n“भवन्तौ पितापुत्रौ\" इनि व्स्तुस्थितिम्‌ उक्न-\nवती । युद्धं स्थगितम्‌ ।\nततः आज्ञनेयः सृष्मदारीरण काल्याः आव्यं प्र-\nविष्टवान्‌ । रामलक्ष्मणो स्कन्धे आरोप्य बहिः\nआगतवान्‌ । रावणः मर्म अवरोधं कृतवान्‌ ।\nरामखक्ष्मणो तेन सह युद्धं कृतवन्तौ ।\nचन्द्रसेना इत्येका रामस्य परमभक्ता आसीत्‌\nप्ररिगानाा. नां करारा प्शातिननतान्य व्धार्फीन्य ।",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

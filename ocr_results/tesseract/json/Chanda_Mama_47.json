@@ -1,0 +1,376 @@
+{
+  "page": 47,
+  "source_image": "image/Chanda_Mama_47.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        226,
+        1101,
+        1530
+      ],
+      "text": "वन्तः | धनिकः रामगप्तः विष्णुदत्तस्य कृते\nदातुम्‌ शकं राङ्कवं शत रूप्यकाणि च सजीकृत्य\nप्रकोष्ठे स्थापथित्वा कथां श्रोतुम्‌ आगतवान्‌ ।\nतस्मिन्‌ ` एव म्रामे श्यामगुप्तः इति एकः\nआसीत्‌ । सः कथाया: पूरम्‌ आगत्य शरावे\nचत्वारि रूप्यकाणि समर्पितवान्‌ । विष्णुदत्तस्य\nकृते न्यूनमूल्यम्‌ एक राङ्कवे च दत्तवान्‌। ययपि\nसः दयामगुप्तः धनिकः ए । यदि हरिकधा-\nकार्यक्रमः तस्य गृहे एव स्यात्‌ तदा सः इतोऽपि\nअधिकधनेन सम्मानयितुं समथः ।\nधनिकः रामगप्तः तु समीपे एव॒ उपविदय\n| सवै पयन्‌ ए आसीत्‌ -“सवे कति ददति' इति।\n। सर्वेषाम्‌ अपेक्षया दयामगुप्तः ए अधिकं दत्त-",
+      "line_count": 13
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1134,
+        226,
+        2146,
+        1530
+      ],
+      "text": "र । एतत्‌ दृष्ट्वा रामगुप्तल्य मनसि एकः\nविचारः समुलनः-- मया किमर्थं शतं रूप्य-\nकाणि अधिकमूल्य- राङ्कव च दातव्यानि ?\nमयापि दश रूप्यकाणि, एकं सामान्य वस्त्रं च\nदीयन्ते चेत्‌ अलम्‌ ।\nविष्णृदत्तः तु ब्रह बुद्धिमान्‌ । एतादृशान्‌\nबहून्‌ कार्यक्रमान्‌ सः दृष्टवान्‌ । सः दृष्ट्या\nएव अन्येषां मनः ज्ञातुं समथः । तप्य कथा-\nवाचनसमये रामगुप्तः केनापि व्याजेन प्रकोष्ठं\nगतवान्‌ । तत्र गत्वा पूेमेव सजीकृतानि\nराङ्कवं रूप्यकाणि च कपाटिकायां स्थापभित्वा\nअन्यत्‌ एकं वस्त्र दङ्ञ रूप्यकाणि च पेटिकातः\nबहिः स्थापयित्रा पुनः आगत्य उपविष्टवान्‌ ।",
+      "line_count": 13
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "वन्तः | धनिकः रामगप्तः विष्णुदत्तस्य कृते",
+      "bbox": [
+        181,
+        247,
+        1082,
+        317
+      ],
+      "confidence": 78.6,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "दातुम्‌ शकं राङ्कवं शत रूप्यकाणि च सजीकृत्य",
+      "bbox": [
+        176,
+        339,
+        1083,
+        428
+      ],
+      "confidence": 79.09,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "प्रकोष्ठे स्थापथित्वा कथां श्रोतुम्‌ आगतवान्‌ ।",
+      "bbox": [
+        179,
+        432,
+        1017,
+        509
+      ],
+      "confidence": 69.78,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "तस्मिन्‌ ` एव म्रामे श्यामगुप्तः इति एकः",
+      "bbox": [
+        263,
+        525,
+        1075,
+        608
+      ],
+      "confidence": 69.69,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "आसीत्‌ । सः कथाया: पूरम्‌ आगत्य शरावे",
+      "bbox": [
+        181,
+        625,
+        1083,
+        699
+      ],
+      "confidence": 69.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "चत्वारि रूप्यकाणि समर्पितवान्‌ । विष्णुदत्तस्य",
+      "bbox": [
+        179,
+        698,
+        1085,
+        789
+      ],
+      "confidence": 70.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "कृते न्यूनमूल्यम्‌ एक राङ्कवे च दत्तवान्‌। ययपि",
+      "bbox": [
+        178,
+        806,
+        1081,
+        899
+      ],
+      "confidence": 48.87,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "सः दयामगुप्तः धनिकः ए । यदि हरिकधा-",
+      "bbox": [
+        178,
+        909,
+        1101,
+        977
+      ],
+      "confidence": 75.6,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "कार्यक्रमः तस्य गृहे एव स्यात्‌ तदा सः इतोऽपि",
+      "bbox": [
+        177,
+        996,
+        1084,
+        1071
+      ],
+      "confidence": 93.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "अधिकधनेन सम्मानयितुं समथः ।",
+      "bbox": [
+        180,
+        1091,
+        841,
+        1163
+      ],
+      "confidence": 84.26,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "धनिकः रामगप्तः तु समीपे एव॒ उपविदय",
+      "bbox": [
+        264,
+        1190,
+        1086,
+        1260
+      ],
+      "confidence": 72.73,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "| सवै पयन्‌ ए आसीत्‌ -“सवे कति ददति' इति।",
+      "bbox": [
+        147,
+        1272,
+        1082,
+        1369
+      ],
+      "confidence": 69.37,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "। सर्वेषाम्‌ अपेक्षया दयामगुप्तः ए अधिकं दत्त-",
+      "bbox": [
+        147,
+        1374,
+        1081,
+        1449
+      ],
+      "confidence": 73.51,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "right",
+      "text": "र । एतत्‌ दृष्ट्वा रामगुप्तल्य मनसि एकः",
+      "bbox": [
+        1134,
+        226,
+        2092,
+        1528
+      ],
+      "confidence": 53.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "विचारः समुलनः-- मया किमर्थं शतं रूप्य-",
+      "bbox": [
+        1149,
+        339,
+        2050,
+        411
+      ],
+      "confidence": 50.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "काणि अधिकमूल्य- राङ्कव च दातव्यानि ?",
+      "bbox": [
+        1146,
+        433,
+        2048,
+        519
+      ],
+      "confidence": 48.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "मयापि दश रूप्यकाणि, एकं सामान्य वस्त्रं च",
+      "bbox": [
+        1148,
+        533,
+        2053,
+        599
+      ],
+      "confidence": 88.95,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "दीयन्ते चेत्‌ अलम्‌ ।",
+      "bbox": [
+        1147,
+        624,
+        1561,
+        699
+      ],
+      "confidence": 78.21,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "विष्णृदत्तः तु ब्रह बुद्धिमान्‌ । एतादृशान्‌",
+      "bbox": [
+        1235,
+        724,
+        2060,
+        797
+      ],
+      "confidence": 37.7,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "बहून्‌ कार्यक्रमान्‌ सः दृष्टवान्‌ । सः दृष्ट्या",
+      "bbox": [
+        1148,
+        812,
+        2049,
+        896
+      ],
+      "confidence": 47.75,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "एव अन्येषां मनः ज्ञातुं समथः । तप्य कथा-",
+      "bbox": [
+        1150,
+        908,
+        2043,
+        978
+      ],
+      "confidence": 72.73,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "वाचनसमये रामगुप्तः केनापि व्याजेन प्रकोष्ठं",
+      "bbox": [
+        1149,
+        1002,
+        2046,
+        1076
+      ],
+      "confidence": 77.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "गतवान्‌ । तत्र गत्वा पूेमेव सजीकृतानि",
+      "bbox": [
+        1149,
+        1096,
+        2051,
+        1182
+      ],
+      "confidence": 58.02,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "राङ्कवं रूप्यकाणि च कपाटिकायां स्थापभित्वा",
+      "bbox": [
+        1149,
+        1194,
+        2052,
+        1267
+      ],
+      "confidence": 38.19,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "अन्यत्‌ एकं वस्त्र दङ्ञ रूप्यकाणि च पेटिकातः",
+      "bbox": [
+        1149,
+        1284,
+        2044,
+        1356
+      ],
+      "confidence": 77.26,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "बहिः स्थापयित्रा पुनः आगत्य उपविष्टवान्‌ ।",
+      "bbox": [
+        1149,
+        1381,
+        1992,
+        1448
+      ],
+      "confidence": 85.36,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "वन्तः | धनिकः रामगप्तः विष्णुदत्तस्य कृते\nदातुम्‌ शकं राङ्कवं शत रूप्यकाणि च सजीकृत्य\nप्रकोष्ठे स्थापथित्वा कथां श्रोतुम्‌ आगतवान्‌ ।\nतस्मिन्‌ ` एव म्रामे श्यामगुप्तः इति एकः\nआसीत्‌ । सः कथाया: पूरम्‌ आगत्य शरावे\nचत्वारि रूप्यकाणि समर्पितवान्‌ । विष्णुदत्तस्य\nकृते न्यूनमूल्यम्‌ एक राङ्कवे च दत्तवान्‌। ययपि\nसः दयामगुप्तः धनिकः ए । यदि हरिकधा-\nकार्यक्रमः तस्य गृहे एव स्यात्‌ तदा सः इतोऽपि\nअधिकधनेन सम्मानयितुं समथः ।\nधनिकः रामगप्तः तु समीपे एव॒ उपविदय\n| सवै पयन्‌ ए आसीत्‌ -“सवे कति ददति' इति।\n। सर्वेषाम्‌ अपेक्षया दयामगुप्तः ए अधिकं दत्त-\n\nर । एतत्‌ दृष्ट्वा रामगुप्तल्य मनसि एकः\nविचारः समुलनः-- मया किमर्थं शतं रूप्य-\nकाणि अधिकमूल्य- राङ्कव च दातव्यानि ?\nमयापि दश रूप्यकाणि, एकं सामान्य वस्त्रं च\nदीयन्ते चेत्‌ अलम्‌ ।\nविष्णृदत्तः तु ब्रह बुद्धिमान्‌ । एतादृशान्‌\nबहून्‌ कार्यक्रमान्‌ सः दृष्टवान्‌ । सः दृष्ट्या\nएव अन्येषां मनः ज्ञातुं समथः । तप्य कथा-\nवाचनसमये रामगुप्तः केनापि व्याजेन प्रकोष्ठं\nगतवान्‌ । तत्र गत्वा पूेमेव सजीकृतानि\nराङ्कवं रूप्यकाणि च कपाटिकायां स्थापभित्वा\nअन्यत्‌ एकं वस्त्र दङ्ञ रूप्यकाणि च पेटिकातः\nबहिः स्थापयित्रा पुनः आगत्य उपविष्टवान्‌ ।",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

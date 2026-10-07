@@ -1,0 +1,1681 @@
+{
+  "page": 1,
+  "source_image": "image/Chanda_Mama_01.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 11,
+  "reading_order": "Tesseract automatic page layout",
+  "blocks": [
+    {
+      "column": "page",
+      "bbox": [
+        0,
+        0,
+        2271,
+        2835
+      ],
+      "text": "वन्वदमामा|\n०\nन |\nस\n1)\n१९८४\n( ~\n9 ॐ,\n# ह\n,2॥\nडः |\n+ 9\n४\n3)\n\"६\n=^\n॥\n८\nप\n4\n4\nधे\n८\n3५ >\n& (\n# ॥ +,\n+ + 1\n“ ८ ट\n~\n|“\nन्द\nज\n५\n|\n१ ६\n1. /\nन\nस 4\n4 1\n(,\n६1\n४ ~\n-\nभि चै\nप\n# 8\nन >\n५ ५ ।\n0,\n# +\n॥\n(44\nकृ\n=\n0 ऋ\n8\nकुक\n(\nक\nन=\n~>\n(\n४:35\n0 न्‌\nहुः\n(1\n| चे > र\n>>\n॥ 2)\n` च\n|\n> ,\n(त /\n१ स\n2 4\nङ्श (\n१५. „ >\n4\n| (4.\nदः ५\n(\nट. ^\n^||९\n। #\n५\n^\nभ\n#॥\n| > थ\n॥\n॥\n/ ५.५  /\nट क १ ५५\nश\n4\n{ति\n१ |\nप चक\nकेचन\n>. 4. |~ ओ: |\n१ ) |\n^\n#..\n४।\nस)\n८.9) प\n१2५\n|\nचद |\nभः\nन\n३. |\n८\nप ।\n6\n{ष ४\n२\nन\n.\nच\n8\n८\nअ\n9\n(>\n(ग्यः\nध.",
+      "line_count": 127
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "page",
+      "text": "वन्वदमामा|",
+      "bbox": [
+        137,
+        87,
+        1086,
+        273
+      ],
+      "confidence": 24.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "page",
+      "text": "०",
+      "bbox": [
+        1387,
+        87,
+        1694,
+        418
+      ],
+      "confidence": 19.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "page",
+      "text": "न |",
+      "bbox": [
+        1756,
+        246,
+        1828,
+        288
+      ],
+      "confidence": 52.38,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "page",
+      "text": "स",
+      "bbox": [
+        1875,
+        115,
+        2084,
+        320
+      ],
+      "confidence": 64.28,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "page",
+      "text": "1)",
+      "bbox": [
+        2157,
+        153,
+        2237,
+        243
+      ],
+      "confidence": 15.01,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "page",
+      "text": "१९८४",
+      "bbox": [
+        580,
+        293,
+        716,
+        340
+      ],
+      "confidence": 77.56,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "page",
+      "text": "( ~",
+      "bbox": [
+        1646,
+        278,
+        1721,
+        311
+      ],
+      "confidence": 23.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "page",
+      "text": "9 ॐ,",
+      "bbox": [
+        1848,
+        272,
+        1927,
+        296
+      ],
+      "confidence": 30.29,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "page",
+      "text": "# ह",
+      "bbox": [
+        1854,
+        315,
+        1928,
+        341
+      ],
+      "confidence": 42.59,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "page",
+      "text": ",2॥",
+      "bbox": [
+        1360,
+        260,
+        1522,
+        387
+      ],
+      "confidence": 0.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "page",
+      "text": "डः |",
+      "bbox": [
+        1510,
+        311,
+        1768,
+        652
+      ],
+      "confidence": 37.21,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "page",
+      "text": "+ 9",
+      "bbox": [
+        1790,
+        348,
+        1848,
+        365
+      ],
+      "confidence": 27.33,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "page",
+      "text": "४",
+      "bbox": [
+        1246,
+        271,
+        1409,
+        538
+      ],
+      "confidence": 12.06,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "page",
+      "text": "3)",
+      "bbox": [
+        1680,
+        414,
+        1869,
+        457
+      ],
+      "confidence": 30.94,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "page",
+      "text": "\"६",
+      "bbox": [
+        1819,
+        371,
+        1899,
+        415
+      ],
+      "confidence": 0.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "page",
+      "text": "=^",
+      "bbox": [
+        512,
+        453,
+        588,
+        518
+      ],
+      "confidence": 26.59,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "page",
+      "text": "॥",
+      "bbox": [
+        749,
+        464,
+        760,
+        507
+      ],
+      "confidence": 0.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "page",
+      "text": "८",
+      "bbox": [
+        2040,
+        291,
+        2185,
+        523
+      ],
+      "confidence": 16.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "page",
+      "text": "प",
+      "bbox": [
+        1048,
+        524,
+        1314,
+        600
+      ],
+      "confidence": 27.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "page",
+      "text": "4",
+      "bbox": [
+        1175,
+        376,
+        1282,
+        534
+      ],
+      "confidence": 0.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "page",
+      "text": "4",
+      "bbox": [
+        1324,
+        392,
+        1419,
+        557
+      ],
+      "confidence": 68.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "page",
+      "text": "धे",
+      "bbox": [
+        1443,
+        458,
+        1596,
+        541
+      ],
+      "confidence": 37.11,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "page",
+      "text": "८",
+      "bbox": [
+        1731,
+        469,
+        1802,
+        568
+      ],
+      "confidence": 80.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "page",
+      "text": "3५ >",
+      "bbox": [
+        1802,
+        480,
+        2126,
+        677
+      ],
+      "confidence": 59.24,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "page",
+      "text": "& (",
+      "bbox": [
+        829,
+        579,
+        1304,
+        952
+      ],
+      "confidence": 32.09,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "page",
+      "text": "# ॥ +,",
+      "bbox": [
+        1508,
+        565,
+        1659,
+        624
+      ],
+      "confidence": 38.69,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "page",
+      "text": "+ + 1",
+      "bbox": [
+        1183,
+        638,
+        1259,
+        688
+      ],
+      "confidence": 63.09,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "page",
+      "text": "“ ८ ट",
+      "bbox": [
+        1963,
+        653,
+        2176,
+        713
+      ],
+      "confidence": 31.04,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "page",
+      "text": "~",
+      "bbox": [
+        2089,
+        593,
+        2168,
+        675
+      ],
+      "confidence": 15.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "page",
+      "text": "|“",
+      "bbox": [
+        255,
+        550,
+        381,
+        760
+      ],
+      "confidence": 0.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "page",
+      "text": "न्द",
+      "bbox": [
+        428,
+        689,
+        483,
+        727
+      ],
+      "confidence": 40.87,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "page",
+      "text": "ज",
+      "bbox": [
+        1452,
+        628,
+        1708,
+        815
+      ],
+      "confidence": 23.19,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "page",
+      "text": "५",
+      "bbox": [
+        250,
+        770,
+        272,
+        795
+      ],
+      "confidence": 32.39,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "page",
+      "text": "|",
+      "bbox": [
+        762,
+        612,
+        834,
+        789
+      ],
+      "confidence": 16.09,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "page",
+      "text": "१ ६",
+      "bbox": [
+        1205,
+        682,
+        1498,
+        1075
+      ],
+      "confidence": 49.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 36,
+      "column": "page",
+      "text": "1. /",
+      "bbox": [
+        1256,
+        694,
+        1408,
+        796
+      ],
+      "confidence": 15.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 37,
+      "column": "page",
+      "text": "न",
+      "bbox": [
+        1619,
+        771,
+        1963,
+        1061
+      ],
+      "confidence": 55.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 38,
+      "column": "page",
+      "text": "स 4",
+      "bbox": [
+        475,
+        715,
+        1191,
+        1107
+      ],
+      "confidence": 18.7,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 39,
+      "column": "page",
+      "text": "4 1",
+      "bbox": [
+        968,
+        744,
+        1177,
+        951
+      ],
+      "confidence": 40.58,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 40,
+      "column": "page",
+      "text": "(,",
+      "bbox": [
+        323,
+        912,
+        403,
+        955
+      ],
+      "confidence": 0.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 41,
+      "column": "page",
+      "text": "६1",
+      "bbox": [
+        511,
+        515,
+        750,
+        938
+      ],
+      "confidence": 0.62,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 42,
+      "column": "page",
+      "text": "४ ~",
+      "bbox": [
+        955,
+        861,
+        1179,
+        935
+      ],
+      "confidence": 25.63,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 43,
+      "column": "page",
+      "text": "-",
+      "bbox": [
+        700,
+        937,
+        716,
+        975
+      ],
+      "confidence": 23.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 44,
+      "column": "page",
+      "text": "भि चै",
+      "bbox": [
+        1989,
+        1006,
+        2039,
+        1021
+      ],
+      "confidence": 53.64,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 45,
+      "column": "page",
+      "text": "प",
+      "bbox": [
+        170,
+        963,
+        300,
+        1063
+      ],
+      "confidence": 3.04,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 46,
+      "column": "page",
+      "text": "# 8",
+      "bbox": [
+        54,
+        1063,
+        166,
+        1102
+      ],
+      "confidence": 63.12,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 47,
+      "column": "page",
+      "text": "न >",
+      "bbox": [
+        608,
+        1110,
+        738,
+        1117
+      ],
+      "confidence": 29.43,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 48,
+      "column": "page",
+      "text": "५ ५ ।",
+      "bbox": [
+        1261,
+        1023,
+        1365,
+        1094
+      ],
+      "confidence": 47.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 49,
+      "column": "page",
+      "text": "0,",
+      "bbox": [
+        1497,
+        889,
+        1691,
+        1084
+      ],
+      "confidence": 45.14,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 50,
+      "column": "page",
+      "text": "# +",
+      "bbox": [
+        1090,
+        1177,
+        1170,
+        1198
+      ],
+      "confidence": 50.43,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 51,
+      "column": "page",
+      "text": "॥",
+      "bbox": [
+        1153,
+        1095,
+        1180,
+        1106
+      ],
+      "confidence": 40.74,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 52,
+      "column": "page",
+      "text": "(44",
+      "bbox": [
+        1723,
+        1022,
+        1848,
+        1153
+      ],
+      "confidence": 67.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 53,
+      "column": "page",
+      "text": "कृ",
+      "bbox": [
+        443,
+        1170,
+        504,
+        1225
+      ],
+      "confidence": 51.92,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 54,
+      "column": "page",
+      "text": "=",
+      "bbox": [
+        772,
+        1134,
+        905,
+        1219
+      ],
+      "confidence": 43.44,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 55,
+      "column": "page",
+      "text": "0 ऋ",
+      "bbox": [
+        1621,
+        1193,
+        1738,
+        1230
+      ],
+      "confidence": 42.25,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 56,
+      "column": "page",
+      "text": "8",
+      "bbox": [
+        817,
+        1261,
+        871,
+        1291
+      ],
+      "confidence": 2.01,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 57,
+      "column": "page",
+      "text": "कुक",
+      "bbox": [
+        1008,
+        1299,
+        1095,
+        1363
+      ],
+      "confidence": 44.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 58,
+      "column": "page",
+      "text": "(",
+      "bbox": [
+        1123,
+        1249,
+        1181,
+        1318
+      ],
+      "confidence": 19.6,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 59,
+      "column": "page",
+      "text": "क",
+      "bbox": [
+        1397,
+        1180,
+        1576,
+        1291
+      ],
+      "confidence": 35.78,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 60,
+      "column": "page",
+      "text": "न=",
+      "bbox": [
+        2032,
+        1263,
+        2093,
+        1278
+      ],
+      "confidence": 26.3,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 61,
+      "column": "page",
+      "text": "~>",
+      "bbox": [
+        110,
+        1150,
+        359,
+        1243
+      ],
+      "confidence": 14.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 62,
+      "column": "page",
+      "text": "(",
+      "bbox": [
+        1192,
+        1315,
+        1198,
+        1321
+      ],
+      "confidence": 40.38,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 63,
+      "column": "page",
+      "text": "४:35",
+      "bbox": [
+        2047,
+        1330,
+        2097,
+        1359
+      ],
+      "confidence": 31.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 64,
+      "column": "page",
+      "text": "0 न्‌",
+      "bbox": [
+        519,
+        1364,
+        989,
+        1873
+      ],
+      "confidence": 43.16,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 65,
+      "column": "page",
+      "text": "हुः",
+      "bbox": [
+        1077,
+        1347,
+        1146,
+        1445
+      ],
+      "confidence": 15.36,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 66,
+      "column": "page",
+      "text": "(1",
+      "bbox": [
+        1152,
+        1404,
+        1197,
+        1434
+      ],
+      "confidence": 34.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 67,
+      "column": "page",
+      "text": "| चे > र",
+      "bbox": [
+        1215,
+        1372,
+        1326,
+        1425
+      ],
+      "confidence": 51.66,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 68,
+      "column": "page",
+      "text": ">>",
+      "bbox": [
+        1383,
+        1303,
+        1577,
+        1406
+      ],
+      "confidence": 23.71,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 69,
+      "column": "page",
+      "text": "॥ 2)",
+      "bbox": [
+        1903,
+        1391,
+        1950,
+        1423
+      ],
+      "confidence": 65.32,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 70,
+      "column": "page",
+      "text": "` च",
+      "bbox": [
+        2035,
+        1400,
+        2118,
+        1447
+      ],
+      "confidence": 32.39,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 71,
+      "column": "page",
+      "text": "|",
+      "bbox": [
+        186,
+        1345,
+        293,
+        1467
+      ],
+      "confidence": 57.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 72,
+      "column": "page",
+      "text": "> ,",
+      "bbox": [
+        984,
+        1431,
+        1151,
+        1489
+      ],
+      "confidence": 35.7,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 73,
+      "column": "page",
+      "text": "(त /",
+      "bbox": [
+        312,
+        1479,
+        430,
+        1536
+      ],
+      "confidence": 45.59,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 74,
+      "column": "page",
+      "text": "१ स",
+      "bbox": [
+        1817,
+        1411,
+        1909,
+        1525
+      ],
+      "confidence": 22.52,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 75,
+      "column": "page",
+      "text": "2 4",
+      "bbox": [
+        425,
+        1235,
+        617,
+        1612
+      ],
+      "confidence": 61.69,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 76,
+      "column": "page",
+      "text": "ङ्श (",
+      "bbox": [
+        1312,
+        1360,
+        1775,
+        1793
+      ],
+      "confidence": 36.3,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 77,
+      "column": "page",
+      "text": "१५. „ >",
+      "bbox": [
+        765,
+        1562,
+        1403,
+        2154
+      ],
+      "confidence": 38.22,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 78,
+      "column": "page",
+      "text": "4",
+      "bbox": [
+        943,
+        1551,
+        1025,
+        1679
+      ],
+      "confidence": 62.42,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 79,
+      "column": "page",
+      "text": "| (4.",
+      "bbox": [
+        285,
+        1665,
+        403,
+        1713
+      ],
+      "confidence": 39.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 80,
+      "column": "page",
+      "text": "दः ५",
+      "bbox": [
+        408,
+        1622,
+        616,
+        2011
+      ],
+      "confidence": 35.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 81,
+      "column": "page",
+      "text": "(",
+      "bbox": [
+        1121,
+        1538,
+        1333,
+        1960
+      ],
+      "confidence": 26.67,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 82,
+      "column": "page",
+      "text": "ट. ^",
+      "bbox": [
+        1747,
+        1689,
+        1828,
+        1749
+      ],
+      "confidence": 54.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 83,
+      "column": "page",
+      "text": "^||९",
+      "bbox": [
+        257,
+        1717,
+        401,
+        1784
+      ],
+      "confidence": 8.35,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 84,
+      "column": "page",
+      "text": "। #",
+      "bbox": [
+        900,
+        1711,
+        969,
+        1779
+      ],
+      "confidence": 30.03,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 85,
+      "column": "page",
+      "text": "५",
+      "bbox": [
+        1269,
+        1728,
+        1315,
+        1778
+      ],
+      "confidence": 0.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 86,
+      "column": "page",
+      "text": "^",
+      "bbox": [
+        1466,
+        1717,
+        1582,
+        1769
+      ],
+      "confidence": 27.59,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 87,
+      "column": "page",
+      "text": "भ",
+      "bbox": [
+        1674,
+        1724,
+        1718,
+        1774
+      ],
+      "confidence": 41.87,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 88,
+      "column": "page",
+      "text": "#॥",
+      "bbox": [
+        224,
+        1780,
+        286,
+        1832
+      ],
+      "confidence": 26.75,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 89,
+      "column": "page",
+      "text": "| > थ",
+      "bbox": [
+        1718,
+        1778,
+        1828,
+        1822
+      ],
+      "confidence": 58.24,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 90,
+      "column": "page",
+      "text": "॥",
+      "bbox": [
+        814,
+        1869,
+        835,
+        1935
+      ],
+      "confidence": 55.64,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 91,
+      "column": "page",
+      "text": "॥",
+      "bbox": [
+        5,
+        1813,
+        157,
+        1965
+      ],
+      "confidence": 43.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 92,
+      "column": "page",
+      "text": "/ ५.५  /",
+      "bbox": [
+        197,
+        1898,
+        661,
+        2309
+      ],
+      "confidence": 32.09,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 93,
+      "column": "page",
+      "text": "ट क १ ५५",
+      "bbox": [
+        607,
+        1907,
+        782,
+        1962
+      ],
+      "confidence": 42.33,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 94,
+      "column": "page",
+      "text": "श",
+      "bbox": [
+        1316,
+        1753,
+        1566,
+        2190
+      ],
+      "confidence": 66.19,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 95,
+      "column": "page",
+      "text": "4",
+      "bbox": [
+        783,
+        1971,
+        798,
+        2000
+      ],
+      "confidence": 70.01,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 96,
+      "column": "page",
+      "text": "{ति",
+      "bbox": [
+        1869,
+        1977,
+        1915,
+        2000
+      ],
+      "confidence": 14.28,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 97,
+      "column": "page",
+      "text": "१ |",
+      "bbox": [
+        822,
+        1954,
+        950,
+        2087
+      ],
+      "confidence": 51.09,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 98,
+      "column": "page",
+      "text": "प चक",
+      "bbox": [
+        1757,
+        2049,
+        1862,
+        2089
+      ],
+      "confidence": 42.09,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 99,
+      "column": "page",
+      "text": "केचन",
+      "bbox": [
+        1976,
+        2036,
+        2080,
+        2063
+      ],
+      "confidence": 25.34,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 100,
+      "column": "page",
+      "text": ">. 4. |~ ओ: |",
+      "bbox": [
+        35,
+        2022,
+        449,
+        2193
+      ],
+      "confidence": 29.44,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 101,
+      "column": "page",
+      "text": "१ ) |",
+      "bbox": [
+        594,
+        2084,
+        760,
+        2184
+      ],
+      "confidence": 56.91,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 102,
+      "column": "page",
+      "text": "^",
+      "bbox": [
+        1132,
+        2070,
+        1468,
+        2410
+      ],
+      "confidence": 20.56,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 103,
+      "column": "page",
+      "text": "#..",
+      "bbox": [
+        1756,
+        2119,
+        1831,
+        2191
+      ],
+      "confidence": 27.42,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 104,
+      "column": "page",
+      "text": "४।",
+      "bbox": [
+        2236,
+        2217,
+        2267,
+        2269
+      ],
+      "confidence": 37.37,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 105,
+      "column": "page",
+      "text": "स)",
+      "bbox": [
+        106,
+        2327,
+        513,
+        2463
+      ],
+      "confidence": 28.16,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 106,
+      "column": "page",
+      "text": "८.9) प",
+      "bbox": [
+        371,
+        2304,
+        475,
+        2332
+      ],
+      "confidence": 44.08,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 107,
+      "column": "page",
+      "text": "१2५",
+      "bbox": [
+        37,
+        2375,
+        109,
+        2398
+      ],
+      "confidence": 35.69,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 108,
+      "column": "page",
+      "text": "|",
+      "bbox": [
+        990,
+        2253,
+        1098,
+        2370
+      ],
+      "confidence": 49.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 109,
+      "column": "page",
+      "text": "चद |",
+      "bbox": [
+        1403,
+        2350,
+        1513,
+        2401
+      ],
+      "confidence": 42.12,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 110,
+      "column": "page",
+      "text": "भः",
+      "bbox": [
+        1856,
+        2370,
+        1908,
+        2417
+      ],
+      "confidence": 21.34,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 111,
+      "column": "page",
+      "text": "न",
+      "bbox": [
+        22,
+        2398,
+        186,
+        2458
+      ],
+      "confidence": 11.2,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 112,
+      "column": "page",
+      "text": "३. |",
+      "bbox": [
+        1397,
+        2400,
+        1472,
+        2435
+      ],
+      "confidence": 27.36,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 113,
+      "column": "page",
+      "text": "८",
+      "bbox": [
+        186,
+        2461,
+        297,
+        2525
+      ],
+      "confidence": 38.33,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 114,
+      "column": "page",
+      "text": "प ।",
+      "bbox": [
+        961,
+        2449,
+        1396,
+        2736
+      ],
+      "confidence": 47.85,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 115,
+      "column": "page",
+      "text": "6",
+      "bbox": [
+        0,
+        2472,
+        99,
+        2570
+      ],
+      "confidence": 30.39,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 116,
+      "column": "page",
+      "text": "{ष ४",
+      "bbox": [
+        232,
+        2534,
+        361,
+        2616
+      ],
+      "confidence": 40.97,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 117,
+      "column": "page",
+      "text": "२",
+      "bbox": [
+        878,
+        2500,
+        994,
+        2622
+      ],
+      "confidence": 0.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 118,
+      "column": "page",
+      "text": "न",
+      "bbox": [
+        290,
+        2599,
+        380,
+        2715
+      ],
+      "confidence": 0.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 119,
+      "column": "page",
+      "text": ".",
+      "bbox": [
+        416,
+        2613,
+        512,
+        2724
+      ],
+      "confidence": 3.23,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 120,
+      "column": "page",
+      "text": "च",
+      "bbox": [
+        1408,
+        2520,
+        1637,
+        2669
+      ],
+      "confidence": 14.93,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 121,
+      "column": "page",
+      "text": "8",
+      "bbox": [
+        1615,
+        2554,
+        1839,
+        2706
+      ],
+      "confidence": 55.05,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 122,
+      "column": "page",
+      "text": "८",
+      "bbox": [
+        2122,
+        2680,
+        2165,
+        2696
+      ],
+      "confidence": 28.95,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 123,
+      "column": "page",
+      "text": "अ",
+      "bbox": [
+        156,
+        2654,
+        337,
+        2782
+      ],
+      "confidence": 50.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 124,
+      "column": "page",
+      "text": "9",
+      "bbox": [
+        846,
+        2704,
+        902,
+        2754
+      ],
+      "confidence": 34.38,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 125,
+      "column": "page",
+      "text": "(>",
+      "bbox": [
+        1047,
+        2596,
+        1241,
+        2737
+      ],
+      "confidence": 38.49,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 126,
+      "column": "page",
+      "text": "(ग्यः",
+      "bbox": [
+        324,
+        2758,
+        437,
+        2835
+      ],
+      "confidence": 20.73,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 127,
+      "column": "page",
+      "text": "ध.",
+      "bbox": [
+        1360,
+        2727,
+        1459,
+        2826
+      ],
+      "confidence": 43.64,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "वन्वदमामा|\n०\nन |\nस\n1)\n१९८४\n( ~\n9 ॐ,\n# ह\n,2॥\nडः |\n+ 9\n४\n3)\n\"६\n=^\n॥\n८\nप\n4\n4\nधे\n८\n3५ >\n& (\n# ॥ +,\n+ + 1\n“ ८ ट\n~\n|“\nन्द\nज\n५\n|\n१ ६\n1. /\nन\nस 4\n4 1\n(,\n६1\n४ ~\n-\nभि चै\nप\n# 8\nन >\n५ ५ ।\n0,\n# +\n॥\n(44\nकृ\n=\n0 ऋ\n8\nकुक\n(\nक\nन=\n~>\n(\n४:35\n0 न्‌\nहुः\n(1\n| चे > र\n>>\n॥ 2)\n` च\n|\n> ,\n(त /\n१ स\n2 4\nङ्श (\n१५. „ >\n4\n| (4.\nदः ५\n(\nट. ^\n^||९\n। #\n५\n^\nभ\n#॥\n| > थ\n॥\n॥\n/ ५.५  /\nट क १ ५५\nश\n4\n{ति\n१ |\nप चक\nकेचन\n>. 4. |~ ओ: |\n१ ) |\n^\n#..\n४।\nस)\n८.9) प\n१2५\n|\nचद |\nभः\nन\n३. |\n८\nप ।\n6\n{ष ४\n२\nन\n.\nच\n8\n८\nअ\n9\n(>\n(ग्यः\nध.",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review.",
+  "quality_review_flags": [
+    "Sparse-text fallback: low confidence; may recognize illustration shapes as characters. Requires manual review."
+  ]
+}

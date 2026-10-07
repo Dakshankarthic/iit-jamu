@@ -1,0 +1,506 @@
+{
+  "page": 10,
+  "source_image": "image/Chanda_Mama_10.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        226,
+        1122,
+        2041
+      ],
+      "text": "क उक्तवान्‌- “भोः! स्वशरीरं केवट\nस्थूटीकुर्वन्‌ च्रवृषभः इव अटनि ! किं\nटना न भवति ˆ भवराद्रणान्‌ द्रष्टूवा मम मनः\nज॒गुण्सितं भवति । परस्परकृदरनं भिना महट-\nविद्यायां किम्‌ अस्ति“ यथा आगतःतधा एव\nप्रतिगच्छतु\" इति ।\nणवं धनगुप्तन अपमानितः महुः क्रोधेन\nदन्तान्‌ निष्यी उयन्‌ रमणस्प॒ गृहम्‌ आगत्य\nउक्तवान्‌- “भोः! किमथ असव्यं व्दति ‡ धन-\nगुप्तः महतिं तिरस्करोति । सः मम॒ अप-\nमानं कृतव्रन्‌ । भवतः कारणात्‌ इदप्रथमतया\nअहम्‌ अपमानम्‌ अनुभूतवान्‌?\n“महाशय! धनगुप्तः भवन्तं । यदा तिरस्कत-\nवान्‌ मत्सितवान्‌ च , तदा मवान्‌ कि तूष्णी\nस्थितव्रान्‌! अये! मूट! भवतः महटविद्या तस्मिन्‌\nकिञ्चित्‌ प्रदर्हीनीया आसीत्‌ । इदानीम्‌ अपि\nकाटः न अतिक्रान्तः? इति रमणः सपरिहा-\nसम्‌ टक्तवान्‌ । ।",
+      "line_count": 18
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1155,
+        226,
+        2146,
+        2041
+      ],
+      "text": "क उक्ता महः पञ्चषैः प्रहारिः कुद्ितवान्‌ ।\nप्रहारवेदनया ष्टन्‌ रमणः उक्तवान्‌-- “दृष्टः\nध्रनगुप्तः भवन्तम्‌ अपमानितवान्‌ । किन्तु\nभवान्‌ मां प्रहतवान्‌। किम्‌ एतत्‌ न्याय्यम्‌ `\n- \"भवतः धनगुप्तस्य च मध्ये विद्वेषः स्यात्‌|\nअतः एव्र॒धनगुप्तं कुयितु भवान्‌ मां\nप्रात्साहयति । मम अपमानस्य भवान्‌ एब कार-\nणम । अतः भवन्तम्‌ एव॒ कु्ितवान्‌'' इति\nउक्वा म: निर्गतान्‌ ।\nप्रवृत्त सरव वृत्तान्तं रमणस्य पिता ज्ञातवान्‌। |\nसः रमणम्‌ आहूयः- ““वतस! धनगुप्तः दुष्टः ।\nधनरुप्तेन सह व्यवहारः मास्तु । परोपकारा्\nप्रवृत्ताः मानापयानयोः ठ॒ल्याः भवन्ति । अतः\nकर्तन्यत्रद्धया कर्ये प्रवृत्तः मवतु\" इति\nउपदिष्टवान्‌ ।\nएव पित्रा उपदिष्टः रमणः ततः परं मनसा\nअपि धनगुप्त न स्मृतवान्‌ ॥\nना 4 न न्रा |",
+      "line_count": 18
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "क उक्तवान्‌- “भोः! स्वशरीरं केवट",
+      "bbox": [
+        157,
+        226,
+        1100,
+        1936
+      ],
+      "confidence": 64.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "स्थूटीकुर्वन्‌ च्रवृषभः इव अटनि ! किं",
+      "bbox": [
+        209,
+        333,
+        1101,
+        410
+      ],
+      "confidence": 43.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "टना न भवति ˆ भवराद्रणान्‌ द्रष्टूवा मम मनः",
+      "bbox": [
+        209,
+        432,
+        1095,
+        499
+      ],
+      "confidence": 47.61,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "ज॒गुण्सितं भवति । परस्परकृदरनं भिना महट-",
+      "bbox": [
+        210,
+        523,
+        1096,
+        594
+      ],
+      "confidence": 23.53,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "विद्यायां किम्‌ अस्ति“ यथा आगतःतधा एव",
+      "bbox": [
+        212,
+        619,
+        1102,
+        681
+      ],
+      "confidence": 70.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "प्रतिगच्छतु\" इति ।",
+      "bbox": [
+        211,
+        713,
+        561,
+        777
+      ],
+      "confidence": 37.02,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "णवं धनगुप्तन अपमानितः महुः क्रोधेन",
+      "bbox": [
+        294,
+        798,
+        1102,
+        873
+      ],
+      "confidence": 68.25,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "दन्तान्‌ निष्यी उयन्‌ रमणस्प॒ गृहम्‌ आगत्य",
+      "bbox": [
+        220,
+        894,
+        1102,
+        968
+      ],
+      "confidence": 66.06,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "उक्तवान्‌- “भोः! किमथ असव्यं व्दति ‡ धन-",
+      "bbox": [
+        214,
+        984,
+        1104,
+        1056
+      ],
+      "confidence": 62.58,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "गुप्तः महतिं तिरस्करोति । सः मम॒ अप-",
+      "bbox": [
+        213,
+        1080,
+        1097,
+        1152
+      ],
+      "confidence": 40.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "मानं कृतव्रन्‌ । भवतः कारणात्‌ इदप्रथमतया",
+      "bbox": [
+        211,
+        1177,
+        1100,
+        1244
+      ],
+      "confidence": 76.11,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "अहम्‌ अपमानम्‌ अनुभूतवान्‌?",
+      "bbox": [
+        213,
+        1274,
+        788,
+        1340
+      ],
+      "confidence": 77.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "“महाशय! धनगुप्तः भवन्तं । यदा तिरस्कत-",
+      "bbox": [
+        302,
+        1356,
+        1100,
+        1441
+      ],
+      "confidence": 61.78,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "वान्‌ मत्सितवान्‌ च , तदा मवान्‌ कि तूष्णी",
+      "bbox": [
+        215,
+        1420,
+        1105,
+        1526
+      ],
+      "confidence": 69.39,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "left",
+      "text": "स्थितव्रान्‌! अये! मूट! भवतः महटविद्या तस्मिन्‌",
+      "bbox": [
+        217,
+        1546,
+        1117,
+        1621
+      ],
+      "confidence": 51.67,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "left",
+      "text": "किञ्चित्‌ प्रदर्हीनीया आसीत्‌ । इदानीम्‌ अपि",
+      "bbox": [
+        216,
+        1637,
+        1106,
+        1712
+      ],
+      "confidence": 54.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "left",
+      "text": "काटः न अतिक्रान्तः? इति रमणः सपरिहा-",
+      "bbox": [
+        216,
+        1735,
+        1098,
+        1799
+      ],
+      "confidence": 80.24,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "left",
+      "text": "सम्‌ टक्तवान्‌ । ।",
+      "bbox": [
+        216,
+        1842,
+        977,
+        1896
+      ],
+      "confidence": 60.54,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "क उक्ता महः पञ्चषैः प्रहारिः कुद्ितवान्‌ ।",
+      "bbox": [
+        1155,
+        226,
+        2126,
+        1935
+      ],
+      "confidence": 44.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "प्रहारवेदनया ष्टन्‌ रमणः उक्तवान्‌-- “दृष्टः",
+      "bbox": [
+        1165,
+        335,
+        2056,
+        407
+      ],
+      "confidence": 71.03,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "ध्रनगुप्तः भवन्तम्‌ अपमानितवान्‌ । किन्तु",
+      "bbox": [
+        1165,
+        431,
+        2062,
+        499
+      ],
+      "confidence": 75.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "भवान्‌ मां प्रहतवान्‌। किम्‌ एतत्‌ न्याय्यम्‌ `",
+      "bbox": [
+        1167,
+        512,
+        2034,
+        591
+      ],
+      "confidence": 71.49,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "- \"भवतः धनगुप्तस्य च मध्ये विद्वेषः स्यात्‌|",
+      "bbox": [
+        1255,
+        653,
+        2048,
+        728
+      ],
+      "confidence": 54.55,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "अतः एव्र॒धनगुप्तं कुयितु भवान्‌ मां",
+      "bbox": [
+        1167,
+        751,
+        2057,
+        822
+      ],
+      "confidence": 49.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "प्रात्साहयति । मम अपमानस्य भवान्‌ एब कार-",
+      "bbox": [
+        1166,
+        838,
+        2053,
+        920
+      ],
+      "confidence": 71.3,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "णम । अतः भवन्तम्‌ एव॒ कु्ितवान्‌'' इति",
+      "bbox": [
+        1165,
+        938,
+        2056,
+        1015
+      ],
+      "confidence": 54.83,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "उक्वा म: निर्गतान्‌ ।",
+      "bbox": [
+        1165,
+        1024,
+        1668,
+        1104
+      ],
+      "confidence": 45.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "प्रवृत्त सरव वृत्तान्तं रमणस्य पिता ज्ञातवान्‌। |",
+      "bbox": [
+        1248,
+        1145,
+        2128,
+        1235
+      ],
+      "confidence": 69.39,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "सः रमणम्‌ आहूयः- ““वतस! धनगुप्तः दुष्टः ।",
+      "bbox": [
+        1165,
+        1245,
+        2056,
+        1320
+      ],
+      "confidence": 69.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "धनरुप्तेन सह व्यवहारः मास्तु । परोपकारा्",
+      "bbox": [
+        1166,
+        1330,
+        2063,
+        1409
+      ],
+      "confidence": 61.78,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "प्रवृत्ताः मानापयानयोः ठ॒ल्याः भवन्ति । अतः",
+      "bbox": [
+        1169,
+        1416,
+        2055,
+        1499
+      ],
+      "confidence": 53.25,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "कर्तन्यत्रद्धया कर्ये प्रवृत्तः मवतु\" इति",
+      "bbox": [
+        1171,
+        1522,
+        2064,
+        1609
+      ],
+      "confidence": 44.25,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "उपदिष्टवान्‌ ।",
+      "bbox": [
+        1172,
+        1622,
+        1425,
+        1689
+      ],
+      "confidence": 86.99,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "एव पित्रा उपदिष्टः रमणः ततः परं मनसा",
+      "bbox": [
+        1252,
+        1731,
+        2062,
+        1794
+      ],
+      "confidence": 92.54,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "अपि धनगुप्त न स्मृतवान्‌ ॥",
+      "bbox": [
+        1172,
+        1824,
+        1719,
+        1924
+      ],
+      "confidence": 77.54,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 36,
+      "column": "right",
+      "text": "ना 4 न न्रा |",
+      "bbox": [
+        1155,
+        1960,
+        2074,
+        2057
+      ],
+      "confidence": 56.44,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "क उक्तवान्‌- “भोः! स्वशरीरं केवट\nस्थूटीकुर्वन्‌ च्रवृषभः इव अटनि ! किं\nटना न भवति ˆ भवराद्रणान्‌ द्रष्टूवा मम मनः\nज॒गुण्सितं भवति । परस्परकृदरनं भिना महट-\nविद्यायां किम्‌ अस्ति“ यथा आगतःतधा एव\nप्रतिगच्छतु\" इति ।\nणवं धनगुप्तन अपमानितः महुः क्रोधेन\nदन्तान्‌ निष्यी उयन्‌ रमणस्प॒ गृहम्‌ आगत्य\nउक्तवान्‌- “भोः! किमथ असव्यं व्दति ‡ धन-\nगुप्तः महतिं तिरस्करोति । सः मम॒ अप-\nमानं कृतव्रन्‌ । भवतः कारणात्‌ इदप्रथमतया\nअहम्‌ अपमानम्‌ अनुभूतवान्‌?\n“महाशय! धनगुप्तः भवन्तं । यदा तिरस्कत-\nवान्‌ मत्सितवान्‌ च , तदा मवान्‌ कि तूष्णी\nस्थितव्रान्‌! अये! मूट! भवतः महटविद्या तस्मिन्‌\nकिञ्चित्‌ प्रदर्हीनीया आसीत्‌ । इदानीम्‌ अपि\nकाटः न अतिक्रान्तः? इति रमणः सपरिहा-\nसम्‌ टक्तवान्‌ । ।\n\nक उक्ता महः पञ्चषैः प्रहारिः कुद्ितवान्‌ ।\nप्रहारवेदनया ष्टन्‌ रमणः उक्तवान्‌-- “दृष्टः\nध्रनगुप्तः भवन्तम्‌ अपमानितवान्‌ । किन्तु\nभवान्‌ मां प्रहतवान्‌। किम्‌ एतत्‌ न्याय्यम्‌ `\n- \"भवतः धनगुप्तस्य च मध्ये विद्वेषः स्यात्‌|\nअतः एव्र॒धनगुप्तं कुयितु भवान्‌ मां\nप्रात्साहयति । मम अपमानस्य भवान्‌ एब कार-\nणम । अतः भवन्तम्‌ एव॒ कु्ितवान्‌'' इति\nउक्वा म: निर्गतान्‌ ।\nप्रवृत्त सरव वृत्तान्तं रमणस्य पिता ज्ञातवान्‌। |\nसः रमणम्‌ आहूयः- ““वतस! धनगुप्तः दुष्टः ।\nधनरुप्तेन सह व्यवहारः मास्तु । परोपकारा्\nप्रवृत्ताः मानापयानयोः ठ॒ल्याः भवन्ति । अतः\nकर्तन्यत्रद्धया कर्ये प्रवृत्तः मवतु\" इति\nउपदिष्टवान्‌ ।\nएव पित्रा उपदिष्टः रमणः ततः परं मनसा\nअपि धनगुप्त न स्मृतवान्‌ ॥\nना 4 न न्रा |",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

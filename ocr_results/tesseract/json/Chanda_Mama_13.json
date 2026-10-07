@@ -1,0 +1,545 @@
+{
+  "page": 13,
+  "source_image": "image/Chanda_Mama_13.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        226,
+        1134,
+        2664
+      ],
+      "text": "“पुत्रक कोऽयं परिहासः इदानीम्‌ अपि\nभवतः बार्भावः न दूरढ्गतः । बुसुक्षया प्राणाः\nएव ॒निर्गच्छन्तः सन्ति । भवान्‌ त॒ भक्ष्य-\nभोज्यम्‌ इति किमपि जव्यति। परिहासः मा्तु।\nशीघ्रं गत्वा काड्चन रोका: आनयतु\" इति\nमाता उक्तवती ।\nपिङ्गलः मातृसमीपे एव उपविदय मन्तरं\nपठन्‌ स्यूते हस्तं प्रसार्य नवनवीनरोटिकाः बहिः\nआनीतवान्‌ । एतत्‌ दृष्ट्वा माता आश्चर्य -\nचकिता। पिडगलः तु पुनरपि स्यूते हस्तं प्रसाय\nभक््य-मोज्यादिकं व्यज्ञन-पायसादिकं बहिः\nआनीय पात्र्य उपरि राशीक्रतवान्‌ । सुगन्ध-\nसहिताः भोजनपदार्थाः !\nमाता आश्वर्येण एतत्सवै पस्यन्ती उक्तत्रती\nकिमेतत्‌ पुत्र मन्त्रः वा मायाजाटं वा? अथवा\nअहं श्वप्नं पर्यन्ती अस्मि वा £ अहं किमपि\nज्ञातुं न शक्नोमि । अव्पे स्यूते एतत्सव कथं\nस्थापितम्‌ ?' इति ।\nपिङ्गलः मन्तरस्यूतं ॒पुटीकत्य स्वसमीपे\nस्थापितवान्‌ । एकैकशः खाद्यं सखये खादन्‌,\nमातुः मुखे अपि स्थापयन्‌ उक्तवरान्‌-- “अम्र!\nविवरणं अनन्तरं वदामि। यदि उदरं प्रण भवति,\nजिहवा सचि जानाति, तहिं एषः छखप्नः न\nइति भवती स्यम्‌ ए जानाति । अस्तु, प्रधमं\nमोजन करोतु इति ।\nअनन्तरं पिङ्गलेन सह त॑स्य माता अपि",
+      "line_count": 26
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1167,
+        1502,
+        2146,
+        2664
+      ],
+      "text": "आतृप्ति भोजनं कृतवती । पिङ्गलः रिक्त-\nस्थालिकाः स्यूते स्थापयित्वा अदर्यीकुत्य तं\nस्यतं मातुःकुते दत्तवान्‌ । अम्ब ! स्यूतं भवत्याः\nकृते इत्येव आनीतवान्‌ । अद्य आरभ्य भवत्याः\nपाककाथै नास्ति । स्यूते अद्भुता शक्तिः अस्ति\nएतस्य प्रभव्रेण अभिरषितानि वस्तूनि रभ्यन्ते।\nतदर्थम्‌ एकः मन्त्रः अस्ति' इति वरदन्‌ पिङ्गः .\nमातुः कर्णे मन्त्रं उपदिश्य उक्तवान्‌- “एतं\nमन्त्रं रहस्यं गोपयतु\" इति । वृद्धा सा माता\nभयभक्त्या तं स्यूतं स्वीकृतवती ।\nएवं माता पुत्रेण सह॒ सन्तोषेण सम्भाषणं\nकरोति स्म। तदा मुखद्ररे द्योः सम्भाषण, उच्च\nस्वरेण रोदनं च श्रतम ।",
+      "line_count": 13
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "“पुत्रक कोऽयं परिहासः इदानीम्‌ अपि",
+      "bbox": [
+        284,
+        283,
+        1087,
+        358
+      ],
+      "confidence": 71.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "भवतः बार्भावः न दूरढ्गतः । बुसुक्षया प्राणाः",
+      "bbox": [
+        196,
+        390,
+        1081,
+        452
+      ],
+      "confidence": 64.18,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "एव ॒निर्गच्छन्तः सन्ति । भवान्‌ त॒ भक्ष्य-",
+      "bbox": [
+        201,
+        472,
+        1087,
+        543
+      ],
+      "confidence": 58.78,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "भोज्यम्‌ इति किमपि जव्यति। परिहासः मा्तु।",
+      "bbox": [
+        203,
+        565,
+        1089,
+        647
+      ],
+      "confidence": 62.87,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "शीघ्रं गत्वा काड्चन रोका: आनयतु\" इति",
+      "bbox": [
+        192,
+        658,
+        1092,
+        726
+      ],
+      "confidence": 40.93,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "माता उक्तवती ।",
+      "bbox": [
+        199,
+        759,
+        514,
+        817
+      ],
+      "confidence": 78.21,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "पिङ्गलः मातृसमीपे एव उपविदय मन्तरं",
+      "bbox": [
+        284,
+        842,
+        1093,
+        925
+      ],
+      "confidence": 71.55,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "पठन्‌ स्यूते हस्तं प्रसार्य नवनवीनरोटिकाः बहिः",
+      "bbox": [
+        198,
+        936,
+        1088,
+        1017
+      ],
+      "confidence": 50.57,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "आनीतवान्‌ । एतत्‌ दृष्ट्वा माता आश्चर्य -",
+      "bbox": [
+        208,
+        1024,
+        1097,
+        1109
+      ],
+      "confidence": 73.09,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "चकिता। पिडगलः तु पुनरपि स्यूते हस्तं प्रसाय",
+      "bbox": [
+        203,
+        1120,
+        1099,
+        1206
+      ],
+      "confidence": 88.54,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "भक््य-मोज्यादिकं व्यज्ञन-पायसादिकं बहिः",
+      "bbox": [
+        205,
+        1219,
+        1094,
+        1282
+      ],
+      "confidence": 48.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "आनीय पात्र्य उपरि राशीक्रतवान्‌ । सुगन्ध-",
+      "bbox": [
+        210,
+        1314,
+        1109,
+        1382
+      ],
+      "confidence": 48.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "सहिताः भोजनपदार्थाः !",
+      "bbox": [
+        207,
+        1405,
+        679,
+        1472
+      ],
+      "confidence": 72.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "माता आश्वर्येण एतत्सवै पस्यन्ती उक्तत्रती",
+      "bbox": [
+        292,
+        1497,
+        1112,
+        1575
+      ],
+      "confidence": 43.22,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "left",
+      "text": "किमेतत्‌ पुत्र मन्त्रः वा मायाजाटं वा? अथवा",
+      "bbox": [
+        192,
+        1587,
+        1115,
+        1665
+      ],
+      "confidence": 67.55,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "left",
+      "text": "अहं श्वप्नं पर्यन्ती अस्मि वा £ अहं किमपि",
+      "bbox": [
+        213,
+        1688,
+        1118,
+        1754
+      ],
+      "confidence": 74.87,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "left",
+      "text": "ज्ञातुं न शक्नोमि । अव्पे स्यूते एतत्सव कथं",
+      "bbox": [
+        225,
+        1774,
+        1118,
+        1855
+      ],
+      "confidence": 64.92,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "left",
+      "text": "स्थापितम्‌ ?' इति ।",
+      "bbox": [
+        226,
+        1870,
+        593,
+        1941
+      ],
+      "confidence": 73.06,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "left",
+      "text": "पिङ्गलः मन्तरस्यूतं ॒पुटीकत्य स्वसमीपे",
+      "bbox": [
+        303,
+        1968,
+        1117,
+        2050
+      ],
+      "confidence": 32.23,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "left",
+      "text": "स्थापितवान्‌ । एकैकशः खाद्यं सखये खादन्‌,",
+      "bbox": [
+        218,
+        2058,
+        1115,
+        2134
+      ],
+      "confidence": 59.07,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "left",
+      "text": "मातुः मुखे अपि स्थापयन्‌ उक्तवरान्‌-- “अम्र!",
+      "bbox": [
+        226,
+        2153,
+        1114,
+        2230
+      ],
+      "confidence": 73.73,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "left",
+      "text": "विवरणं अनन्तरं वदामि। यदि उदरं प्रण भवति,",
+      "bbox": [
+        224,
+        2244,
+        1119,
+        2324
+      ],
+      "confidence": 77.24,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "left",
+      "text": "जिहवा सचि जानाति, तहिं एषः छखप्नः न",
+      "bbox": [
+        224,
+        2338,
+        1124,
+        2418
+      ],
+      "confidence": 74.77,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "left",
+      "text": "इति भवती स्यम्‌ ए जानाति । अस्तु, प्रधमं",
+      "bbox": [
+        224,
+        2437,
+        1125,
+        2504
+      ],
+      "confidence": 84.95,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "left",
+      "text": "मोजन करोतु इति ।",
+      "bbox": [
+        226,
+        2516,
+        636,
+        2595
+      ],
+      "confidence": 74.35,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "left",
+      "text": "अनन्तरं पिङ्गलेन सह त॑स्य माता अपि",
+      "bbox": [
+        312,
+        2609,
+        1127,
+        2664
+      ],
+      "confidence": 74.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "आतृप्ति भोजनं कृतवती । पिङ्गलः रिक्त-",
+      "bbox": [
+        1185,
+        1504,
+        2071,
+        1579
+      ],
+      "confidence": 67.04,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "स्थालिकाः स्यूते स्थापयित्वा अदर्यीकुत्य तं",
+      "bbox": [
+        1183,
+        1596,
+        2074,
+        1679
+      ],
+      "confidence": 62.26,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "स्यतं मातुःकुते दत्तवान्‌ । अम्ब ! स्यूतं भवत्याः",
+      "bbox": [
+        1183,
+        1680,
+        2068,
+        1779
+      ],
+      "confidence": 65.67,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "कृते इत्येव आनीतवान्‌ । अद्य आरभ्य भवत्याः",
+      "bbox": [
+        1184,
+        1785,
+        2075,
+        1862
+      ],
+      "confidence": 85.02,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "पाककाथै नास्ति । स्यूते अद्भुता शक्तिः अस्ति",
+      "bbox": [
+        1184,
+        1860,
+        2070,
+        1957
+      ],
+      "confidence": 75.83,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "एतस्य प्रभव्रेण अभिरषितानि वस्तूनि रभ्यन्ते।",
+      "bbox": [
+        1185,
+        1968,
+        2072,
+        2043
+      ],
+      "confidence": 49.8,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "तदर्थम्‌ एकः मन्त्रः अस्ति' इति वरदन्‌ पिङ्गः .",
+      "bbox": [
+        1185,
+        2062,
+        2103,
+        2138
+      ],
+      "confidence": 67.71,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "मातुः कर्णे मन्त्रं उपदिश्य उक्तवान्‌- “एतं",
+      "bbox": [
+        1188,
+        2156,
+        2082,
+        2226
+      ],
+      "confidence": 61.92,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "मन्त्रं रहस्यं गोपयतु\" इति । वृद्धा सा माता",
+      "bbox": [
+        1189,
+        2249,
+        2081,
+        2317
+      ],
+      "confidence": 83.49,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 36,
+      "column": "right",
+      "text": "भयभक्त्या तं स्यूतं स्वीकृतवती ।",
+      "bbox": [
+        1192,
+        2345,
+        1796,
+        2418
+      ],
+      "confidence": 58.62,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 37,
+      "column": "right",
+      "text": "एवं माता पुत्रेण सह॒ सन्तोषेण सम्भाषणं",
+      "bbox": [
+        1275,
+        2423,
+        2088,
+        2493
+      ],
+      "confidence": 89.28,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 38,
+      "column": "right",
+      "text": "करोति स्म। तदा मुखद्ररे द्योः सम्भाषण, उच्च",
+      "bbox": [
+        1192,
+        2516,
+        2087,
+        2586
+      ],
+      "confidence": 71.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 39,
+      "column": "right",
+      "text": "स्वरेण रोदनं च श्रतम ।",
+      "bbox": [
+        1178,
+        2599,
+        1654,
+        2664
+      ],
+      "confidence": 76.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "“पुत्रक कोऽयं परिहासः इदानीम्‌ अपि\nभवतः बार्भावः न दूरढ्गतः । बुसुक्षया प्राणाः\nएव ॒निर्गच्छन्तः सन्ति । भवान्‌ त॒ भक्ष्य-\nभोज्यम्‌ इति किमपि जव्यति। परिहासः मा्तु।\nशीघ्रं गत्वा काड्चन रोका: आनयतु\" इति\nमाता उक्तवती ।\nपिङ्गलः मातृसमीपे एव उपविदय मन्तरं\nपठन्‌ स्यूते हस्तं प्रसार्य नवनवीनरोटिकाः बहिः\nआनीतवान्‌ । एतत्‌ दृष्ट्वा माता आश्चर्य -\nचकिता। पिडगलः तु पुनरपि स्यूते हस्तं प्रसाय\nभक््य-मोज्यादिकं व्यज्ञन-पायसादिकं बहिः\nआनीय पात्र्य उपरि राशीक्रतवान्‌ । सुगन्ध-\nसहिताः भोजनपदार्थाः !\nमाता आश्वर्येण एतत्सवै पस्यन्ती उक्तत्रती\nकिमेतत्‌ पुत्र मन्त्रः वा मायाजाटं वा? अथवा\nअहं श्वप्नं पर्यन्ती अस्मि वा £ अहं किमपि\nज्ञातुं न शक्नोमि । अव्पे स्यूते एतत्सव कथं\nस्थापितम्‌ ?' इति ।\nपिङ्गलः मन्तरस्यूतं ॒पुटीकत्य स्वसमीपे\nस्थापितवान्‌ । एकैकशः खाद्यं सखये खादन्‌,\nमातुः मुखे अपि स्थापयन्‌ उक्तवरान्‌-- “अम्र!\nविवरणं अनन्तरं वदामि। यदि उदरं प्रण भवति,\nजिहवा सचि जानाति, तहिं एषः छखप्नः न\nइति भवती स्यम्‌ ए जानाति । अस्तु, प्रधमं\nमोजन करोतु इति ।\nअनन्तरं पिङ्गलेन सह त॑स्य माता अपि\n\nआतृप्ति भोजनं कृतवती । पिङ्गलः रिक्त-\nस्थालिकाः स्यूते स्थापयित्वा अदर्यीकुत्य तं\nस्यतं मातुःकुते दत्तवान्‌ । अम्ब ! स्यूतं भवत्याः\nकृते इत्येव आनीतवान्‌ । अद्य आरभ्य भवत्याः\nपाककाथै नास्ति । स्यूते अद्भुता शक्तिः अस्ति\nएतस्य प्रभव्रेण अभिरषितानि वस्तूनि रभ्यन्ते।\nतदर्थम्‌ एकः मन्त्रः अस्ति' इति वरदन्‌ पिङ्गः .\nमातुः कर्णे मन्त्रं उपदिश्य उक्तवान्‌- “एतं\nमन्त्रं रहस्यं गोपयतु\" इति । वृद्धा सा माता\nभयभक्त्या तं स्यूतं स्वीकृतवती ।\nएवं माता पुत्रेण सह॒ सन्तोषेण सम्भाषणं\nकरोति स्म। तदा मुखद्ररे द्योः सम्भाषण, उच्च\nस्वरेण रोदनं च श्रतम ।",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

@@ -1,0 +1,431 @@
+{
+  "page": 27,
+  "source_image": "image/Chanda_Mama_27.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        1105,
+        1131,
+        2523
+      ],
+      "text": "। वसति स्म| सीताफठ तस्य प्रियं फम्‌ आसीत्‌\n| एकदा सः मागे गच्छति स्म । मार्गमध्ये\n| कान्तेशनामकः भिखितवान्‌ । कान्तेशः\n| मासतः पूरव दूरदेशतः आगत्य तस्मिनेव नगे\nवसति स्म। तस्य॒ हस्ते एकम्‌ उत्तमं\n| सीताफलम्‌ आसीत्‌ ।\nफट दृष्ट्वा कोटीशः आश्चर्येण -अहो! किम्‌-\n| एतत्‌! अकाले सीताफलम्‌ । एतत्‌ फं भवान्‌\n। कुत्र ठन्धवान्‌ ? प्राथ: इदमिदानीमेव वृक्षात्‌\n| अत्रचित्य आनीतम्‌ इव दृरद्यते भोः !, इति\n| पृष्टवान्‌ ।\n| “अत्र आश्रयस्य किमस्ति कारणम्‌ ? मम\nगृहस्य पश्चाद्भागे एकः आश्रवृक्षः अस्ति ।\nतस्मिन्‌ वृक्षे संवत्सरस्य स्वषु काठेषु सर्भरविधानि\n| फखानि अपि लभ्यन्ते\" इति कान्तश्च: उक्त-",
+      "line_count": 15
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1161,
+        1105,
+        2146,
+        2523
+      ],
+      "text": "“नितराम्‌ असम्भवम्‌ एतत्‌।` इति कौटीश्ञः\nपुनः अधिकेन विस्मयेन उक्तवान्‌ । |\n‹किमथम्‌ असम्भवम्‌? नित्यानन्दयोगिनः '\nभम गृहम्‌ आगत्य कूपस्य जटं मन्त्रपूतं कृत्वा |\nगतवन्तः । तदारभ्य एवमेव प्रवतेते । बहवः\nजनाः आगत्य मम कूपस्य जट याचन्ति । अहं\nतु न ददामि इत्येव वदामि। किम्धम्‌\nइति चेत्‌, यद्वि मम कूपस्य जलेन |\nसवै वृक्षाः सवविधानि फटानि दातुं\nसमर्थाः भवन्ति, तहिं मम॒वैरिष्ये किं वां\nस्यात्‌ ? तथा याचना अपि अयुक्ता । अस्य\nजटस्य दानमपि अयुक्तम्‌ इति उक्त्वा\nकान्तेशः अग्रे गतवान्‌ ।\nकान्तेशस्य गृह बहुदूरे आसीत्‌ । तथपि.\nतत्र गत्वा तं विचत्रवृक्षं दृष्ट्वा आगन्तव्यम",
+      "line_count": 15
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "। वसति स्म| सीताफठ तस्य प्रियं फम्‌ आसीत्‌",
+      "bbox": [
+        163,
+        1100,
+        1113,
+        1177
+      ],
+      "confidence": 49.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "| एकदा सः मागे गच्छति स्म । मार्गमध्ये",
+      "bbox": [
+        163,
+        1177,
+        1115,
+        1276
+      ],
+      "confidence": 88.6,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "| कान्तेशनामकः भिखितवान्‌ । कान्तेशः",
+      "bbox": [
+        164,
+        1286,
+        1107,
+        1384
+      ],
+      "confidence": 65.75,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "| मासतः पूरव दूरदेशतः आगत्य तस्मिनेव नगे",
+      "bbox": [
+        164,
+        1376,
+        1115,
+        1498
+      ],
+      "confidence": 81.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "वसति स्म। तस्य॒ हस्ते एकम्‌ उत्तमं",
+      "bbox": [
+        218,
+        1474,
+        1117,
+        1541
+      ],
+      "confidence": 78.63,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "| सीताफलम्‌ आसीत्‌ ।",
+      "bbox": [
+        160,
+        1507,
+        646,
+        1716
+      ],
+      "confidence": 84.03,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "फट दृष्ट्वा कोटीशः आश्चर्येण -अहो! किम्‌-",
+      "bbox": [
+        301,
+        1659,
+        1111,
+        1736
+      ],
+      "confidence": 66.12,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "| एतत्‌! अकाले सीताफलम्‌ । एतत्‌ फं भवान्‌",
+      "bbox": [
+        162,
+        1719,
+        1124,
+        1879
+      ],
+      "confidence": 87.53,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "। कुत्र ठन्धवान्‌ ? प्राथ: इदमिदानीमेव वृक्षात्‌",
+      "bbox": [
+        164,
+        1850,
+        1121,
+        1918
+      ],
+      "confidence": 46.11,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "| अत्रचित्य आनीतम्‌ इव दृरद्यते भोः !, इति",
+      "bbox": [
+        164,
+        1941,
+        1114,
+        2035
+      ],
+      "confidence": 57.97,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "| पृष्टवान्‌ ।",
+      "bbox": [
+        164,
+        2036,
+        404,
+        2125
+      ],
+      "confidence": 89.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "| “अत्र आश्रयस्य किमस्ति कारणम्‌ ? मम",
+      "bbox": [
+        164,
+        2120,
+        1112,
+        2229
+      ],
+      "confidence": 75.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "गृहस्य पश्चाद्भागे एकः आश्रवृक्षः अस्ति ।",
+      "bbox": [
+        223,
+        2219,
+        1111,
+        2287
+      ],
+      "confidence": 36.67,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "तस्मिन्‌ वृक्षे संवत्सरस्य स्वषु काठेषु सर्भरविधानि",
+      "bbox": [
+        214,
+        2303,
+        1116,
+        2383
+      ],
+      "confidence": 50.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "left",
+      "text": "| फखानि अपि लभ्यन्ते\" इति कान्तश्च: उक्त-",
+      "bbox": [
+        164,
+        2406,
+        1115,
+        2523
+      ],
+      "confidence": 52.74,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "“नितराम्‌ असम्भवम्‌ एतत्‌।` इति कौटीश्ञः",
+      "bbox": [
+        1268,
+        1105,
+        2080,
+        1172
+      ],
+      "confidence": 65.8,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "पुनः अधिकेन विस्मयेन उक्तवान्‌ । |",
+      "bbox": [
+        1180,
+        1105,
+        2134,
+        1306
+      ],
+      "confidence": 85.43,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "‹किमथम्‌ असम्भवम्‌? नित्यानन्दयोगिनः '",
+      "bbox": [
+        1267,
+        1282,
+        2131,
+        1355
+      ],
+      "confidence": 41.83,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "भम गृहम्‌ आगत्य कूपस्य जटं मन्त्रपूतं कृत्वा |",
+      "bbox": [
+        1178,
+        1320,
+        2133,
+        1474
+      ],
+      "confidence": 73.38,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "गतवन्तः । तदारभ्य एवमेव प्रवतेते । बहवः",
+      "bbox": [
+        1180,
+        1476,
+        2076,
+        1545
+      ],
+      "confidence": 67.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "जनाः आगत्य मम कूपस्य जट याचन्ति । अहं",
+      "bbox": [
+        1182,
+        1572,
+        2082,
+        1645
+      ],
+      "confidence": 63.69,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "तु न ददामि इत्येव वदामि। किम्धम्‌",
+      "bbox": [
+        1182,
+        1663,
+        2084,
+        1731
+      ],
+      "confidence": 73.04,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "इति चेत्‌, यद्वि मम कूपस्य जलेन |",
+      "bbox": [
+        1180,
+        1745,
+        2131,
+        1881
+      ],
+      "confidence": 84.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "सवै वृक्षाः सवविधानि फटानि दातुं",
+      "bbox": [
+        1179,
+        1848,
+        2088,
+        1926
+      ],
+      "confidence": 79.87,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "समर्थाः भवन्ति, तहिं मम॒वैरिष्ये किं वां",
+      "bbox": [
+        1178,
+        1935,
+        2078,
+        2009
+      ],
+      "confidence": 72.28,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "स्यात्‌ ? तथा याचना अपि अयुक्ता । अस्य",
+      "bbox": [
+        1176,
+        2043,
+        2075,
+        2108
+      ],
+      "confidence": 84.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "जटस्य दानमपि अयुक्तम्‌ इति उक्त्वा",
+      "bbox": [
+        1176,
+        2132,
+        2081,
+        2199
+      ],
+      "confidence": 61.89,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "कान्तेशः अग्रे गतवान्‌ ।",
+      "bbox": [
+        1178,
+        2222,
+        1646,
+        2294
+      ],
+      "confidence": 87.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "कान्तेशस्य गृह बहुदूरे आसीत्‌ । तथपि.",
+      "bbox": [
+        1271,
+        2316,
+        2079,
+        2397
+      ],
+      "confidence": 69.11,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "तत्र गत्वा तं विचत्रवृक्षं दृष्ट्वा आगन्तव्यम",
+      "bbox": [
+        1183,
+        2408,
+        2072,
+        2487
+      ],
+      "confidence": 66.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "। वसति स्म| सीताफठ तस्य प्रियं फम्‌ आसीत्‌\n| एकदा सः मागे गच्छति स्म । मार्गमध्ये\n| कान्तेशनामकः भिखितवान्‌ । कान्तेशः\n| मासतः पूरव दूरदेशतः आगत्य तस्मिनेव नगे\nवसति स्म। तस्य॒ हस्ते एकम्‌ उत्तमं\n| सीताफलम्‌ आसीत्‌ ।\nफट दृष्ट्वा कोटीशः आश्चर्येण -अहो! किम्‌-\n| एतत्‌! अकाले सीताफलम्‌ । एतत्‌ फं भवान्‌\n। कुत्र ठन्धवान्‌ ? प्राथ: इदमिदानीमेव वृक्षात्‌\n| अत्रचित्य आनीतम्‌ इव दृरद्यते भोः !, इति\n| पृष्टवान्‌ ।\n| “अत्र आश्रयस्य किमस्ति कारणम्‌ ? मम\nगृहस्य पश्चाद्भागे एकः आश्रवृक्षः अस्ति ।\nतस्मिन्‌ वृक्षे संवत्सरस्य स्वषु काठेषु सर्भरविधानि\n| फखानि अपि लभ्यन्ते\" इति कान्तश्च: उक्त-\n\n“नितराम्‌ असम्भवम्‌ एतत्‌।` इति कौटीश्ञः\nपुनः अधिकेन विस्मयेन उक्तवान्‌ । |\n‹किमथम्‌ असम्भवम्‌? नित्यानन्दयोगिनः '\nभम गृहम्‌ आगत्य कूपस्य जटं मन्त्रपूतं कृत्वा |\nगतवन्तः । तदारभ्य एवमेव प्रवतेते । बहवः\nजनाः आगत्य मम कूपस्य जट याचन्ति । अहं\nतु न ददामि इत्येव वदामि। किम्धम्‌\nइति चेत्‌, यद्वि मम कूपस्य जलेन |\nसवै वृक्षाः सवविधानि फटानि दातुं\nसमर्थाः भवन्ति, तहिं मम॒वैरिष्ये किं वां\nस्यात्‌ ? तथा याचना अपि अयुक्ता । अस्य\nजटस्य दानमपि अयुक्तम्‌ इति उक्त्वा\nकान्तेशः अग्रे गतवान्‌ ।\nकान्तेशस्य गृह बहुदूरे आसीत्‌ । तथपि.\nतत्र गत्वा तं विचत्रवृक्षं दृष्ट्वा आगन्तव्यम",
+  "warnings": [
+    "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!",
+    "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
+  ],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

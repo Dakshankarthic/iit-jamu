@@ -1,0 +1,532 @@
+{
+  "page": 62,
+  "source_image": "image/Chanda_Mama_62.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        1417,
+        1089,
+        2608
+      ],
+      "text": "अहम्‌ अत्र एव वासं कतु इच्छामि । विन्त\nभवान्‌ कृपया पिपासानिवारणाथं जराशयं\nदशयतु । येन अहं बहू उपकृता भवामि।\nउष्टूवाहकः जलेन परिपूर्ण बरहनटाायं\nतस्याः कृते दशितवान्‌ । सा जटाशयस्य तीरे\nएव॒ स्थितवती । सः उष्टूवाहकः समीपस्थ-\nराव्यल्य सेवकः असीत्‌ । सः सेवकः युव-\nराजस्य कृते महासचिव्स्थ पुत्र्याः विषयं\nनिवेदितवान्‌ ।\nयुवराजः अनुक्षणम्‌ एव प्रस्थाय तस्याः\nसमीपे आगतवान्‌ । अद्षटपूरवो सौन्दर्य निधि\nतादशं सुन्दरीं दष्ट्वा युवराजः आश्वयचकितः",
+      "line_count": 12
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1125,
+        283,
+        2146,
+        2608
+      ],
+      "text": "९। ग; शत्य प्प (त्त अलग ४,\nआमन्त्रितवान्‌ -““मवति ! कृपया नगरम्‌\nआगत्य अस्माकम्‌ आतिथ्यं स्वीकरोत'' इति ।\nसा तस्य॒ आमन्त्रणं न स्वीकतवती । “मर-\nभूमेः समीपे जटाज्ञयस्य पाश्च ए अहं वसामि\"\nइति दुढनिश्वयेन उक्तवती च ।\nयुवराजः नगरं प्र्यागय निद्राम्‌ अपि\nअकृता चिन्तितवान्‌ ~ ‹“महासचिवस्य पुत्री\nएकाकिनी एव मस्भूमो वसति । तत्र कदाचित्‌\nसा अपायम्‌ अपि प्राप्नुयात्‌ । अब्रखा सा कथम्‌\nअपायम्‌ निवारयेत्‌ ए\nअनन्तरदिने रात्रो युवराजः तस्य सरोवरस्य\nसमीपं गतवान्‌ । तत्र वृक्षस्य अधः तूष्णीम्‌\nउपविष्टवान्‌ च । प्रातःकाटे महासचवरल्य पुत्री\nतं दुष्ट्वा आश्वतेण उक्तवती- “युवराज\nभवान्‌ राज्यपरिपाख्कः । नगरं यक्ता भवतः\nअत्र आगमनं न शोभते '”\n‹‹भवलया युक्तम्‌ एव उक्तम्‌ । चिन्तु मया\nसह विवाहं यदि इच्छति, तहि प्रतिनिवृत्य\nगच्छामि!\" इति युवराजः प्रत्युत्तरं दत्तवान्‌ ।\nयुवराजस्य वचन ज्जता अञ्ुपरिपूणा सा गद्रद्‌-\nस्वरेण उक्तवती ““माम्‌ आरस्षितम्‌ एव मम पिता\nप्राणान्‌ क्तवान्‌ । प्रमाणभूतः मम पिता यस्य\nराज्ञः अनन्यभावनया सेवां कृतवान्‌, सः एव\nराजा तं छठहस्तेन एव॒ हतवान्‌ । अतः व्र॑ती-\nन्स नवि विन्या आन्य व्यति = च्ि्व्िणिभि)१",
+      "line_count": 26
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "अहम्‌ अत्र एव वासं कतु इच्छामि । विन्त",
+      "bbox": [
+        194,
+        1470,
+        1082,
+        1542
+      ],
+      "confidence": 67.58,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "भवान्‌ कृपया पिपासानिवारणाथं जराशयं",
+      "bbox": [
+        192,
+        1563,
+        1080,
+        1636
+      ],
+      "confidence": 47.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "दशयतु । येन अहं बहू उपकृता भवामि।",
+      "bbox": [
+        191,
+        1655,
+        995,
+        1734
+      ],
+      "confidence": 60.83,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "उष्टूवाहकः जलेन परिपूर्ण बरहनटाायं",
+      "bbox": [
+        274,
+        1746,
+        1079,
+        1832
+      ],
+      "confidence": 40.19,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "तस्याः कृते दशितवान्‌ । सा जटाशयस्य तीरे",
+      "bbox": [
+        189,
+        1840,
+        1078,
+        1923
+      ],
+      "confidence": 78.35,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "एव॒ स्थितवती । सः उष्टूवाहकः समीपस्थ-",
+      "bbox": [
+        189,
+        1936,
+        1076,
+        2007
+      ],
+      "confidence": 47.03,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "राव्यल्य सेवकः असीत्‌ । सः सेवकः युव-",
+      "bbox": [
+        194,
+        2024,
+        1076,
+        2097
+      ],
+      "confidence": 69.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "राजस्य कृते महासचिव्स्थ पुत्र्याः विषयं",
+      "bbox": [
+        190,
+        2115,
+        1079,
+        2196
+      ],
+      "confidence": 47.21,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "निवेदितवान्‌ ।",
+      "bbox": [
+        191,
+        2207,
+        465,
+        2275
+      ],
+      "confidence": 92.95,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "युवराजः अनुक्षणम्‌ एव प्रस्थाय तस्याः",
+      "bbox": [
+        274,
+        2315,
+        1071,
+        2366
+      ],
+      "confidence": 87.87,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "समीपे आगतवान्‌ । अद्षटपूरवो सौन्दर्य निधि",
+      "bbox": [
+        188,
+        2379,
+        1079,
+        2471
+      ],
+      "confidence": 67.7,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "तादशं सुन्दरीं दष्ट्वा युवराजः आश्वयचकितः",
+      "bbox": [
+        188,
+        2479,
+        1073,
+        2555
+      ],
+      "confidence": 53.91,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "right",
+      "text": "९। ग; शत्य प्प (त्त अलग ४,",
+      "bbox": [
+        1233,
+        279,
+        2028,
+        331
+      ],
+      "confidence": 30.22,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "right",
+      "text": "आमन्त्रितवान्‌ -““मवति ! कृपया नगरम्‌",
+      "bbox": [
+        1149,
+        350,
+        2046,
+        432
+      ],
+      "confidence": 53.57,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "आगत्य अस्माकम्‌ आतिथ्यं स्वीकरोत'' इति ।",
+      "bbox": [
+        1151,
+        442,
+        2028,
+        509
+      ],
+      "confidence": 52.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "सा तस्य॒ आमन्त्रणं न स्वीकतवती । “मर-",
+      "bbox": [
+        1233,
+        539,
+        2029,
+        617
+      ],
+      "confidence": 52.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "भूमेः समीपे जटाज्ञयस्य पाश्च ए अहं वसामि\"",
+      "bbox": [
+        1150,
+        626,
+        2026,
+        699
+      ],
+      "confidence": 57.92,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "इति दुढनिश्वयेन उक्तवती च ।",
+      "bbox": [
+        1149,
+        716,
+        1760,
+        801
+      ],
+      "confidence": 48.7,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "युवराजः नगरं प्र्यागय निद्राम्‌ अपि",
+      "bbox": [
+        1232,
+        812,
+        2035,
+        878
+      ],
+      "confidence": 78.87,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "अकृता चिन्तितवान्‌ ~ ‹“महासचिवस्य पुत्री",
+      "bbox": [
+        1142,
+        902,
+        2029,
+        990
+      ],
+      "confidence": 35.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "एकाकिनी एव मस्भूमो वसति । तत्र कदाचित्‌",
+      "bbox": [
+        1144,
+        993,
+        2038,
+        1073
+      ],
+      "confidence": 74.99,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "सा अपायम्‌ अपि प्राप्नुयात्‌ । अब्रखा सा कथम्‌",
+      "bbox": [
+        1143,
+        1092,
+        2043,
+        1159
+      ],
+      "confidence": 81.03,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "अपायम्‌ निवारयेत्‌ ए",
+      "bbox": [
+        1147,
+        1181,
+        1591,
+        1253
+      ],
+      "confidence": 63.61,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "अनन्तरदिने रात्रो युवराजः तस्य सरोवरस्य",
+      "bbox": [
+        1231,
+        1272,
+        2031,
+        1344
+      ],
+      "confidence": 88.63,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "समीपं गतवान्‌ । तत्र वृक्षस्य अधः तूष्णीम्‌",
+      "bbox": [
+        1146,
+        1370,
+        2041,
+        1441
+      ],
+      "confidence": 73.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "उपविष्टवान्‌ च । प्रातःकाटे महासचवरल्य पुत्री",
+      "bbox": [
+        1146,
+        1462,
+        2034,
+        1534
+      ],
+      "confidence": 53.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "तं दुष्ट्वा आश्वतेण उक्तवती- “युवराज",
+      "bbox": [
+        1144,
+        1555,
+        1989,
+        1642
+      ],
+      "confidence": 58.14,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "भवान्‌ राज्यपरिपाख्कः । नगरं यक्ता भवतः",
+      "bbox": [
+        1145,
+        1650,
+        2026,
+        1721
+      ],
+      "confidence": 37.51,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "अत्र आगमनं न शोभते '”",
+      "bbox": [
+        1146,
+        1740,
+        1653,
+        1800
+      ],
+      "confidence": 82.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "‹‹भवलया युक्तम्‌ एव उक्तम्‌ । चिन्तु मया",
+      "bbox": [
+        1231,
+        1835,
+        2037,
+        1901
+      ],
+      "confidence": 66.47,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "सह विवाहं यदि इच्छति, तहि प्रतिनिवृत्य",
+      "bbox": [
+        1143,
+        1922,
+        2034,
+        2009
+      ],
+      "confidence": 52.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "गच्छामि!\" इति युवराजः प्रत्युत्तरं दत्तवान्‌ ।",
+      "bbox": [
+        1143,
+        2022,
+        2035,
+        2088
+      ],
+      "confidence": 67.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "युवराजस्य वचन ज्जता अञ्ुपरिपूणा सा गद्रद्‌-",
+      "bbox": [
+        1143,
+        2106,
+        2034,
+        2184
+      ],
+      "confidence": 51.56,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "स्वरेण उक्तवती ““माम्‌ आरस्षितम्‌ एव मम पिता",
+      "bbox": [
+        1141,
+        2204,
+        2038,
+        2269
+      ],
+      "confidence": 65.37,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "प्राणान्‌ क्तवान्‌ । प्रमाणभूतः मम पिता यस्य",
+      "bbox": [
+        1142,
+        2297,
+        2037,
+        2371
+      ],
+      "confidence": 88.97,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 36,
+      "column": "right",
+      "text": "राज्ञः अनन्यभावनया सेवां कृतवान्‌, सः एव",
+      "bbox": [
+        1143,
+        2388,
+        2035,
+        2470
+      ],
+      "confidence": 85.49,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 37,
+      "column": "right",
+      "text": "राजा तं छठहस्तेन एव॒ हतवान्‌ । अतः व्र॑ती-",
+      "bbox": [
+        1144,
+        2480,
+        2034,
+        2548
+      ],
+      "confidence": 33.28,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 38,
+      "column": "right",
+      "text": "न्स नवि विन्या आन्य व्यति = च्ि्व्िणिभि)१",
+      "bbox": [
+        1144,
+        2574,
+        2034,
+        2608
+      ],
+      "confidence": 19.07,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "अहम्‌ अत्र एव वासं कतु इच्छामि । विन्त\nभवान्‌ कृपया पिपासानिवारणाथं जराशयं\nदशयतु । येन अहं बहू उपकृता भवामि।\nउष्टूवाहकः जलेन परिपूर्ण बरहनटाायं\nतस्याः कृते दशितवान्‌ । सा जटाशयस्य तीरे\nएव॒ स्थितवती । सः उष्टूवाहकः समीपस्थ-\nराव्यल्य सेवकः असीत्‌ । सः सेवकः युव-\nराजस्य कृते महासचिव्स्थ पुत्र्याः विषयं\nनिवेदितवान्‌ ।\nयुवराजः अनुक्षणम्‌ एव प्रस्थाय तस्याः\nसमीपे आगतवान्‌ । अद्षटपूरवो सौन्दर्य निधि\nतादशं सुन्दरीं दष्ट्वा युवराजः आश्वयचकितः\n\n९। ग; शत्य प्प (त्त अलग ४,\nआमन्त्रितवान्‌ -““मवति ! कृपया नगरम्‌\nआगत्य अस्माकम्‌ आतिथ्यं स्वीकरोत'' इति ।\nसा तस्य॒ आमन्त्रणं न स्वीकतवती । “मर-\nभूमेः समीपे जटाज्ञयस्य पाश्च ए अहं वसामि\"\nइति दुढनिश्वयेन उक्तवती च ।\nयुवराजः नगरं प्र्यागय निद्राम्‌ अपि\nअकृता चिन्तितवान्‌ ~ ‹“महासचिवस्य पुत्री\nएकाकिनी एव मस्भूमो वसति । तत्र कदाचित्‌\nसा अपायम्‌ अपि प्राप्नुयात्‌ । अब्रखा सा कथम्‌\nअपायम्‌ निवारयेत्‌ ए\nअनन्तरदिने रात्रो युवराजः तस्य सरोवरस्य\nसमीपं गतवान्‌ । तत्र वृक्षस्य अधः तूष्णीम्‌\nउपविष्टवान्‌ च । प्रातःकाटे महासचवरल्य पुत्री\nतं दुष्ट्वा आश्वतेण उक्तवती- “युवराज\nभवान्‌ राज्यपरिपाख्कः । नगरं यक्ता भवतः\nअत्र आगमनं न शोभते '”\n‹‹भवलया युक्तम्‌ एव उक्तम्‌ । चिन्तु मया\nसह विवाहं यदि इच्छति, तहि प्रतिनिवृत्य\nगच्छामि!\" इति युवराजः प्रत्युत्तरं दत्तवान्‌ ।\nयुवराजस्य वचन ज्जता अञ्ुपरिपूणा सा गद्रद्‌-\nस्वरेण उक्तवती ““माम्‌ आरस्षितम्‌ एव मम पिता\nप्राणान्‌ क्तवान्‌ । प्रमाणभूतः मम पिता यस्य\nराज्ञः अनन्यभावनया सेवां कृतवान्‌, सः एव\nराजा तं छठहस्तेन एव॒ हतवान्‌ । अतः व्र॑ती-\nन्स नवि विन्या आन्य व्यति = च्ि्व्िणिभि)१",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

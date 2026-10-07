@@ -1,0 +1,335 @@
+{
+  "page": 37,
+  "source_image": "image/Chanda_Mama_37.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "alternating panel text blocks top-to-bottom",
+  "blocks": [
+    {
+      "column": "panel-1",
+      "bbox": [
+        147,
+        232,
+        897,
+        864
+      ],
+      "text": "तदा रवद्‌ व्‌ महादधः स्वसैन्यं\nकट्कत्ताम्‌ आनीतवान्‌ । विचियम्‌\nदुर्ग बश्ीक्रतवान्‌ । अनन्तर सिराज -\nहाट यदा युद्धम आगनः तद्रा\nव्‌ तेन सह सन्धि क्रत\nवान्‌ | एतद नृसारं सिराजुदौलट स्व-\nराजधानी प्रतिनिवृत्तः ।",
+      "line_count": 7
+    },
+    {
+      "column": "panel-2",
+      "bbox": [
+        1360,
+        1134,
+        2100,
+        1777
+      ],
+      "text": "सिराजुदोल प्रतिनिवरल्यनन्तं . व्‌,\nसनानायकदवारा मिर्जाफर्‌ कृत अधिः\nकारस्य आश्नां प्रदरितवरान्‌ । अक-\nस्मात्‌ नवाव-विष्द्रं युद्धं प्रकटितम्‌ ।\nयुष्दे, दुष्रः सेनानायकः मिर्जाफः,\nसैन्यं प्रति युद्धं कर्तु न ओआज्ञापित-\nवान्‌ एव |",
+      "line_count": 7
+    },
+    {
+      "column": "panel-3",
+      "bbox": [
+        156,
+        1956,
+        903,
+        2679
+      ],
+      "text": "नत्रावः पराजितः । मिर्जाफरस्य ननि-\nकाः नवाते करूररीला मारितवन्तः च|\nमिर्जाफरः नवात्र: अभवत्‌ । कन्तु\nप्रजाभ्यः सङ्गृहीतं सवम्‌ अपि\nअग्टियाः त्र्ीकुवन्ति म्म | एवं च\nमिर्जाफरः तव क्रते क्षगः रूप्यः\nकाणि. ईम्ट्‌ इष्िटिया कम्पनि-कृत\nकोटिन: रूप्यकाणि दत्तचात्त । `",
+      "line_count": 8
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "panel-1",
+      "text": "तदा रवद्‌ व्‌ महादधः स्वसैन्यं",
+      "bbox": [
+        158,
+        232,
+        877,
+        307
+      ],
+      "confidence": 39.49,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "panel-1",
+      "text": "कट्कत्ताम्‌ आनीतवान्‌ । विचियम्‌",
+      "bbox": [
+        159,
+        319,
+        888,
+        392
+      ],
+      "confidence": 60.65,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "panel-1",
+      "text": "दुर्ग बश्ीक्रतवान्‌ । अनन्तर सिराज -",
+      "bbox": [
+        164,
+        417,
+        897,
+        493
+      ],
+      "confidence": 24.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "panel-1",
+      "text": "हाट यदा युद्धम आगनः तद्रा",
+      "bbox": [
+        165,
+        509,
+        875,
+        584
+      ],
+      "confidence": 63.02,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "panel-1",
+      "text": "व्‌ तेन सह सन्धि क्रत",
+      "bbox": [
+        168,
+        604,
+        885,
+        689
+      ],
+      "confidence": 46.78,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "panel-1",
+      "text": "वान्‌ | एतद नृसारं सिराजुदौलट स्व-",
+      "bbox": [
+        166,
+        689,
+        877,
+        778
+      ],
+      "confidence": 50.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "panel-1",
+      "text": "राजधानी प्रतिनिवृत्तः ।",
+      "bbox": [
+        171,
+        799,
+        636,
+        861
+      ],
+      "confidence": 62.65,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "panel-2",
+      "text": "सिराजुदोल प्रतिनिवरल्यनन्तं . व्‌,",
+      "bbox": [
+        1373,
+        1137,
+        2078,
+        1222
+      ],
+      "confidence": 22.36,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "panel-2",
+      "text": "सनानायकदवारा मिर्जाफर्‌ कृत अधिः",
+      "bbox": [
+        1367,
+        1233,
+        2079,
+        1322
+      ],
+      "confidence": 47.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "panel-2",
+      "text": "कारस्य आश्नां प्रदरितवरान्‌ । अक-",
+      "bbox": [
+        1366,
+        1330,
+        2071,
+        1395
+      ],
+      "confidence": 64.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "panel-2",
+      "text": "स्मात्‌ नवाव-विष्द्रं युद्धं प्रकटितम्‌ ।",
+      "bbox": [
+        1368,
+        1423,
+        2073,
+        1500
+      ],
+      "confidence": 46.8,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "panel-2",
+      "text": "युष्दे, दुष्रः सेनानायकः मिर्जाफः,",
+      "bbox": [
+        1365,
+        1517,
+        2085,
+        1588
+      ],
+      "confidence": 53.65,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "panel-2",
+      "text": "सैन्यं प्रति युद्धं कर्तु न ओआज्ञापित-",
+      "bbox": [
+        1366,
+        1607,
+        2070,
+        1681
+      ],
+      "confidence": 56.57,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "panel-2",
+      "text": "वान्‌ एव |",
+      "bbox": [
+        1366,
+        1721,
+        1558,
+        1774
+      ],
+      "confidence": 87.05,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "panel-3",
+      "text": "नत्रावः पराजितः । मिर्जाफरस्य ननि-",
+      "bbox": [
+        170,
+        1957,
+        903,
+        2030
+      ],
+      "confidence": 43.14,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "panel-3",
+      "text": "काः नवाते करूररीला मारितवन्तः च|",
+      "bbox": [
+        169,
+        2051,
+        876,
+        2132
+      ],
+      "confidence": 50.19,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "panel-3",
+      "text": "मिर्जाफरः नवात्र: अभवत्‌ । कन्तु",
+      "bbox": [
+        165,
+        2146,
+        877,
+        2221
+      ],
+      "confidence": 61.85,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "panel-3",
+      "text": "प्रजाभ्यः सङ्गृहीतं सवम्‌ अपि",
+      "bbox": [
+        170,
+        2236,
+        877,
+        2316
+      ],
+      "confidence": 56.06,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "panel-3",
+      "text": "अग्टियाः त्र्ीकुवन्ति म्म | एवं च",
+      "bbox": [
+        172,
+        2333,
+        870,
+        2406
+      ],
+      "confidence": 52.66,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "panel-3",
+      "text": "मिर्जाफरः तव क्रते क्षगः रूप्यः",
+      "bbox": [
+        173,
+        2428,
+        871,
+        2499
+      ],
+      "confidence": 54.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "panel-3",
+      "text": "काणि. ईम्ट्‌ इष्िटिया कम्पनि-कृत",
+      "bbox": [
+        170,
+        2523,
+        875,
+        2598
+      ],
+      "confidence": 49.29,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "panel-3",
+      "text": "कोटिन: रूप्यकाणि दत्तचात्त । `",
+      "bbox": [
+        169,
+        2600,
+        839,
+        2673
+      ],
+      "confidence": 59.24,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "तदा रवद्‌ व्‌ महादधः स्वसैन्यं\nकट्कत्ताम्‌ आनीतवान्‌ । विचियम्‌\nदुर्ग बश्ीक्रतवान्‌ । अनन्तर सिराज -\nहाट यदा युद्धम आगनः तद्रा\nव्‌ तेन सह सन्धि क्रत\nवान्‌ | एतद नृसारं सिराजुदौलट स्व-\nराजधानी प्रतिनिवृत्तः ।\n\nसिराजुदोल प्रतिनिवरल्यनन्तं . व्‌,\nसनानायकदवारा मिर्जाफर्‌ कृत अधिः\nकारस्य आश्नां प्रदरितवरान्‌ । अक-\nस्मात्‌ नवाव-विष्द्रं युद्धं प्रकटितम्‌ ।\nयुष्दे, दुष्रः सेनानायकः मिर्जाफः,\nसैन्यं प्रति युद्धं कर्तु न ओआज्ञापित-\nवान्‌ एव |\n\nनत्रावः पराजितः । मिर्जाफरस्य ननि-\nकाः नवाते करूररीला मारितवन्तः च|\nमिर्जाफरः नवात्र: अभवत्‌ । कन्तु\nप्रजाभ्यः सङ्गृहीतं सवम्‌ अपि\nअग्टियाः त्र्ीकुवन्ति म्म | एवं च\nमिर्जाफरः तव क्रते क्षगः रूप्यः\nकाणि. ईम्ट्‌ इष्िटिया कम्पनि-कृत\nकोटिन: रूप्यकाणि दत्तचात्त । `",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

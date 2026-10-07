@@ -1,0 +1,506 @@
+{
+  "page": 41,
+  "source_image": "image/Chanda_Mama_41.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        226,
+        1179,
+        2154
+      ],
+      "text": "1: दत्य सदर; तन्वम ततन्‌] वद्नत्धा `\nरोदितुम्‌ आरब्धवान्‌ ।\nपत्रस्य प्राणापायपरिस्थिति श्चुता वीरराजः\nत्वरया धावन्‌ तत्र आगतवान्‌ । वेदनया कष्टम्‌\nअनुभवन्तं शरभ, तथेव भयेन पार्छ्वे स्थितं\n। स्वपुत्रम्‌ पि दष्टवान्‌ ।\n| वीरराजः तक्ेः जनैः प्रवृत्तं वृत्तान्तं\n। ज्ञातवान्‌ । शरभविषये कर्णा उत्पन्ना । पञ्चा-\n। त्तपेन अञ्जूणि आगतानि । हस्तद्वयेन शरभम्‌\nउत्थाप्य वीरराजः उक्तवान्‌- “४ भोः, अहं यत्‌\nवदामि तत्‌ भवान्‌ प्रायः श्रोतं न शक्नोति ।\nतथापि चिन्ता नास्ति । भवतः चौर्थबुद्धिः अस्ति\n। इति पापुद्धिः अहम्‌ एव उक्तवान्‌ तत्‌ असल्यम्‌।\n। निष्कासितं इति कोपम्‌ अकृत्वा भवान्‌ मम पुत्रं\n। रक्षितवान्‌ । पितुः वचनं सत्यम्‌ एव | निश्चयेन\n। भवान्‌ विश्वासाहं इति अहम्‌ इदानी ज्ञातवान्‌,\"\n। इति । चखितुम्‌ अशक्तं शरभं दयोः पुच्छयोः\nसाहाय्येन खमगृहं नीतवान्‌ ।",
+      "line_count": 18
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1185,
+        226,
+        2146,
+        2154
+      ],
+      "text": "अनः एकर्तप्तहनन्तर्‌ दा्राज्‌ः तवात्र\nसमाप्य गृहम्‌ आगतवान्‌ । गृहे विद्यमानं दृदयं\nद्रष्ट्वा सः आश्चर्य चकितः । वीरराजः स्वहस्त-\nसाहाय्येन स्वटन्तं शरभं मुखदारसमीपम्‌ आन -\nयति स्म)\n‹“एतस्य किम्‌. अभवत्‌? भवान्‌ एव हस्तस्य- ¦\nसाहाप्येन आनयति किट ? बधिरेण एतेन सह\nव्यवहारः प्रथमम्‌ एव कष्टकरः आसीत्‌ । इदानीं\nठ पङ्गुत्म्‌ ! किम्‌ अभवत्‌ एतस्य १ “ {इति\nपष्टवान्‌ रापराजः ।\n““शरभः बधिरः पङ्गुः च स्यात्त । किन्तु ,\nस: असाधारणः पुष्पः । अस्माकं कुटुम्बस्य\nउपरि तस्य कियान्‌ विश्वासः\" | इति वदन्‌\nवीरराजः सवं वृत्तान्तं निवेदितवान्‌ ।\nसख-पोत्रः अपायतः मुक्तः, तथेव ॒शरभ- |\nविषये पुत्रस्य कोपः दूरगतः इति ज्ञाला छोप- |\nराजः अतीव सन्तुष्टः । ॥\n> (न",
+      "line_count": 18
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "1: दत्य सदर; तन्वम ततन्‌] वद्नत्धा `",
+      "bbox": [
+        224,
+        226,
+        1167,
+        273
+      ],
+      "confidence": 11.05,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "रोदितुम्‌ आरब्धवान्‌ ।",
+      "bbox": [
+        222,
+        293,
+        659,
+        363
+      ],
+      "confidence": 86.97,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "पत्रस्य प्राणापायपरिस्थिति श्चुता वीरराजः",
+      "bbox": [
+        310,
+        389,
+        1124,
+        461
+      ],
+      "confidence": 47.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "त्वरया धावन्‌ तत्र आगतवान्‌ । वेदनया कष्टम्‌",
+      "bbox": [
+        231,
+        484,
+        1142,
+        554
+      ],
+      "confidence": 91.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "अनुभवन्तं शरभ, तथेव भयेन पार्छ्वे स्थितं",
+      "bbox": [
+        225,
+        577,
+        1134,
+        646
+      ],
+      "confidence": 43.56,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "। स्वपुत्रम्‌ पि दष्टवान्‌ ।",
+      "bbox": [
+        170,
+        675,
+        690,
+        749
+      ],
+      "confidence": 79.38,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "| वीरराजः तक्ेः जनैः प्रवृत्तं वृत्तान्तं",
+      "bbox": [
+        168,
+        753,
+        1139,
+        915
+      ],
+      "confidence": 80.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "। ज्ञातवान्‌ । शरभविषये कर्णा उत्पन्ना । पञ्चा-",
+      "bbox": [
+        169,
+        859,
+        1133,
+        941
+      ],
+      "confidence": 60.08,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "। त्तपेन अञ्जूणि आगतानि । हस्तद्वयेन शरभम्‌",
+      "bbox": [
+        168,
+        944,
+        1145,
+        1025
+      ],
+      "confidence": 61.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "उत्थाप्य वीरराजः उक्तवान्‌- “४ भोः, अहं यत्‌",
+      "bbox": [
+        227,
+        1048,
+        1147,
+        1123
+      ],
+      "confidence": 81.23,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "वदामि तत्‌ भवान्‌ प्रायः श्रोतं न शक्नोति ।",
+      "bbox": [
+        229,
+        1143,
+        1136,
+        1214
+      ],
+      "confidence": 89.62,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "तथापि चिन्ता नास्ति । भवतः चौर्थबुद्धिः अस्ति",
+      "bbox": [
+        231,
+        1230,
+        1139,
+        1307
+      ],
+      "confidence": 70.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "। इति पापुद्धिः अहम्‌ एव उक्तवान्‌ तत्‌ असल्यम्‌।",
+      "bbox": [
+        168,
+        1324,
+        1138,
+        1414
+      ],
+      "confidence": 60.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "। निष्कासितं इति कोपम्‌ अकृत्वा भवान्‌ मम पुत्रं",
+      "bbox": [
+        167,
+        1424,
+        1131,
+        1508
+      ],
+      "confidence": 85.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "left",
+      "text": "। रक्षितवान्‌ । पितुः वचनं सत्यम्‌ एव | निश्चयेन",
+      "bbox": [
+        168,
+        1501,
+        1139,
+        1593
+      ],
+      "confidence": 80.56,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "left",
+      "text": "। भवान्‌ विश्वासाहं इति अहम्‌ इदानी ज्ञातवान्‌,\"",
+      "bbox": [
+        167,
+        1603,
+        1133,
+        1688
+      ],
+      "confidence": 54.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "left",
+      "text": "। इति । चखितुम्‌ अशक्तं शरभं दयोः पुच्छयोः",
+      "bbox": [
+        166,
+        1697,
+        1128,
+        1776
+      ],
+      "confidence": 55.64,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "left",
+      "text": "साहाय्येन खमगृहं नीतवान्‌ ।",
+      "bbox": [
+        230,
+        1798,
+        778,
+        1869
+      ],
+      "confidence": 84.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "अनः एकर्तप्तहनन्तर्‌ दा्राज्‌ः तवात्र",
+      "bbox": [
+        1280,
+        226,
+        2102,
+        277
+      ],
+      "confidence": 19.11,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "समाप्य गृहम्‌ आगतवान्‌ । गृहे विद्यमानं दृदयं",
+      "bbox": [
+        1190,
+        298,
+        2103,
+        385
+      ],
+      "confidence": 88.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "द्रष्ट्वा सः आश्चर्य चकितः । वीरराजः स्वहस्त-",
+      "bbox": [
+        1192,
+        385,
+        2096,
+        475
+      ],
+      "confidence": 70.66,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "साहाय्येन स्वटन्तं शरभं मुखदारसमीपम्‌ आन -",
+      "bbox": [
+        1192,
+        484,
+        2099,
+        558
+      ],
+      "confidence": 50.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "यति स्म)",
+      "bbox": [
+        1195,
+        583,
+        1383,
+        638
+      ],
+      "confidence": 93.33,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "‹“एतस्य किम्‌. अभवत्‌? भवान्‌ एव हस्तस्य- ¦",
+      "bbox": [
+        1286,
+        691,
+        2135,
+        766
+      ],
+      "confidence": 46.36,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "साहाप्येन आनयति किट ? बधिरेण एतेन सह",
+      "bbox": [
+        1194,
+        780,
+        2102,
+        850
+      ],
+      "confidence": 87.07,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "व्यवहारः प्रथमम्‌ एव कष्टकरः आसीत्‌ । इदानीं",
+      "bbox": [
+        1196,
+        880,
+        2101,
+        954
+      ],
+      "confidence": 78.29,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "ठ पङ्गुत्म्‌ ! किम्‌ अभवत्‌ एतस्य १ “ {इति",
+      "bbox": [
+        1197,
+        960,
+        2095,
+        1050
+      ],
+      "confidence": 71.43,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "पष्टवान्‌ रापराजः ।",
+      "bbox": [
+        1198,
+        1063,
+        1592,
+        1135
+      ],
+      "confidence": 29.93,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "““शरभः बधिरः पङ्गुः च स्यात्त । किन्तु ,",
+      "bbox": [
+        1290,
+        1185,
+        2136,
+        1259
+      ],
+      "confidence": 65.95,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "स: असाधारणः पुष्पः । अस्माकं कुटुम्बस्य",
+      "bbox": [
+        1200,
+        1282,
+        2099,
+        1349
+      ],
+      "confidence": 79.42,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "उपरि तस्य कियान्‌ विश्वासः\" | इति वदन्‌",
+      "bbox": [
+        1201,
+        1374,
+        2099,
+        1453
+      ],
+      "confidence": 75.66,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "वीरराजः सवं वृत्तान्तं निवेदितवान्‌ ।",
+      "bbox": [
+        1203,
+        1473,
+        1929,
+        1559
+      ],
+      "confidence": 75.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "सख-पोत्रः अपायतः मुक्तः, तथेव ॒शरभ- |",
+      "bbox": [
+        1282,
+        1559,
+        2137,
+        1699
+      ],
+      "confidence": 59.4,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "विषये पुत्रस्य कोपः दूरगतः इति ज्ञाला छोप- |",
+      "bbox": [
+        1199,
+        1695,
+        2138,
+        1778
+      ],
+      "confidence": 73.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "राजः अतीव सन्तुष्टः । ॥",
+      "bbox": [
+        1200,
+        1799,
+        2139,
+        1898
+      ],
+      "confidence": 85.57,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 36,
+      "column": "right",
+      "text": "> (न",
+      "bbox": [
+        1185,
+        1971,
+        2106,
+        2154
+      ],
+      "confidence": 47.55,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "1: दत्य सदर; तन्वम ततन्‌] वद्नत्धा `\nरोदितुम्‌ आरब्धवान्‌ ।\nपत्रस्य प्राणापायपरिस्थिति श्चुता वीरराजः\nत्वरया धावन्‌ तत्र आगतवान्‌ । वेदनया कष्टम्‌\nअनुभवन्तं शरभ, तथेव भयेन पार्छ्वे स्थितं\n। स्वपुत्रम्‌ पि दष्टवान्‌ ।\n| वीरराजः तक्ेः जनैः प्रवृत्तं वृत्तान्तं\n। ज्ञातवान्‌ । शरभविषये कर्णा उत्पन्ना । पञ्चा-\n। त्तपेन अञ्जूणि आगतानि । हस्तद्वयेन शरभम्‌\nउत्थाप्य वीरराजः उक्तवान्‌- “४ भोः, अहं यत्‌\nवदामि तत्‌ भवान्‌ प्रायः श्रोतं न शक्नोति ।\nतथापि चिन्ता नास्ति । भवतः चौर्थबुद्धिः अस्ति\n। इति पापुद्धिः अहम्‌ एव उक्तवान्‌ तत्‌ असल्यम्‌।\n। निष्कासितं इति कोपम्‌ अकृत्वा भवान्‌ मम पुत्रं\n। रक्षितवान्‌ । पितुः वचनं सत्यम्‌ एव | निश्चयेन\n। भवान्‌ विश्वासाहं इति अहम्‌ इदानी ज्ञातवान्‌,\"\n। इति । चखितुम्‌ अशक्तं शरभं दयोः पुच्छयोः\nसाहाय्येन खमगृहं नीतवान्‌ ।\n\nअनः एकर्तप्तहनन्तर्‌ दा्राज्‌ः तवात्र\nसमाप्य गृहम्‌ आगतवान्‌ । गृहे विद्यमानं दृदयं\nद्रष्ट्वा सः आश्चर्य चकितः । वीरराजः स्वहस्त-\nसाहाय्येन स्वटन्तं शरभं मुखदारसमीपम्‌ आन -\nयति स्म)\n‹“एतस्य किम्‌. अभवत्‌? भवान्‌ एव हस्तस्य- ¦\nसाहाप्येन आनयति किट ? बधिरेण एतेन सह\nव्यवहारः प्रथमम्‌ एव कष्टकरः आसीत्‌ । इदानीं\nठ पङ्गुत्म्‌ ! किम्‌ अभवत्‌ एतस्य १ “ {इति\nपष्टवान्‌ रापराजः ।\n““शरभः बधिरः पङ्गुः च स्यात्त । किन्तु ,\nस: असाधारणः पुष्पः । अस्माकं कुटुम्बस्य\nउपरि तस्य कियान्‌ विश्वासः\" | इति वदन्‌\nवीरराजः सवं वृत्तान्तं निवेदितवान्‌ ।\nसख-पोत्रः अपायतः मुक्तः, तथेव ॒शरभ- |\nविषये पुत्रस्य कोपः दूरगतः इति ज्ञाला छोप- |\nराजः अतीव सन्तुष्टः । ॥\n> (न",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

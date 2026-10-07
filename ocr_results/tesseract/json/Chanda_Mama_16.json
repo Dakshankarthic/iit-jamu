@@ -1,0 +1,519 @@
+{
+  "page": 16,
+  "source_image": "image/Chanda_Mama_16.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        1474,
+        1120,
+        2664
+      ],
+      "text": "परस्चात्तापः सवपाधानि अपि भस्मीकरानि ।\nइदानीं गृह प्रविन्तु । कदाचित्‌ ज्ञानेन अज्ञा-\nनेन वा प्रापं कृतं स्यात्‌] जन्मदात्री माता अहम्‌\nएतत्स मनसि स्थापयामि वा ‹ अन्तः आगम्य-\nताम्‌ । यद्वि अहं माता श्नमां ददामि तहि देवः\nअपि एतद्विषये निख्पायः'` इति वदन्ती सा\nपत्रयोः हस्तं स्वहस्तन स्वीकृतवती ।\nजीवदत्तः ठक्षदत्तः च दुःखं प्रकटयन्तौ अनि-\nच्छया इव गृहं प्र विष्वन्तो। माता महता उत्साहेन\nतयोः कृते स्नानार्थं जटं व्यवस्थापितवती। ध्रार-\nणार्थ पिङ्गलेन आनीतानि महार्घाणि टर.\nव्नाणि दत्तती। उभौ अपि आश्चर्येण पदयन्तौ,\nस्नानानन्तरं पद्रवस््नाणि धतवन्तौ ।",
+      "line_count": 13
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1153,
+        255,
+        2146,
+        2664
+      ],
+      "text": "मातर्‌ नमस्कृत्य पिङ्गल प्रीत्या आदि ङ्धितवन्ता।\nउक्तवन्तौ च- “इदानीं खादितुं किमपि ददातु!\nमहती बुभुक्षा बाधते । यदा मरण-आखोचनम्‌\nआसीत्‌ तदा बुमुक्षायाः स्मरणम्‌ एव न\nआसीत्‌ । दिनत्रपतः किमपि न खादितम्‌ ए ।\nखादितं मनः अपि न सिद्धम्‌ आसीत्‌ । इदानीं\nउभयोः अनुग्रहेण . मनुष्यो सज्ञातौ' इति ।\nपिङ्गलः मन्त्स्यूतं स्वीकु्य पाकशालां प्रवि-\nरवान्‌ । मातुः कृते तं स्यूतं दत्वा, अग्रनयोः\nसमीपम्‌ आगत्य उपविष्टवान्‌ । पञ्चनिमेषानन्तरं\nमाता  विविध-भोजनपदार्थान्‌ स्थाख्िकायां स्थाप-\nयित्रा पुत्रयोः पुरतः सुव्यवस्थितं स्थापितवती\nठक्षदत्तन सह तानि खायानि खादन्‌\nजीवदत्तः उक्तवान्‌- “अम्बर ! भवती यक्किमपि\nराद्यं करोतु, तत्सव रुचिकरम्‌ एव भवति ।\nएतावन्ति खाद्यानि किमथे कृतवती १ वृधा\nघरनव्ययः' ` इति ।\nतदा प्रड्गटः हसन्‌ उक्तवान्‌- “इतःपरं\nप्रतिद्विनम्‌ अपि रएतादरश्भोजनम्‌ । आवस्यकं\nचेत्‌ नगरीयाणां सर्वेषाम्‌ अपि दरिद्राणां कृते\nएतादश भोजनं दातं शक्नुमः । खादयनिर्माणि\nमातुः इदानीं सन्तोषः एव, न तु कष्टम्‌ ।\nसद्यः चिन्तां विना यथेष्टं भोजनं कुवन्तु\nइति ।",
+      "line_count": 24
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "परस्चात्तापः सवपाधानि अपि भस्मीकरानि ।",
+      "bbox": [
+        211,
+        1485,
+        1101,
+        1549
+      ],
+      "confidence": 62.03,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "इदानीं गृह प्रविन्तु । कदाचित्‌ ज्ञानेन अज्ञा-",
+      "bbox": [
+        216,
+        1581,
+        1102,
+        1650
+      ],
+      "confidence": 71.63,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "नेन वा प्रापं कृतं स्यात्‌] जन्मदात्री माता अहम्‌",
+      "bbox": [
+        211,
+        1675,
+        1113,
+        1743
+      ],
+      "confidence": 74.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "एतत्स मनसि स्थापयामि वा ‹ अन्तः आगम्य-",
+      "bbox": [
+        212,
+        1747,
+        1102,
+        1838
+      ],
+      "confidence": 70.04,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "ताम्‌ । यद्वि अहं माता श्नमां ददामि तहि देवः",
+      "bbox": [
+        213,
+        1857,
+        1098,
+        1928
+      ],
+      "confidence": 71.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "अपि एतद्विषये निख्पायः'` इति वदन्ती सा",
+      "bbox": [
+        216,
+        1953,
+        1105,
+        2020
+      ],
+      "confidence": 78.92,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "पत्रयोः हस्तं स्वहस्तन स्वीकृतवती ।",
+      "bbox": [
+        216,
+        2047,
+        894,
+        2121
+      ],
+      "confidence": 86.69,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "जीवदत्तः ठक्षदत्तः च दुःखं प्रकटयन्तौ अनि-",
+      "bbox": [
+        215,
+        2123,
+        1103,
+        2211
+      ],
+      "confidence": 63.24,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "च्छया इव गृहं प्र विष्वन्तो। माता महता उत्साहेन",
+      "bbox": [
+        217,
+        2224,
+        1106,
+        2303
+      ],
+      "confidence": 59.9,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "तयोः कृते स्नानार्थं जटं व्यवस्थापितवती। ध्रार-",
+      "bbox": [
+        217,
+        2323,
+        1103,
+        2392
+      ],
+      "confidence": 65.8,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "णार्थ पिङ्गलेन आनीतानि महार्घाणि टर.",
+      "bbox": [
+        220,
+        2416,
+        1101,
+        2490
+      ],
+      "confidence": 65.59,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "व्नाणि दत्तती। उभौ अपि आश्चर्येण पदयन्तौ,",
+      "bbox": [
+        220,
+        2506,
+        1102,
+        2574
+      ],
+      "confidence": 55.37,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "स्नानानन्तरं पद्रवस््नाणि धतवन्तौ ।",
+      "bbox": [
+        220,
+        2601,
+        866,
+        2664
+      ],
+      "confidence": 63.61,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "right",
+      "text": "मातर्‌ नमस्कृत्य पिङ्गल प्रीत्या आदि ङ्धितवन्ता।",
+      "bbox": [
+        1165,
+        239,
+        2054,
+        332
+      ],
+      "confidence": 57.58,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "उक्तवन्तौ च- “इदानीं खादितुं किमपि ददातु!",
+      "bbox": [
+        1161,
+        333,
+        2054,
+        419
+      ],
+      "confidence": 53.9,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "महती बुभुक्षा बाधते । यदा मरण-आखोचनम्‌",
+      "bbox": [
+        1162,
+        432,
+        2066,
+        502
+      ],
+      "confidence": 59.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "आसीत्‌ तदा बुमुक्षायाः स्मरणम्‌ एव न",
+      "bbox": [
+        1164,
+        526,
+        2059,
+        596
+      ],
+      "confidence": 67.44,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "आसीत्‌ । दिनत्रपतः किमपि न खादितम्‌ ए ।",
+      "bbox": [
+        1166,
+        623,
+        2057,
+        691
+      ],
+      "confidence": 82.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "खादितं मनः अपि न सिद्धम्‌ आसीत्‌ । इदानीं",
+      "bbox": [
+        1166,
+        717,
+        2063,
+        787
+      ],
+      "confidence": 79.85,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "उभयोः अनुग्रहेण . मनुष्यो सज्ञातौ' इति ।",
+      "bbox": [
+        1169,
+        805,
+        2055,
+        879
+      ],
+      "confidence": 66.94,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "पिङ्गलः मन्त्स्यूतं स्वीकु्य पाकशालां प्रवि-",
+      "bbox": [
+        1230,
+        965,
+        2061,
+        1050
+      ],
+      "confidence": 61.42,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "रवान्‌ । मातुः कृते तं स्यूतं दत्वा, अग्रनयोः",
+      "bbox": [
+        1170,
+        1055,
+        2054,
+        1147
+      ],
+      "confidence": 61.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "समीपम्‌ आगत्य उपविष्टवान्‌ । पञ्चनिमेषानन्तरं",
+      "bbox": [
+        1169,
+        1155,
+        2067,
+        1225
+      ],
+      "confidence": 77.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "माता  विविध-भोजनपदार्थान्‌ स्थाख्िकायां स्थाप-",
+      "bbox": [
+        1170,
+        1246,
+        2059,
+        1318
+      ],
+      "confidence": 60.78,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "यित्रा पुत्रयोः पुरतः सुव्यवस्थितं स्थापितवती",
+      "bbox": [
+        1178,
+        1339,
+        2060,
+        1409
+      ],
+      "confidence": 54.9,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "ठक्षदत्तन सह तानि खायानि खादन्‌",
+      "bbox": [
+        1254,
+        1498,
+        2072,
+        1568
+      ],
+      "confidence": 56.26,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "जीवदत्तः उक्तवान्‌- “अम्बर ! भवती यक्किमपि",
+      "bbox": [
+        1170,
+        1592,
+        2069,
+        1656
+      ],
+      "confidence": 78.04,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "राद्यं करोतु, तत्सव रुचिकरम्‌ एव भवति ।",
+      "bbox": [
+        1170,
+        1679,
+        2065,
+        1750
+      ],
+      "confidence": 66.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "एतावन्ति खाद्यानि किमथे कृतवती १ वृधा",
+      "bbox": [
+        1170,
+        1773,
+        2065,
+        1860
+      ],
+      "confidence": 72.66,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "घरनव्ययः' ` इति ।",
+      "bbox": [
+        1170,
+        1877,
+        1514,
+        1940
+      ],
+      "confidence": 56.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "तदा प्रड्गटः हसन्‌ उक्तवान्‌- “इतःपरं",
+      "bbox": [
+        1254,
+        2045,
+        2069,
+        2114
+      ],
+      "confidence": 67.59,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "प्रतिद्विनम्‌ अपि रएतादरश्भोजनम्‌ । आवस्यकं",
+      "bbox": [
+        1171,
+        2134,
+        2074,
+        2201
+      ],
+      "confidence": 36.43,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "चेत्‌ नगरीयाणां सर्वेषाम्‌ अपि दरिद्राणां कृते",
+      "bbox": [
+        1171,
+        2224,
+        2073,
+        2316
+      ],
+      "confidence": 88.59,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "एतादश भोजनं दातं शक्नुमः । खादयनिर्माणि",
+      "bbox": [
+        1171,
+        2321,
+        2053,
+        2390
+      ],
+      "confidence": 58.21,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "मातुः इदानीं सन्तोषः एव, न तु कष्टम्‌ ।",
+      "bbox": [
+        1173,
+        2415,
+        2066,
+        2483
+      ],
+      "confidence": 88.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 36,
+      "column": "right",
+      "text": "सद्यः चिन्तां विना यथेष्टं भोजनं कुवन्तु",
+      "bbox": [
+        1173,
+        2505,
+        1987,
+        2580
+      ],
+      "confidence": 62.9,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 37,
+      "column": "right",
+      "text": "इति ।",
+      "bbox": [
+        1176,
+        2604,
+        1286,
+        2664
+      ],
+      "confidence": 86.39,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "परस्चात्तापः सवपाधानि अपि भस्मीकरानि ।\nइदानीं गृह प्रविन्तु । कदाचित्‌ ज्ञानेन अज्ञा-\nनेन वा प्रापं कृतं स्यात्‌] जन्मदात्री माता अहम्‌\nएतत्स मनसि स्थापयामि वा ‹ अन्तः आगम्य-\nताम्‌ । यद्वि अहं माता श्नमां ददामि तहि देवः\nअपि एतद्विषये निख्पायः'` इति वदन्ती सा\nपत्रयोः हस्तं स्वहस्तन स्वीकृतवती ।\nजीवदत्तः ठक्षदत्तः च दुःखं प्रकटयन्तौ अनि-\nच्छया इव गृहं प्र विष्वन्तो। माता महता उत्साहेन\nतयोः कृते स्नानार्थं जटं व्यवस्थापितवती। ध्रार-\nणार्थ पिङ्गलेन आनीतानि महार्घाणि टर.\nव्नाणि दत्तती। उभौ अपि आश्चर्येण पदयन्तौ,\nस्नानानन्तरं पद्रवस््नाणि धतवन्तौ ।\n\nमातर्‌ नमस्कृत्य पिङ्गल प्रीत्या आदि ङ्धितवन्ता।\nउक्तवन्तौ च- “इदानीं खादितुं किमपि ददातु!\nमहती बुभुक्षा बाधते । यदा मरण-आखोचनम्‌\nआसीत्‌ तदा बुमुक्षायाः स्मरणम्‌ एव न\nआसीत्‌ । दिनत्रपतः किमपि न खादितम्‌ ए ।\nखादितं मनः अपि न सिद्धम्‌ आसीत्‌ । इदानीं\nउभयोः अनुग्रहेण . मनुष्यो सज्ञातौ' इति ।\nपिङ्गलः मन्त्स्यूतं स्वीकु्य पाकशालां प्रवि-\nरवान्‌ । मातुः कृते तं स्यूतं दत्वा, अग्रनयोः\nसमीपम्‌ आगत्य उपविष्टवान्‌ । पञ्चनिमेषानन्तरं\nमाता  विविध-भोजनपदार्थान्‌ स्थाख्िकायां स्थाप-\nयित्रा पुत्रयोः पुरतः सुव्यवस्थितं स्थापितवती\nठक्षदत्तन सह तानि खायानि खादन्‌\nजीवदत्तः उक्तवान्‌- “अम्बर ! भवती यक्किमपि\nराद्यं करोतु, तत्सव रुचिकरम्‌ एव भवति ।\nएतावन्ति खाद्यानि किमथे कृतवती १ वृधा\nघरनव्ययः' ` इति ।\nतदा प्रड्गटः हसन्‌ उक्तवान्‌- “इतःपरं\nप्रतिद्विनम्‌ अपि रएतादरश्भोजनम्‌ । आवस्यकं\nचेत्‌ नगरीयाणां सर्वेषाम्‌ अपि दरिद्राणां कृते\nएतादश भोजनं दातं शक्नुमः । खादयनिर्माणि\nमातुः इदानीं सन्तोषः एव, न तु कष्टम्‌ ।\nसद्यः चिन्तां विना यथेष्टं भोजनं कुवन्तु\nइति ।",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

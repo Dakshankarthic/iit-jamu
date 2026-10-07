@@ -1,0 +1,467 @@
+{
+  "page": 21,
+  "source_image": "image/Chanda_Mama_21.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        226,
+        1190,
+        2608
+      ],
+      "text": "वीदुशम्‌ इति एषः एव सम्पक्‌ जानाति!” इति\nसुदानः उत्तरं वदति स्म ।\nतदा सदरनस्य पुत्राः “-सयम्‌ । तथापि सम्पूणे-\nतया रोगनिवारणं करोति चेत्‌, तहिं शुक;\n| समधः इति वदामः । केवट चिन्तापरिहिण\nकिं प्रयाजनम्‌ ? तस्य तादृशी वाकृशक्ितिः अस्ति\nकिट £ सम्पूणतया निवारणोपायं किमथ न\nवदति \"इति उक्तवन्तः ।\nतदपि सत्यपरेव इति चिन्तयन्‌ सुदर्शनः\nशक इष्टा “चिन्तायाः शाश्वतपरिदारः कोऽपि\nअस्ति वा? इति परष्टवान्‌ ।\n‹“ननु भोः, पञ्रश्थाः स्वतन्त्रजनानां भीति\nपरिहत शक्नुवन्ति इति भवान्‌ भावयति वा\nभवतः भयं* चिन्तां च परिहर्तुम्‌ उपाये केवलं\nवक्तुं शक्नोमि । भवतः जीवनं केवट स्वाध-\nसाधनाय मास्तु । पराथमपि जीवामि इति\nसभ्यातं करोतु । तदा चिन्ता परिहिना भवति!\nइति उक्तवान्‌ शुकः । तदारभ्य सुद्रदानः द्रि\nद्राणां कृते किञ्चित्‌ साहाय्यं कतुम्‌ आर्ध्वरान्‌ }\nतेन जनानां समृहे तस्य कीति; कवते स्म)\nतेन च तस्य मनन्नः उत्साहः अपिं जायते स्म।\n1.",
+      "line_count": 22
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1211,
+        1445,
+        2146,
+        2608
+      ],
+      "text": "यक्ता, वाणिञ्यव्यव्हारादरिकम्‌ अपि द्रष्टुम्‌ आर.\nश्ववान्‌ । एतस्मिन्‌ मरिपयं॑ गृहस्य जनानां\nसन्तोषः जातः ।\nकिन्तु जनकस्य परिमितिरहित-दानधर्मा-\nदिकं दृष्टवा पुत्राः असन्तुष्टाः जाताः । एकदा\nते सुदरईानं प्रति “तात! काके शुकः मनुष्यवत्‌\nउपदिशति इत्येव नूनं कुत्निमम्‌ । अननः एः यः\nकोऽथि मान्त्रिकः शुकः स्यात्‌ । भवतः सथ-\nमपि धनं दानशूपेण वितरण कारयितुं यः\nकोऽपि शत्रुः एत ञ्ुकं॒भव्रतः समीपे प्रेपरित-\nन्व जदि भागते ॥ ता पण निजाय जते",
+      "line_count": 11
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "वीदुशम्‌ इति एषः एव सम्पक्‌ जानाति!” इति",
+      "bbox": [
+        262,
+        284,
+        1167,
+        394
+      ],
+      "confidence": 49.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "सुदानः उत्तरं वदति स्म ।",
+      "bbox": [
+        266,
+        398,
+        790,
+        469
+      ],
+      "confidence": 59.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "तदा सदरनस्य पुत्राः “-सयम्‌ । तथापि सम्पूणे-",
+      "bbox": [
+        264,
+        559,
+        1173,
+        638
+      ],
+      "confidence": 66.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "तया रोगनिवारणं करोति चेत्‌, तहिं शुक;",
+      "bbox": [
+        264,
+        659,
+        1165,
+        736
+      ],
+      "confidence": 86.63,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "| समधः इति वदामः । केवट चिन्तापरिहिण",
+      "bbox": [
+        226,
+        742,
+        1175,
+        845
+      ],
+      "confidence": 74.05,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "किं प्रयाजनम्‌ ? तस्य तादृशी वाकृशक्ितिः अस्ति",
+      "bbox": [
+        265,
+        856,
+        1176,
+        932
+      ],
+      "confidence": 56.23,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "किट £ सम्पूणतया निवारणोपायं किमथ न",
+      "bbox": [
+        268,
+        956,
+        1180,
+        1041
+      ],
+      "confidence": 75.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "वदति \"इति उक्तवन्तः ।",
+      "bbox": [
+        274,
+        1050,
+        800,
+        1123
+      ],
+      "confidence": 82.44,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "तदपि सत्यपरेव इति चिन्तयन्‌ सुदर्शनः",
+      "bbox": [
+        356,
+        1212,
+        1178,
+        1282
+      ],
+      "confidence": 62.4,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "शक इष्टा “चिन्तायाः शाश्वतपरिदारः कोऽपि",
+      "bbox": [
+        270,
+        1307,
+        1183,
+        1393
+      ],
+      "confidence": 28.37,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "अस्ति वा? इति परष्टवान्‌ ।",
+      "bbox": [
+        272,
+        1405,
+        857,
+        1471
+      ],
+      "confidence": 53.95,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "‹“ननु भोः, पञ्रश्थाः स्वतन्त्रजनानां भीति",
+      "bbox": [
+        359,
+        1552,
+        1172,
+        1626
+      ],
+      "confidence": 54.85,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "परिहत शक्नुवन्ति इति भवान्‌ भावयति वा",
+      "bbox": [
+        274,
+        1651,
+        1169,
+        1733
+      ],
+      "confidence": 64.26,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "भवतः भयं* चिन्तां च परिहर्तुम्‌ उपाये केवलं",
+      "bbox": [
+        273,
+        1743,
+        1175,
+        1814
+      ],
+      "confidence": 74.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "left",
+      "text": "वक्तुं शक्नोमि । भवतः जीवनं केवट स्वाध-",
+      "bbox": [
+        272,
+        1837,
+        1173,
+        1909
+      ],
+      "confidence": 73.74,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "left",
+      "text": "साधनाय मास्तु । पराथमपि जीवामि इति",
+      "bbox": [
+        273,
+        1932,
+        1173,
+        2003
+      ],
+      "confidence": 62.05,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "left",
+      "text": "सभ्यातं करोतु । तदा चिन्ता परिहिना भवति!",
+      "bbox": [
+        276,
+        2028,
+        1173,
+        2097
+      ],
+      "confidence": 68.43,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "left",
+      "text": "इति उक्तवान्‌ शुकः । तदारभ्य सुद्रदानः द्रि",
+      "bbox": [
+        274,
+        2122,
+        1177,
+        2195
+      ],
+      "confidence": 60.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "left",
+      "text": "द्राणां कृते किञ्चित्‌ साहाय्यं कतुम्‌ आर्ध्वरान्‌ }",
+      "bbox": [
+        276,
+        2214,
+        1182,
+        2298
+      ],
+      "confidence": 53.8,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "left",
+      "text": "तेन जनानां समृहे तस्य कीति; कवते स्म)",
+      "bbox": [
+        275,
+        2307,
+        1180,
+        2384
+      ],
+      "confidence": 75.69,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "left",
+      "text": "तेन च तस्य मनन्नः उत्साहः अपिं जायते स्म।",
+      "bbox": [
+        276,
+        2403,
+        1182,
+        2472
+      ],
+      "confidence": 73.32,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "left",
+      "text": "1.",
+      "bbox": [
+        360,
+        2571,
+        1181,
+        2608
+      ],
+      "confidence": 14.89,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "यक्ता, वाणिञ्यव्यव्हारादरिकम्‌ अपि द्रष्टुम्‌ आर.",
+      "bbox": [
+        1239,
+        1541,
+        2146,
+        1607
+      ],
+      "confidence": 33.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "श्ववान्‌ । एतस्मिन्‌ मरिपयं॑ गृहस्य जनानां",
+      "bbox": [
+        1239,
+        1632,
+        2133,
+        1702
+      ],
+      "confidence": 62.73,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "सन्तोषः जातः ।",
+      "bbox": [
+        1240,
+        1728,
+        1562,
+        1784
+      ],
+      "confidence": 62.07,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "किन्तु जनकस्य परिमितिरहित-दानधर्मा-",
+      "bbox": [
+        1327,
+        1880,
+        2139,
+        1951
+      ],
+      "confidence": 74.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "दिकं दृष्टवा पुत्राः असन्तुष्टाः जाताः । एकदा",
+      "bbox": [
+        1245,
+        1991,
+        2146,
+        2064
+      ],
+      "confidence": 68.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "ते सुदरईानं प्रति “तात! काके शुकः मनुष्यवत्‌",
+      "bbox": [
+        1245,
+        2093,
+        2146,
+        2166
+      ],
+      "confidence": 58.03,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "उपदिशति इत्येव नूनं कुत्निमम्‌ । अननः एः यः",
+      "bbox": [
+        1250,
+        2197,
+        2139,
+        2275
+      ],
+      "confidence": 63.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "कोऽथि मान्त्रिकः शुकः स्यात्‌ । भवतः सथ-",
+      "bbox": [
+        1250,
+        2276,
+        2145,
+        2364
+      ],
+      "confidence": 72.09,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "मपि धनं दानशूपेण वितरण कारयितुं यः",
+      "bbox": [
+        1250,
+        2387,
+        2139,
+        2453
+      ],
+      "confidence": 61.65,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "कोऽपि शत्रुः एत ञ्ुकं॒भव्रतः समीपे प्रेपरित-",
+      "bbox": [
+        1250,
+        2478,
+        2140,
+        2552
+      ],
+      "confidence": 61.07,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "न्व जदि भागते ॥ ता पण निजाय जते",
+      "bbox": [
+        1251,
+        2570,
+        2144,
+        2622
+      ],
+      "confidence": 11.89,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "वीदुशम्‌ इति एषः एव सम्पक्‌ जानाति!” इति\nसुदानः उत्तरं वदति स्म ।\nतदा सदरनस्य पुत्राः “-सयम्‌ । तथापि सम्पूणे-\nतया रोगनिवारणं करोति चेत्‌, तहिं शुक;\n| समधः इति वदामः । केवट चिन्तापरिहिण\nकिं प्रयाजनम्‌ ? तस्य तादृशी वाकृशक्ितिः अस्ति\nकिट £ सम्पूणतया निवारणोपायं किमथ न\nवदति \"इति उक्तवन्तः ।\nतदपि सत्यपरेव इति चिन्तयन्‌ सुदर्शनः\nशक इष्टा “चिन्तायाः शाश्वतपरिदारः कोऽपि\nअस्ति वा? इति परष्टवान्‌ ।\n‹“ननु भोः, पञ्रश्थाः स्वतन्त्रजनानां भीति\nपरिहत शक्नुवन्ति इति भवान्‌ भावयति वा\nभवतः भयं* चिन्तां च परिहर्तुम्‌ उपाये केवलं\nवक्तुं शक्नोमि । भवतः जीवनं केवट स्वाध-\nसाधनाय मास्तु । पराथमपि जीवामि इति\nसभ्यातं करोतु । तदा चिन्ता परिहिना भवति!\nइति उक्तवान्‌ शुकः । तदारभ्य सुद्रदानः द्रि\nद्राणां कृते किञ्चित्‌ साहाय्यं कतुम्‌ आर्ध्वरान्‌ }\nतेन जनानां समृहे तस्य कीति; कवते स्म)\nतेन च तस्य मनन्नः उत्साहः अपिं जायते स्म।\n1.\n\nयक्ता, वाणिञ्यव्यव्हारादरिकम्‌ अपि द्रष्टुम्‌ आर.\nश्ववान्‌ । एतस्मिन्‌ मरिपयं॑ गृहस्य जनानां\nसन्तोषः जातः ।\nकिन्तु जनकस्य परिमितिरहित-दानधर्मा-\nदिकं दृष्टवा पुत्राः असन्तुष्टाः जाताः । एकदा\nते सुदरईानं प्रति “तात! काके शुकः मनुष्यवत्‌\nउपदिशति इत्येव नूनं कुत्निमम्‌ । अननः एः यः\nकोऽथि मान्त्रिकः शुकः स्यात्‌ । भवतः सथ-\nमपि धनं दानशूपेण वितरण कारयितुं यः\nकोऽपि शत्रुः एत ञ्ुकं॒भव्रतः समीपे प्रेपरित-\nन्व जदि भागते ॥ ता पण निजाय जते",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

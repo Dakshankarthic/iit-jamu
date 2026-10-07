@@ -1,0 +1,376 @@
+{
+  "page": 28,
+  "source_image": "image/Chanda_Mama_28.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        226,
+        1117,
+        1474
+      ],
+      "text": "२1 तद्रा ईच्छा जभत्रत्‌। तदन ।कतन्न्‌\nसः किचित्‌ दूरं गतवान्‌ । नदा पाश्वस्थ-\nउपमागनः गोविन्द्‌; आगच्छति स्म। सः\nकोटीक्षस्य परिचितः एव । सः अपि अतीव\nत्वरायुक्तः इव दुद्यते स्म । तेन सह किमपि\nवक्तु कोटीशः यदा मुखम्‌ उद्घाटितवान्‌,\nततपूत्रमेव गोविन्दः - “किं भोः १ कान्तेशस्थ\nगृहे भवान्‌ आगच्छति वाः तत्र एतस्मिन्‌\nगि एव दुरभस्थ विचित्रस्य द्रानं भवतिः\nइति उक्तवान्‌ ।\n‹“तत्‌ अहं जानामि। तस्य गृहस्य आप्नवृक्ष\nसीताफल मिरुति । तदेव किक ! `` इति\nकोटीशः पृष्टवान्‌ ।",
+      "line_count": 13
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1150,
+        226,
+        2146,
+        1474
+      ],
+      "text": "*\"ॐर : तथा वाः एतत्‌ अन्यत्‌ | तद्य\nगृहस्य उद्याने एकः सप: वसति । सः सर्पः\nकणाम्‌ उनमय्य अतिधथिजनान्‌ आशीर्वचनेः\nअनुगृह्णाति इति श्रूयते । भवान्‌ न जानाति\nइति मन्ये `› इति उक्तवान्‌ गोविन्दः ।\nगोविन्दस्य वचनं श्रुता कोटीशस्य आश्चयम्‌ |\nअभवत्‌ । एवमेव कोटीशस्य वचनेन गोविन्दः |\nमूकः एव अभवत्‌ । एवं तर्हिं कन्तेशस्य गृहे ,\nबहूनि विचित्राणि सन्ति इति कोटीशः\nगोविन्दः च आटो चितवन्तौ । त\nअनन्तरं कोटीशः गोविन्दः च मिचखतवि\nकान्तेशस्य गृहं प्रस्थितौ । भागौर्मध्ये\nनागराजः इति अन्यः करिचत्‌ मिलितवान्‌ ।",
+      "line_count": 13
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "२1 तद्रा ईच्छा जभत्रत्‌। तदन ।कतन्न्‌",
+      "bbox": [
+        192,
+        226,
+        1110,
+        272
+      ],
+      "confidence": 25.03,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "सः किचित्‌ दूरं गतवान्‌ । नदा पाश्वस्थ-",
+      "bbox": [
+        192,
+        291,
+        1096,
+        372
+      ],
+      "confidence": 71.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "उपमागनः गोविन्द्‌; आगच्छति स्म। सः",
+      "bbox": [
+        193,
+        386,
+        1094,
+        464
+      ],
+      "confidence": 83.52,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "कोटीक्षस्य परिचितः एव । सः अपि अतीव",
+      "bbox": [
+        194,
+        486,
+        1101,
+        551
+      ],
+      "confidence": 78.29,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "त्वरायुक्तः इव दुद्यते स्म । तेन सह किमपि",
+      "bbox": [
+        190,
+        579,
+        1109,
+        663
+      ],
+      "confidence": 67.52,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "वक्तु कोटीशः यदा मुखम्‌ उद्घाटितवान्‌,",
+      "bbox": [
+        194,
+        673,
+        1096,
+        747
+      ],
+      "confidence": 45.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "ततपूत्रमेव गोविन्दः - “किं भोः १ कान्तेशस्थ",
+      "bbox": [
+        197,
+        766,
+        1102,
+        845
+      ],
+      "confidence": 61.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "गृहे भवान्‌ आगच्छति वाः तत्र एतस्मिन्‌",
+      "bbox": [
+        197,
+        864,
+        1108,
+        934
+      ],
+      "confidence": 73.47,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "गि एव दुरभस्थ विचित्रस्य द्रानं भवतिः",
+      "bbox": [
+        148,
+        958,
+        1094,
+        1474
+      ],
+      "confidence": 51.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "इति उक्तवान्‌ ।",
+      "bbox": [
+        200,
+        1060,
+        491,
+        1130
+      ],
+      "confidence": 89.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "‹“तत्‌ अहं जानामि। तस्य गृहस्य आप्नवृक्ष",
+      "bbox": [
+        286,
+        1161,
+        1105,
+        1233
+      ],
+      "confidence": 72.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "सीताफल मिरुति । तदेव किक ! `` इति",
+      "bbox": [
+        200,
+        1253,
+        1109,
+        1333
+      ],
+      "confidence": 70.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "कोटीशः पृष्टवान्‌ ।",
+      "bbox": [
+        201,
+        1349,
+        574,
+        1419
+      ],
+      "confidence": 45.54,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "right",
+      "text": "*\"ॐर : तथा वाः एतत्‌ अन्यत्‌ | तद्य",
+      "bbox": [
+        1255,
+        226,
+        2061,
+        276
+      ],
+      "confidence": 74.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "गृहस्य उद्याने एकः सप: वसति । सः सर्पः",
+      "bbox": [
+        1167,
+        300,
+        2056,
+        369
+      ],
+      "confidence": 81.63,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "कणाम्‌ उनमय्य अतिधथिजनान्‌ आशीर्वचनेः",
+      "bbox": [
+        1165,
+        396,
+        2060,
+        474
+      ],
+      "confidence": 50.36,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "अनुगृह्णाति इति श्रूयते । भवान्‌ न जानाति",
+      "bbox": [
+        1167,
+        497,
+        2057,
+        573
+      ],
+      "confidence": 89.91,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "इति मन्ये `› इति उक्तवान्‌ गोविन्दः ।",
+      "bbox": [
+        1164,
+        588,
+        1921,
+        664
+      ],
+      "confidence": 83.28,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "गोविन्दस्य वचनं श्रुता कोटीशस्य आश्चयम्‌ |",
+      "bbox": [
+        1249,
+        683,
+        2103,
+        759
+      ],
+      "confidence": 67.47,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "अभवत्‌ । एवमेव कोटीशस्य वचनेन गोविन्दः |",
+      "bbox": [
+        1166,
+        759,
+        2103,
+        910
+      ],
+      "confidence": 90.47,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "मूकः एव अभवत्‌ । एवं तर्हिं कन्तेशस्य गृहे ,",
+      "bbox": [
+        1165,
+        872,
+        2100,
+        947
+      ],
+      "confidence": 84.77,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "बहूनि विचित्राणि सन्ति इति कोटीशः",
+      "bbox": [
+        1166,
+        970,
+        2059,
+        1044
+      ],
+      "confidence": 89.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "गोविन्दः च आटो चितवन्तौ । त",
+      "bbox": [
+        1168,
+        1051,
+        1985,
+        1145
+      ],
+      "confidence": 72.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "अनन्तरं कोटीशः गोविन्दः च मिचखतवि",
+      "bbox": [
+        1256,
+        1155,
+        2063,
+        1235
+      ],
+      "confidence": 66.62,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "कान्तेशस्य गृहं प्रस्थितौ । भागौर्मध्ये",
+      "bbox": [
+        1174,
+        1247,
+        2066,
+        1319
+      ],
+      "confidence": 45.58,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "नागराजः इति अन्यः करिचत्‌ मिलितवान्‌ ।",
+      "bbox": [
+        1175,
+        1347,
+        2065,
+        1424
+      ],
+      "confidence": 69.26,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "२1 तद्रा ईच्छा जभत्रत्‌। तदन ।कतन्न्‌\nसः किचित्‌ दूरं गतवान्‌ । नदा पाश्वस्थ-\nउपमागनः गोविन्द्‌; आगच्छति स्म। सः\nकोटीक्षस्य परिचितः एव । सः अपि अतीव\nत्वरायुक्तः इव दुद्यते स्म । तेन सह किमपि\nवक्तु कोटीशः यदा मुखम्‌ उद्घाटितवान्‌,\nततपूत्रमेव गोविन्दः - “किं भोः १ कान्तेशस्थ\nगृहे भवान्‌ आगच्छति वाः तत्र एतस्मिन्‌\nगि एव दुरभस्थ विचित्रस्य द्रानं भवतिः\nइति उक्तवान्‌ ।\n‹“तत्‌ अहं जानामि। तस्य गृहस्य आप्नवृक्ष\nसीताफल मिरुति । तदेव किक ! `` इति\nकोटीशः पृष्टवान्‌ ।\n\n*\"ॐर : तथा वाः एतत्‌ अन्यत्‌ | तद्य\nगृहस्य उद्याने एकः सप: वसति । सः सर्पः\nकणाम्‌ उनमय्य अतिधथिजनान्‌ आशीर्वचनेः\nअनुगृह्णाति इति श्रूयते । भवान्‌ न जानाति\nइति मन्ये `› इति उक्तवान्‌ गोविन्दः ।\nगोविन्दस्य वचनं श्रुता कोटीशस्य आश्चयम्‌ |\nअभवत्‌ । एवमेव कोटीशस्य वचनेन गोविन्दः |\nमूकः एव अभवत्‌ । एवं तर्हिं कन्तेशस्य गृहे ,\nबहूनि विचित्राणि सन्ति इति कोटीशः\nगोविन्दः च आटो चितवन्तौ । त\nअनन्तरं कोटीशः गोविन्दः च मिचखतवि\nकान्तेशस्य गृहं प्रस्थितौ । भागौर्मध्ये\nनागराजः इति अन्यः करिचत्‌ मिलितवान्‌ ।",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

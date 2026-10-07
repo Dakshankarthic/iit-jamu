@@ -1,0 +1,493 @@
+{
+  "page": 18,
+  "source_image": "image/Chanda_Mama_18.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        226,
+        1136,
+        1927
+      ],
+      "text": "सः मन्त्रः कः इति वदतु अम्ब ¦ अहम्‌\nइदानीम्‌ एव्र कम्‌ इच्छामि। स्वहस्ततः आन-\nयामि\" इति उक्तवान्‌ जीवदत्तः ।\nमाता पुत्रव्यामोहेन वशीकता पूतनम्‌\nअपराधं विस्मय मन्त्रं पाठितवती । जीवदत्तः\nस्व-हस्ततः एव अपेक्षितानि भक्ष्याणि आनी-\nतवान्‌ । रहस्यं ज्ञातम्‌ इति तदानीं जीवदत्त-\nटश्षदत्तयाः आनन्दस्य सीमा एव नास्ति ।\nतदिने रात्रौ ए दुष्टभ्रातरौ खकुतन्त्रस्य\nआरम्भं कृतवन्तो । यदि पिद्छाटः गृहे न भवति\nतर्हिं माता असहाया भवति इति तो जानीतः\nएव । किन्तु ‹पिङ्गटः कथं वा दूरीकरणीयः ?'\nइत्येव तयोः इदानीं समस्या ।\n“'्मम एकः उपायः स्फुरति । परह्यः अहं\nनगरे एकं नोकानायकं दृष्टवान्‌ । नोकाचाट्नार्थ\nतस्य कृते एकः सहायकः युवकः अपेक्षितः ।\n\"यदि आवद्यकं तहि, यथेष्टं धनं दत्वा अपि\nपाङ्कतः युवकं स्वीकरठु॑ सिद्धः\" इति सः",
+      "line_count": 18
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1173,
+        226,
+        2146,
+        1927
+      ],
+      "text": "पिद्धार विक्रीणीमः । अस्माक गृह आवाम्‌\nएव॒ य्येष्प्रौ किट ?ˆ उति उक्तवान्‌\nजीवदत्तः | `\n\"आम्‌. समीचीनम्‌ आदटाचनम । ण्वमेवर\nकुव: । तं नौकानायकं प्रथमं पर्यावः'` इति\nउक्तवान्‌ टक्षदत्तः ।\nउभो अपि नौकानायकस्य समीपं गतवन्तौ\nतौ द्ष्ट्वा सः पृष्रवान्‌ “कि कायम्‌ आसीत्‌'\nइति ।\n८“अये, नोकानायकमहादय! अवयाः\nपिङ्गः इति एकः अनुजः अस्ति। सः\nसर्वधा अविवेकी हटी च । अनपेक्षितं साहसं\nकरोति, बहु व्ययं करोति, स्त्र अटति च ।\nएवं स्वमातरं च पीडयन्‌, तदा तदा पटायनम्‌\nअपि करोति। तस्य निवेहणं कथम्‌ इति एव\nन ज्ञायते'' इति वदन्‌ जीवदत्तः वचनं\nस्थगितवान्‌ । (अनुवतते)",
+      "line_count": 17
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "सः मन्त्रः कः इति वदतु अम्ब ¦ अहम्‌",
+      "bbox": [
+        316,
+        268,
+        1132,
+        337
+      ],
+      "confidence": 76.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "इदानीम्‌ एव्र कम्‌ इच्छामि। स्वहस्ततः आन-",
+      "bbox": [
+        230,
+        362,
+        1119,
+        438
+      ],
+      "confidence": 74.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "यामि\" इति उक्तवान्‌ जीवदत्तः ।",
+      "bbox": [
+        231,
+        456,
+        866,
+        522
+      ],
+      "confidence": 77.47,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "माता पुत्रव्यामोहेन वशीकता पूतनम्‌",
+      "bbox": [
+        316,
+        544,
+        1129,
+        626
+      ],
+      "confidence": 48.07,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "अपराधं विस्मय मन्त्रं पाठितवती । जीवदत्तः",
+      "bbox": [
+        235,
+        625,
+        1113,
+        711
+      ],
+      "confidence": 34.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "स्व-हस्ततः एव अपेक्षितानि भक्ष्याणि आनी-",
+      "bbox": [
+        232,
+        738,
+        1118,
+        803
+      ],
+      "confidence": 79.25,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "तवान्‌ । रहस्यं ज्ञातम्‌ इति तदानीं जीवदत्त-",
+      "bbox": [
+        230,
+        831,
+        1115,
+        898
+      ],
+      "confidence": 68.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "टश्षदत्तयाः आनन्दस्य सीमा एव नास्ति ।",
+      "bbox": [
+        231,
+        925,
+        1034,
+        990
+      ],
+      "confidence": 79.24,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "तदिने रात्रौ ए दुष्टभ्रातरौ खकुतन्त्रस्य",
+      "bbox": [
+        314,
+        1014,
+        1124,
+        1090
+      ],
+      "confidence": 50.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "आरम्भं कृतवन्तो । यदि पिद्छाटः गृहे न भवति",
+      "bbox": [
+        232,
+        1107,
+        1124,
+        1196
+      ],
+      "confidence": 72.2,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "तर्हिं माता असहाया भवति इति तो जानीतः",
+      "bbox": [
+        234,
+        1200,
+        1119,
+        1271
+      ],
+      "confidence": 84.28,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "एव । किन्तु ‹पिङ्गटः कथं वा दूरीकरणीयः ?'",
+      "bbox": [
+        234,
+        1300,
+        1119,
+        1381
+      ],
+      "confidence": 72.06,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "इत्येव तयोः इदानीं समस्या ।",
+      "bbox": [
+        242,
+        1390,
+        801,
+        1459
+      ],
+      "confidence": 93.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "“'्मम एकः उपायः स्फुरति । परह्यः अहं",
+      "bbox": [
+        324,
+        1488,
+        1128,
+        1556
+      ],
+      "confidence": 68.06,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "left",
+      "text": "नगरे एकं नोकानायकं दृष्टवान्‌ । नोकाचाट्नार्थ",
+      "bbox": [
+        237,
+        1572,
+        1127,
+        1649
+      ],
+      "confidence": 46.95,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "left",
+      "text": "तस्य कृते एकः सहायकः युवकः अपेक्षितः ।",
+      "bbox": [
+        240,
+        1671,
+        1126,
+        1740
+      ],
+      "confidence": 77.24,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "left",
+      "text": "\"यदि आवद्यकं तहि, यथेष्टं धनं दत्वा अपि",
+      "bbox": [
+        244,
+        1764,
+        1129,
+        1842
+      ],
+      "confidence": 55.25,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "left",
+      "text": "पाङ्कतः युवकं स्वीकरठु॑ सिद्धः\" इति सः",
+      "bbox": [
+        241,
+        1855,
+        1123,
+        1927
+      ],
+      "confidence": 51.67,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "पिद्धार विक्रीणीमः । अस्माक गृह आवाम्‌",
+      "bbox": [
+        1191,
+        268,
+        2080,
+        339
+      ],
+      "confidence": 61.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "एव॒ य्येष्प्रौ किट ?ˆ उति उक्तवान्‌",
+      "bbox": [
+        1187,
+        358,
+        2079,
+        426
+      ],
+      "confidence": 50.75,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "जीवदत्तः | `",
+      "bbox": [
+        1187,
+        452,
+        1452,
+        516
+      ],
+      "confidence": 53.28,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "\"आम्‌. समीचीनम्‌ आदटाचनम । ण्वमेवर",
+      "bbox": [
+        1276,
+        550,
+        2076,
+        616
+      ],
+      "confidence": 66.73,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "कुव: । तं नौकानायकं प्रथमं पर्यावः'` इति",
+      "bbox": [
+        1185,
+        650,
+        2072,
+        725
+      ],
+      "confidence": 68.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "उक्तवान्‌ टक्षदत्तः ।",
+      "bbox": [
+        1186,
+        764,
+        1572,
+        818
+      ],
+      "confidence": 36.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "उभो अपि नौकानायकस्य समीपं गतवन्तौ",
+      "bbox": [
+        1270,
+        836,
+        2073,
+        900
+      ],
+      "confidence": 87.67,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "तौ द्ष्ट्वा सः पृष्रवान्‌ “कि कायम्‌ आसीत्‌'",
+      "bbox": [
+        1187,
+        943,
+        2070,
+        1023
+      ],
+      "confidence": 67.75,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "इति ।",
+      "bbox": [
+        1188,
+        1043,
+        1295,
+        1106
+      ],
+      "confidence": 77.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "८“अये, नोकानायकमहादय! अवयाः",
+      "bbox": [
+        1278,
+        1129,
+        2066,
+        1200
+      ],
+      "confidence": 35.18,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "पिङ्गः इति एकः अनुजः अस्ति। सः",
+      "bbox": [
+        1193,
+        1241,
+        2071,
+        1318
+      ],
+      "confidence": 68.51,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "सर्वधा अविवेकी हटी च । अनपेक्षितं साहसं",
+      "bbox": [
+        1190,
+        1339,
+        2077,
+        1407
+      ],
+      "confidence": 79.62,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "करोति, बहु व्ययं करोति, स्त्र अटति च ।",
+      "bbox": [
+        1191,
+        1438,
+        2074,
+        1523
+      ],
+      "confidence": 84.09,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "एवं स्वमातरं च पीडयन्‌, तदा तदा पटायनम्‌",
+      "bbox": [
+        1191,
+        1550,
+        2086,
+        1618
+      ],
+      "confidence": 87.58,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "अपि करोति। तस्य निवेहणं कथम्‌ इति एव",
+      "bbox": [
+        1192,
+        1648,
+        2077,
+        1737
+      ],
+      "confidence": 82.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "न ज्ञायते'' इति वदन्‌ जीवदत्तः वचनं",
+      "bbox": [
+        1192,
+        1748,
+        2077,
+        1843
+      ],
+      "confidence": 68.35,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "स्थगितवान्‌ । (अनुवतते)",
+      "bbox": [
+        1192,
+        1862,
+        2080,
+        1927
+      ],
+      "confidence": 56.21,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "सः मन्त्रः कः इति वदतु अम्ब ¦ अहम्‌\nइदानीम्‌ एव्र कम्‌ इच्छामि। स्वहस्ततः आन-\nयामि\" इति उक्तवान्‌ जीवदत्तः ।\nमाता पुत्रव्यामोहेन वशीकता पूतनम्‌\nअपराधं विस्मय मन्त्रं पाठितवती । जीवदत्तः\nस्व-हस्ततः एव अपेक्षितानि भक्ष्याणि आनी-\nतवान्‌ । रहस्यं ज्ञातम्‌ इति तदानीं जीवदत्त-\nटश्षदत्तयाः आनन्दस्य सीमा एव नास्ति ।\nतदिने रात्रौ ए दुष्टभ्रातरौ खकुतन्त्रस्य\nआरम्भं कृतवन्तो । यदि पिद्छाटः गृहे न भवति\nतर्हिं माता असहाया भवति इति तो जानीतः\nएव । किन्तु ‹पिङ्गटः कथं वा दूरीकरणीयः ?'\nइत्येव तयोः इदानीं समस्या ।\n“'्मम एकः उपायः स्फुरति । परह्यः अहं\nनगरे एकं नोकानायकं दृष्टवान्‌ । नोकाचाट्नार्थ\nतस्य कृते एकः सहायकः युवकः अपेक्षितः ।\n\"यदि आवद्यकं तहि, यथेष्टं धनं दत्वा अपि\nपाङ्कतः युवकं स्वीकरठु॑ सिद्धः\" इति सः\n\nपिद्धार विक्रीणीमः । अस्माक गृह आवाम्‌\nएव॒ य्येष्प्रौ किट ?ˆ उति उक्तवान्‌\nजीवदत्तः | `\n\"आम्‌. समीचीनम्‌ आदटाचनम । ण्वमेवर\nकुव: । तं नौकानायकं प्रथमं पर्यावः'` इति\nउक्तवान्‌ टक्षदत्तः ।\nउभो अपि नौकानायकस्य समीपं गतवन्तौ\nतौ द्ष्ट्वा सः पृष्रवान्‌ “कि कायम्‌ आसीत्‌'\nइति ।\n८“अये, नोकानायकमहादय! अवयाः\nपिङ्गः इति एकः अनुजः अस्ति। सः\nसर्वधा अविवेकी हटी च । अनपेक्षितं साहसं\nकरोति, बहु व्ययं करोति, स्त्र अटति च ।\nएवं स्वमातरं च पीडयन्‌, तदा तदा पटायनम्‌\nअपि करोति। तस्य निवेहणं कथम्‌ इति एव\nन ज्ञायते'' इति वदन्‌ जीवदत्तः वचनं\nस्थगितवान्‌ । (अनुवतते)",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

@@ -1,0 +1,519 @@
+{
+  "page": 20,
+  "source_image": "image/Chanda_Mama_20.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        1474,
+        1089,
+        2664
+      ],
+      "text": "सम्माननस्य स्थान अपमानम्‌ अपि कुवन्ति |\nअम्य उदाहरणरूपेण मानवमदरस्य श्युक्म कथां\nवदामि | कथाश्रवणेन भवतः गमनक्लेशः न्यूनः\nभवेत्‌\" - इति कथां वक्तुम्‌ आरब्धवान्‌\nसुदशननामकः कथित्‌ प्रारानगंर व्रमति म्म।\nतस्य पत्नी सुन्दरी विनयश्नीटा च| बुद्धिमन्तः\nपुत्राः च। महती मम्पक्तिपि आमीत्‌ । नथापि\nकेनचित्‌ अज्ञातकारणेन मः मदा भीन: इव\nम्टानमुखः दृदयत स्म । तं सन्तापयपितुं व्रह्वः\nवहू विधप्रयत्नान्‌ कृलवन्तः । तथापि म: उदम\nन प्राप्तवान्‌ । अन्ते नम्य कटाटल्टिगविलमेव नथा\nम्यात्‌ इति सर्वेपां भावना अमवत्‌ ।",
+      "line_count": 12
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1131,
+        283,
+        2146,
+        2664
+      ],
+      "text": "एवं सति एकटा एकं प्रञ्र गीत्रा कथित्‌\nमनुष्यः सुदरदानस्य समीपम्‌ आगतान्‌ ।\nपञ्चे मनोहरः एकः शुकः आसीत्‌ । सः मनुष्य\nसदान प्रति उक्तवरान्‌ ~ “स्वामिन्‌, भवन\nविपर्ं श्रुत्रा आगतवान्‌ अस्मि । एपः अपूव\nवाकचतुरः शुकः । एतादश अन्यत्र कुत्रापि\nन लभ्यते | एपः रम्याः कथाः वदति, येन\nभवतः मनः उह्छा्म॑प्राप्नाति । एतस्य मूलय\nसहस्र दीनराः।'\nसुदशनः शुकम्‌ अवता कितवान्‌। तस्य मनो -\nहराणि वचनानि सुता कंचित्‌ किचित्‌ सन्तो `\nधस्य अनुभवः जातः । विक्रयिकस्य वचने कापि\nअतियाक्रितिः नास्ति इति ज्ञातम्‌ । तत्क्षणमेव\nम: सहसरं दीनारान्‌ दत्वा तं शुकं क्रीतवान्‌ ।\nपरारम्भदिनेषु गृहस्य सर्वेषां जनानाम्‌ अपिं\nनयुकस्य वप्रये प्रीतिः आसीत्‌ । किन्तु सुद\nशनः सवदा श्ुकेन सह णव काटं नयति स्म ।\nएवं सवदा श्ुकव्यानमग्न तं द्रष्ट्वा, अन्येमा\nशुकस्य उपरि असूया सज्ञाता । सः वराणिव्य\nव्यव्रहाराद्िकं पुत्राणां हस्तेषु निक्षिप्तत्रान्‌ ।\nएव्र च शुकः णव नम्य मवम्वं जात्तम्‌ ।\nमवदा ्युकम्य महत्रासः अनृचितः इति\nयः काऽपि बदति चत्‌ नदा \"कस्य महत्य\nभव्रान्‌ नवर जानानि । मम॒ हृदयस्य चिन्तां\nपर्हितुम्‌. एषः शुकः एव ममथः । मम॒दृदुभं",
+      "line_count": 25
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "सम्माननस्य स्थान अपमानम्‌ अपि कुवन्ति |",
+      "bbox": [
+        185,
+        1504,
+        1081,
+        1579
+      ],
+      "confidence": 46.97,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "अम्य उदाहरणरूपेण मानवमदरस्य श्युक्म कथां",
+      "bbox": [
+        187,
+        1606,
+        1081,
+        1675
+      ],
+      "confidence": 43.95,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "वदामि | कथाश्रवणेन भवतः गमनक्लेशः न्यूनः",
+      "bbox": [
+        186,
+        1698,
+        1075,
+        1771
+      ],
+      "confidence": 39.91,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "भवेत्‌\" - इति कथां वक्तुम्‌ आरब्धवान्‌",
+      "bbox": [
+        187,
+        1793,
+        925,
+        1861
+      ],
+      "confidence": 57.11,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "सुदशननामकः कथित्‌ प्रारानगंर व्रमति म्म।",
+      "bbox": [
+        271,
+        1904,
+        1079,
+        1978
+      ],
+      "confidence": 36.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "तस्य पत्नी सुन्दरी विनयश्नीटा च| बुद्धिमन्तः",
+      "bbox": [
+        189,
+        2003,
+        1069,
+        2071
+      ],
+      "confidence": 62.25,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "पुत्राः च। महती मम्पक्तिपि आमीत्‌ । नथापि",
+      "bbox": [
+        189,
+        2095,
+        1082,
+        2163
+      ],
+      "confidence": 59.55,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "केनचित्‌ अज्ञातकारणेन मः मदा भीन: इव",
+      "bbox": [
+        187,
+        2186,
+        1081,
+        2257
+      ],
+      "confidence": 62.65,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "म्टानमुखः दृदयत स्म । तं सन्तापयपितुं व्रह्वः",
+      "bbox": [
+        190,
+        2282,
+        1070,
+        2349
+      ],
+      "confidence": 39.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "वहू विधप्रयत्नान्‌ कृलवन्तः । तथापि म: उदम",
+      "bbox": [
+        188,
+        2391,
+        1079,
+        2461
+      ],
+      "confidence": 36.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "न प्राप्तवान्‌ । अन्ते नम्य कटाटल्टिगविलमेव नथा",
+      "bbox": [
+        192,
+        2463,
+        1078,
+        2548
+      ],
+      "confidence": 50.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "म्यात्‌ इति सर्वेपां भावना अमवत्‌ ।",
+      "bbox": [
+        190,
+        2573,
+        866,
+        2643
+      ],
+      "confidence": 75.04,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "right",
+      "text": "एवं सति एकटा एकं प्रञ्र गीत्रा कथित्‌",
+      "bbox": [
+        1226,
+        320,
+        2035,
+        395
+      ],
+      "confidence": 71.95,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "right",
+      "text": "मनुष्यः सुदरदानस्य समीपम्‌ आगतान्‌ ।",
+      "bbox": [
+        1141,
+        415,
+        2038,
+        486
+      ],
+      "confidence": 62.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "पञ्चे मनोहरः एकः शुकः आसीत्‌ । सः मनुष्य",
+      "bbox": [
+        1141,
+        510,
+        2028,
+        584
+      ],
+      "confidence": 69.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "सदान प्रति उक्तवरान्‌ ~ “स्वामिन्‌, भवन",
+      "bbox": [
+        1142,
+        597,
+        2011,
+        683
+      ],
+      "confidence": 60.16,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "विपर्ं श्रुत्रा आगतवान्‌ अस्मि । एपः अपूव",
+      "bbox": [
+        1147,
+        696,
+        2024,
+        775
+      ],
+      "confidence": 68.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "वाकचतुरः शुकः । एतादश अन्यत्र कुत्रापि",
+      "bbox": [
+        1142,
+        794,
+        2030,
+        867
+      ],
+      "confidence": 56.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "न लभ्यते | एपः रम्याः कथाः वदति, येन",
+      "bbox": [
+        1145,
+        884,
+        2036,
+        952
+      ],
+      "confidence": 77.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "भवतः मनः उह्छा्म॑प्राप्नाति । एतस्य मूलय",
+      "bbox": [
+        1142,
+        980,
+        2033,
+        1057
+      ],
+      "confidence": 41.59,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "सहस्र दीनराः।'",
+      "bbox": [
+        1143,
+        1078,
+        1446,
+        1133
+      ],
+      "confidence": 49.32,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "सुदशनः शुकम्‌ अवता कितवान्‌। तस्य मनो -",
+      "bbox": [
+        1225,
+        1161,
+        2033,
+        1245
+      ],
+      "confidence": 64.54,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "हराणि वचनानि सुता कंचित्‌ किचित्‌ सन्तो `",
+      "bbox": [
+        1141,
+        1250,
+        2051,
+        1337
+      ],
+      "confidence": 60.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "धस्य अनुभवः जातः । विक्रयिकस्य वचने कापि",
+      "bbox": [
+        1151,
+        1357,
+        2036,
+        1423
+      ],
+      "confidence": 85.66,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "अतियाक्रितिः नास्ति इति ज्ञातम्‌ । तत्क्षणमेव",
+      "bbox": [
+        1152,
+        1447,
+        2033,
+        1515
+      ],
+      "confidence": 63.24,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "म: सहसरं दीनारान्‌ दत्वा तं शुकं क्रीतवान्‌ ।",
+      "bbox": [
+        1149,
+        1537,
+        2036,
+        1615
+      ],
+      "confidence": 62.83,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "परारम्भदिनेषु गृहस्य सर्वेषां जनानाम्‌ अपिं",
+      "bbox": [
+        1231,
+        1637,
+        2043,
+        1713
+      ],
+      "confidence": 81.2,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "नयुकस्य वप्रये प्रीतिः आसीत्‌ । किन्तु सुद",
+      "bbox": [
+        1148,
+        1729,
+        2013,
+        1802
+      ],
+      "confidence": 42.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "शनः सवदा श्ुकेन सह णव काटं नयति स्म ।",
+      "bbox": [
+        1148,
+        1822,
+        2036,
+        1895
+      ],
+      "confidence": 83.62,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "एवं सवदा श्ुकव्यानमग्न तं द्रष्ट्वा, अन्येमा",
+      "bbox": [
+        1148,
+        1913,
+        2031,
+        1990
+      ],
+      "confidence": 36.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "शुकस्य उपरि असूया सज्ञाता । सः वराणिव्य",
+      "bbox": [
+        1148,
+        2015,
+        2016,
+        2084
+      ],
+      "confidence": 69.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "व्यव्रहाराद्िकं पुत्राणां हस्तेषु निक्षिप्तत्रान्‌ ।",
+      "bbox": [
+        1148,
+        2111,
+        2035,
+        2180
+      ],
+      "confidence": 50.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "एव्र च शुकः णव नम्य मवम्वं जात्तम्‌ ।",
+      "bbox": [
+        1148,
+        2201,
+        1900,
+        2273
+      ],
+      "confidence": 63.54,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "मवदा ्युकम्य महत्रासः अनृचितः इति",
+      "bbox": [
+        1233,
+        2292,
+        2036,
+        2366
+      ],
+      "confidence": 59.57,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "यः काऽपि बदति चत्‌ नदा \"कस्य महत्य",
+      "bbox": [
+        1149,
+        2389,
+        2037,
+        2460
+      ],
+      "confidence": 67.52,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 36,
+      "column": "right",
+      "text": "भव्रान्‌ नवर जानानि । मम॒ हृदयस्य चिन्तां",
+      "bbox": [
+        1151,
+        2482,
+        2037,
+        2550
+      ],
+      "confidence": 67.34,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 37,
+      "column": "right",
+      "text": "पर्हितुम्‌. एषः शुकः एव ममथः । मम॒दृदुभं",
+      "bbox": [
+        1148,
+        2573,
+        2038,
+        2650
+      ],
+      "confidence": 42.16,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "सम्माननस्य स्थान अपमानम्‌ अपि कुवन्ति |\nअम्य उदाहरणरूपेण मानवमदरस्य श्युक्म कथां\nवदामि | कथाश्रवणेन भवतः गमनक्लेशः न्यूनः\nभवेत्‌\" - इति कथां वक्तुम्‌ आरब्धवान्‌\nसुदशननामकः कथित्‌ प्रारानगंर व्रमति म्म।\nतस्य पत्नी सुन्दरी विनयश्नीटा च| बुद्धिमन्तः\nपुत्राः च। महती मम्पक्तिपि आमीत्‌ । नथापि\nकेनचित्‌ अज्ञातकारणेन मः मदा भीन: इव\nम्टानमुखः दृदयत स्म । तं सन्तापयपितुं व्रह्वः\nवहू विधप्रयत्नान्‌ कृलवन्तः । तथापि म: उदम\nन प्राप्तवान्‌ । अन्ते नम्य कटाटल्टिगविलमेव नथा\nम्यात्‌ इति सर्वेपां भावना अमवत्‌ ।\n\nएवं सति एकटा एकं प्रञ्र गीत्रा कथित्‌\nमनुष्यः सुदरदानस्य समीपम्‌ आगतान्‌ ।\nपञ्चे मनोहरः एकः शुकः आसीत्‌ । सः मनुष्य\nसदान प्रति उक्तवरान्‌ ~ “स्वामिन्‌, भवन\nविपर्ं श्रुत्रा आगतवान्‌ अस्मि । एपः अपूव\nवाकचतुरः शुकः । एतादश अन्यत्र कुत्रापि\nन लभ्यते | एपः रम्याः कथाः वदति, येन\nभवतः मनः उह्छा्म॑प्राप्नाति । एतस्य मूलय\nसहस्र दीनराः।'\nसुदशनः शुकम्‌ अवता कितवान्‌। तस्य मनो -\nहराणि वचनानि सुता कंचित्‌ किचित्‌ सन्तो `\nधस्य अनुभवः जातः । विक्रयिकस्य वचने कापि\nअतियाक्रितिः नास्ति इति ज्ञातम्‌ । तत्क्षणमेव\nम: सहसरं दीनारान्‌ दत्वा तं शुकं क्रीतवान्‌ ।\nपरारम्भदिनेषु गृहस्य सर्वेषां जनानाम्‌ अपिं\nनयुकस्य वप्रये प्रीतिः आसीत्‌ । किन्तु सुद\nशनः सवदा श्ुकेन सह णव काटं नयति स्म ।\nएवं सवदा श्ुकव्यानमग्न तं द्रष्ट्वा, अन्येमा\nशुकस्य उपरि असूया सज्ञाता । सः वराणिव्य\nव्यव्रहाराद्िकं पुत्राणां हस्तेषु निक्षिप्तत्रान्‌ ।\nएव्र च शुकः णव नम्य मवम्वं जात्तम्‌ ।\nमवदा ्युकम्य महत्रासः अनृचितः इति\nयः काऽपि बदति चत्‌ नदा \"कस्य महत्य\nभव्रान्‌ नवर जानानि । मम॒ हृदयस्य चिन्तां\nपर्हितुम्‌. एषः शुकः एव ममथः । मम॒दृदुभं",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

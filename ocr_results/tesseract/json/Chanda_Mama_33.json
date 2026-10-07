@@ -1,0 +1,493 @@
+{
+  "page": 33,
+  "source_image": "image/Chanda_Mama_33.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        226,
+        1200,
+        2579
+      ],
+      "text": "| अतः सरोवरे अवतीर्य स्नानं कृतवती ।\nखानानन्तसम्‌ सा उपरि आगतवती ।\n| तद। तस्या; शरीरं सुवणवर्णन प्रकाशते स्म |\n। विन्तु एतत्‌ परिव्नं सा न ज्ञातवती ।\n। स्नानेन सन्तुष्टा सा प्रणदाटाभिमृखं प्रस्थित ।\n। मागीमध्ये गच्छन्तीं तां दृष्टवा कथित्‌ किरातः\n। सहसा निश्र्य उक्तवान्‌ \"सुन्दरि ! कृपया\n| मम॒ गृहम्‌ आगच्छतु | मां प्ररिणयतु ।'*\n| “प्मोः ! दुरात्मन्‌ ! मां ब्टात्करोति ?\n| एतस्य फलम्‌ अनुभवतु\" ` इति कमण्डलुजटेन\n| शापं दत्तवती। वज्रण ताडितः इव सः किरातः\n। टैः आक्राशन्‌ भूमौ पतितवान्‌ ।\n|\n| किरातस्य उपरोधत्तः टन्मुक्ता शम्बुटादेवी\n। जटम्‌ अपि स्वीकृत्य परणशा्ाम्‌ आगतवती ।\n| पतिः पृष्टवान्‌- ““किंमधरम्‌ अद्य विरम्बः कुतः\"\n| परवृत्तं स्ै॑वृत्तान्तं आदितः अन्तपर्मन्तं\n। शम्बटादेवी निविदवितवती । किन्तु नस्या:\nवचने अव्रिश्वसन्‌ सत्यसेनः उक्तवान्‌- ` ` ल्तरिपः\n। स्वयं कल्पयिता यक्विमपि वक्तुं ममर्थाः\nभवन्ति ।यथेच्छं ` विदवरन्तीं भवतीं कावा\n। पृच्छति ?`\n। ‹स्वामित्‌ ! मम वचनं यदि सनयं तट एतेन\nजलेन भवतः कृष्टरागः शान्तः भबतु ˆ` इत्ति\n| वदन्ती शम्बरुकादेवी कमण्डलुप्येन जलेन पयु;",
+      "line_count": 25
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1211,
+        1587,
+        2146,
+        2579
+      ],
+      "text": "भ्रसान्तः। प्ररान्तन रागण सन्यसनः बह सन्तुष्ट\nअभवत्‌ । किन्तु पल्याः पातित्रत्यम्‌ एव॒ अत्र\nकारणम्‌ इति सः न ज्ञातवान्‌ ।\nअनन्तरं सत्यसेनः व्रनवासं यक्त्ना\nगृहाभिमुषं प्रस्थितवान्‌ ।\nपुत्रस्य आगमनं ज्ञात्रा महाराजः ब्रहुसन्तुष्\nवान्‌ । छप्ैः चामरै; च सह स्वपुत्राय स्वागत्त\nकृतवान्‌ । `\"एपरा शम्बटादरेवी मम पुत्रस्य\nरागम्‌ अपरनीततरती । अपि च तगग्रस्तम्‌ अथि\nमम पुत्रं टृगप्रशमनपर्यन्तं शभ परिततवती ` '",
+      "line_count": 10
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "| अतः सरोवरे अवतीर्य स्नानं कृतवती ।",
+      "bbox": [
+        245,
+        226,
+        1180,
+        431
+      ],
+      "confidence": 50.32,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "खानानन्तसम्‌ सा उपरि आगतवती ।",
+      "bbox": [
+        301,
+        360,
+        1185,
+        422
+      ],
+      "confidence": 48.14,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "| तद। तस्या; शरीरं सुवणवर्णन प्रकाशते स्म |",
+      "bbox": [
+        250,
+        434,
+        1188,
+        554
+      ],
+      "confidence": 69.44,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "। विन्तु एतत्‌ परिव्नं सा न ज्ञातवती ।",
+      "bbox": [
+        250,
+        540,
+        1192,
+        616
+      ],
+      "confidence": 62.55,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "। स्नानेन सन्तुष्टा सा प्रणदाटाभिमृखं प्रस्थित ।",
+      "bbox": [
+        250,
+        625,
+        1191,
+        704
+      ],
+      "confidence": 52.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "। मागीमध्ये गच्छन्तीं तां दृष्टवा कथित्‌ किरातः",
+      "bbox": [
+        251,
+        725,
+        1187,
+        807
+      ],
+      "confidence": 62.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "। सहसा निश्र्य उक्तवान्‌ \"सुन्दरि ! कृपया",
+      "bbox": [
+        252,
+        814,
+        1192,
+        889
+      ],
+      "confidence": 56.6,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "| मम॒ गृहम्‌ आगच्छतु | मां प्ररिणयतु ।'*",
+      "bbox": [
+        252,
+        890,
+        1186,
+        996
+      ],
+      "confidence": 65.83,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "| “प्मोः ! दुरात्मन्‌ ! मां ब्टात्करोति ?",
+      "bbox": [
+        253,
+        997,
+        1189,
+        1076
+      ],
+      "confidence": 53.56,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "| एतस्य फलम्‌ अनुभवतु\" ` इति कमण्डलुजटेन",
+      "bbox": [
+        253,
+        1059,
+        1193,
+        1168
+      ],
+      "confidence": 52.97,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "| शापं दत्तवती। वज्रण ताडितः इव सः किरातः",
+      "bbox": [
+        253,
+        1130,
+        1186,
+        1279
+      ],
+      "confidence": 67.06,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "। टैः आक्राशन्‌ भूमौ पतितवान्‌ ।",
+      "bbox": [
+        253,
+        1280,
+        974,
+        1361
+      ],
+      "confidence": 80.71,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "|",
+      "bbox": [
+        254,
+        1371,
+        257,
+        1397
+      ],
+      "confidence": 84.92,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "| किरातस्य उपरोधत्तः टन्मुक्ता शम्बुटादेवी",
+      "bbox": [
+        254,
+        1407,
+        1186,
+        1517
+      ],
+      "confidence": 81.22,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "left",
+      "text": "। जटम्‌ अपि स्वीकृत्य परणशा्ाम्‌ आगतवती ।",
+      "bbox": [
+        254,
+        1503,
+        1187,
+        1581
+      ],
+      "confidence": 63.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "left",
+      "text": "| पतिः पृष्टवान्‌- ““किंमधरम्‌ अद्य विरम्बः कुतः\"",
+      "bbox": [
+        254,
+        1584,
+        1185,
+        1681
+      ],
+      "confidence": 37.91,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "left",
+      "text": "| परवृत्तं स्ै॑वृत्तान्तं आदितः अन्तपर्मन्तं",
+      "bbox": [
+        255,
+        1696,
+        1192,
+        1791
+      ],
+      "confidence": 37.66,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "left",
+      "text": "। शम्बटादेवी निविदवितवती । किन्तु नस्या:",
+      "bbox": [
+        254,
+        1801,
+        1184,
+        1888
+      ],
+      "confidence": 38.63,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "left",
+      "text": "वचने अव्रिश्वसन्‌ सत्यसेनः उक्तवान्‌- ` ` ल्तरिपः",
+      "bbox": [
+        307,
+        1909,
+        1183,
+        1985
+      ],
+      "confidence": 52.53,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "left",
+      "text": "। स्वयं कल्पयिता यक्विमपि वक्तुं ममर्थाः",
+      "bbox": [
+        255,
+        1994,
+        1185,
+        2070
+      ],
+      "confidence": 47.78,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "left",
+      "text": "भवन्ति ।यथेच्छं ` विदवरन्तीं भवतीं कावा",
+      "bbox": [
+        308,
+        2092,
+        1192,
+        2169
+      ],
+      "confidence": 61.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "left",
+      "text": "। पृच्छति ?`",
+      "bbox": [
+        256,
+        2194,
+        520,
+        2259
+      ],
+      "confidence": 67.09,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "left",
+      "text": "। ‹स्वामित्‌ ! मम वचनं यदि सनयं तट एतेन",
+      "bbox": [
+        258,
+        2286,
+        1171,
+        2376
+      ],
+      "confidence": 61.3,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "left",
+      "text": "जलेन भवतः कृष्टरागः शान्तः भबतु ˆ` इत्ति",
+      "bbox": [
+        303,
+        2408,
+        1185,
+        2479
+      ],
+      "confidence": 68.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "left",
+      "text": "| वदन्ती शम्बरुकादेवी कमण्डलुप्येन जलेन पयु;",
+      "bbox": [
+        258,
+        2498,
+        1189,
+        2579
+      ],
+      "confidence": 35.14,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "भ्रसान्तः। प्ररान्तन रागण सन्यसनः बह सन्तुष्ट",
+      "bbox": [
+        1266,
+        1587,
+        2146,
+        1642
+      ],
+      "confidence": 49.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "अभवत्‌ । किन्तु पल्याः पातित्रत्यम्‌ एव॒ अत्र",
+      "bbox": [
+        1269,
+        1674,
+        2143,
+        1740
+      ],
+      "confidence": 76.89,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "कारणम्‌ इति सः न ज्ञातवान्‌ ।",
+      "bbox": [
+        1269,
+        1778,
+        1863,
+        1841
+      ],
+      "confidence": 90.32,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "अनन्तरं सत्यसेनः व्रनवासं यक्त्ना",
+      "bbox": [
+        1383,
+        1891,
+        2108,
+        1948
+      ],
+      "confidence": 60.87,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "गृहाभिमुषं प्रस्थितवान्‌ ।",
+      "bbox": [
+        1266,
+        1986,
+        1755,
+        2054
+      ],
+      "confidence": 42.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "पुत्रस्य आगमनं ज्ञात्रा महाराजः ब्रहुसन्तुष्",
+      "bbox": [
+        1350,
+        2107,
+        2146,
+        2182
+      ],
+      "confidence": 62.52,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "वान्‌ । छप्ैः चामरै; च सह स्वपुत्राय स्वागत्त",
+      "bbox": [
+        1264,
+        2202,
+        2143,
+        2278
+      ],
+      "confidence": 71.21,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "कृतवान्‌ । `\"एपरा शम्बटादरेवी मम पुत्रस्य",
+      "bbox": [
+        1263,
+        2303,
+        2137,
+        2381
+      ],
+      "confidence": 41.05,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "रागम्‌ अपरनीततरती । अपि च तगग्रस्तम्‌ अथि",
+      "bbox": [
+        1262,
+        2401,
+        2137,
+        2472
+      ],
+      "confidence": 59.66,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "मम पुत्रं टृगप्रशमनपर्यन्तं शभ परिततवती ` '",
+      "bbox": [
+        1261,
+        2498,
+        2030,
+        2583
+      ],
+      "confidence": 31.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "| अतः सरोवरे अवतीर्य स्नानं कृतवती ।\nखानानन्तसम्‌ सा उपरि आगतवती ।\n| तद। तस्या; शरीरं सुवणवर्णन प्रकाशते स्म |\n। विन्तु एतत्‌ परिव्नं सा न ज्ञातवती ।\n। स्नानेन सन्तुष्टा सा प्रणदाटाभिमृखं प्रस्थित ।\n। मागीमध्ये गच्छन्तीं तां दृष्टवा कथित्‌ किरातः\n। सहसा निश्र्य उक्तवान्‌ \"सुन्दरि ! कृपया\n| मम॒ गृहम्‌ आगच्छतु | मां प्ररिणयतु ।'*\n| “प्मोः ! दुरात्मन्‌ ! मां ब्टात्करोति ?\n| एतस्य फलम्‌ अनुभवतु\" ` इति कमण्डलुजटेन\n| शापं दत्तवती। वज्रण ताडितः इव सः किरातः\n। टैः आक्राशन्‌ भूमौ पतितवान्‌ ।\n|\n| किरातस्य उपरोधत्तः टन्मुक्ता शम्बुटादेवी\n। जटम्‌ अपि स्वीकृत्य परणशा्ाम्‌ आगतवती ।\n| पतिः पृष्टवान्‌- ““किंमधरम्‌ अद्य विरम्बः कुतः\"\n| परवृत्तं स्ै॑वृत्तान्तं आदितः अन्तपर्मन्तं\n। शम्बटादेवी निविदवितवती । किन्तु नस्या:\nवचने अव्रिश्वसन्‌ सत्यसेनः उक्तवान्‌- ` ` ल्तरिपः\n। स्वयं कल्पयिता यक्विमपि वक्तुं ममर्थाः\nभवन्ति ।यथेच्छं ` विदवरन्तीं भवतीं कावा\n। पृच्छति ?`\n। ‹स्वामित्‌ ! मम वचनं यदि सनयं तट एतेन\nजलेन भवतः कृष्टरागः शान्तः भबतु ˆ` इत्ति\n| वदन्ती शम्बरुकादेवी कमण्डलुप्येन जलेन पयु;\n\nभ्रसान्तः। प्ररान्तन रागण सन्यसनः बह सन्तुष्ट\nअभवत्‌ । किन्तु पल्याः पातित्रत्यम्‌ एव॒ अत्र\nकारणम्‌ इति सः न ज्ञातवान्‌ ।\nअनन्तरं सत्यसेनः व्रनवासं यक्त्ना\nगृहाभिमुषं प्रस्थितवान्‌ ।\nपुत्रस्य आगमनं ज्ञात्रा महाराजः ब्रहुसन्तुष्\nवान्‌ । छप्ैः चामरै; च सह स्वपुत्राय स्वागत्त\nकृतवान्‌ । `\"एपरा शम्बटादरेवी मम पुत्रस्य\nरागम्‌ अपरनीततरती । अपि च तगग्रस्तम्‌ अथि\nमम पुत्रं टृगप्रशमनपर्यन्तं शभ परिततवती ` '",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

@@ -1,0 +1,532 @@
+{
+  "page": 45,
+  "source_image": "image/Chanda_Mama_45.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        124,
+        1104,
+        1899
+      ],
+      "text": "तदा मन्दाकिनी किञ्चित्‌ हसिता ५५अबह्‌\nमिध्यावादिनी न। अन्येषु मनसां दुःखं यथान\nभवति तथ। अस्माभिः वक्तव्यम्‌ । साधारणतया\nरजकुमार्य: टावण्यवतयः कुसुमकोमटाश्च भवन्ति।\nकिन्तु अस्माकं राजकुमारी सम्पूणेतया तदूभिना\nएव । तं विष्रयं राजकुमारी खथं जानाति अपि।\nअत एव स्वकीयरूपस्य सूचकं वचनं यः कोऽपि\nवदति चेत्‌ सा न सहते। तदर्थम्‌ एव सा अस्मान्‌\nपरी क्षितवरती \"` इति उक्तवती ।\n“एवं तहि अस्माकं वचनैः राजकुमारी स्थूला\nकर्कशा च अस्ति इत्यथः जायते, इति किल\nभवत्याः अभिप्रायः !* इति मरीचिका क्रोधेन\n प्ृष्टनती ।\n|, 'माघ्वु कोपः । मम वचने किञ्चित्‌\n| श्रण्वन्तु' इति उक्तवा मन्दाकिनी पुनः उक्तवती-\n“राजकुमारी तीक्ष्णे आतपे अपि उद्याने\n सवैत्र॒ धावन्ती नेत्रनिमीटनक्रीडायां मम्ना\nआसीत्‌ इति उक्तम्‌ । किञ्च सरोषेरे बहुका -\nपयन्तं तरणं कृतवती इति उक्ता, एतत्‌ स",
+      "line_count": 19
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1131,
+        124,
+        2146,
+        1899
+      ],
+      "text": "पुस्धाणामपि दुःसाध्यम्‌ इति उक्तम्‌ । एतानि\nवचनानि स्वकीयस्थूलकायत्वस्य सूचकानि इति\nमत्वा सा कोपेन ताडितवती । अहं तु तस्याः\nमनोभावे सम्यक्‌ जानामि अतः एव्र पुष्पावचयेन\nएव भवत्याः आयासः अभवत्‌ इति अहम्‌ उक्त.\nवती । तेन तस्याः महती तृप्तिः अभवत्‌ |\nअन्यमनुष्याणां इड्गितज्ञान नास्ति चेत्‌ एवमेव\nअनथः भवति । बहुमानस्प स्थाने चपेदिका-\nप्राप्तिः। अस्तु, वयं तिस्रः अपि प्रिपसल्यः\nकिल ? एषः रल्नहारः अस्माकं सर्वासाम्‌ अपि\nभवतु । अस्य भागत्रयं कुर्मः\" इति ।\nमन्दाकिन्याः वचनेन मरीचिकायाः मष्-\nत्यश्च तृत्तिः सन्तोप्रध अभवत्‌ ।\nˆ 'वज्ञप्रभासद्रशीनां राजक्रुमारीणां समीपे\nकथं व्यवहतेव्यम्‌ इति भवत्याः वचनेन समीचीनं\nज्ञानं प्राप्तम्‌ । एषः रत्नहारः भवत्याः एव भवतु]\nतस्य॒ विभागः म्तु। अद्य नूतनं\nव्यवहारसूत्रे छब्धम्‌ । तदेव पर्यात्तम्‌।'' इतिते\nसल्यो मन्दाकिनीम्‌ आदरेण अभिनन्दितवत्यो ]",
+      "line_count": 19
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "तदा मन्दाकिनी किञ्चित्‌ हसिता ५५अबह्‌",
+      "bbox": [
+        271,
+        133,
+        1089,
+        201
+      ],
+      "confidence": 67.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "मिध्यावादिनी न। अन्येषु मनसां दुःखं यथान",
+      "bbox": [
+        188,
+        223,
+        1089,
+        296
+      ],
+      "confidence": 56.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "भवति तथ। अस्माभिः वक्तव्यम्‌ । साधारणतया",
+      "bbox": [
+        187,
+        317,
+        1087,
+        385
+      ],
+      "confidence": 64.19,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "रजकुमार्य: टावण्यवतयः कुसुमकोमटाश्च भवन्ति।",
+      "bbox": [
+        186,
+        399,
+        1084,
+        483
+      ],
+      "confidence": 54.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "किन्तु अस्माकं राजकुमारी सम्पूणेतया तदूभिना",
+      "bbox": [
+        186,
+        503,
+        1088,
+        584
+      ],
+      "confidence": 72.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "एव । तं विष्रयं राजकुमारी खथं जानाति अपि।",
+      "bbox": [
+        184,
+        597,
+        1084,
+        669
+      ],
+      "confidence": 79.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "अत एव स्वकीयरूपस्य सूचकं वचनं यः कोऽपि",
+      "bbox": [
+        185,
+        691,
+        1086,
+        765
+      ],
+      "confidence": 87.2,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "वदति चेत्‌ सा न सहते। तदर्थम्‌ एव सा अस्मान्‌",
+      "bbox": [
+        183,
+        787,
+        1099,
+        871
+      ],
+      "confidence": 79.39,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "परी क्षितवरती \"` इति उक्तवती ।",
+      "bbox": [
+        177,
+        885,
+        767,
+        963
+      ],
+      "confidence": 51.85,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "“एवं तहि अस्माकं वचनैः राजकुमारी स्थूला",
+      "bbox": [
+        249,
+        979,
+        1082,
+        1064
+      ],
+      "confidence": 71.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "कर्कशा च अस्ति इत्यथः जायते, इति किल",
+      "bbox": [
+        180,
+        1070,
+        1082,
+        1143
+      ],
+      "confidence": 68.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "भवत्याः अभिप्रायः !* इति मरीचिका क्रोधेन",
+      "bbox": [
+        178,
+        1176,
+        1080,
+        1240
+      ],
+      "confidence": 69.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": " प्ृष्टनती ।",
+      "bbox": [
+        147,
+        1269,
+        350,
+        1333
+      ],
+      "confidence": 22.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "|, 'माघ्वु कोपः । मम वचने किञ्चित्‌",
+      "bbox": [
+        147,
+        1325,
+        1089,
+        1433
+      ],
+      "confidence": 44.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "left",
+      "text": "| श्रण्वन्तु' इति उक्तवा मन्दाकिनी पुनः उक्तवती-",
+      "bbox": [
+        147,
+        1428,
+        1079,
+        1524
+      ],
+      "confidence": 78.34,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "left",
+      "text": "“राजकुमारी तीक्ष्णे आतपे अपि उद्याने",
+      "bbox": [
+        267,
+        1547,
+        1083,
+        1616
+      ],
+      "confidence": 78.85,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "left",
+      "text": " सवैत्र॒ धावन्ती नेत्रनिमीटनक्रीडायां मम्ना",
+      "bbox": [
+        147,
+        1633,
+        1084,
+        1699
+      ],
+      "confidence": 64.08,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "left",
+      "text": "आसीत्‌ इति उक्तम्‌ । किञ्च सरोषेरे बहुका -",
+      "bbox": [
+        178,
+        1734,
+        1077,
+        1810
+      ],
+      "confidence": 72.22,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "left",
+      "text": "पयन्तं तरणं कृतवती इति उक्ता, एतत्‌ स",
+      "bbox": [
+        180,
+        1821,
+        1082,
+        1899
+      ],
+      "confidence": 77.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "पुस्धाणामपि दुःसाध्यम्‌ इति उक्तम्‌ । एतानि",
+      "bbox": [
+        1161,
+        138,
+        2059,
+        207
+      ],
+      "confidence": 65.4,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "वचनानि स्वकीयस्थूलकायत्वस्य सूचकानि इति",
+      "bbox": [
+        1159,
+        231,
+        2056,
+        306
+      ],
+      "confidence": 62.69,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "मत्वा सा कोपेन ताडितवती । अहं तु तस्याः",
+      "bbox": [
+        1151,
+        321,
+        2041,
+        394
+      ],
+      "confidence": 81.74,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "मनोभावे सम्यक्‌ जानामि अतः एव्र पुष्पावचयेन",
+      "bbox": [
+        1151,
+        413,
+        2055,
+        491
+      ],
+      "confidence": 73.67,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "एव भवत्याः आयासः अभवत्‌ इति अहम्‌ उक्त.",
+      "bbox": [
+        1151,
+        514,
+        2048,
+        582
+      ],
+      "confidence": 92.11,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "वती । तेन तस्याः महती तृप्तिः अभवत्‌ |",
+      "bbox": [
+        1152,
+        605,
+        2051,
+        678
+      ],
+      "confidence": 74.93,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "अन्यमनुष्याणां इड्गितज्ञान नास्ति चेत्‌ एवमेव",
+      "bbox": [
+        1155,
+        697,
+        2051,
+        777
+      ],
+      "confidence": 59.36,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "अनथः भवति । बहुमानस्प स्थाने चपेदिका-",
+      "bbox": [
+        1155,
+        789,
+        2049,
+        866
+      ],
+      "confidence": 61.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "प्राप्तिः। अस्तु, वयं तिस्रः अपि प्रिपसल्यः",
+      "bbox": [
+        1152,
+        886,
+        2042,
+        953
+      ],
+      "confidence": 65.49,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "किल ? एषः रल्नहारः अस्माकं सर्वासाम्‌ अपि",
+      "bbox": [
+        1147,
+        979,
+        2048,
+        1047
+      ],
+      "confidence": 78.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "भवतु । अस्य भागत्रयं कुर्मः\" इति ।",
+      "bbox": [
+        1147,
+        1069,
+        1877,
+        1144
+      ],
+      "confidence": 76.25,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "मन्दाकिन्याः वचनेन मरीचिकायाः मष्-",
+      "bbox": [
+        1230,
+        1165,
+        2033,
+        1229
+      ],
+      "confidence": 77.93,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "त्यश्च तृत्तिः सन्तोप्रध अभवत्‌ ।",
+      "bbox": [
+        1144,
+        1250,
+        1791,
+        1330
+      ],
+      "confidence": 62.73,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "ˆ 'वज्ञप्रभासद्रशीनां राजक्रुमारीणां समीपे",
+      "bbox": [
+        1235,
+        1355,
+        2046,
+        1424
+      ],
+      "confidence": 37.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "कथं व्यवहतेव्यम्‌ इति भवत्याः वचनेन समीचीनं",
+      "bbox": [
+        1146,
+        1443,
+        2048,
+        1513
+      ],
+      "confidence": 72.52,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "ज्ञानं प्राप्तम्‌ । एषः रत्नहारः भवत्याः एव भवतु]",
+      "bbox": [
+        1146,
+        1545,
+        2042,
+        1610
+      ],
+      "confidence": 61.4,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 36,
+      "column": "right",
+      "text": "तस्य॒ विभागः म्तु। अद्य नूतनं",
+      "bbox": [
+        1146,
+        1636,
+        2043,
+        1709
+      ],
+      "confidence": 67.28,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 37,
+      "column": "right",
+      "text": "व्यवहारसूत्रे छब्धम्‌ । तदेव पर्यात्तम्‌।'' इतिते",
+      "bbox": [
+        1146,
+        1727,
+        2043,
+        1800
+      ],
+      "confidence": 40.6,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 38,
+      "column": "right",
+      "text": "सल्यो मन्दाकिनीम्‌ आदरेण अभिनन्दितवत्यो ]",
+      "bbox": [
+        1146,
+        1816,
+        2013,
+        1885
+      ],
+      "confidence": 53.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "तदा मन्दाकिनी किञ्चित्‌ हसिता ५५अबह्‌\nमिध्यावादिनी न। अन्येषु मनसां दुःखं यथान\nभवति तथ। अस्माभिः वक्तव्यम्‌ । साधारणतया\nरजकुमार्य: टावण्यवतयः कुसुमकोमटाश्च भवन्ति।\nकिन्तु अस्माकं राजकुमारी सम्पूणेतया तदूभिना\nएव । तं विष्रयं राजकुमारी खथं जानाति अपि।\nअत एव स्वकीयरूपस्य सूचकं वचनं यः कोऽपि\nवदति चेत्‌ सा न सहते। तदर्थम्‌ एव सा अस्मान्‌\nपरी क्षितवरती \"` इति उक्तवती ।\n“एवं तहि अस्माकं वचनैः राजकुमारी स्थूला\nकर्कशा च अस्ति इत्यथः जायते, इति किल\nभवत्याः अभिप्रायः !* इति मरीचिका क्रोधेन\n प्ृष्टनती ।\n|, 'माघ्वु कोपः । मम वचने किञ्चित्‌\n| श्रण्वन्तु' इति उक्तवा मन्दाकिनी पुनः उक्तवती-\n“राजकुमारी तीक्ष्णे आतपे अपि उद्याने\n सवैत्र॒ धावन्ती नेत्रनिमीटनक्रीडायां मम्ना\nआसीत्‌ इति उक्तम्‌ । किञ्च सरोषेरे बहुका -\nपयन्तं तरणं कृतवती इति उक्ता, एतत्‌ स\n\nपुस्धाणामपि दुःसाध्यम्‌ इति उक्तम्‌ । एतानि\nवचनानि स्वकीयस्थूलकायत्वस्य सूचकानि इति\nमत्वा सा कोपेन ताडितवती । अहं तु तस्याः\nमनोभावे सम्यक्‌ जानामि अतः एव्र पुष्पावचयेन\nएव भवत्याः आयासः अभवत्‌ इति अहम्‌ उक्त.\nवती । तेन तस्याः महती तृप्तिः अभवत्‌ |\nअन्यमनुष्याणां इड्गितज्ञान नास्ति चेत्‌ एवमेव\nअनथः भवति । बहुमानस्प स्थाने चपेदिका-\nप्राप्तिः। अस्तु, वयं तिस्रः अपि प्रिपसल्यः\nकिल ? एषः रल्नहारः अस्माकं सर्वासाम्‌ अपि\nभवतु । अस्य भागत्रयं कुर्मः\" इति ।\nमन्दाकिन्याः वचनेन मरीचिकायाः मष्-\nत्यश्च तृत्तिः सन्तोप्रध अभवत्‌ ।\nˆ 'वज्ञप्रभासद्रशीनां राजक्रुमारीणां समीपे\nकथं व्यवहतेव्यम्‌ इति भवत्याः वचनेन समीचीनं\nज्ञानं प्राप्तम्‌ । एषः रत्नहारः भवत्याः एव भवतु]\nतस्य॒ विभागः म्तु। अद्य नूतनं\nव्यवहारसूत्रे छब्धम्‌ । तदेव पर्यात्तम्‌।'' इतिते\nसल्यो मन्दाकिनीम्‌ आदरेण अभिनन्दितवत्यो ]",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

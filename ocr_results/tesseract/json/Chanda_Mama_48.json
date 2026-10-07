@@ -1,0 +1,519 @@
+{
+  "page": 48,
+  "source_image": "image/Chanda_Mama_48.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        226,
+        1147,
+        2041
+      ],
+      "text": "रामगुप्तस्य मनसि कः कः\nविचारः आगतः इति मुखभावेन विज्ञातवान्‌ ।\nसः अन्तः गत्वा किं कृतवान्‌ इत्यपि ज्ञातवान्‌\nअतः रामगुप्तस्य आगमनानन्तरम्‌ एतां कथां\nआरब्धवान्‌ । ““कणः महादाता । याचकानां\nकृते नास्ति इति कंद।पि न वदति । एकस्मिन्‌\nदिने कणः स्नानार्थ गन्तु प्रवृत्तः । तदा “एकः\nब्राह्मणः याचितुम्‌ आगतवान्‌\" इति सेवकः\nउक्तवान्‌ । कणः “तं ब्राह्मणम्‌ आनयतु मम\nसमीपे\" इति आज्ञापितवान्‌ ।\nब्राह्मणः यदा आगतवान्‌ तदा कणेः वाम-\nहस्ते सुवर्णपात्र स्थापयिता तत्र स्थितेन तैटेन\nदक्षिणहस्तेन शरीरे ठेपनं कुर्वन्‌ आसीत्‌ ।\n“महाराज! अहं दरिद्रः ब्राह्मणः। भवते यद्‌\nरोचते तद ददातु\" इति ब्राह्मणः उक्तवान्‌ ।\nतत्क्षणे एव॒ महादाता कणः वामहस्ते स्थितं\nसुवणयात्रं तथेव ब्राह्मणस्य कते दत्तवान्‌ |\nब्राह्मणः सन्तेषेण तत्‌ ` स्वीकरय (\"मोः !\nयणमाक्ररुयाात्याा णा 1",
+      "line_count": 19
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1172,
+        226,
+        2146,
+        2041
+      ],
+      "text": "र भवान्‌ किमक वामहस्तेन दानं\nदत्तवान्‌ ? सर्वेऽपि दक्षिणहस्तेन ए ददति ।'\nइति धृ्वान्‌ ।\nतदा कणः स्मयमानः एम्‌ उक्तवान्‌ “एषः\nविषयः सर्वैः ज्ञात्यः। सङ्कल्यितं दानम्‌ अनु-\nक्षणमेव कतव्यम्‌ । एतत्‌ सुवणीपात्रं भवतः कृते\nदातव्यम्‌” इति सङ्कल्प कृतवान्‌ । तदा एतत्‌\nपात्रं ॑वामहस्ते आसीत्‌ । एतत्‌ दक्षिणहस्ते\nस्वीकृत्य दानसमयाभ्यन्त मम॒जुद्धिः अन्यथा\nअपि भवेत्‌ । अतः वामहस्ते स्थितं पात्रे तेन\nएव हस्तेन दत्तवान्‌ । एतदेव दानरहस्यम्‌ ।'”\nएवं कथां समाप्य प्रकृतकथां क्ष्णुदत्तः\nअनुवतितवान्‌ । अनया कथया रामगुप्तस्य\nकपोखद्रयेऽपि चपेटिकानुभवः अभवत्‌। दरिकधा -\nसमाप्तेः अनन्तरं विष्णुदत्तस्य वृते पूव॑सङ्क्पि-\nतापिक्षया अपि द्विगुणितं धनं, कनकं, राडक-\nवञ्च दत्तवान्‌ ।\nग्प््ण्कर्तस्याावा्यक्ाारतत् 7 1",
+      "line_count": 18
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "रामगुप्तस्य मनसि कः कः",
+      "bbox": [
+        563,
+        261,
+        1124,
+        332
+      ],
+      "confidence": 77.61,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "विचारः आगतः इति मुखभावेन विज्ञातवान्‌ ।",
+      "bbox": [
+        224,
+        354,
+        1129,
+        422
+      ],
+      "confidence": 74.29,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "सः अन्तः गत्वा किं कृतवान्‌ इत्यपि ज्ञातवान्‌",
+      "bbox": [
+        222,
+        447,
+        1129,
+        518
+      ],
+      "confidence": 65.01,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "अतः रामगुप्तस्य आगमनानन्तरम्‌ एतां कथां",
+      "bbox": [
+        227,
+        545,
+        1132,
+        613
+      ],
+      "confidence": 86.3,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "आरब्धवान्‌ । ““कणः महादाता । याचकानां",
+      "bbox": [
+        230,
+        634,
+        1132,
+        706
+      ],
+      "confidence": 69.95,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "कृते नास्ति इति कंद।पि न वदति । एकस्मिन्‌",
+      "bbox": [
+        225,
+        730,
+        1131,
+        800
+      ],
+      "confidence": 88.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "दिने कणः स्नानार्थ गन्तु प्रवृत्तः । तदा “एकः",
+      "bbox": [
+        226,
+        820,
+        1123,
+        891
+      ],
+      "confidence": 79.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "ब्राह्मणः याचितुम्‌ आगतवान्‌\" इति सेवकः",
+      "bbox": [
+        223,
+        917,
+        1122,
+        986
+      ],
+      "confidence": 77.29,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "उक्तवान्‌ । कणः “तं ब्राह्मणम्‌ आनयतु मम",
+      "bbox": [
+        224,
+        1009,
+        1129,
+        1082
+      ],
+      "confidence": 88.22,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "समीपे\" इति आज्ञापितवान्‌ ।",
+      "bbox": [
+        227,
+        1105,
+        769,
+        1170
+      ],
+      "confidence": 77.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "ब्राह्मणः यदा आगतवान्‌ तदा कणेः वाम-",
+      "bbox": [
+        312,
+        1193,
+        1125,
+        1267
+      ],
+      "confidence": 71.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "हस्ते सुवर्णपात्र स्थापयिता तत्र स्थितेन तैटेन",
+      "bbox": [
+        226,
+        1283,
+        1127,
+        1358
+      ],
+      "confidence": 63.12,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "दक्षिणहस्तेन शरीरे ठेपनं कुर्वन्‌ आसीत्‌ ।",
+      "bbox": [
+        226,
+        1380,
+        1037,
+        1455
+      ],
+      "confidence": 74.28,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "“महाराज! अहं दरिद्रः ब्राह्मणः। भवते यद्‌",
+      "bbox": [
+        315,
+        1477,
+        1128,
+        1554
+      ],
+      "confidence": 80.67,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "left",
+      "text": "रोचते तद ददातु\" इति ब्राह्मणः उक्तवान्‌ ।",
+      "bbox": [
+        228,
+        1569,
+        1120,
+        1638
+      ],
+      "confidence": 75.67,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "left",
+      "text": "तत्क्षणे एव॒ महादाता कणः वामहस्ते स्थितं",
+      "bbox": [
+        227,
+        1661,
+        1125,
+        1729
+      ],
+      "confidence": 71.87,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "left",
+      "text": "सुवणयात्रं तथेव ब्राह्मणस्य कते दत्तवान्‌ |",
+      "bbox": [
+        228,
+        1753,
+        1010,
+        1830
+      ],
+      "confidence": 69.67,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "left",
+      "text": "ब्राह्मणः सन्तेषेण तत्‌ ` स्वीकरय (\"मोः !",
+      "bbox": [
+        316,
+        1828,
+        1117,
+        1930
+      ],
+      "confidence": 43.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "left",
+      "text": "यणमाक्ररुयाात्याा णा 1",
+      "bbox": [
+        233,
+        2001,
+        1150,
+        2051
+      ],
+      "confidence": 10.33,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "र भवान्‌ किमक वामहस्तेन दानं",
+      "bbox": [
+        1172,
+        226,
+        2105,
+        1965
+      ],
+      "confidence": 67.7,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "दत्तवान्‌ ? सर्वेऽपि दक्षिणहस्तेन ए ददति ।'",
+      "bbox": [
+        1193,
+        352,
+        2091,
+        423
+      ],
+      "confidence": 60.87,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "इति धृ्वान्‌ ।",
+      "bbox": [
+        1194,
+        448,
+        1461,
+        517
+      ],
+      "confidence": 47.73,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "तदा कणः स्मयमानः एम्‌ उक्तवान्‌ “एषः",
+      "bbox": [
+        1279,
+        583,
+        2085,
+        657
+      ],
+      "confidence": 86.05,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "विषयः सर्वैः ज्ञात्यः। सङ्कल्यितं दानम्‌ अनु-",
+      "bbox": [
+        1195,
+        674,
+        2089,
+        755
+      ],
+      "confidence": 53.66,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "क्षणमेव कतव्यम्‌ । एतत्‌ सुवणीपात्रं भवतः कृते",
+      "bbox": [
+        1193,
+        769,
+        2094,
+        842
+      ],
+      "confidence": 51.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "दातव्यम्‌” इति सङ्कल्प कृतवान्‌ । तदा एतत्‌",
+      "bbox": [
+        1192,
+        865,
+        2102,
+        947
+      ],
+      "confidence": 71.51,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "पात्रं ॑वामहस्ते आसीत्‌ । एतत्‌ दक्षिणहस्ते",
+      "bbox": [
+        1192,
+        956,
+        2094,
+        1029
+      ],
+      "confidence": 64.4,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "स्वीकृत्य दानसमयाभ्यन्त मम॒जुद्धिः अन्यथा",
+      "bbox": [
+        1191,
+        1051,
+        2091,
+        1134
+      ],
+      "confidence": 60.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "अपि भवेत्‌ । अतः वामहस्ते स्थितं पात्रे तेन",
+      "bbox": [
+        1191,
+        1142,
+        2091,
+        1214
+      ],
+      "confidence": 90.97,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "एव हस्तेन दत्तवान्‌ । एतदेव दानरहस्यम्‌ ।'”",
+      "bbox": [
+        1192,
+        1236,
+        2044,
+        1305
+      ],
+      "confidence": 84.23,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "एवं कथां समाप्य प्रकृतकथां क्ष्णुदत्तः",
+      "bbox": [
+        1275,
+        1387,
+        2085,
+        1469
+      ],
+      "confidence": 57.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "अनुवतितवान्‌ । अनया कथया रामगुप्तस्य",
+      "bbox": [
+        1189,
+        1478,
+        2092,
+        1549
+      ],
+      "confidence": 77.77,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "कपोखद्रयेऽपि चपेटिकानुभवः अभवत्‌। दरिकधा -",
+      "bbox": [
+        1186,
+        1570,
+        2111,
+        1645
+      ],
+      "confidence": 64.65,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "समाप्तेः अनन्तरं विष्णुदत्तस्य वृते पूव॑सङ्क्पि-",
+      "bbox": [
+        1185,
+        1661,
+        2089,
+        1747
+      ],
+      "confidence": 50.67,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "तापिक्षया अपि द्विगुणितं धनं, कनकं, राडक-",
+      "bbox": [
+        1185,
+        1754,
+        2091,
+        1832
+      ],
+      "confidence": 86.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 36,
+      "column": "right",
+      "text": "वञ्च दत्तवान्‌ ।",
+      "bbox": [
+        1187,
+        1865,
+        1453,
+        1924
+      ],
+      "confidence": 77.2,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 37,
+      "column": "right",
+      "text": "ग्प््ण्कर्तस्याावा्यक्ाारतत् 7 1",
+      "bbox": [
+        1172,
+        1997,
+        2113,
+        2041
+      ],
+      "confidence": 4.6,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "रामगुप्तस्य मनसि कः कः\nविचारः आगतः इति मुखभावेन विज्ञातवान्‌ ।\nसः अन्तः गत्वा किं कृतवान्‌ इत्यपि ज्ञातवान्‌\nअतः रामगुप्तस्य आगमनानन्तरम्‌ एतां कथां\nआरब्धवान्‌ । ““कणः महादाता । याचकानां\nकृते नास्ति इति कंद।पि न वदति । एकस्मिन्‌\nदिने कणः स्नानार्थ गन्तु प्रवृत्तः । तदा “एकः\nब्राह्मणः याचितुम्‌ आगतवान्‌\" इति सेवकः\nउक्तवान्‌ । कणः “तं ब्राह्मणम्‌ आनयतु मम\nसमीपे\" इति आज्ञापितवान्‌ ।\nब्राह्मणः यदा आगतवान्‌ तदा कणेः वाम-\nहस्ते सुवर्णपात्र स्थापयिता तत्र स्थितेन तैटेन\nदक्षिणहस्तेन शरीरे ठेपनं कुर्वन्‌ आसीत्‌ ।\n“महाराज! अहं दरिद्रः ब्राह्मणः। भवते यद्‌\nरोचते तद ददातु\" इति ब्राह्मणः उक्तवान्‌ ।\nतत्क्षणे एव॒ महादाता कणः वामहस्ते स्थितं\nसुवणयात्रं तथेव ब्राह्मणस्य कते दत्तवान्‌ |\nब्राह्मणः सन्तेषेण तत्‌ ` स्वीकरय (\"मोः !\nयणमाक्ररुयाात्याा णा 1\n\nर भवान्‌ किमक वामहस्तेन दानं\nदत्तवान्‌ ? सर्वेऽपि दक्षिणहस्तेन ए ददति ।'\nइति धृ्वान्‌ ।\nतदा कणः स्मयमानः एम्‌ उक्तवान्‌ “एषः\nविषयः सर्वैः ज्ञात्यः। सङ्कल्यितं दानम्‌ अनु-\nक्षणमेव कतव्यम्‌ । एतत्‌ सुवणीपात्रं भवतः कृते\nदातव्यम्‌” इति सङ्कल्प कृतवान्‌ । तदा एतत्‌\nपात्रं ॑वामहस्ते आसीत्‌ । एतत्‌ दक्षिणहस्ते\nस्वीकृत्य दानसमयाभ्यन्त मम॒जुद्धिः अन्यथा\nअपि भवेत्‌ । अतः वामहस्ते स्थितं पात्रे तेन\nएव हस्तेन दत्तवान्‌ । एतदेव दानरहस्यम्‌ ।'”\nएवं कथां समाप्य प्रकृतकथां क्ष्णुदत्तः\nअनुवतितवान्‌ । अनया कथया रामगुप्तस्य\nकपोखद्रयेऽपि चपेटिकानुभवः अभवत्‌। दरिकधा -\nसमाप्तेः अनन्तरं विष्णुदत्तस्य वृते पूव॑सङ्क्पि-\nतापिक्षया अपि द्विगुणितं धनं, कनकं, राडक-\nवञ्च दत्तवान्‌ ।\nग्प््ण्कर्तस्याावा्यक्ाारतत् 7 1",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

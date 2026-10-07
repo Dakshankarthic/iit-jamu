@@ -1,0 +1,313 @@
+{
+  "page": 19,
+  "source_image": "image/Chanda_Mama_19.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 3,
+  "reading_order": "Tesseract automatic page layout",
+  "blocks": [
+    {
+      "column": "page",
+      "bbox": [
+        0,
+        0,
+        2271,
+        2835
+      ],
+      "text": "011 ) «4\n॥\n॥\n||) ६\n१\n५ ~:\nहि ॐ,\nर शवस्य मुखद्वारा पुनः पुनः कथाः\nकथयति स्म । इदानीं पुनः कथाश्रवणकुतूहटेन\nइव त्रिविक्रमः पुनः वृक्षस्य समीपं गत्वा तत्र\nशाखायां टम्बमानं शवं स्कन्धे आरोप्य मोन\nमुद्रया स्मशानं प्रति गन्तुम्‌ आरब्धवान्‌ | “भोः\n| महाराज! अस्मिन्‌ मध्यरात्रसमये मां वहन्‌\nमयङ्करं ्मदान प्रति भवान्‌ गच्छति किर\nभवतः कायक्लेशं दृष्ट्वा मम हदये द्रवति ।\nगृहीतं कार्य साधनीयम्‌ इति भवतः आग्रहः\n| 3 एव । किन्तु एतत्‌ स स्वाथसाधनाय\nवा पराथ ॒वा इति सन्देहः मां ब्राधते।\n। यदि मवत्मदृशस्य॒ कठोरदीक्षितस्प कस्यचित्‌\n| कृते एव॒ एषः श्रमः गहीतः अस्ति\n| तदहि भवता अतीव जागरूतेण भव्रित्यम्‌ ।\nयदा कद्राचित्‌ ये सादाय्य स्वीकुैन्ति. ते",
+      "line_count": 22
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "page",
+      "text": "011 ) «4",
+      "bbox": [
+        828,
+        1867,
+        956,
+        1889
+      ],
+      "confidence": 30.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "page",
+      "text": "॥",
+      "bbox": [
+        961,
+        1956,
+        977,
+        1983
+      ],
+      "confidence": 73.92,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "page",
+      "text": "॥",
+      "bbox": [
+        924,
+        1976,
+        939,
+        2019
+      ],
+      "confidence": 84.58,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "page",
+      "text": "||) ६",
+      "bbox": [
+        601,
+        2186,
+        841,
+        2321
+      ],
+      "confidence": 10.65,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "page",
+      "text": "१",
+      "bbox": [
+        707,
+        2266,
+        847,
+        2347
+      ],
+      "confidence": 64.91,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "page",
+      "text": "५ ~:",
+      "bbox": [
+        700,
+        2330,
+        834,
+        2420
+      ],
+      "confidence": 38.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "page",
+      "text": "हि ॐ,",
+      "bbox": [
+        640,
+        2281,
+        673,
+        2295
+      ],
+      "confidence": 20.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "page",
+      "text": "र शवस्य मुखद्वारा पुनः पुनः कथाः",
+      "bbox": [
+        1183,
+        831,
+        2145,
+        1876
+      ],
+      "confidence": 66.99,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "page",
+      "text": "कथयति स्म । इदानीं पुनः कथाश्रवणकुतूहटेन",
+      "bbox": [
+        1211,
+        1036,
+        2106,
+        1114
+      ],
+      "confidence": 61.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "page",
+      "text": "इव त्रिविक्रमः पुनः वृक्षस्य समीपं गत्वा तत्र",
+      "bbox": [
+        1208,
+        1144,
+        2105,
+        1212
+      ],
+      "confidence": 92.62,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "page",
+      "text": "शाखायां टम्बमानं शवं स्कन्धे आरोप्य मोन",
+      "bbox": [
+        1207,
+        1247,
+        2102,
+        1312
+      ],
+      "confidence": 79.09,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "page",
+      "text": "मुद्रया स्मशानं प्रति गन्तुम्‌ आरब्धवान्‌ | “भोः",
+      "bbox": [
+        1206,
+        1354,
+        2098,
+        1428
+      ],
+      "confidence": 79.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "page",
+      "text": "| महाराज! अस्मिन्‌ मध्यरात्रसमये मां वहन्‌",
+      "bbox": [
+        1181,
+        1458,
+        2113,
+        1532
+      ],
+      "confidence": 77.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "page",
+      "text": "मयङ्करं ्मदान प्रति भवान्‌ गच्छति किर",
+      "bbox": [
+        1198,
+        1562,
+        2063,
+        1635
+      ],
+      "confidence": 60.37,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "page",
+      "text": "भवतः कायक्लेशं दृष्ट्वा मम हदये द्रवति ।",
+      "bbox": [
+        1203,
+        1662,
+        2093,
+        1744
+      ],
+      "confidence": 64.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "page",
+      "text": "गृहीतं कार्य साधनीयम्‌ इति भवतः आग्रहः",
+      "bbox": [
+        1203,
+        1766,
+        2098,
+        1851
+      ],
+      "confidence": 42.32,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "page",
+      "text": "| 3 एव । किन्तु एतत्‌ स स्वाथसाधनाय",
+      "bbox": [
+        1178,
+        1877,
+        2129,
+        2522
+      ],
+      "confidence": 60.11,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "page",
+      "text": "वा पराथ ॒वा इति सन्देहः मां ब्राधते।",
+      "bbox": [
+        1198,
+        1963,
+        2089,
+        2034
+      ],
+      "confidence": 75.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "page",
+      "text": "। यदि मवत्मदृशस्य॒ कठोरदीक्षितस्प कस्यचित्‌",
+      "bbox": [
+        1177,
+        2060,
+        2103,
+        2137
+      ],
+      "confidence": 28.36,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "page",
+      "text": "| कृते एव॒ एषः श्रमः गहीतः अस्ति",
+      "bbox": [
+        1178,
+        2129,
+        2088,
+        2241
+      ],
+      "confidence": 62.51,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "page",
+      "text": "| तदहि भवता अतीव जागरूतेण भव्रित्यम्‌ ।",
+      "bbox": [
+        1176,
+        2239,
+        2090,
+        2331
+      ],
+      "confidence": 54.62,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "page",
+      "text": "यदा कद्राचित्‌ ये सादाय्य स्वीकुैन्ति. ते",
+      "bbox": [
+        1195,
+        2338,
+        2102,
+        2411
+      ],
+      "confidence": 57.94,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "011 ) «4\n॥\n॥\n||) ६\n१\n५ ~:\nहि ॐ,\nर शवस्य मुखद्वारा पुनः पुनः कथाः\nकथयति स्म । इदानीं पुनः कथाश्रवणकुतूहटेन\nइव त्रिविक्रमः पुनः वृक्षस्य समीपं गत्वा तत्र\nशाखायां टम्बमानं शवं स्कन्धे आरोप्य मोन\nमुद्रया स्मशानं प्रति गन्तुम्‌ आरब्धवान्‌ | “भोः\n| महाराज! अस्मिन्‌ मध्यरात्रसमये मां वहन्‌\nमयङ्करं ्मदान प्रति भवान्‌ गच्छति किर\nभवतः कायक्लेशं दृष्ट्वा मम हदये द्रवति ।\nगृहीतं कार्य साधनीयम्‌ इति भवतः आग्रहः\n| 3 एव । किन्तु एतत्‌ स स्वाथसाधनाय\nवा पराथ ॒वा इति सन्देहः मां ब्राधते।\n। यदि मवत्मदृशस्य॒ कठोरदीक्षितस्प कस्यचित्‌\n| कृते एव॒ एषः श्रमः गहीतः अस्ति\n| तदहि भवता अतीव जागरूतेण भव्रित्यम्‌ ।\nयदा कद्राचित्‌ ये सादाय्य स्वीकुैन्ति. ते",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

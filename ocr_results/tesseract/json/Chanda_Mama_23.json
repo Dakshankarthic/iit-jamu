@@ -1,0 +1,428 @@
+{
+  "page": 23,
+  "source_image": "image/Chanda_Mama_23.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        226,
+        1175,
+        2551
+      ],
+      "text": "न्यायमा त्यक्तुं मम मन: न इच्छति चः' इति\nशुकः उक्तवान्‌ ।\nअनन्तरे सुददनः पञ्जरस्य पिधानकार्ये श्रद्धा\nन अवहत्‌। एकदा शुकः ““भौः श्रीमन्‌, भवान्‌\nदवारपिधानविषये अश्नद्धां मा करोतु । पुनः\nपुन: अवकाशः ठम्यते चेत्‌, मम मनः दुर्बट\nभवति । एतादृशादोषेण एव॒ साधुजनाः अपि\nदष्टाः भवन्ति । अहम्‌ अपि कदाचित्‌ उडूयन\nकरोमि चेत्‌, नास्ति आश्चर्यम्‌!\" इति उक्तवान्‌\nुकः। सुदशनः सदशयेन शुकं दष्ट्वा 'महाक्शी -\nयस्य भवतः निगमनबुद्धिः कथं जायते ‡'\nइति पृष्टवान्‌ ।\nतदा ज्युकः आर्य, अनेके जनाः दोषं कतं नैव\nइच्छन्ति । किन्तु वातावरणेन टुब्धां; भवन्ति |\nयद्यपि अहं विक्रमार्ववरीयः अस्मि । तथापि\nविक्रमार्वेसदशं धीरत्वे मम॒ नास्ति । कृपया मां\nट्ब्धं मा करोतु । द्वार पिध्रानतरिषये जागरूकता\nअस्तु\" इति उक्तवान्‌ ।\nएतत्‌ सर्वं सुदीनः पत्नीपुत्रान्‌ प्रति\nनिवेदितवान्‌ । “एः अपायकारी शुकः ।\nअनेन भवतः अस्माकं कटम्त्रस्य च यत्किमपि",
+      "line_count": 21
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1211,
+        1389,
+        2146,
+        2551
+      ],
+      "text": "अहितम्‌ अवद्यं भवति ` इति ते उक्तवन्तः ।\nकाकताटीयरूपेण पञ्चषदिनेषु सुदानः\nकेनचित्‌ रोगेण पीडितः अमवत्‌ । केनापि\nओष्रधेन रागनिवारणे न अभवत्‌ । तदवा वरैयः\nसदनं प्रति «भवतः रोगस्य निवारणे केवरं\nराजगन्धिनामिकया मूक्किया एव॒ शक्यम्‌ ।\nकिन्तु एतस्मिन्‌ राञ्ये सा मूखिका न टभ्यते'\"\nइति उक्तवान्‌ । वैयस्य वचनं श्रुचा शुकः\n‹‹स्वातन्त्यं ददामि\" उति आश्वासन ट्त चेन",
+      "line_count": 9
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "न्यायमा त्यक्तुं मम मन: न इच्छति चः' इति",
+      "bbox": [
+        263,
+        302,
+        1147,
+        375
+      ],
+      "confidence": 61.91,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "शुकः उक्तवान्‌ ।",
+      "bbox": [
+        261,
+        425,
+        579,
+        485
+      ],
+      "confidence": 86.77,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "अनन्तरे सुददनः पञ्जरस्य पिधानकार्ये श्रद्धा",
+      "bbox": [
+        343,
+        575,
+        1157,
+        647
+      ],
+      "confidence": 69.7,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "न अवहत्‌। एकदा शुकः ““भौः श्रीमन्‌, भवान्‌",
+      "bbox": [
+        259,
+        669,
+        1171,
+        743
+      ],
+      "confidence": 84.95,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "दवारपिधानविषये अश्नद्धां मा करोतु । पुनः",
+      "bbox": [
+        260,
+        763,
+        1157,
+        831
+      ],
+      "confidence": 57.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "पुन: अवकाशः ठम्यते चेत्‌, मम मनः दुर्बट",
+      "bbox": [
+        263,
+        865,
+        1164,
+        944
+      ],
+      "confidence": 72.18,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "भवति । एतादृशादोषेण एव॒ साधुजनाः अपि",
+      "bbox": [
+        261,
+        974,
+        1163,
+        1043
+      ],
+      "confidence": 70.93,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "दष्टाः भवन्ति । अहम्‌ अपि कदाचित्‌ उडूयन",
+      "bbox": [
+        264,
+        1079,
+        1166,
+        1151
+      ],
+      "confidence": 81.11,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "करोमि चेत्‌, नास्ति आश्चर्यम्‌!\" इति उक्तवान्‌",
+      "bbox": [
+        265,
+        1180,
+        1174,
+        1256
+      ],
+      "confidence": 72.03,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "ुकः। सुदशनः सदशयेन शुकं दष्ट्वा 'महाक्शी -",
+      "bbox": [
+        266,
+        1281,
+        1166,
+        1367
+      ],
+      "confidence": 50.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "यस्य भवतः निगमनबुद्धिः कथं जायते ‡'",
+      "bbox": [
+        267,
+        1389,
+        1160,
+        1462
+      ],
+      "confidence": 77.61,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "इति पृष्टवान्‌ ।",
+      "bbox": [
+        267,
+        1497,
+        534,
+        1561
+      ],
+      "confidence": 58.7,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "तदा ज्युकः आर्य, अनेके जनाः दोषं कतं नैव",
+      "bbox": [
+        266,
+        1580,
+        1161,
+        1659
+      ],
+      "confidence": 59.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "इच्छन्ति । किन्तु वातावरणेन टुब्धां; भवन्ति |",
+      "bbox": [
+        274,
+        1690,
+        1160,
+        1760
+      ],
+      "confidence": 65.87,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "left",
+      "text": "यद्यपि अहं विक्रमार्ववरीयः अस्मि । तथापि",
+      "bbox": [
+        269,
+        1792,
+        1163,
+        1858
+      ],
+      "confidence": 65.4,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "left",
+      "text": "विक्रमार्वेसदशं धीरत्वे मम॒ नास्ति । कृपया मां",
+      "bbox": [
+        272,
+        1898,
+        1162,
+        1978
+      ],
+      "confidence": 44.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "left",
+      "text": "ट्ब्धं मा करोतु । द्वार पिध्रानतरिषये जागरूकता",
+      "bbox": [
+        272,
+        2000,
+        1164,
+        2082
+      ],
+      "confidence": 61.74,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "left",
+      "text": "अस्तु\" इति उक्तवान्‌ ।",
+      "bbox": [
+        273,
+        2118,
+        740,
+        2188
+      ],
+      "confidence": 65.89,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "left",
+      "text": "एतत्‌ सर्वं सुदीनः पत्नीपुत्रान्‌ प्रति",
+      "bbox": [
+        357,
+        2283,
+        1165,
+        2359
+      ],
+      "confidence": 61.21,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "left",
+      "text": "निवेदितवान्‌ । “एः अपायकारी शुकः ।",
+      "bbox": [
+        276,
+        2393,
+        1164,
+        2465
+      ],
+      "confidence": 66.89,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "left",
+      "text": "अनेन भवतः अस्माकं कटम्त्रस्य च यत्किमपि",
+      "bbox": [
+        278,
+        2497,
+        1168,
+        2551
+      ],
+      "confidence": 80.92,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "अहितम्‌ अवद्यं भवति ` इति ते उक्तवन्तः ।",
+      "bbox": [
+        1235,
+        1535,
+        2114,
+        1600
+      ],
+      "confidence": 67.61,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "काकताटीयरूपेण पञ्चषदिनेषु सुदानः",
+      "bbox": [
+        1313,
+        1704,
+        2102,
+        1776
+      ],
+      "confidence": 68.6,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "केनचित्‌ रोगेण पीडितः अमवत्‌ । केनापि",
+      "bbox": [
+        1225,
+        1808,
+        2116,
+        1889
+      ],
+      "confidence": 78.33,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "ओष्रधेन रागनिवारणे न अभवत्‌ । तदवा वरैयः",
+      "bbox": [
+        1228,
+        1921,
+        2103,
+        1996
+      ],
+      "confidence": 60.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "सदनं प्रति «भवतः रोगस्य निवारणे केवरं",
+      "bbox": [
+        1230,
+        2038,
+        2115,
+        2108
+      ],
+      "confidence": 63.12,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "राजगन्धिनामिकया मूक्किया एव॒ शक्यम्‌ ।",
+      "bbox": [
+        1227,
+        2158,
+        2120,
+        2226
+      ],
+      "confidence": 44.66,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "किन्तु एतस्मिन्‌ राञ्ये सा मूखिका न टभ्यते'\"",
+      "bbox": [
+        1230,
+        2271,
+        2108,
+        2344
+      ],
+      "confidence": 49.67,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "इति उक्तवान्‌ । वैयस्य वचनं श्रुचा शुकः",
+      "bbox": [
+        1231,
+        2384,
+        2119,
+        2462
+      ],
+      "confidence": 74.97,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "‹‹स्वातन्त्यं ददामि\" उति आश्वासन ट्त चेन",
+      "bbox": [
+        1235,
+        2499,
+        2122,
+        2551
+      ],
+      "confidence": 19.67,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "न्यायमा त्यक्तुं मम मन: न इच्छति चः' इति\nशुकः उक्तवान्‌ ।\nअनन्तरे सुददनः पञ्जरस्य पिधानकार्ये श्रद्धा\nन अवहत्‌। एकदा शुकः ““भौः श्रीमन्‌, भवान्‌\nदवारपिधानविषये अश्नद्धां मा करोतु । पुनः\nपुन: अवकाशः ठम्यते चेत्‌, मम मनः दुर्बट\nभवति । एतादृशादोषेण एव॒ साधुजनाः अपि\nदष्टाः भवन्ति । अहम्‌ अपि कदाचित्‌ उडूयन\nकरोमि चेत्‌, नास्ति आश्चर्यम्‌!\" इति उक्तवान्‌\nुकः। सुदशनः सदशयेन शुकं दष्ट्वा 'महाक्शी -\nयस्य भवतः निगमनबुद्धिः कथं जायते ‡'\nइति पृष्टवान्‌ ।\nतदा ज्युकः आर्य, अनेके जनाः दोषं कतं नैव\nइच्छन्ति । किन्तु वातावरणेन टुब्धां; भवन्ति |\nयद्यपि अहं विक्रमार्ववरीयः अस्मि । तथापि\nविक्रमार्वेसदशं धीरत्वे मम॒ नास्ति । कृपया मां\nट्ब्धं मा करोतु । द्वार पिध्रानतरिषये जागरूकता\nअस्तु\" इति उक्तवान्‌ ।\nएतत्‌ सर्वं सुदीनः पत्नीपुत्रान्‌ प्रति\nनिवेदितवान्‌ । “एः अपायकारी शुकः ।\nअनेन भवतः अस्माकं कटम्त्रस्य च यत्किमपि\n\nअहितम्‌ अवद्यं भवति ` इति ते उक्तवन्तः ।\nकाकताटीयरूपेण पञ्चषदिनेषु सुदानः\nकेनचित्‌ रोगेण पीडितः अमवत्‌ । केनापि\nओष्रधेन रागनिवारणे न अभवत्‌ । तदवा वरैयः\nसदनं प्रति «भवतः रोगस्य निवारणे केवरं\nराजगन्धिनामिकया मूक्किया एव॒ शक्यम्‌ ।\nकिन्तु एतस्मिन्‌ राञ्ये सा मूखिका न टभ्यते'\"\nइति उक्तवान्‌ । वैयस्य वचनं श्रुचा शुकः\n‹‹स्वातन्त्यं ददामि\" उति आश्वासन ट्त चेन",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

@@ -1,0 +1,404 @@
+{
+  "page": 32,
+  "source_image": "image/Chanda_Mama_32.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        1063,
+        1070,
+        2551
+      ],
+      "text": "ब्रह्मत्तः काशा पाश्पाद्यात स्म | तस्मन्‌\nकाटे एव कोसख्देदो बो धिसत्रः नाम महाराजः\nआसीत्‌ । तस्य बोषिसत्वस्य पुत्रः सत्यसेनः\nयुक्ते समये सत्यसेनस्य योवराज्या-\nभिपेकः विव्राहः च अभवत्‌ । तस्य पत्नी\nशम्बुखादेवी । सा अनुपमा सुन्दरी ।\nकानिचन दिनानि अतीतानि | दोर्भाग्येण\nयुत्रराजः सत्यसेनः कुएरोगेण पीडितः अभवत्‌ ।\nबरहवः वैया: चिकित्सा: कृतवन्तः । किन्तु\nरोगः न शान्तः, वधितः एर । जुगुप्साजनकेन\nरोगेण पीडितः युवराजः जनानां मध्ये वासं\nकतु न इष्टवान्‌ । अतः सत्येन: अश्ण्ये वाक\nक्तु प्रस्थितवान्‌ । तदा पत्नी शम्बुखादेवी\nअपि प्रत्या सह प्रस्थिता । अरण्ये पणेश्ाटां",
+      "line_count": 14
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1101,
+        1063,
+        2146,
+        2551
+      ],
+      "text": "निमाय तत्र प्ल्या सह सत्यसनः बास कृतवान्‌ । |\nशम्बुखादेवी तु सूर्यादयकाले एव उत्थाय |\nगृहकार्यं समाप्य, प््युः दन्तधावनाथं सजी-\nकरोति । पत्युः मुख-प्रश्ताटनानन्तरं उपाहारार्थ\nफटानि ददाति । अनन्तरं स्पमपि किचित्‌\nखादिरा खनित्र कण्डाटं च स्वीक्रत्य अरण्ये |\nअटित्रा कन्दरमृटानि आनयति । नदीतः जलम्‌ |\nआनीय प्रत्या स्नानं कारथति । पट्युः भोजना- |\nनन्तर्‌ खये मोजनं करोति । एवं रीत्या जाग- |\nरूका सती सा प्रत्युः शुषं कुर्वती आसीत्‌ । |\nएकदा फएटानि सङ्ग्रहीतुं नूतन-प्रदेशाभिमुखं |\nसा प्रस्थिता । विचित्‌ दूरे एर एकः ट्डुसरो- ।\nवरः आसीत्‌ । तं दष्ट्वा सा बहु सन्तुष्टा |\nअभवत्‌ । |",
+      "line_count": 14
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "ब्रह्मत्तः काशा पाश्पाद्यात स्म | तस्मन्‌",
+      "bbox": [
+        242,
+        1063,
+        1062,
+        1117
+      ],
+      "confidence": 30.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "काटे एव कोसख्देदो बो धिसत्रः नाम महाराजः",
+      "bbox": [
+        160,
+        1153,
+        1047,
+        1220
+      ],
+      "confidence": 59.95,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "आसीत्‌ । तस्य बोषिसत्वस्य पुत्रः सत्यसेनः",
+      "bbox": [
+        161,
+        1257,
+        1053,
+        1329
+      ],
+      "confidence": 51.55,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "युक्ते समये सत्यसेनस्य योवराज्या-",
+      "bbox": [
+        166,
+        1357,
+        1054,
+        1430
+      ],
+      "confidence": 77.83,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "भिपेकः विव्राहः च अभवत्‌ । तस्य पत्नी",
+      "bbox": [
+        166,
+        1466,
+        1055,
+        1538
+      ],
+      "confidence": 76.83,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "शम्बुखादेवी । सा अनुपमा सुन्दरी ।",
+      "bbox": [
+        163,
+        1572,
+        903,
+        1641
+      ],
+      "confidence": 72.44,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "कानिचन दिनानि अतीतानि | दोर्भाग्येण",
+      "bbox": [
+        240,
+        1696,
+        1055,
+        1762
+      ],
+      "confidence": 86.4,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "युत्रराजः सत्यसेनः कुएरोगेण पीडितः अभवत्‌ ।",
+      "bbox": [
+        159,
+        1803,
+        1050,
+        1875
+      ],
+      "confidence": 65.9,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "बरहवः वैया: चिकित्सा: कृतवन्तः । किन्तु",
+      "bbox": [
+        161,
+        1905,
+        1054,
+        1978
+      ],
+      "confidence": 43.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "रोगः न शान्तः, वधितः एर । जुगुप्साजनकेन",
+      "bbox": [
+        156,
+        2010,
+        1053,
+        2084
+      ],
+      "confidence": 49.52,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "रोगेण पीडितः युवराजः जनानां मध्ये वासं",
+      "bbox": [
+        159,
+        2114,
+        1052,
+        2183
+      ],
+      "confidence": 91.34,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "कतु न इष्टवान्‌ । अतः सत्येन: अश्ण्ये वाक",
+      "bbox": [
+        154,
+        2215,
+        1039,
+        2291
+      ],
+      "confidence": 56.16,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "क्तु प्रस्थितवान्‌ । तदा पत्नी शम्बुखादेवी",
+      "bbox": [
+        155,
+        2319,
+        1042,
+        2395
+      ],
+      "confidence": 50.23,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "अपि प्रत्या सह प्रस्थिता । अरण्ये पणेश्ाटां",
+      "bbox": [
+        156,
+        2432,
+        1039,
+        2494
+      ],
+      "confidence": 43.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "निमाय तत्र प्ल्या सह सत्यसनः बास कृतवान्‌ । |",
+      "bbox": [
+        1122,
+        1063,
+        2080,
+        1131
+      ],
+      "confidence": 72.64,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "शम्बुखादेवी तु सूर्यादयकाले एव उत्थाय |",
+      "bbox": [
+        1206,
+        1132,
+        2079,
+        1254
+      ],
+      "confidence": 27.01,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "गृहकार्यं समाप्य, प््युः दन्तधावनाथं सजी-",
+      "bbox": [
+        1123,
+        1273,
+        2015,
+        1359
+      ],
+      "confidence": 59.99,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "करोति । पत्युः मुख-प्रश्ताटनानन्तरं उपाहारार्थ",
+      "bbox": [
+        1122,
+        1378,
+        2022,
+        1451
+      ],
+      "confidence": 50.39,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "फटानि ददाति । अनन्तरं स्पमपि किचित्‌",
+      "bbox": [
+        1121,
+        1488,
+        2028,
+        1556
+      ],
+      "confidence": 62.63,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "खादिरा खनित्र कण्डाटं च स्वीक्रत्य अरण्ये |",
+      "bbox": [
+        1121,
+        1589,
+        2080,
+        1711
+      ],
+      "confidence": 49.61,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "अटित्रा कन्दरमृटानि आनयति । नदीतः जलम्‌ |",
+      "bbox": [
+        1121,
+        1698,
+        2080,
+        1772
+      ],
+      "confidence": 56.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "आनीय प्रत्या स्नानं कारथति । पट्युः भोजना- |",
+      "bbox": [
+        1120,
+        1781,
+        2079,
+        1868
+      ],
+      "confidence": 76.66,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "नन्तर्‌ खये मोजनं करोति । एवं रीत्या जाग- |",
+      "bbox": [
+        1119,
+        1875,
+        2080,
+        1975
+      ],
+      "confidence": 72.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "रूका सती सा प्रत्युः शुषं कुर्वती आसीत्‌ । |",
+      "bbox": [
+        1118,
+        1979,
+        2080,
+        2084
+      ],
+      "confidence": 72.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "एकदा फएटानि सङ्ग्रहीतुं नूतन-प्रदेशाभिमुखं |",
+      "bbox": [
+        1116,
+        2064,
+        2081,
+        2225
+      ],
+      "confidence": 60.23,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "सा प्रस्थिता । विचित्‌ दूरे एर एकः ट्डुसरो- ।",
+      "bbox": [
+        1114,
+        2227,
+        2081,
+        2310
+      ],
+      "confidence": 52.71,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "वरः आसीत्‌ । तं दष्ट्वा सा बहु सन्तुष्टा |",
+      "bbox": [
+        1111,
+        2277,
+        2080,
+        2413
+      ],
+      "confidence": 77.34,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "अभवत्‌ । |",
+      "bbox": [
+        1110,
+        2453,
+        2079,
+        2551
+      ],
+      "confidence": 78.61,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "ब्रह्मत्तः काशा पाश्पाद्यात स्म | तस्मन्‌\nकाटे एव कोसख्देदो बो धिसत्रः नाम महाराजः\nआसीत्‌ । तस्य बोषिसत्वस्य पुत्रः सत्यसेनः\nयुक्ते समये सत्यसेनस्य योवराज्या-\nभिपेकः विव्राहः च अभवत्‌ । तस्य पत्नी\nशम्बुखादेवी । सा अनुपमा सुन्दरी ।\nकानिचन दिनानि अतीतानि | दोर्भाग्येण\nयुत्रराजः सत्यसेनः कुएरोगेण पीडितः अभवत्‌ ।\nबरहवः वैया: चिकित्सा: कृतवन्तः । किन्तु\nरोगः न शान्तः, वधितः एर । जुगुप्साजनकेन\nरोगेण पीडितः युवराजः जनानां मध्ये वासं\nकतु न इष्टवान्‌ । अतः सत्येन: अश्ण्ये वाक\nक्तु प्रस्थितवान्‌ । तदा पत्नी शम्बुखादेवी\nअपि प्रत्या सह प्रस्थिता । अरण्ये पणेश्ाटां\n\nनिमाय तत्र प्ल्या सह सत्यसनः बास कृतवान्‌ । |\nशम्बुखादेवी तु सूर्यादयकाले एव उत्थाय |\nगृहकार्यं समाप्य, प््युः दन्तधावनाथं सजी-\nकरोति । पत्युः मुख-प्रश्ताटनानन्तरं उपाहारार्थ\nफटानि ददाति । अनन्तरं स्पमपि किचित्‌\nखादिरा खनित्र कण्डाटं च स्वीक्रत्य अरण्ये |\nअटित्रा कन्दरमृटानि आनयति । नदीतः जलम्‌ |\nआनीय प्रत्या स्नानं कारथति । पट्युः भोजना- |\nनन्तर्‌ खये मोजनं करोति । एवं रीत्या जाग- |\nरूका सती सा प्रत्युः शुषं कुर्वती आसीत्‌ । |\nएकदा फएटानि सङ्ग्रहीतुं नूतन-प्रदेशाभिमुखं |\nसा प्रस्थिता । विचित्‌ दूरे एर एकः ट्डुसरो- ।\nवरः आसीत्‌ । तं दष्ट्वा सा बहु सन्तुष्टा |\nअभवत्‌ । |",
+  "warnings": [
+    "Image too small to scale!! (2x36 vs min width of 3)\nLine cannot be recognized!!"
+  ],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

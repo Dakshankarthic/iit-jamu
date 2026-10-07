@@ -1,0 +1,506 @@
+{
+  "page": 61,
+  "source_image": "image/Chanda_Mama_61.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        255,
+        1127,
+        2608
+      ],
+      "text": "| दासी प्रतिनिवृत्य सत्र उपसचिवस्य कृते\nनिवेदितव्रती । एतत्‌ श्चुता भीतः व्याक्रुलितिः\nच सः चिन्तितवान्‌ - महासच्रस्य पुत्री\nणत्‌ वृत्तन्तं यद्वि राङ्घे नित्रेदयति, तद्रा त्याः\nपितुः गतिः एव्र मम अपि स्पात्‌\" ।\nराजत्रिरोवरिजृय समूलम्‌ उन्भूत्य राजा\nप्रयागत उपचितं पृष्टवान्‌ “महासचिवस्य\nपुत्र्याः का वार्ता इति। उपसचिवरः पूर्वम्‌ एव\nमनसि चिन्तितं शीघ्रम्‌ एव्र उक्तवान्‌- प्रभो!\nभवाद्रलस्य पतनी भवितुं सा न अर्हा । भवान्‌\nइतः प्रथि त्रान्‌, ततः सा मम समीपे दासी -\nदवारा एतां वार्ता प्रेषितवती -- “अहं भवता सह\nदेशन्ता गन्तुम्‌ इच्छामि । तत्र भवान्‌ मां\nपरिणीय मया सह सुखेन तुः इति । एतत्‌\nत्वा “शन्त पापम्‌” इति अपकृत उक्ता\nदासीं च मत्सवितरा प्रेषितत्रान्‌ । चत्वा देवः\nप्रमाणम्‌ ` ।\n“अरे दुष्टे! कि शिखाप्राहं गृहीता शिरः\nसनिं कतेमि ? अथवा कि प्राणः सह गर्ते\nनिखनामि £ इति सकोपं साटोपं च राजा\nगज्ितरान्‌ |\nउपसचविः किमपि वक्तुम्‌ उद्‌युक्तः, किल्तु\nतत्रत्यः कश्चित्‌ वृद्धः अप्र आगत्य स्वाभिप्रायं\nराधे निवेदितवान्‌- “प्रमो! णतारशव्यक्तेः मर-\nभूमिरेव योग्या । अतः विशशाटमद्मूमो एतस्याः",
+      "line_count": 25
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1166,
+        1417,
+        2146,
+        2608
+      ],
+      "text": "प्राणधारणं वा इति विधिः ए निण्यं करि-\nष्यत्नि | एषा च मम तरिनप्रा सूचना' ।\n` “मस्मूमौ णरा विसूञ्यताम्‌' इति राजा\nआज्ञापितवान्‌ । भटाः तां नीता निम्नोनत-\nमस्मूमौ व्यक्ता प्रत्यागतवन्तः । सा बाहूद्रयम्‌\nअपि उद्धल्य आका पयन्ती देवं प्राथयिठुम्‌\nएकत्र स्थितत्रती । तस्मिन्‌ समये उष्टान्‌ नय-\nमानः कथित्‌ नां दृष्टवान्‌ ।\nसः ना दरष्टूवा समीपे आगत्य क्णधा उक्त-\nवान्‌- “अम्बर! सयः मम गृहम्‌ आगच्छतु। अन-\nन्तरं मवे वृत्तान्तं निवेदयतुः।",
+      "line_count": 11
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "| दासी प्रतिनिवृत्य सत्र उपसचिवस्य कृते",
+      "bbox": [
+        182,
+        255,
+        1124,
+        355
+      ],
+      "confidence": 61.6,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "निवेदितव्रती । एतत्‌ श्चुता भीतः व्याक्रुलितिः",
+      "bbox": [
+        240,
+        353,
+        1118,
+        428
+      ],
+      "confidence": 70.11,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "च सः चिन्तितवान्‌ - महासच्रस्य पुत्री",
+      "bbox": [
+        235,
+        446,
+        1122,
+        523
+      ],
+      "confidence": 33.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "णत्‌ वृत्तन्तं यद्वि राङ्घे नित्रेदयति, तद्रा त्याः",
+      "bbox": [
+        231,
+        540,
+        1116,
+        607
+      ],
+      "confidence": 67.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "पितुः गतिः एव्र मम अपि स्पात्‌\" ।",
+      "bbox": [
+        233,
+        636,
+        923,
+        705
+      ],
+      "confidence": 58.21,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "राजत्रिरोवरिजृय समूलम्‌ उन्भूत्य राजा",
+      "bbox": [
+        318,
+        726,
+        1122,
+        801
+      ],
+      "confidence": 34.19,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "प्रयागत उपचितं पृष्टवान्‌ “महासचिवस्य",
+      "bbox": [
+        234,
+        821,
+        1121,
+        891
+      ],
+      "confidence": 13.99,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "पुत्र्याः का वार्ता इति। उपसचिवरः पूर्वम्‌ एव",
+      "bbox": [
+        234,
+        911,
+        1120,
+        990
+      ],
+      "confidence": 48.55,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "मनसि चिन्तितं शीघ्रम्‌ एव्र उक्तवान्‌- प्रभो!",
+      "bbox": [
+        234,
+        1006,
+        1115,
+        1078
+      ],
+      "confidence": 70.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "भवाद्रलस्य पतनी भवितुं सा न अर्हा । भवान्‌",
+      "bbox": [
+        232,
+        1099,
+        1127,
+        1172
+      ],
+      "confidence": 64.67,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "इतः प्रथि त्रान्‌, ततः सा मम समीपे दासी -",
+      "bbox": [
+        227,
+        1187,
+        1119,
+        1266
+      ],
+      "confidence": 83.18,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "दवारा एतां वार्ता प्रेषितवती -- “अहं भवता सह",
+      "bbox": [
+        228,
+        1279,
+        1120,
+        1358
+      ],
+      "confidence": 56.37,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "देशन्ता गन्तुम्‌ इच्छामि । तत्र भवान्‌ मां",
+      "bbox": [
+        226,
+        1376,
+        1113,
+        1451
+      ],
+      "confidence": 83.49,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "परिणीय मया सह सुखेन तुः इति । एतत्‌",
+      "bbox": [
+        229,
+        1470,
+        1120,
+        1545
+      ],
+      "confidence": 85.87,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "left",
+      "text": "त्वा “शन्त पापम्‌” इति अपकृत उक्ता",
+      "bbox": [
+        225,
+        1563,
+        1110,
+        1637
+      ],
+      "confidence": 54.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "left",
+      "text": "दासीं च मत्सवितरा प्रेषितत्रान्‌ । चत्वा देवः",
+      "bbox": [
+        227,
+        1654,
+        1107,
+        1730
+      ],
+      "confidence": 54.03,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "left",
+      "text": "प्रमाणम्‌ ` ।",
+      "bbox": [
+        233,
+        1754,
+        430,
+        1827
+      ],
+      "confidence": 72.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "left",
+      "text": "“अरे दुष्टे! कि शिखाप्राहं गृहीता शिरः",
+      "bbox": [
+        319,
+        1844,
+        1108,
+        1916
+      ],
+      "confidence": 55.85,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "left",
+      "text": "सनिं कतेमि ? अथवा कि प्राणः सह गर्ते",
+      "bbox": [
+        231,
+        1936,
+        1114,
+        2004
+      ],
+      "confidence": 55.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "left",
+      "text": "निखनामि £ इति सकोपं साटोपं च राजा",
+      "bbox": [
+        229,
+        2028,
+        1119,
+        2097
+      ],
+      "confidence": 83.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "left",
+      "text": "गज्ितरान्‌ |",
+      "bbox": [
+        232,
+        2122,
+        450,
+        2194
+      ],
+      "confidence": 24.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "left",
+      "text": "उपसचविः किमपि वक्तुम्‌ उद्‌युक्तः, किल्तु",
+      "bbox": [
+        313,
+        2220,
+        1115,
+        2295
+      ],
+      "confidence": 30.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "left",
+      "text": "तत्रत्यः कश्चित्‌ वृद्धः अप्र आगत्य स्वाभिप्रायं",
+      "bbox": [
+        225,
+        2314,
+        1115,
+        2384
+      ],
+      "confidence": 73.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "left",
+      "text": "राधे निवेदितवान्‌- “प्रमो! णतारशव्यक्तेः मर-",
+      "bbox": [
+        225,
+        2404,
+        1109,
+        2475
+      ],
+      "confidence": 46.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "left",
+      "text": "भूमिरेव योग्या । अतः विशशाटमद्मूमो एतस्याः",
+      "bbox": [
+        221,
+        2497,
+        1111,
+        2577
+      ],
+      "confidence": 39.14,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "प्राणधारणं वा इति विधिः ए निण्यं करि-",
+      "bbox": [
+        1183,
+        1457,
+        2063,
+        1526
+      ],
+      "confidence": 82.12,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "ष्यत्नि | एषा च मम तरिनप्रा सूचना' ।",
+      "bbox": [
+        1183,
+        1550,
+        1904,
+        1628
+      ],
+      "confidence": 68.56,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "` “मस्मूमौ णरा विसूञ्यताम्‌' इति राजा",
+      "bbox": [
+        1214,
+        1672,
+        2065,
+        1752
+      ],
+      "confidence": 35.12,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "आज्ञापितवान्‌ । भटाः तां नीता निम्नोनत-",
+      "bbox": [
+        1184,
+        1765,
+        2070,
+        1846
+      ],
+      "confidence": 67.77,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "मस्मूमौ व्यक्ता प्रत्यागतवन्तः । सा बाहूद्रयम्‌",
+      "bbox": [
+        1183,
+        1857,
+        2076,
+        1943
+      ],
+      "confidence": 47.56,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "अपि उद्धल्य आका पयन्ती देवं प्राथयिठुम्‌",
+      "bbox": [
+        1185,
+        1958,
+        2076,
+        2031
+      ],
+      "confidence": 42.7,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "एकत्र स्थितत्रती । तस्मिन्‌ समये उष्टान्‌ नय-",
+      "bbox": [
+        1182,
+        2052,
+        2070,
+        2132
+      ],
+      "confidence": 65.77,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "मानः कथित्‌ नां दृष्टवान्‌ ।",
+      "bbox": [
+        1182,
+        2146,
+        1700,
+        2215
+      ],
+      "confidence": 72.85,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "सः ना दरष्टूवा समीपे आगत्य क्णधा उक्त-",
+      "bbox": [
+        1262,
+        2285,
+        2064,
+        2358
+      ],
+      "confidence": 54.01,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "वान्‌- “अम्बर! सयः मम गृहम्‌ आगच्छतु। अन-",
+      "bbox": [
+        1177,
+        2379,
+        2073,
+        2450
+      ],
+      "confidence": 77.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 36,
+      "column": "right",
+      "text": "न्तरं मवे वृत्तान्तं निवेदयतुः।",
+      "bbox": [
+        1177,
+        2466,
+        1735,
+        2538
+      ],
+      "confidence": 85.05,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "| दासी प्रतिनिवृत्य सत्र उपसचिवस्य कृते\nनिवेदितव्रती । एतत्‌ श्चुता भीतः व्याक्रुलितिः\nच सः चिन्तितवान्‌ - महासच्रस्य पुत्री\nणत्‌ वृत्तन्तं यद्वि राङ्घे नित्रेदयति, तद्रा त्याः\nपितुः गतिः एव्र मम अपि स्पात्‌\" ।\nराजत्रिरोवरिजृय समूलम्‌ उन्भूत्य राजा\nप्रयागत उपचितं पृष्टवान्‌ “महासचिवस्य\nपुत्र्याः का वार्ता इति। उपसचिवरः पूर्वम्‌ एव\nमनसि चिन्तितं शीघ्रम्‌ एव्र उक्तवान्‌- प्रभो!\nभवाद्रलस्य पतनी भवितुं सा न अर्हा । भवान्‌\nइतः प्रथि त्रान्‌, ततः सा मम समीपे दासी -\nदवारा एतां वार्ता प्रेषितवती -- “अहं भवता सह\nदेशन्ता गन्तुम्‌ इच्छामि । तत्र भवान्‌ मां\nपरिणीय मया सह सुखेन तुः इति । एतत्‌\nत्वा “शन्त पापम्‌” इति अपकृत उक्ता\nदासीं च मत्सवितरा प्रेषितत्रान्‌ । चत्वा देवः\nप्रमाणम्‌ ` ।\n“अरे दुष्टे! कि शिखाप्राहं गृहीता शिरः\nसनिं कतेमि ? अथवा कि प्राणः सह गर्ते\nनिखनामि £ इति सकोपं साटोपं च राजा\nगज्ितरान्‌ |\nउपसचविः किमपि वक्तुम्‌ उद्‌युक्तः, किल्तु\nतत्रत्यः कश्चित्‌ वृद्धः अप्र आगत्य स्वाभिप्रायं\nराधे निवेदितवान्‌- “प्रमो! णतारशव्यक्तेः मर-\nभूमिरेव योग्या । अतः विशशाटमद्मूमो एतस्याः\n\nप्राणधारणं वा इति विधिः ए निण्यं करि-\nष्यत्नि | एषा च मम तरिनप्रा सूचना' ।\n` “मस्मूमौ णरा विसूञ्यताम्‌' इति राजा\nआज्ञापितवान्‌ । भटाः तां नीता निम्नोनत-\nमस्मूमौ व्यक्ता प्रत्यागतवन्तः । सा बाहूद्रयम्‌\nअपि उद्धल्य आका पयन्ती देवं प्राथयिठुम्‌\nएकत्र स्थितत्रती । तस्मिन्‌ समये उष्टान्‌ नय-\nमानः कथित्‌ नां दृष्टवान्‌ ।\nसः ना दरष्टूवा समीपे आगत्य क्णधा उक्त-\nवान्‌- “अम्बर! सयः मम गृहम्‌ आगच्छतु। अन-\nन्तरं मवे वृत्तान्तं निवेदयतुः।",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

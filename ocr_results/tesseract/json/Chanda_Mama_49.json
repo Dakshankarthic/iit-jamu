@@ -1,0 +1,389 @@
+{
+  "page": 49,
+  "source_image": "image/Chanda_Mama_49.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        1134,
+        1130,
+        2494
+      ],
+      "text": "घनिकस्य पुत्री । पतिः पतनी च दाम्पत्यजीवनं\nसानन्दं निर्वहति स्म ।\nभास्करस्य मित्रं मुकुन्दः । एकदा मुकुन्दः पल्या\nसह नगरतः भास्करस्य गृहम्‌ आगतवान्‌ ।\nमुकुन्दस्य पत्नी गोरी । सा सुमधुरं गायति स्म।\nतस्याः गानं छता भस्करः अभ्विका च बहू\nसन्तोषं अनुभूत न्तौ । गानं श्वा छता एकः\nसप्ताहः, दिवसः इ अतीतः ।\nसप्ताहानन्तरं मुकुन्दः पल्या सह सगृहं गतवान्‌।\nभास्करः पल्या सह वार्ताखापं कुवन्‌ उक्तवान्‌\n“गौर्याः सुमधुरं गानं छतं किट ९ अम्बिके !\nअहं चिन्तयामि, इतः परं भव्रती अपि सङ्गी-\nतं किमर्थं न अभ्यस्येत्‌ '' इति। पत्युः",
+      "line_count": 13
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1156,
+        1134,
+        2146,
+        2494
+      ],
+      "text": "सनीयाः। प्रोढे वाधक्ये वा वथसि कलाः अभ्य-\nसितुं प्रायः न शक्याः. गोरी ठु ष्ठे वयसि\nएव सङ्गीताभ्यासम्‌ आरन्धवती। ततः आरभ्य\nसततं कृताम्यासात्‌ ख गौरी मधुरं गायति\"\nएवं मनसि विचिन्त्य अम्बिका पतिम्‌ उक्तत्रती\n८'मम कण्ठस्वरः न मधुरः। अतः कथं गायामि?”\nविन्तु भाक्करः पल्याः उत्तरेण न सन्तृ्तः। सः\nसभ्रूभङ्गम्‌ उक्तव्रान्‌--““ कण्ठस्वरः त॒ सुम-\nधुरः एव । प्रतिदिनं किञ्चित्‌ किञ्चित्‌ यदि\nसङ्गीताम्यासः क्रियते, विना आयासं सङ्गीते\nनैपुण्यम्‌ सम्बाद यितुं शक्पम्‌। विन्तु सवस्य अपि\nमूलं मनःप्रवृत्तिः । अतः प्रयत्न करोतु ` ।\nकानिचित्‌ दिनानि गतानि । ओड्कारशर्मा\nनाम॒ चित्रकारः तं प्रामम्‌ आगतवान्‌ । तत्र",
+      "line_count": 14
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "घनिकस्य पुत्री । पतिः पतनी च दाम्पत्यजीवनं",
+      "bbox": [
+        223,
+        1177,
+        1118,
+        1245
+      ],
+      "confidence": 75.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "सानन्दं निर्वहति स्म ।",
+      "bbox": [
+        224,
+        1265,
+        640,
+        1333
+      ],
+      "confidence": 78.3,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "भास्करस्य मित्रं मुकुन्दः । एकदा मुकुन्दः पल्या",
+      "bbox": [
+        223,
+        1425,
+        1117,
+        1494
+      ],
+      "confidence": 72.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "सह नगरतः भास्करस्य गृहम्‌ आगतवान्‌ ।",
+      "bbox": [
+        225,
+        1529,
+        1073,
+        1584
+      ],
+      "confidence": 81.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "मुकुन्दस्य पत्नी गोरी । सा सुमधुरं गायति स्म।",
+      "bbox": [
+        229,
+        1601,
+        1113,
+        1677
+      ],
+      "confidence": 74.03,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "तस्याः गानं छता भस्करः अभ्विका च बहू",
+      "bbox": [
+        225,
+        1702,
+        1113,
+        1776
+      ],
+      "confidence": 52.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "सन्तोषं अनुभूत न्तौ । गानं श्वा छता एकः",
+      "bbox": [
+        225,
+        1785,
+        1108,
+        1872
+      ],
+      "confidence": 79.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "सप्ताहः, दिवसः इ अतीतः ।",
+      "bbox": [
+        226,
+        1887,
+        805,
+        1957
+      ],
+      "confidence": 87.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "सप्ताहानन्तरं मुकुन्दः पल्या सह सगृहं गतवान्‌।",
+      "bbox": [
+        227,
+        2038,
+        1109,
+        2108
+      ],
+      "confidence": 67.52,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "भास्करः पल्या सह वार्ताखापं कुवन्‌ उक्तवान्‌",
+      "bbox": [
+        228,
+        2127,
+        1123,
+        2200
+      ],
+      "confidence": 64.53,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "“गौर्याः सुमधुरं गानं छतं किट ९ अम्बिके !",
+      "bbox": [
+        233,
+        2217,
+        1107,
+        2292
+      ],
+      "confidence": 65.78,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "अहं चिन्तयामि, इतः परं भव्रती अपि सङ्गी-",
+      "bbox": [
+        227,
+        2315,
+        1119,
+        2388
+      ],
+      "confidence": 77.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "तं किमर्थं न अभ्यस्येत्‌ '' इति। पत्युः",
+      "bbox": [
+        228,
+        2396,
+        1110,
+        2479
+      ],
+      "confidence": 61.77,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "right",
+      "text": "सनीयाः। प्रोढे वाधक्ये वा वथसि कलाः अभ्य-",
+      "bbox": [
+        1175,
+        1172,
+        2057,
+        1236
+      ],
+      "confidence": 78.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "सितुं प्रायः न शक्याः. गोरी ठु ष्ठे वयसि",
+      "bbox": [
+        1178,
+        1268,
+        2060,
+        1338
+      ],
+      "confidence": 62.92,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "एव सङ्गीताभ्यासम्‌ आरन्धवती। ततः आरभ्य",
+      "bbox": [
+        1176,
+        1366,
+        2060,
+        1439
+      ],
+      "confidence": 69.03,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "सततं कृताम्यासात्‌ ख गौरी मधुरं गायति\"",
+      "bbox": [
+        1176,
+        1452,
+        2054,
+        1526
+      ],
+      "confidence": 65.37,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "एवं मनसि विचिन्त्य अम्बिका पतिम्‌ उक्तत्रती",
+      "bbox": [
+        1178,
+        1550,
+        2061,
+        1614
+      ],
+      "confidence": 76.6,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "८'मम कण्ठस्वरः न मधुरः। अतः कथं गायामि?”",
+      "bbox": [
+        1179,
+        1642,
+        2056,
+        1710
+      ],
+      "confidence": 56.78,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "विन्तु भाक्करः पल्याः उत्तरेण न सन्तृ्तः। सः",
+      "bbox": [
+        1175,
+        1733,
+        2055,
+        1802
+      ],
+      "confidence": 57.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "सभ्रूभङ्गम्‌ उक्तव्रान्‌--““ कण्ठस्वरः त॒ सुम-",
+      "bbox": [
+        1173,
+        1839,
+        2059,
+        1904
+      ],
+      "confidence": 62.37,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "धुरः एव । प्रतिदिनं किञ्चित्‌ किञ्चित्‌ यदि",
+      "bbox": [
+        1176,
+        1918,
+        2061,
+        1991
+      ],
+      "confidence": 71.67,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "सङ्गीताम्यासः क्रियते, विना आयासं सङ्गीते",
+      "bbox": [
+        1173,
+        2000,
+        2057,
+        2091
+      ],
+      "confidence": 75.65,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "नैपुण्यम्‌ सम्बाद यितुं शक्पम्‌। विन्तु सवस्य अपि",
+      "bbox": [
+        1166,
+        2094,
+        2064,
+        2177
+      ],
+      "confidence": 67.2,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "मूलं मनःप्रवृत्तिः । अतः प्रयत्न करोतु ` ।",
+      "bbox": [
+        1173,
+        2193,
+        1982,
+        2268
+      ],
+      "confidence": 51.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "कानिचित्‌ दिनानि गतानि । ओड्कारशर्मा",
+      "bbox": [
+        1173,
+        2302,
+        2066,
+        2379
+      ],
+      "confidence": 58.05,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "नाम॒ चित्रकारः तं प्रामम्‌ आगतवान्‌ । तत्र",
+      "bbox": [
+        1176,
+        2398,
+        2064,
+        2474
+      ],
+      "confidence": 37.51,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "घनिकस्य पुत्री । पतिः पतनी च दाम्पत्यजीवनं\nसानन्दं निर्वहति स्म ।\nभास्करस्य मित्रं मुकुन्दः । एकदा मुकुन्दः पल्या\nसह नगरतः भास्करस्य गृहम्‌ आगतवान्‌ ।\nमुकुन्दस्य पत्नी गोरी । सा सुमधुरं गायति स्म।\nतस्याः गानं छता भस्करः अभ्विका च बहू\nसन्तोषं अनुभूत न्तौ । गानं श्वा छता एकः\nसप्ताहः, दिवसः इ अतीतः ।\nसप्ताहानन्तरं मुकुन्दः पल्या सह सगृहं गतवान्‌।\nभास्करः पल्या सह वार्ताखापं कुवन्‌ उक्तवान्‌\n“गौर्याः सुमधुरं गानं छतं किट ९ अम्बिके !\nअहं चिन्तयामि, इतः परं भव्रती अपि सङ्गी-\nतं किमर्थं न अभ्यस्येत्‌ '' इति। पत्युः\n\nसनीयाः। प्रोढे वाधक्ये वा वथसि कलाः अभ्य-\nसितुं प्रायः न शक्याः. गोरी ठु ष्ठे वयसि\nएव सङ्गीताभ्यासम्‌ आरन्धवती। ततः आरभ्य\nसततं कृताम्यासात्‌ ख गौरी मधुरं गायति\"\nएवं मनसि विचिन्त्य अम्बिका पतिम्‌ उक्तत्रती\n८'मम कण्ठस्वरः न मधुरः। अतः कथं गायामि?”\nविन्तु भाक्करः पल्याः उत्तरेण न सन्तृ्तः। सः\nसभ्रूभङ्गम्‌ उक्तव्रान्‌--““ कण्ठस्वरः त॒ सुम-\nधुरः एव । प्रतिदिनं किञ्चित्‌ किञ्चित्‌ यदि\nसङ्गीताम्यासः क्रियते, विना आयासं सङ्गीते\nनैपुण्यम्‌ सम्बाद यितुं शक्पम्‌। विन्तु सवस्य अपि\nमूलं मनःप्रवृत्तिः । अतः प्रयत्न करोतु ` ।\nकानिचित्‌ दिनानि गतानि । ओड्कारशर्मा\nनाम॒ चित्रकारः तं प्रामम्‌ आगतवान्‌ । तत्र",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

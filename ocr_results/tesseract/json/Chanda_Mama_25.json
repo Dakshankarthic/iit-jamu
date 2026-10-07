@@ -1,0 +1,493 @@
+{
+  "page": 25,
+  "source_image": "image/Chanda_Mama_25.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        226,
+        1169,
+        2012
+      ],
+      "text": "(| २१८1 जर. नन्ता तयाः - -नह।र्‌।ग.\nसः शुकः सुदरौनस्य प्राणान्‌ अपि रक्षितवान्‌ ।\nएतादृशस्य श्युकस्य कृते अपरि आश्रये दातुं स;\nकिमर्थं निराकृतवान्‌ £ सः मान्त्रिकश्ुकः इति\nसुदशनः अपि विश्वासं कृतवान्‌ वाः\nएतस्य सङदायस्य उचितम्‌ उत्तरं भवान्‌ जानन्‌\nअपि यदिन वदति, तहि मवतः शीष सहस्रा\nक्रिनं भवति! इति उक्त्वा तूष्णीम्‌ अभवत्‌ ।\nतदा त्रिविक्रमः एव्रम्‌ उक्तवान्‌+सः मान्त्रिक\nयुकः इति विश्वासं क्तवान्‌ एव। यद्यपि तस्य\nसमीपे पर्याप्तं धनं आसीत्‌। पल्याः पुत्राणां च\nसमीपे सः प्रियः आदरणीयः च आसीत्‌ ।\nनथापि कयाचित्‌ अनितरैचनीयचिन्तया सः\nपीडितः आसीत्‌ । तदपि सलयमेव । किन्तु\nशुकः स्वीयमधुरवचनैः उचितामिः सूचनाभिः\nतस्य चिन्तां दूरीकृतवान्‌ । तस्मादेव कारणात्‌\nसुदशनः शुकाय स्वातन्त्यं॑दाठुं न अड्गी-\nकुतवान्‌ । तस्य रोगस्य निवारणार्थं शुकः राज-",
+      "line_count": 18
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1198,
+        226,
+        2146,
+        2012
+      ],
+      "text": "ष त टूर जागत -जुनः तसुजनन्‌\nसमीपं गच्छामि । मम स्वातन्त्यस्य अवरोधः\nमास्तु\" इति उक्तवान्‌ । तस्य वचनेन बन्धुजनानां\nविषये मानवस्य कतव्य किम्‌, आत्मीयता नामं\nकीदशी इति सुदशनः ज्ञातवान्‌ । सः मानव-\nसदृशः शुकः । अनेके जनाः स्वशक्त्या साध-\nयितुम्‌ असमर्थाः, अन्यान्‌ आश्रिय आत्मीयान्‌\nसर्वान्‌ विस्मरन्ति । तथा एवः चतुरः शुकः\nआत्मीयान्‌ प्रति कनव्यप्रजञां विस्मृस्य सुदकशनस्य\nसमीपे सुखजीवनं अपेक्षितवान्‌। सुदशनस्य गृहे\nअहारार्थ छश: नास्ति । शुकस्य एतत्‌ दो्रल्य\nनिवारयितुम्‌ एव स॒ददानः स्वगृहे आश्रयं दात\nनिराकृतवान्‌\" इति ।\nएवं महाराजस्य मोनभङ्गे जाते, तत्क्षणमेव\nवेताटः शवेन सह॒ अद्यः ` भूवा पूववत्‌\nवृक्षस्य शाखायां प्रटम्बमानः आसीत्‌ ।\nन",
+      "line_count": 17
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "(| २१८1 जर. नन्ता तयाः - -नह।र्‌।ग.",
+      "bbox": [
+        203,
+        226,
+        1141,
+        1918
+      ],
+      "confidence": 21.3,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "सः शुकः सुदरौनस्य प्राणान्‌ अपि रक्षितवान्‌ ।",
+      "bbox": [
+        245,
+        281,
+        1151,
+        362
+      ],
+      "confidence": 78.7,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "एतादृशस्य श्युकस्य कृते अपरि आश्रये दातुं स;",
+      "bbox": [
+        245,
+        378,
+        1146,
+        449
+      ],
+      "confidence": 67.03,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "किमर्थं निराकृतवान्‌ £ सः मान्त्रिकश्ुकः इति",
+      "bbox": [
+        246,
+        468,
+        1151,
+        555
+      ],
+      "confidence": 37.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "सुदशनः अपि विश्वासं कृतवान्‌ वाः",
+      "bbox": [
+        246,
+        560,
+        1148,
+        637
+      ],
+      "confidence": 69.43,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "एतस्य सङदायस्य उचितम्‌ उत्तरं भवान्‌ जानन्‌",
+      "bbox": [
+        245,
+        661,
+        1155,
+        730
+      ],
+      "confidence": 58.18,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "अपि यदिन वदति, तहि मवतः शीष सहस्रा",
+      "bbox": [
+        245,
+        749,
+        1152,
+        834
+      ],
+      "confidence": 71.89,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "क्रिनं भवति! इति उक्त्वा तूष्णीम्‌ अभवत्‌ ।",
+      "bbox": [
+        245,
+        848,
+        1107,
+        919
+      ],
+      "confidence": 72.06,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "तदा त्रिविक्रमः एव्रम्‌ उक्तवान्‌+सः मान्त्रिक",
+      "bbox": [
+        326,
+        942,
+        1169,
+        1008
+      ],
+      "confidence": 57.4,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "युकः इति विश्वासं क्तवान्‌ एव। यद्यपि तस्य",
+      "bbox": [
+        243,
+        1036,
+        1153,
+        1105
+      ],
+      "confidence": 63.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "समीपे पर्याप्तं धनं आसीत्‌। पल्याः पुत्राणां च",
+      "bbox": [
+        242,
+        1125,
+        1153,
+        1196
+      ],
+      "confidence": 82.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "समीपे सः प्रियः आदरणीयः च आसीत्‌ ।",
+      "bbox": [
+        240,
+        1221,
+        1150,
+        1287
+      ],
+      "confidence": 61.44,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "नथापि कयाचित्‌ अनितरैचनीयचिन्तया सः",
+      "bbox": [
+        241,
+        1308,
+        1143,
+        1380
+      ],
+      "confidence": 66.59,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "पीडितः आसीत्‌ । तदपि सलयमेव । किन्तु",
+      "bbox": [
+        241,
+        1406,
+        1153,
+        1473
+      ],
+      "confidence": 75.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "left",
+      "text": "शुकः स्वीयमधुरवचनैः उचितामिः सूचनाभिः",
+      "bbox": [
+        239,
+        1496,
+        1149,
+        1572
+      ],
+      "confidence": 78.47,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "left",
+      "text": "तस्य चिन्तां दूरीकृतवान्‌ । तस्मादेव कारणात्‌",
+      "bbox": [
+        251,
+        1592,
+        1161,
+        1675
+      ],
+      "confidence": 79.66,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "left",
+      "text": "सुदशनः शुकाय स्वातन्त्यं॑दाठुं न अड्गी-",
+      "bbox": [
+        254,
+        1684,
+        1147,
+        1760
+      ],
+      "confidence": 59.57,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "left",
+      "text": "कुतवान्‌ । तस्य रोगस्य निवारणार्थं शुकः राज-",
+      "bbox": [
+        250,
+        1775,
+        1137,
+        1855
+      ],
+      "confidence": 77.89,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "ष त टूर जागत -जुनः तसुजनन्‌",
+      "bbox": [
+        1226,
+        226,
+        2114,
+        269
+      ],
+      "confidence": 25.65,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "समीपं गच्छामि । मम स्वातन्त्यस्य अवरोधः",
+      "bbox": [
+        1219,
+        290,
+        2108,
+        363
+      ],
+      "confidence": 58.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "मास्तु\" इति उक्तवान्‌ । तस्य वचनेन बन्धुजनानां",
+      "bbox": [
+        1213,
+        400,
+        2113,
+        478
+      ],
+      "confidence": 79.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "विषये मानवस्य कतव्य किम्‌, आत्मीयता नामं",
+      "bbox": [
+        1215,
+        500,
+        2116,
+        574
+      ],
+      "confidence": 64.2,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "कीदशी इति सुदशनः ज्ञातवान्‌ । सः मानव-",
+      "bbox": [
+        1212,
+        609,
+        2105,
+        684
+      ],
+      "confidence": 79.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "सदृशः शुकः । अनेके जनाः स्वशक्त्या साध-",
+      "bbox": [
+        1213,
+        718,
+        2096,
+        793
+      ],
+      "confidence": 70.65,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "यितुम्‌ असमर्थाः, अन्यान्‌ आश्रिय आत्मीयान्‌",
+      "bbox": [
+        1218,
+        821,
+        2115,
+        895
+      ],
+      "confidence": 80.56,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "सर्वान्‌ विस्मरन्ति । तथा एवः चतुरः शुकः",
+      "bbox": [
+        1215,
+        923,
+        2109,
+        1003
+      ],
+      "confidence": 68.71,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "आत्मीयान्‌ प्रति कनव्यप्रजञां विस्मृस्य सुदकशनस्य",
+      "bbox": [
+        1220,
+        1030,
+        2112,
+        1107
+      ],
+      "confidence": 49.23,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "समीपे सुखजीवनं अपेक्षितवान्‌। सुदशनस्य गृहे",
+      "bbox": [
+        1216,
+        1136,
+        2108,
+        1209
+      ],
+      "confidence": 68.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "अहारार्थ छश: नास्ति । शुकस्य एतत्‌ दो्रल्य",
+      "bbox": [
+        1214,
+        1226,
+        2107,
+        1305
+      ],
+      "confidence": 68.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "निवारयितुम्‌ एव स॒ददानः स्वगृहे आश्रयं दात",
+      "bbox": [
+        1217,
+        1333,
+        2111,
+        1403
+      ],
+      "confidence": 67.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "निराकृतवान्‌\" इति ।",
+      "bbox": [
+        1216,
+        1433,
+        1629,
+        1510
+      ],
+      "confidence": 47.55,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "एवं महाराजस्य मोनभङ्गे जाते, तत्क्षणमेव",
+      "bbox": [
+        1299,
+        1581,
+        2112,
+        1659
+      ],
+      "confidence": 58.28,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "वेताटः शवेन सह॒ अद्यः ` भूवा पूववत्‌",
+      "bbox": [
+        1214,
+        1675,
+        2115,
+        1767
+      ],
+      "confidence": 44.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "वृक्षस्य शाखायां प्रटम्बमानः आसीत्‌ ।",
+      "bbox": [
+        1216,
+        1777,
+        1942,
+        1842
+      ],
+      "confidence": 67.8,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "न",
+      "bbox": [
+        1194,
+        1863,
+        1328,
+        1943
+      ],
+      "confidence": 44.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "(| २१८1 जर. नन्ता तयाः - -नह।र्‌।ग.\nसः शुकः सुदरौनस्य प्राणान्‌ अपि रक्षितवान्‌ ।\nएतादृशस्य श्युकस्य कृते अपरि आश्रये दातुं स;\nकिमर्थं निराकृतवान्‌ £ सः मान्त्रिकश्ुकः इति\nसुदशनः अपि विश्वासं कृतवान्‌ वाः\nएतस्य सङदायस्य उचितम्‌ उत्तरं भवान्‌ जानन्‌\nअपि यदिन वदति, तहि मवतः शीष सहस्रा\nक्रिनं भवति! इति उक्त्वा तूष्णीम्‌ अभवत्‌ ।\nतदा त्रिविक्रमः एव्रम्‌ उक्तवान्‌+सः मान्त्रिक\nयुकः इति विश्वासं क्तवान्‌ एव। यद्यपि तस्य\nसमीपे पर्याप्तं धनं आसीत्‌। पल्याः पुत्राणां च\nसमीपे सः प्रियः आदरणीयः च आसीत्‌ ।\nनथापि कयाचित्‌ अनितरैचनीयचिन्तया सः\nपीडितः आसीत्‌ । तदपि सलयमेव । किन्तु\nशुकः स्वीयमधुरवचनैः उचितामिः सूचनाभिः\nतस्य चिन्तां दूरीकृतवान्‌ । तस्मादेव कारणात्‌\nसुदशनः शुकाय स्वातन्त्यं॑दाठुं न अड्गी-\nकुतवान्‌ । तस्य रोगस्य निवारणार्थं शुकः राज-\n\nष त टूर जागत -जुनः तसुजनन्‌\nसमीपं गच्छामि । मम स्वातन्त्यस्य अवरोधः\nमास्तु\" इति उक्तवान्‌ । तस्य वचनेन बन्धुजनानां\nविषये मानवस्य कतव्य किम्‌, आत्मीयता नामं\nकीदशी इति सुदशनः ज्ञातवान्‌ । सः मानव-\nसदृशः शुकः । अनेके जनाः स्वशक्त्या साध-\nयितुम्‌ असमर्थाः, अन्यान्‌ आश्रिय आत्मीयान्‌\nसर्वान्‌ विस्मरन्ति । तथा एवः चतुरः शुकः\nआत्मीयान्‌ प्रति कनव्यप्रजञां विस्मृस्य सुदकशनस्य\nसमीपे सुखजीवनं अपेक्षितवान्‌। सुदशनस्य गृहे\nअहारार्थ छश: नास्ति । शुकस्य एतत्‌ दो्रल्य\nनिवारयितुम्‌ एव स॒ददानः स्वगृहे आश्रयं दात\nनिराकृतवान्‌\" इति ।\nएवं महाराजस्य मोनभङ्गे जाते, तत्क्षणमेव\nवेताटः शवेन सह॒ अद्यः ` भूवा पूववत्‌\nवृक्षस्य शाखायां प्रटम्बमानः आसीत्‌ ।\nन",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

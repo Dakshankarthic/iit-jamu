@@ -1,0 +1,352 @@
+{
+  "page": 9,
+  "source_image": "image/Chanda_Mama_09.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        226,
+        1114,
+        1474
+      ],
+      "text": "| विषये रमणः स्वयं चिन्तितवान्‌ ` धनगुप्तः\n। महान्‌ धनिकः । ग्रामीणानां तेन सह सम्बन्धः\nअरति एव । अतः एर तस्मै उपदेशं क्त स्वे\nभीताः । किन्तु धनगुप्तश्य विषये प्रतीकारः\nकरणीयः एव *इति ।\nएकदा सुदूरतः प्रामतः कथित्‌ महः परो-\nपकारिणः रमणस्य गृहम्‌ आगतवान्‌, उक्तवान्‌\nच--^*अह महटविद्यानिपृणः । एतस्मिन्‌ प्रामे\n। मलविदयां प्रदस्य ॒प्रामीणान्‌ सन्तोषयामि ।\n प्रामीणाः आहत्य शतं दीनारान्‌ ददतु, तेन बह\n| सन्तुष्टः भविष्यामि । कुपया एतदथ साटाय्य\n[~",
+      "line_count": 12
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1145,
+        226,
+        2146,
+        1474
+      ],
+      "text": "र कृते प्रतीकार कतम्‌ एषः एव\nसमृचितः समयः इति रमणः चिन्तितवान्‌ ।\nमं प्रति उक्तवान्‌ च-- ““एतस्मिन्‌ प्रामे धन-\nगुप्तः नाम महान्‌ धनिकः अस्ि। सः महट-\nविद्यां बहू आद्रियते । तस्य समीपं गत्व प्राधनां\nकरोतु । सः अवद्यं सादाघ्यं करिष्यति एव! ।\nमहः धनगुप्तस्य गृहं गत्वा धनगुप्तं प्राधितवान्‌\n-गुप्तमहाशय! अहं महः । महविद्यायां भवतः\nअतीव आदरः इति श्तवान्‌ । मम महटविद्या-\nप्रददीना्थं कपया व्यवस्थां करोञु । पारितोषि-\nकरूपेण रतं दीनाराः यदि दीयन्ते अहं बहू\nसन्तुष्टः भवामि इति । ¦ |",
+      "line_count": 12
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "| विषये रमणः स्वयं चिन्तितवान्‌ ` धनगुप्तः",
+      "bbox": [
+        154,
+        226,
+        1096,
+        366
+      ],
+      "confidence": 50.59,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "। महान्‌ धनिकः । ग्रामीणानां तेन सह सम्बन्धः",
+      "bbox": [
+        157,
+        368,
+        1095,
+        447
+      ],
+      "confidence": 70.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "अरति एव । अतः एर तस्मै उपदेशं क्त स्वे",
+      "bbox": [
+        205,
+        460,
+        1101,
+        531
+      ],
+      "confidence": 72.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "भीताः । किन्तु धनगुप्तश्य विषये प्रतीकारः",
+      "bbox": [
+        204,
+        557,
+        1092,
+        628
+      ],
+      "confidence": 74.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "करणीयः एव *इति ।",
+      "bbox": [
+        204,
+        644,
+        578,
+        714
+      ],
+      "confidence": 73.67,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "एकदा सुदूरतः प्रामतः कथित्‌ महः परो-",
+      "bbox": [
+        285,
+        777,
+        1095,
+        852
+      ],
+      "confidence": 72.38,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "पकारिणः रमणस्य गृहम्‌ आगतवान्‌, उक्तवान्‌",
+      "bbox": [
+        201,
+        877,
+        1107,
+        949
+      ],
+      "confidence": 85.51,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "च--^*अह महटविद्यानिपृणः । एतस्मिन्‌ प्रामे",
+      "bbox": [
+        203,
+        981,
+        1099,
+        1055
+      ],
+      "confidence": 56.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "। मलविदयां प्रदस्य ॒प्रामीणान्‌ सन्तोषयामि ।",
+      "bbox": [
+        162,
+        1082,
+        1095,
+        1163
+      ],
+      "confidence": 54.63,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": " प्रामीणाः आहत्य शतं दीनारान्‌ ददतु, तेन बह",
+      "bbox": [
+        161,
+        1167,
+        1094,
+        1267
+      ],
+      "confidence": 73.61,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "| सन्तुष्टः भविष्यामि । कुपया एतदथ साटाय्य",
+      "bbox": [
+        161,
+        1281,
+        1094,
+        1383
+      ],
+      "confidence": 52.85,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "[~",
+      "bbox": [
+        161,
+        1424,
+        1114,
+        1450
+      ],
+      "confidence": 39.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "right",
+      "text": "र कृते प्रतीकार कतम्‌ एषः एव",
+      "bbox": [
+        1145,
+        226,
+        2059,
+        1441
+      ],
+      "confidence": 78.91,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "right",
+      "text": "समृचितः समयः इति रमणः चिन्तितवान्‌ ।",
+      "bbox": [
+        1175,
+        376,
+        2060,
+        446
+      ],
+      "confidence": 77.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "मं प्रति उक्तवान्‌ च-- ““एतस्मिन्‌ प्रामे धन-",
+      "bbox": [
+        1168,
+        469,
+        2059,
+        537
+      ],
+      "confidence": 77.35,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "गुप्तः नाम महान्‌ धनिकः अस्ि। सः महट-",
+      "bbox": [
+        1167,
+        562,
+        2059,
+        630
+      ],
+      "confidence": 77.64,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "विद्यां बहू आद्रियते । तस्य समीपं गत्व प्राधनां",
+      "bbox": [
+        1166,
+        650,
+        2060,
+        727
+      ],
+      "confidence": 76.99,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "करोतु । सः अवद्यं सादाघ्यं करिष्यति एव! ।",
+      "bbox": [
+        1163,
+        741,
+        2056,
+        812
+      ],
+      "confidence": 57.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "महः धनगुप्तस्य गृहं गत्वा धनगुप्तं प्राधितवान्‌",
+      "bbox": [
+        1204,
+        835,
+        2074,
+        907
+      ],
+      "confidence": 51.38,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "-गुप्तमहाशय! अहं महः । महविद्यायां भवतः",
+      "bbox": [
+        1145,
+        914,
+        2060,
+        999
+      ],
+      "confidence": 38.78,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "अतीव आदरः इति श्तवान्‌ । मम महटविद्या-",
+      "bbox": [
+        1164,
+        1024,
+        2060,
+        1091
+      ],
+      "confidence": 62.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "प्रददीना्थं कपया व्यवस्थां करोञु । पारितोषि-",
+      "bbox": [
+        1162,
+        1109,
+        2057,
+        1196
+      ],
+      "confidence": 67.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "करूपेण रतं दीनाराः यदि दीयन्ते अहं बहू",
+      "bbox": [
+        1161,
+        1206,
+        2053,
+        1284
+      ],
+      "confidence": 86.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "सन्तुष्टः भवामि इति । ¦ |",
+      "bbox": [
+        1159,
+        1284,
+        1973,
+        1367
+      ],
+      "confidence": 70.92,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "| विषये रमणः स्वयं चिन्तितवान्‌ ` धनगुप्तः\n। महान्‌ धनिकः । ग्रामीणानां तेन सह सम्बन्धः\nअरति एव । अतः एर तस्मै उपदेशं क्त स्वे\nभीताः । किन्तु धनगुप्तश्य विषये प्रतीकारः\nकरणीयः एव *इति ।\nएकदा सुदूरतः प्रामतः कथित्‌ महः परो-\nपकारिणः रमणस्य गृहम्‌ आगतवान्‌, उक्तवान्‌\nच--^*अह महटविद्यानिपृणः । एतस्मिन्‌ प्रामे\n। मलविदयां प्रदस्य ॒प्रामीणान्‌ सन्तोषयामि ।\n प्रामीणाः आहत्य शतं दीनारान्‌ ददतु, तेन बह\n| सन्तुष्टः भविष्यामि । कुपया एतदथ साटाय्य\n[~\n\nर कृते प्रतीकार कतम्‌ एषः एव\nसमृचितः समयः इति रमणः चिन्तितवान्‌ ।\nमं प्रति उक्तवान्‌ च-- ““एतस्मिन्‌ प्रामे धन-\nगुप्तः नाम महान्‌ धनिकः अस्ि। सः महट-\nविद्यां बहू आद्रियते । तस्य समीपं गत्व प्राधनां\nकरोतु । सः अवद्यं सादाघ्यं करिष्यति एव! ।\nमहः धनगुप्तस्य गृहं गत्वा धनगुप्तं प्राधितवान्‌\n-गुप्तमहाशय! अहं महः । महविद्यायां भवतः\nअतीव आदरः इति श्तवान्‌ । मम महटविद्या-\nप्रददीना्थं कपया व्यवस्थां करोञु । पारितोषि-\nकरूपेण रतं दीनाराः यदि दीयन्ते अहं बहू\nसन्तुष्टः भवामि इति । ¦ |",
+  "warnings": [
+    "Image too small to scale!! (1x36 vs min width of 3)\nLine cannot be recognized!!"
+  ],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

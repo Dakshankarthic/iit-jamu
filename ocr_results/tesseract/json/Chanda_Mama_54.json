@@ -1,0 +1,519 @@
+{
+  "page": 54,
+  "source_image": "image/Chanda_Mama_54.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        1417,
+        1075,
+        2551
+      ],
+      "text": "पूव कुम्भकः तपसा ब्रह्माण तर्पयितुं\nप्रवृत्तः आसीत्‌। सः षण्मासान्‌ भोजनम्‌. एक-\nदिनं निद्रां च वररूपेण प्राप्तुम्‌ इच्छति स्म ।\nतस्य उदेशं ज्ञात्वा स्र अपि भीताः । किन्तु\nसरस्वत्याः प्रभावतः कुम्भकणस्य प्रार्थनायां\nव्यत्यासः अभवत्‌ । सः शण्मासान्‌ निद्रा\nएकदिने यथेष्टम्‌ आहारे च अनुगृहातु' इति\nब्रह्माणं प्रीथितवान्‌ । ब्रह्मा अपि तथा एव\nअनुगृहीतवान्‌ ।\nष्मासतः पूवमेव यदि निद्रातः उत्तिष्ठति\nतहिं कुम्भकस्य शक्तिः न्यूना भवति ।\nइदानीं तु रावणः षण्मासतः पूर्वम्‌ एव युद्धाध",
+      "line_count": 12
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1109,
+        226,
+        2146,
+        2551
+      ],
+      "text": "रावणं हिततवाक्पानि उक्तवान्‌ ।\nरावणः क्रोधेन उक्तवान्‌- ““शक्यते चेत्‌\nयद्र करोत नोचेत्‌ गता तृष्णीं निद्रा\nकरोतु । उपदेशस्य आवद्यकता नास्ति इति।\nकुम्भकणेः युद्धरडगं गतवान्‌ । वानरान्‌\nगृहीत्वा खादितुम्‌ आरब्धवान्‌ । रामलक्ष्मणौ\nतेन सह अविश्रान्तं युद्धं कृतवन्तौ । रामब्राणेन\nतस्य शरीरे सम्पण रन््रमयम्‌ अमवत्‌। सः मृतः।\nइदानीं वानराणां भीतिः अपगता ।\nअनन्तरं रावणस्य ज्येषपुत्रः इन्द्रजित्‌ युद्धा-\nथम्‌ आगतवान्‌ । सः रावणस्य अपेक्षया अपि\nवीरः ।\nइन्द्रजितः विषये रावणस्य महान्‌ विश्वासः।\nसः मेवानाम्‌ अन्तः स्थिता युद्धं कठं शक्नोति\nस्म । अतः एव मेघनादः इत्यपि तस्य नाम\nआसीत्‌ । इन्द्रं जित्रा इन्द्रजित्‌ इति नाम\nप्राप्तवान्‌ । मन्त्र-तन्त्रयोः अपि सः समधः।\nब्रह मायावी अपि । ध्यः चतुददशवभपयन्तं\nब्रह्मचभत्रतम्‌ आचरति, निद्रहारं विना कटोर-\nदीक्षाम आचरति, तादृशः एव मां मारयितु\nशक्नोतु' इति सः वरं प्राप्तवान्‌ आसीत्‌ ।\nइन्द्रजित्‌ रामस्य पुरतः एव मायासीतां\nपरशुमारं मारितवान्‌ । एतत्‌ दष्ट्वा रामः\nउचैः सदितवान्‌ । एतत्‌ सर्व॑ मायाकस्पितम्‌\nइति रामाय निवेदय लक्ष्मणः घोरं युद्धं कृतवान्‌ ।",
+      "line_count": 25
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "पूव कुम्भकः तपसा ब्रह्माण तर्पयितुं",
+      "bbox": [
+        254,
+        1433,
+        1061,
+        1513
+      ],
+      "confidence": 44.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "प्रवृत्तः आसीत्‌। सः षण्मासान्‌ भोजनम्‌. एक-",
+      "bbox": [
+        176,
+        1535,
+        1060,
+        1606
+      ],
+      "confidence": 78.47,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "दिनं निद्रां च वररूपेण प्राप्तुम्‌ इच्छति स्म ।",
+      "bbox": [
+        172,
+        1627,
+        1068,
+        1696
+      ],
+      "confidence": 75.02,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "तस्य उदेशं ज्ञात्वा स्र अपि भीताः । किन्तु",
+      "bbox": [
+        177,
+        1718,
+        1057,
+        1793
+      ],
+      "confidence": 75.8,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "सरस्वत्याः प्रभावतः कुम्भकणस्य प्रार्थनायां",
+      "bbox": [
+        184,
+        1810,
+        1066,
+        1883
+      ],
+      "confidence": 77.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "व्यत्यासः अभवत्‌ । सः शण्मासान्‌ निद्रा",
+      "bbox": [
+        176,
+        1911,
+        1063,
+        1978
+      ],
+      "confidence": 71.04,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "एकदिने यथेष्टम्‌ आहारे च अनुगृहातु' इति",
+      "bbox": [
+        170,
+        2000,
+        1059,
+        2076
+      ],
+      "confidence": 47.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "ब्रह्माणं प्रीथितवान्‌ । ब्रह्मा अपि तथा एव",
+      "bbox": [
+        175,
+        2082,
+        1062,
+        2175
+      ],
+      "confidence": 74.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "अनुगृहीतवान्‌ ।",
+      "bbox": [
+        182,
+        2193,
+        490,
+        2260
+      ],
+      "confidence": 70.19,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "ष्मासतः पूवमेव यदि निद्रातः उत्तिष्ठति",
+      "bbox": [
+        252,
+        2286,
+        1063,
+        2365
+      ],
+      "confidence": 73.64,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "तहिं कुम्भकस्य शक्तिः न्यूना भवति ।",
+      "bbox": [
+        174,
+        2375,
+        1059,
+        2460
+      ],
+      "confidence": 70.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "इदानीं तु रावणः षण्मासतः पूर्वम्‌ एव युद्धाध",
+      "bbox": [
+        169,
+        2472,
+        1063,
+        2547
+      ],
+      "confidence": 67.74,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "right",
+      "text": "रावणं हिततवाक्पानि उक्तवान्‌ ।",
+      "bbox": [
+        1134,
+        226,
+        1735,
+        292
+      ],
+      "confidence": 52.07,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "right",
+      "text": "रावणः क्रोधेन उक्तवान्‌- ““शक्यते चेत्‌",
+      "bbox": [
+        1216,
+        311,
+        2026,
+        385
+      ],
+      "confidence": 82.93,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "यद्र करोत नोचेत्‌ गता तृष्णीं निद्रा",
+      "bbox": [
+        1133,
+        404,
+        2017,
+        477
+      ],
+      "confidence": 59.78,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "करोतु । उपदेशस्य आवद्यकता नास्ति इति।",
+      "bbox": [
+        1131,
+        493,
+        2017,
+        566
+      ],
+      "confidence": 63.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "कुम्भकणेः युद्धरडगं गतवान्‌ । वानरान्‌",
+      "bbox": [
+        1214,
+        600,
+        2022,
+        677
+      ],
+      "confidence": 68.36,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "गृहीत्वा खादितुम्‌ आरब्धवान्‌ । रामलक्ष्मणौ",
+      "bbox": [
+        1128,
+        691,
+        2015,
+        771
+      ],
+      "confidence": 57.19,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "तेन सह अविश्रान्तं युद्धं कृतवन्तौ । रामब्राणेन",
+      "bbox": [
+        1128,
+        784,
+        2016,
+        857
+      ],
+      "confidence": 80.21,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "तस्य शरीरे सम्पण रन््रमयम्‌ अमवत्‌। सः मृतः।",
+      "bbox": [
+        1126,
+        879,
+        2027,
+        957
+      ],
+      "confidence": 70.92,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "इदानीं वानराणां भीतिः अपगता ।",
+      "bbox": [
+        1126,
+        976,
+        1788,
+        1037
+      ],
+      "confidence": 91.65,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "अनन्तरं रावणस्य ज्येषपुत्रः इन्द्रजित्‌ युद्धा-",
+      "bbox": [
+        1208,
+        1062,
+        2018,
+        1145
+      ],
+      "confidence": 64.43,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "थम्‌ आगतवान्‌ । सः रावणस्य अपेक्षया अपि",
+      "bbox": [
+        1124,
+        1157,
+        2012,
+        1231
+      ],
+      "confidence": 90.54,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "वीरः ।",
+      "bbox": [
+        1124,
+        1258,
+        1259,
+        1314
+      ],
+      "confidence": 90.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "इन्द्रजितः विषये रावणस्य महान्‌ विश्वासः।",
+      "bbox": [
+        1208,
+        1344,
+        2012,
+        1414
+      ],
+      "confidence": 92.23,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "सः मेवानाम्‌ अन्तः स्थिता युद्धं कठं शक्नोति",
+      "bbox": [
+        1123,
+        1436,
+        2019,
+        1515
+      ],
+      "confidence": 78.7,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "स्म । अतः एव मेघनादः इत्यपि तस्य नाम",
+      "bbox": [
+        1134,
+        1534,
+        2012,
+        1599
+      ],
+      "confidence": 79.75,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "आसीत्‌ । इन्द्रं जित्रा इन्द्रजित्‌ इति नाम",
+      "bbox": [
+        1135,
+        1617,
+        2016,
+        1698
+      ],
+      "confidence": 83.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "प्राप्तवान्‌ । मन्त्र-तन्त्रयोः अपि सः समधः।",
+      "bbox": [
+        1138,
+        1716,
+        2006,
+        1782
+      ],
+      "confidence": 76.18,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "ब्रह मायावी अपि । ध्यः चतुददशवभपयन्तं",
+      "bbox": [
+        1130,
+        1809,
+        2009,
+        1888
+      ],
+      "confidence": 44.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "ब्रह्मचभत्रतम्‌ आचरति, निद्रहारं विना कटोर-",
+      "bbox": [
+        1129,
+        1904,
+        2009,
+        1980
+      ],
+      "confidence": 64.47,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "दीक्षाम आचरति, तादृशः एव मां मारयितु",
+      "bbox": [
+        1126,
+        1997,
+        2009,
+        2069
+      ],
+      "confidence": 66.19,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "शक्नोतु' इति सः वरं प्राप्तवान्‌ आसीत्‌ ।",
+      "bbox": [
+        1126,
+        2091,
+        2001,
+        2165
+      ],
+      "confidence": 89.94,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "इन्द्रजित्‌ रामस्य पुरतः एव मायासीतां",
+      "bbox": [
+        1211,
+        2199,
+        2003,
+        2268
+      ],
+      "confidence": 68.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "परशुमारं मारितवान्‌ । एतत्‌ दष्ट्वा रामः",
+      "bbox": [
+        1124,
+        2283,
+        2003,
+        2369
+      ],
+      "confidence": 69.93,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 36,
+      "column": "right",
+      "text": "उचैः सदितवान्‌ । एतत्‌ सर्व॑ मायाकस्पितम्‌",
+      "bbox": [
+        1125,
+        2380,
+        2014,
+        2455
+      ],
+      "confidence": 59.65,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 37,
+      "column": "right",
+      "text": "इति रामाय निवेदय लक्ष्मणः घोरं युद्धं कृतवान्‌ ।",
+      "bbox": [
+        1125,
+        2476,
+        2007,
+        2551
+      ],
+      "confidence": 80.9,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "पूव कुम्भकः तपसा ब्रह्माण तर्पयितुं\nप्रवृत्तः आसीत्‌। सः षण्मासान्‌ भोजनम्‌. एक-\nदिनं निद्रां च वररूपेण प्राप्तुम्‌ इच्छति स्म ।\nतस्य उदेशं ज्ञात्वा स्र अपि भीताः । किन्तु\nसरस्वत्याः प्रभावतः कुम्भकणस्य प्रार्थनायां\nव्यत्यासः अभवत्‌ । सः शण्मासान्‌ निद्रा\nएकदिने यथेष्टम्‌ आहारे च अनुगृहातु' इति\nब्रह्माणं प्रीथितवान्‌ । ब्रह्मा अपि तथा एव\nअनुगृहीतवान्‌ ।\nष्मासतः पूवमेव यदि निद्रातः उत्तिष्ठति\nतहिं कुम्भकस्य शक्तिः न्यूना भवति ।\nइदानीं तु रावणः षण्मासतः पूर्वम्‌ एव युद्धाध\n\nरावणं हिततवाक्पानि उक्तवान्‌ ।\nरावणः क्रोधेन उक्तवान्‌- ““शक्यते चेत्‌\nयद्र करोत नोचेत्‌ गता तृष्णीं निद्रा\nकरोतु । उपदेशस्य आवद्यकता नास्ति इति।\nकुम्भकणेः युद्धरडगं गतवान्‌ । वानरान्‌\nगृहीत्वा खादितुम्‌ आरब्धवान्‌ । रामलक्ष्मणौ\nतेन सह अविश्रान्तं युद्धं कृतवन्तौ । रामब्राणेन\nतस्य शरीरे सम्पण रन््रमयम्‌ अमवत्‌। सः मृतः।\nइदानीं वानराणां भीतिः अपगता ।\nअनन्तरं रावणस्य ज्येषपुत्रः इन्द्रजित्‌ युद्धा-\nथम्‌ आगतवान्‌ । सः रावणस्य अपेक्षया अपि\nवीरः ।\nइन्द्रजितः विषये रावणस्य महान्‌ विश्वासः।\nसः मेवानाम्‌ अन्तः स्थिता युद्धं कठं शक्नोति\nस्म । अतः एव मेघनादः इत्यपि तस्य नाम\nआसीत्‌ । इन्द्रं जित्रा इन्द्रजित्‌ इति नाम\nप्राप्तवान्‌ । मन्त्र-तन्त्रयोः अपि सः समधः।\nब्रह मायावी अपि । ध्यः चतुददशवभपयन्तं\nब्रह्मचभत्रतम्‌ आचरति, निद्रहारं विना कटोर-\nदीक्षाम आचरति, तादृशः एव मां मारयितु\nशक्नोतु' इति सः वरं प्राप्तवान्‌ आसीत्‌ ।\nइन्द्रजित्‌ रामस्य पुरतः एव मायासीतां\nपरशुमारं मारितवान्‌ । एतत्‌ दष्ट्वा रामः\nउचैः सदितवान्‌ । एतत्‌ सर्व॑ मायाकस्पितम्‌\nइति रामाय निवेदय लक्ष्मणः घोरं युद्धं कृतवान्‌ ।",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

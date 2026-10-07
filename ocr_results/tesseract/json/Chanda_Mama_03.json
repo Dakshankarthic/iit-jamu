@@ -1,0 +1,339 @@
+{
+  "page": 3,
+  "source_image": "image/Chanda_Mama_03.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "eng+san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 3,
+  "reading_order": "Tesseract automatic page layout",
+  "blocks": [
+    {
+      "column": "page",
+      "bbox": [
+        0,
+        0,
+        2271,
+        2835
+      ],
+      "text": "yn Ey\n= डा करणसिंह महोदयेन प्रेषितः सन्देशः\nPhone : 616067\nVirat Hindu Samaj\nRamayan Vidyapeeth, 16, Institutional Ares, Lodhi Road, New Delhi-110003.\nFounder President\nOr. Karan Singh Deted 23.35.1984\nMP,\nदः dear Shri Reddi,\nMany thanks for your letter of 13 March\nsending me a set of the March issues of Chandamama\nin various languages. I must congratulate you\nfor this excellent venture, particularly for\nyour decision to bring out an edition in Sanskrit.\nSanskrit has played a fundamental role in moulding\nour culture down through the millenia and I\nwarmly commend your initiative in this matter.\nWith good wishes, |\nYours sincerely,\n+\nShri B. Viswanatha Reddi\nChandamama Publications\nVadapalani\nMadras 600026",
+      "line_count": 24
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "page",
+      "text": "yn Ey",
+      "bbox": [
+        0,
+        2529,
+        35,
+        2835
+      ],
+      "confidence": 16.11,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "page",
+      "text": "= डा करणसिंह महोदयेन प्रेषितः सन्देशः",
+      "bbox": [
+        180,
+        106,
+        2023,
+        2310
+      ],
+      "confidence": 90.16,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "page",
+      "text": "Phone : 616067",
+      "bbox": [
+        1719,
+        881,
+        1997,
+        915
+      ],
+      "confidence": 94.64,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "page",
+      "text": "Virat Hindu Samaj",
+      "bbox": [
+        678,
+        941,
+        1557,
+        1031
+      ],
+      "confidence": 95.02,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "page",
+      "text": "Ramayan Vidyapeeth, 16, Institutional Ares, Lodhi Road, New Delhi-110003.",
+      "bbox": [
+        439,
+        1042,
+        1802,
+        1077
+      ],
+      "confidence": 73.43,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "page",
+      "text": "Founder President",
+      "bbox": [
+        276,
+        1116,
+        536,
+        1143
+      ],
+      "confidence": 60.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "page",
+      "text": "Or. Karan Singh Deted 23.35.1984",
+      "bbox": [
+        252,
+        1159,
+        1913,
+        1201
+      ],
+      "confidence": 75.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "page",
+      "text": "MP,",
+      "bbox": [
+        484,
+        1207,
+        550,
+        1233
+      ],
+      "confidence": 17.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "page",
+      "text": "दः dear Shri Reddi,",
+      "bbox": [
+        184,
+        1438,
+        2011,
+        2730
+      ],
+      "confidence": 87.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "page",
+      "text": "Many thanks for your letter of 13 March",
+      "bbox": [
+        474,
+        1606,
+        1819,
+        1664
+      ],
+      "confidence": 96.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "page",
+      "text": "sending me a set of the March issues of Chandamama",
+      "bbox": [
+        274,
+        1663,
+        1993,
+        1719
+      ],
+      "confidence": 94.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "page",
+      "text": "in various languages. I must congratulate you",
+      "bbox": [
+        273,
+        1720,
+        1857,
+        1773
+      ],
+      "confidence": 95.9,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "page",
+      "text": "for this excellent venture, particularly for",
+      "bbox": [
+        277,
+        1774,
+        1782,
+        1827
+      ],
+      "confidence": 96.25,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "page",
+      "text": "your decision to bring out an edition in Sanskrit.",
+      "bbox": [
+        273,
+        1831,
+        1982,
+        1889
+      ],
+      "confidence": 96.44,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "page",
+      "text": "Sanskrit has played a fundamental role in moulding",
+      "bbox": [
+        272,
+        1886,
+        1990,
+        1946
+      ],
+      "confidence": 96.3,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "page",
+      "text": "our culture down through the millenia and I",
+      "bbox": [
+        275,
+        1944,
+        1747,
+        1996
+      ],
+      "confidence": 96.14,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "page",
+      "text": "warmly commend your initiative in this matter.",
+      "bbox": [
+        272,
+        2002,
+        1846,
+        2055
+      ],
+      "confidence": 95.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "page",
+      "text": "With good wishes, |",
+      "bbox": [
+        443,
+        2110,
+        1059,
+        2169
+      ],
+      "confidence": 94.67,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "page",
+      "text": "Yours sincerely,",
+      "bbox": [
+        1203,
+        2223,
+        1745,
+        2275
+      ],
+      "confidence": 96.38,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "page",
+      "text": "+",
+      "bbox": [
+        1393,
+        2272,
+        2049,
+        2594
+      ],
+      "confidence": 55.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "page",
+      "text": "Shri B. Viswanatha Reddi",
+      "bbox": [
+        262,
+        2452,
+        1002,
+        2495
+      ],
+      "confidence": 91.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "page",
+      "text": "Chandamama Publications",
+      "bbox": [
+        263,
+        2505,
+        971,
+        2550
+      ],
+      "confidence": 93.65,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "page",
+      "text": "Vadapalani",
+      "bbox": [
+        260,
+        2557,
+        569,
+        2603
+      ],
+      "confidence": 91.47,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "page",
+      "text": "Madras 600026",
+      "bbox": [
+        261,
+        2604,
+        662,
+        2648
+      ],
+      "confidence": 96.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "yn Ey\n= डा करणसिंह महोदयेन प्रेषितः सन्देशः\nPhone : 616067\nVirat Hindu Samaj\nRamayan Vidyapeeth, 16, Institutional Ares, Lodhi Road, New Delhi-110003.\nFounder President\nOr. Karan Singh Deted 23.35.1984\nMP,\nदः dear Shri Reddi,\nMany thanks for your letter of 13 March\nsending me a set of the March issues of Chandamama\nin various languages. I must congratulate you\nfor this excellent venture, particularly for\nyour decision to bring out an edition in Sanskrit.\nSanskrit has played a fundamental role in moulding\nour culture down through the millenia and I\nwarmly commend your initiative in this matter.\nWith good wishes, |\nYours sincerely,\n+\nShri B. Viswanatha Reddi\nChandamama Publications\nVadapalani\nMadras 600026",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

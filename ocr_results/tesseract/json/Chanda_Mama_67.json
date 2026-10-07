@@ -1,0 +1,313 @@
+{
+  "page": 67,
+  "source_image": "image/Chanda_Mama_67.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 3,
+  "reading_order": "Tesseract automatic page layout",
+  "blocks": [
+    {
+      "column": "page",
+      "bbox": [
+        0,
+        0,
+        2271,
+        2835
+      ],
+      "text": "भः\n2 द्ध\n९९\n© मनोरञ्जनार्थं “तथाः\nपलाना पलास ला सता लक ष्ितर\nपिको\nॐोनात्टः\n॥ 2 ~ न 1 |\n| १ ,\n|\nउटरोपपीडं हासार्थ्‌ पठन्तु ।\n<->\n~=\n|;\n||\n१. ~ म्र\n> `\n॥ ९\n(र.\n\"ट\nह\n| /1|\\ {| | 1",
+      "line_count": 22
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "page",
+      "text": "भः",
+      "bbox": [
+        0,
+        109,
+        39,
+        153
+      ],
+      "confidence": 62.61,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "page",
+      "text": "2 द्ध",
+      "bbox": [
+        678,
+        637,
+        1121,
+        945
+      ],
+      "confidence": 26.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "page",
+      "text": "९९",
+      "bbox": [
+        1321,
+        1083,
+        1584,
+        1306
+      ],
+      "confidence": 47.16,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "page",
+      "text": "© मनोरञ्जनार्थं “तथाः",
+      "bbox": [
+        195,
+        1280,
+        1522,
+        1463
+      ],
+      "confidence": 35.33,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "page",
+      "text": "पलाना पलास ला सता लक ष्ितर",
+      "bbox": [
+        0,
+        170,
+        37,
+        1145
+      ],
+      "confidence": 20.35,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "page",
+      "text": "पिको",
+      "bbox": [
+        581,
+        1582,
+        1571,
+        1915
+      ],
+      "confidence": 42.07,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "page",
+      "text": "ॐोनात्टः",
+      "bbox": [
+        604,
+        1910,
+        1684,
+        2342
+      ],
+      "confidence": 5.51,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "page",
+      "text": "॥ 2 ~ न 1 |",
+      "bbox": [
+        0,
+        2315,
+        34,
+        2835
+      ],
+      "confidence": 34.75,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "page",
+      "text": "| १ ,",
+      "bbox": [
+        28,
+        2308,
+        42,
+        2835
+      ],
+      "confidence": 28.21,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "page",
+      "text": "|",
+      "bbox": [
+        144,
+        2309,
+        153,
+        2312
+      ],
+      "confidence": 80.67,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "page",
+      "text": "उटरोपपीडं हासार्थ्‌ पठन्तु ।",
+      "bbox": [
+        527,
+        1440,
+        1716,
+        1582
+      ],
+      "confidence": 57.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "page",
+      "text": "<->",
+      "bbox": [
+        1969,
+        1880,
+        2042,
+        1908
+      ],
+      "confidence": 0.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "page",
+      "text": "~=",
+      "bbox": [
+        1982,
+        1905,
+        2041,
+        1920
+      ],
+      "confidence": 0.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "page",
+      "text": "|;",
+      "bbox": [
+        2009,
+        1921,
+        2019,
+        1932
+      ],
+      "confidence": 55.14,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "page",
+      "text": "||",
+      "bbox": [
+        2042,
+        2094,
+        2044,
+        2105
+      ],
+      "confidence": 69.12,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "page",
+      "text": "१. ~ म्र",
+      "bbox": [
+        1944,
+        2118,
+        2044,
+        2153
+      ],
+      "confidence": 43.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "page",
+      "text": "> `",
+      "bbox": [
+        1943,
+        2146,
+        2029,
+        2162
+      ],
+      "confidence": 11.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "page",
+      "text": "॥ ९",
+      "bbox": [
+        1937,
+        2179,
+        2045,
+        2243
+      ],
+      "confidence": 12.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "page",
+      "text": "(र.",
+      "bbox": [
+        1970,
+        2200,
+        2036,
+        2220
+      ],
+      "confidence": 30.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "page",
+      "text": "\"ट",
+      "bbox": [
+        1978,
+        2218,
+        2021,
+        2235
+      ],
+      "confidence": 32.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "page",
+      "text": "ह",
+      "bbox": [
+        2032,
+        2254,
+        2045,
+        2266
+      ],
+      "confidence": 48.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "page",
+      "text": "| /1|\\ {| | 1",
+      "bbox": [
+        2184,
+        1625,
+        2271,
+        2835
+      ],
+      "confidence": 17.64,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "भः\n2 द्ध\n९९\n© मनोरञ्जनार्थं “तथाः\nपलाना पलास ला सता लक ष्ितर\nपिको\nॐोनात्टः\n॥ 2 ~ न 1 |\n| १ ,\n|\nउटरोपपीडं हासार्थ्‌ पठन्तु ।\n<->\n~=\n|;\n||\n१. ~ म्र\n> `\n॥ ९\n(र.\n\"ट\nह\n| /1|\\ {| | 1",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

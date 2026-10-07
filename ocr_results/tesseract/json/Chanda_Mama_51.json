@@ -1,0 +1,376 @@
+{
+  "page": 51,
+  "source_image": "image/Chanda_Mama_51.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        1304,
+        1175,
+        2523
+      ],
+      "text": "विभीषणः यथा हितेवाक्यानि उक्तवान्‌\nतथा मण्डोदरी अपि रावणं हितवाक्यानि उक्तवती-\n“नाथ ! पूत रामर्क््मणौ शपंणखां तिरस्कृत\nबन्तौ | तस्याः नासिकाच्छेदनं कृतवन्तौ । तदा\nसा तत्‌ अवमानं न सोढवती । यदा सीता\nएकाकिनी असहाया च आसीत्‌ तदा भवान्‌\nतां चोर्यरूपेण आनीतवान्‌ किल ! तत्‌ अव-\nमाननं सीता सहेत वा १ शर्पणखा-ख्रकीय-\nअवमान्य प्रतीकारा्थ सीताम्‌ आनयतु इति\nभवन्तं सूचितवती । तथैव सीता अपि स्वाव-\nमाननस्य प्रतीकारं कतु न चिन्तयति किम्‌ ?\nएतत्‌ भवता चिन्तनीयम्‌ । शुपणखा इव सीता\nअपि स्री किट! इति।",
+      "line_count": 13
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1204,
+        1304,
+        2146,
+        2523
+      ],
+      "text": "तदा रावणः उक्तवान्‌-“अम्‌, मण्डोदरि'\nतत्‌ सवै सत्यम्‌, अङ्मीकरोमि । परन्तु यत्कि-\nमपि भवतु ,रावणः कदा अपि अन्येभ्यः मीतः\nन भवति । भवती रावणस्य पत्नी इति स्मरतु\nमां मा भापयतु। सः रामः किं करोति? इति\nअहम्‌ अपि पदयामि' इति।\nसर्वे अपि वानराः रामसमीपम्‌ आगताः ।\nमहत्‌ सेन्यं सिद्धम्‌ ।सुप्रीवः, नीलः) अङ्गदः,\nसुषेणः, जाम्बवान्‌ इत्यादयः प्रमुखाः सैन्यस्य\nनायकाः भूरा रामं परितः स्थितवन्तः ।\nआज्ञनेयः रामस्य मुख्यः सहायः अभवत्‌ ।\nरामलक्ष्मणयोः अङ्गरक्षकः अपि सः ए ।\nएवं ्ड्कनगरं प्रति आक्रमणम्‌ आरब्धम्‌ |",
+      "line_count": 13
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "विभीषणः यथा हितेवाक्यानि उक्तवान्‌",
+      "bbox": [
+        347,
+        1318,
+        1169,
+        1390
+      ],
+      "confidence": 73.24,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "तथा मण्डोदरी अपि रावणं हितवाक्यानि उक्तवती-",
+      "bbox": [
+        258,
+        1412,
+        1175,
+        1479
+      ],
+      "confidence": 72.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "“नाथ ! पूत रामर्क््मणौ शपंणखां तिरस्कृत",
+      "bbox": [
+        264,
+        1503,
+        1157,
+        1585
+      ],
+      "confidence": 25.94,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "बन्तौ | तस्याः नासिकाच्छेदनं कृतवन्तौ । तदा",
+      "bbox": [
+        260,
+        1592,
+        1158,
+        1669
+      ],
+      "confidence": 85.47,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "सा तत्‌ अवमानं न सोढवती । यदा सीता",
+      "bbox": [
+        262,
+        1696,
+        1158,
+        1776
+      ],
+      "confidence": 72.29,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "एकाकिनी असहाया च आसीत्‌ तदा भवान्‌",
+      "bbox": [
+        264,
+        1794,
+        1167,
+        1866
+      ],
+      "confidence": 88.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "तां चोर्यरूपेण आनीतवान्‌ किल ! तत्‌ अव-",
+      "bbox": [
+        263,
+        1880,
+        1154,
+        1960
+      ],
+      "confidence": 75.89,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "माननं सीता सहेत वा १ शर्पणखा-ख्रकीय-",
+      "bbox": [
+        263,
+        1968,
+        1155,
+        2048
+      ],
+      "confidence": 62.38,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "अवमान्य प्रतीकारा्थ सीताम्‌ आनयतु इति",
+      "bbox": [
+        265,
+        2065,
+        1159,
+        2146
+      ],
+      "confidence": 68.33,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "भवन्तं सूचितवती । तथैव सीता अपि स्वाव-",
+      "bbox": [
+        266,
+        2164,
+        1155,
+        2241
+      ],
+      "confidence": 92.08,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "माननस्य प्रतीकारं कतु न चिन्तयति किम्‌ ?",
+      "bbox": [
+        266,
+        2251,
+        1152,
+        2333
+      ],
+      "confidence": 90.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "एतत्‌ भवता चिन्तनीयम्‌ । शुपणखा इव सीता",
+      "bbox": [
+        266,
+        2348,
+        1158,
+        2427
+      ],
+      "confidence": 80.8,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "अपि स्री किट! इति।",
+      "bbox": [
+        267,
+        2448,
+        731,
+        2512
+      ],
+      "confidence": 56.26,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "right",
+      "text": "तदा रावणः उक्तवान्‌-“अम्‌, मण्डोदरि'",
+      "bbox": [
+        1323,
+        1316,
+        2112,
+        1390
+      ],
+      "confidence": 68.7,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "तत्‌ सवै सत्यम्‌, अङ्मीकरोमि । परन्तु यत्कि-",
+      "bbox": [
+        1225,
+        1410,
+        2122,
+        1489
+      ],
+      "confidence": 70.43,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "मपि भवतु ,रावणः कदा अपि अन्येभ्यः मीतः",
+      "bbox": [
+        1224,
+        1498,
+        2118,
+        1592
+      ],
+      "confidence": 79.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "न भवति । भवती रावणस्य पत्नी इति स्मरतु",
+      "bbox": [
+        1223,
+        1603,
+        2117,
+        1669
+      ],
+      "confidence": 88.75,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "मां मा भापयतु। सः रामः किं करोति? इति",
+      "bbox": [
+        1222,
+        1693,
+        2122,
+        1765
+      ],
+      "confidence": 77.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "अहम्‌ अपि पदयामि' इति।",
+      "bbox": [
+        1222,
+        1791,
+        1760,
+        1858
+      ],
+      "confidence": 83.65,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "सर्वे अपि वानराः रामसमीपम्‌ आगताः ।",
+      "bbox": [
+        1306,
+        1884,
+        2105,
+        1948
+      ],
+      "confidence": 88.99,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "महत्‌ सेन्यं सिद्धम्‌ ।सुप्रीवः, नीलः) अङ्गदः,",
+      "bbox": [
+        1221,
+        1975,
+        2108,
+        2050
+      ],
+      "confidence": 60.24,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "सुषेणः, जाम्बवान्‌ इत्यादयः प्रमुखाः सैन्यस्य",
+      "bbox": [
+        1222,
+        2066,
+        2118,
+        2140
+      ],
+      "confidence": 78.97,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "नायकाः भूरा रामं परितः स्थितवन्तः ।",
+      "bbox": [
+        1221,
+        2164,
+        2115,
+        2240
+      ],
+      "confidence": 79.42,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "आज्ञनेयः रामस्य मुख्यः सहायः अभवत्‌ ।",
+      "bbox": [
+        1221,
+        2258,
+        2113,
+        2325
+      ],
+      "confidence": 75.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "रामलक्ष्मणयोः अङ्गरक्षकः अपि सः ए ।",
+      "bbox": [
+        1222,
+        2350,
+        2113,
+        2427
+      ],
+      "confidence": 78.03,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "एवं ्ड्कनगरं प्रति आक्रमणम्‌ आरब्धम्‌ |",
+      "bbox": [
+        1221,
+        2441,
+        2110,
+        2519
+      ],
+      "confidence": 67.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "विभीषणः यथा हितेवाक्यानि उक्तवान्‌\nतथा मण्डोदरी अपि रावणं हितवाक्यानि उक्तवती-\n“नाथ ! पूत रामर्क््मणौ शपंणखां तिरस्कृत\nबन्तौ | तस्याः नासिकाच्छेदनं कृतवन्तौ । तदा\nसा तत्‌ अवमानं न सोढवती । यदा सीता\nएकाकिनी असहाया च आसीत्‌ तदा भवान्‌\nतां चोर्यरूपेण आनीतवान्‌ किल ! तत्‌ अव-\nमाननं सीता सहेत वा १ शर्पणखा-ख्रकीय-\nअवमान्य प्रतीकारा्थ सीताम्‌ आनयतु इति\nभवन्तं सूचितवती । तथैव सीता अपि स्वाव-\nमाननस्य प्रतीकारं कतु न चिन्तयति किम्‌ ?\nएतत्‌ भवता चिन्तनीयम्‌ । शुपणखा इव सीता\nअपि स्री किट! इति।\n\nतदा रावणः उक्तवान्‌-“अम्‌, मण्डोदरि'\nतत्‌ सवै सत्यम्‌, अङ्मीकरोमि । परन्तु यत्कि-\nमपि भवतु ,रावणः कदा अपि अन्येभ्यः मीतः\nन भवति । भवती रावणस्य पत्नी इति स्मरतु\nमां मा भापयतु। सः रामः किं करोति? इति\nअहम्‌ अपि पदयामि' इति।\nसर्वे अपि वानराः रामसमीपम्‌ आगताः ।\nमहत्‌ सेन्यं सिद्धम्‌ ।सुप्रीवः, नीलः) अङ्गदः,\nसुषेणः, जाम्बवान्‌ इत्यादयः प्रमुखाः सैन्यस्य\nनायकाः भूरा रामं परितः स्थितवन्तः ।\nआज्ञनेयः रामस्य मुख्यः सहायः अभवत्‌ ।\nरामलक्ष्मणयोः अङ्गरक्षकः अपि सः ए ।\nएवं ्ड्कनगरं प्रति आक्रमणम्‌ आरब्धम्‌ |",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

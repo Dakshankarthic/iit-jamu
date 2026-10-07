@@ -1,0 +1,341 @@
+{
+  "page": 64,
+  "source_image": "image/Chanda_Mama_64.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 3,
+  "reading_order": "Tesseract automatic page layout",
+  "blocks": [
+    {
+      "column": "page",
+      "bbox": [
+        0,
+        0,
+        2271,
+        2835
+      ],
+      "text": "~~~\nचित्र्रीर्षिका -स्पधौ पारितोषिकं ८५० रूप्यकाणि ।\nविजितां शीर्षिकां १९.८४ जुटैमासस्य सञ्चिकायां प्रकटविष्यामः ।\n@\n4 ~\n=. -\n८\n# उपरितनं चन्यं परथन्तु । तस्य युक्तां शीषिकाम्‌ एकेन वाक्येन वा, परस्पर-सम्बन्धि- ।\nवाक्यद्वयेन वा शिचा प्रेषयन्तु । मे २० दिनाङ्कतः पूर्वम्‌ एव शीषिकाः व्रेषयन्तु । `\nअनन्तरम्‌ आगताः शीरषिकाः न परिश्ीट्यामः। # शीर्षिकासु अस्माभिः निर्णीतस्य\nअत्यत्तमस्य शीर्षिका-युगटस्य ५० रूप्यकात्मकं पारितोषिकम्‌ ¡ # शीर्षिका: समपत्रे (पोर्ट\nकाई) ठेखनीयाः । तत्र अन्यः विषयः न टेखनीयः । *# अधोनि्दिष्टसङ्केतस्य कृते\nशीषिकाः व्रेषणीयाः-- चन्दमामा (सृतम्‌) ७३/२ अक्षरम्‌” रङ्गरावमार शङ्करपुरम्‌,\n१५६०००9\n[संरंकृत-चन्दमामायाः सम्पादनसम्बन्धे अपि सम्पर्क-सङ्केतः उपरितनः एव। प्राहकुल्वो\nछ मद्रास-सङ्केतस्य कृते एव प्रेषणीयम्‌ |\nए1०1€व ९४ 8. #. २२८77 2 7358 ९१०८८55 एा५३१८ 1.19. 874 एणणां7व ४४ 8. (15 ५/4 ^^\nरि लिप (^ 01444 (पा रवऽ रत द्वि (एष्. ज (03042873713 ए५४1८8{10715)\n188, , 760६ २०३५.  2120735-600 026 = (1742).  (गप्प्ठा0& पताल; पि^+जा रला.\n110€ 5107165, 2111८185 37५ ५६515 ०07131१९ ॥€1€1 ठ27€ ९१६९।४७।५९ 010961१ ०५१ ए॥€ ९५०।।५॥१€१5 ३५\n४००४179 91 80091179 (#&€ा). 1१ 3१४ 17) 30761 ५४।।। 9€ ५९ 8।५ १८११) ३6५०५179 १० ३५५.\n41 13.\n॥\nन ~",
+      "line_count": 24
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "page",
+      "text": "~~~",
+      "bbox": [
+        2107,
+        105,
+        2114,
+        140
+      ],
+      "confidence": 63.4,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "page",
+      "text": "चित्र्रीर्षिका -स्पधौ पारितोषिकं ८५० रूप्यकाणि ।",
+      "bbox": [
+        189,
+        46,
+        1981,
+        186
+      ],
+      "confidence": 59.07,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "page",
+      "text": "विजितां शीर्षिकां १९.८४ जुटैमासस्य सञ्चिकायां प्रकटविष्यामः ।",
+      "bbox": [
+        421,
+        180,
+        1766,
+        256
+      ],
+      "confidence": 42.63,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "page",
+      "text": "@",
+      "bbox": [
+        889,
+        285,
+        919,
+        318
+      ],
+      "confidence": 0.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "page",
+      "text": "4 ~",
+      "bbox": [
+        851,
+        325,
+        974,
+        360
+      ],
+      "confidence": 48.7,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "page",
+      "text": "=. -",
+      "bbox": [
+        859,
+        353,
+        916,
+        367
+      ],
+      "confidence": 17.74,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "page",
+      "text": "८",
+      "bbox": [
+        890,
+        375,
+        902,
+        387
+      ],
+      "confidence": 36.38,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "page",
+      "text": "# उपरितनं चन्यं परथन्तु । तस्य युक्तां शीषिकाम्‌ एकेन वाक्येन वा, परस्पर-सम्बन्धि- ।",
+      "bbox": [
+        155,
+        1150,
+        2108,
+        1248
+      ],
+      "confidence": 64.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "page",
+      "text": "वाक्यद्वयेन वा शिचा प्रेषयन्तु । मे २० दिनाङ्कतः पूर्वम्‌ एव शीषिकाः व्रेषयन्तु । `",
+      "bbox": [
+        155,
+        1248,
+        2108,
+        1347
+      ],
+      "confidence": 70.34,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "page",
+      "text": "अनन्तरम्‌ आगताः शीरषिकाः न परिश्ीट्यामः। # शीर्षिकासु अस्माभिः निर्णीतस्य",
+      "bbox": [
+        154,
+        1349,
+        2013,
+        1436
+      ],
+      "confidence": 67.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "page",
+      "text": "अत्यत्तमस्य शीर्षिका-युगटस्य ५० रूप्यकात्मकं पारितोषिकम्‌ ¡ # शीर्षिका: समपत्रे (पोर्ट",
+      "bbox": [
+        156,
+        1446,
+        2011,
+        1538
+      ],
+      "confidence": 56.87,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "page",
+      "text": "काई) ठेखनीयाः । तत्र अन्यः विषयः न टेखनीयः । *# अधोनि्दिष्टसङ्केतस्य कृते",
+      "bbox": [
+        151,
+        1538,
+        2010,
+        1635
+      ],
+      "confidence": 52.56,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "page",
+      "text": "शीषिकाः व्रेषणीयाः-- चन्दमामा (सृतम्‌) ७३/२ अक्षरम्‌” रङ्गरावमार शङ्करपुरम्‌,",
+      "bbox": [
+        151,
+        1637,
+        2009,
+        1741
+      ],
+      "confidence": 57.21,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "page",
+      "text": "१५६०००9",
+      "bbox": [
+        1110,
+        1743,
+        1365,
+        1798
+      ],
+      "confidence": 55.36,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "page",
+      "text": "[संरंकृत-चन्दमामायाः सम्पादनसम्बन्धे अपि सम्पर्क-सङ्केतः उपरितनः एव। प्राहकुल्वो",
+      "bbox": [
+        260,
+        1803,
+        2044,
+        1886
+      ],
+      "confidence": 52.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "page",
+      "text": "छ मद्रास-सङ्केतस्य कृते एव प्रेषणीयम्‌ |",
+      "bbox": [
+        247,
+        1875,
+        1074,
+        1964
+      ],
+      "confidence": 63.55,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "page",
+      "text": "ए1०1€व ९४ 8. #. २२८77 2 7358 ९१०८८55 एा५३१८ 1.19. 874 एणणां7व ४४ 8. (15 ५/4 ^^",
+      "bbox": [
+        176,
+        2601,
+        1962,
+        2648
+      ],
+      "confidence": 38.37,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "page",
+      "text": "रि लिप (^ 01444 (पा रवऽ रत द्वि (एष्. ज (03042873713 ए५४1८8{10715)",
+      "bbox": [
+        177,
+        2653,
+        1965,
+        2692
+      ],
+      "confidence": 25.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "page",
+      "text": "188, , 760६ २०३५.  2120735-600 026 = (1742).  (गप्प्ठा0& पताल; पि^+जा रला.",
+      "bbox": [
+        181,
+        2694,
+        1963,
+        2741
+      ],
+      "confidence": 35.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "page",
+      "text": "110€ 5107165, 2111८185 37५ ५६515 ०07131१९ ॥€1€1 ठ27€ ९१६९।४७।५९ 010961१ ०५१ ए॥€ ९५०।।५॥१€१5 ३५",
+      "bbox": [
+        177,
+        2752,
+        1948,
+        2792
+      ],
+      "confidence": 35.39,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "page",
+      "text": "४००४179 91 80091179 (#&€ा). 1१ 3१४ 17) 30761 ५४।।। 9€ ५९ 8।५ १८११) ३6५०५179 १० ३५५.",
+      "bbox": [
+        182,
+        2795,
+        1634,
+        2835
+      ],
+      "confidence": 32.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "page",
+      "text": "41 13.",
+      "bbox": [
+        2247,
+        5,
+        2271,
+        137
+      ],
+      "confidence": 38.71,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "page",
+      "text": "॥",
+      "bbox": [
+        2250,
+        209,
+        2253,
+        212
+      ],
+      "confidence": 0.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "page",
+      "text": "न ~",
+      "bbox": [
+        2253,
+        235,
+        2271,
+        271
+      ],
+      "confidence": 28.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "~~~\nचित्र्रीर्षिका -स्पधौ पारितोषिकं ८५० रूप्यकाणि ।\nविजितां शीर्षिकां १९.८४ जुटैमासस्य सञ्चिकायां प्रकटविष्यामः ।\n@\n4 ~\n=. -\n८\n# उपरितनं चन्यं परथन्तु । तस्य युक्तां शीषिकाम्‌ एकेन वाक्येन वा, परस्पर-सम्बन्धि- ।\nवाक्यद्वयेन वा शिचा प्रेषयन्तु । मे २० दिनाङ्कतः पूर्वम्‌ एव शीषिकाः व्रेषयन्तु । `\nअनन्तरम्‌ आगताः शीरषिकाः न परिश्ीट्यामः। # शीर्षिकासु अस्माभिः निर्णीतस्य\nअत्यत्तमस्य शीर्षिका-युगटस्य ५० रूप्यकात्मकं पारितोषिकम्‌ ¡ # शीर्षिका: समपत्रे (पोर्ट\nकाई) ठेखनीयाः । तत्र अन्यः विषयः न टेखनीयः । *# अधोनि्दिष्टसङ्केतस्य कृते\nशीषिकाः व्रेषणीयाः-- चन्दमामा (सृतम्‌) ७३/२ अक्षरम्‌” रङ्गरावमार शङ्करपुरम्‌,\n१५६०००9\n[संरंकृत-चन्दमामायाः सम्पादनसम्बन्धे अपि सम्पर्क-सङ्केतः उपरितनः एव। प्राहकुल्वो\nछ मद्रास-सङ्केतस्य कृते एव प्रेषणीयम्‌ |\nए1०1€व ९४ 8. #. २२८77 2 7358 ९१०८८55 एा५३१८ 1.19. 874 एणणां7व ४४ 8. (15 ५/4 ^^\nरि लिप (^ 01444 (पा रवऽ रत द्वि (एष्. ज (03042873713 ए५४1८8{10715)\n188, , 760६ २०३५.  2120735-600 026 = (1742).  (गप्प्ठा0& पताल; पि^+जा रला.\n110€ 5107165, 2111८185 37५ ५६515 ०07131१९ ॥€1€1 ठ27€ ९१६९।४७।५९ 010961१ ०५१ ए॥€ ९५०।।५॥१€१5 ३५\n४००४179 91 80091179 (#&€ा). 1१ 3१४ 17) 30761 ५४।।। 9€ ५९ 8।५ १८११) ३6५०५179 १० ३५५.\n41 13.\n॥\nन ~",
+  "warnings": [
+    "Detected 88 diacritics"
+  ],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

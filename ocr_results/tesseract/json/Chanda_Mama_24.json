@@ -1,0 +1,480 @@
+{
+  "page": 24,
+  "source_image": "image/Chanda_Mama_24.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        1417,
+        1092,
+        2579
+      ],
+      "text": "अहं राजगन्धिमृटिकां आनयामि उति\nउक्तवान्‌ ।\n\"हा हन्त ! रोगपीडिनस्य मम समीपे भवान्‌\nन भवति चेत्‌, कथम्‌ अहं जीवामि ?` इनि\nसुददानः भयेन उक्तवान्‌ । एतस्य कारणात्‌\nणव यजमानः रागग्रस्तः जातः इति वदन्तः पत्नी\nपुत्राः च पञ्नरात्‌ मुक्तं क्रृतवन्तः । किन्तु शुकं\nसुददानाय द्राहं न करतवान्‌ । पूयः एव सः\nराजगन्धिमृटिकां चञ्च्वा गृहीता आगतवान्‌ ।\nरेयः तया मृटिकया ओषधं कृत्वा चिकित्सां\n1.",
+      "line_count": 11
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1130,
+        226,
+        2146,
+        2579
+      ],
+      "text": "जातः तदा सः शुकं दरवा (भवतः मादाप्येन\nअहं पुनः जीवनं प्राप्तवान्‌ । अनः भवान\nइतः निगच्छति चेत्‌, अहँ व्रिराध्रं कतुं न\nशक्नोमि । किन्तु भवान्‌ अत्रैव तिष्टति चेत\nमम महान्‌ सन्तापः भवति!\" इति उक्तवान्‌ ।\nतदा शुकः “'वरहुकाकानन्तरं मम वन्धु जनान\nृरष्ट्व। आगतवान्‌ । आगमनममये पुनः शीघ्र\nमेव प्रत्यागच्छामि इति उक्ला अपि आगतवान्‌ |\nभवान्‌ मम कृते व्रहूधनस्य न्ययं कृतवान्‌ ।\nर्युपकाररूपेण अहं भतः प्राणान्‌ रक्षितवान्‌ |\nअतः इदानीं भवता मम स्ातन्त्यस्य विरोधः\nन कतव्य: इति उक्ला पञ्ञरतः बहिः उड़ीय\nनिर्गतवान्‌ ।\nगच्छति काले सुदर्टनः सुखेन जीवति स्म\nएवं दि सति कतिपयद्विनानन्तरं सः शुकः\nपुनः सुदर्शनस्य समीपम्‌ आगत्य “भवन;\nगृहस्य जीवनमेव मह्यम्‌ अनीव राचतै । मम\nबन्धुजनः सह स्थातुं मम मनः न प्रवर्तते| अनः\nभवता सह अत्र एव स्थातुं आगनवान्‌! * इति\nयाचितवान्‌ ।\nविन्तु सुददानः शुकस्य वचनं न अङ्गी -\nकुतवान्‌ । `धयत्र कुत्रापि गच्छतु\" इति शुकं\nक्य कनिचन = ॥",
+      "line_count": 23
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "अहं राजगन्धिमृटिकां आनयामि उति",
+      "bbox": [
+        192,
+        1562,
+        1077,
+        1626
+      ],
+      "confidence": 48.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "उक्तवान्‌ ।",
+      "bbox": [
+        189,
+        1667,
+        368,
+        1721
+      ],
+      "confidence": 82.21,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "\"हा हन्त ! रोगपीडिनस्य मम समीपे भवान्‌",
+      "bbox": [
+        276,
+        1807,
+        1086,
+        1875
+      ],
+      "confidence": 71.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "न भवति चेत्‌, कथम्‌ अहं जीवामि ?` इनि",
+      "bbox": [
+        190,
+        1892,
+        1081,
+        1970
+      ],
+      "confidence": 87.6,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "सुददानः भयेन उक्तवान्‌ । एतस्य कारणात्‌",
+      "bbox": [
+        192,
+        1989,
+        1089,
+        2061
+      ],
+      "confidence": 78.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "णव यजमानः रागग्रस्तः जातः इति वदन्तः पत्नी",
+      "bbox": [
+        189,
+        2085,
+        1081,
+        2149
+      ],
+      "confidence": 60.94,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "पुत्राः च पञ्नरात्‌ मुक्तं क्रृतवन्तः । किन्तु शुकं",
+      "bbox": [
+        194,
+        2180,
+        1064,
+        2247
+      ],
+      "confidence": 68.85,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "सुददानाय द्राहं न करतवान्‌ । पूयः एव सः",
+      "bbox": [
+        195,
+        2268,
+        1080,
+        2343
+      ],
+      "confidence": 46.53,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "राजगन्धिमृटिकां चञ्च्वा गृहीता आगतवान्‌ ।",
+      "bbox": [
+        181,
+        2362,
+        1083,
+        2435
+      ],
+      "confidence": 59.38,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "रेयः तया मृटिकया ओषधं कृत्वा चिकित्सां",
+      "bbox": [
+        269,
+        2451,
+        1085,
+        2529
+      ],
+      "confidence": 62.51,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "1.",
+      "bbox": [
+        192,
+        2545,
+        1065,
+        2579
+      ],
+      "confidence": 44.94,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "right",
+      "text": "जातः तदा सः शुकं दरवा (भवतः मादाप्येन",
+      "bbox": [
+        1148,
+        326,
+        2025,
+        399
+      ],
+      "confidence": 65.59,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "right",
+      "text": "अहं पुनः जीवनं प्राप्तवान्‌ । अनः भवान",
+      "bbox": [
+        1148,
+        424,
+        2020,
+        488
+      ],
+      "confidence": 69.28,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "right",
+      "text": "इतः निगच्छति चेत्‌, अहँ व्रिराध्रं कतुं न",
+      "bbox": [
+        1147,
+        511,
+        2028,
+        584
+      ],
+      "confidence": 65.75,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "शक्नोमि । किन्तु भवान्‌ अत्रैव तिष्टति चेत",
+      "bbox": [
+        1146,
+        607,
+        2029,
+        676
+      ],
+      "confidence": 74.38,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "मम महान्‌ सन्तापः भवति!\" इति उक्तवान्‌ ।",
+      "bbox": [
+        1145,
+        701,
+        1985,
+        770
+      ],
+      "confidence": 80.25,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "तदा शुकः “'वरहुकाकानन्तरं मम वन्धु जनान",
+      "bbox": [
+        1230,
+        857,
+        2024,
+        937
+      ],
+      "confidence": 43.44,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "ृरष्ट्व। आगतवान्‌ । आगमनममये पुनः शीघ्र",
+      "bbox": [
+        1146,
+        951,
+        2005,
+        1026
+      ],
+      "confidence": 62.01,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "मेव प्रत्यागच्छामि इति उक्ला अपि आगतवान्‌ |",
+      "bbox": [
+        1145,
+        1046,
+        2023,
+        1110
+      ],
+      "confidence": 51.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "भवान्‌ मम कृते व्रहूधनस्य न्ययं कृतवान्‌ ।",
+      "bbox": [
+        1145,
+        1139,
+        2026,
+        1213
+      ],
+      "confidence": 59.85,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "र्युपकाररूपेण अहं भतः प्राणान्‌ रक्षितवान्‌ |",
+      "bbox": [
+        1146,
+        1232,
+        2026,
+        1314
+      ],
+      "confidence": 60.64,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "अतः इदानीं भवता मम स्ातन्त्यस्य विरोधः",
+      "bbox": [
+        1146,
+        1320,
+        2020,
+        1390
+      ],
+      "confidence": 59.92,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "न कतव्य: इति उक्ला पञ्ञरतः बहिः उड़ीय",
+      "bbox": [
+        1144,
+        1415,
+        2033,
+        1484
+      ],
+      "confidence": 49.33,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "निर्गतवान्‌ ।",
+      "bbox": [
+        1145,
+        1510,
+        1367,
+        1580
+      ],
+      "confidence": 62.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "गच्छति काले सुदर्टनः सुखेन जीवति स्म",
+      "bbox": [
+        1227,
+        1664,
+        2033,
+        1734
+      ],
+      "confidence": 64.35,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "एवं दि सति कतिपयद्विनानन्तरं सः शुकः",
+      "bbox": [
+        1143,
+        1760,
+        2026,
+        1831
+      ],
+      "confidence": 64.58,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "पुनः सुदर्शनस्य समीपम्‌ आगत्य “भवन;",
+      "bbox": [
+        1146,
+        1861,
+        2029,
+        1931
+      ],
+      "confidence": 58.35,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "गृहस्य जीवनमेव मह्यम्‌ अनीव राचतै । मम",
+      "bbox": [
+        1146,
+        1968,
+        2035,
+        2033
+      ],
+      "confidence": 77.73,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "बन्धुजनः सह स्थातुं मम मनः न प्रवर्तते| अनः",
+      "bbox": [
+        1148,
+        2063,
+        2033,
+        2144
+      ],
+      "confidence": 55.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "भवता सह अत्र एव स्थातुं आगनवान्‌! * इति",
+      "bbox": [
+        1150,
+        2180,
+        2035,
+        2245
+      ],
+      "confidence": 77.23,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "याचितवान्‌ ।",
+      "bbox": [
+        1152,
+        2272,
+        1394,
+        2334
+      ],
+      "confidence": 81.33,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "विन्तु सुददानः शुकस्य वचनं न अङ्गी -",
+      "bbox": [
+        1236,
+        2357,
+        2037,
+        2436
+      ],
+      "confidence": 82.9,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "कुतवान्‌ । `धयत्र कुत्रापि गच्छतु\" इति शुकं",
+      "bbox": [
+        1150,
+        2456,
+        2044,
+        2528
+      ],
+      "confidence": 62.39,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "क्य कनिचन = ॥",
+      "bbox": [
+        1151,
+        2549,
+        1572,
+        2579
+      ],
+      "confidence": 35.25,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "अहं राजगन्धिमृटिकां आनयामि उति\nउक्तवान्‌ ।\n\"हा हन्त ! रोगपीडिनस्य मम समीपे भवान्‌\nन भवति चेत्‌, कथम्‌ अहं जीवामि ?` इनि\nसुददानः भयेन उक्तवान्‌ । एतस्य कारणात्‌\nणव यजमानः रागग्रस्तः जातः इति वदन्तः पत्नी\nपुत्राः च पञ्नरात्‌ मुक्तं क्रृतवन्तः । किन्तु शुकं\nसुददानाय द्राहं न करतवान्‌ । पूयः एव सः\nराजगन्धिमृटिकां चञ्च्वा गृहीता आगतवान्‌ ।\nरेयः तया मृटिकया ओषधं कृत्वा चिकित्सां\n1.\n\nजातः तदा सः शुकं दरवा (भवतः मादाप्येन\nअहं पुनः जीवनं प्राप्तवान्‌ । अनः भवान\nइतः निगच्छति चेत्‌, अहँ व्रिराध्रं कतुं न\nशक्नोमि । किन्तु भवान्‌ अत्रैव तिष्टति चेत\nमम महान्‌ सन्तापः भवति!\" इति उक्तवान्‌ ।\nतदा शुकः “'वरहुकाकानन्तरं मम वन्धु जनान\nृरष्ट्व। आगतवान्‌ । आगमनममये पुनः शीघ्र\nमेव प्रत्यागच्छामि इति उक्ला अपि आगतवान्‌ |\nभवान्‌ मम कृते व्रहूधनस्य न्ययं कृतवान्‌ ।\nर्युपकाररूपेण अहं भतः प्राणान्‌ रक्षितवान्‌ |\nअतः इदानीं भवता मम स्ातन्त्यस्य विरोधः\nन कतव्य: इति उक्ला पञ्ञरतः बहिः उड़ीय\nनिर्गतवान्‌ ।\nगच्छति काले सुदर्टनः सुखेन जीवति स्म\nएवं दि सति कतिपयद्विनानन्तरं सः शुकः\nपुनः सुदर्शनस्य समीपम्‌ आगत्य “भवन;\nगृहस्य जीवनमेव मह्यम्‌ अनीव राचतै । मम\nबन्धुजनः सह स्थातुं मम मनः न प्रवर्तते| अनः\nभवता सह अत्र एव स्थातुं आगनवान्‌! * इति\nयाचितवान्‌ ।\nविन्तु सुददानः शुकस्य वचनं न अङ्गी -\nकुतवान्‌ । `धयत्र कुत्रापि गच्छतु\" इति शुकं\nक्य कनिचन = ॥",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

@@ -1,0 +1,532 @@
+{
+  "page": 63,
+  "source_image": "image/Chanda_Mama_63.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        198,
+        1140,
+        2012
+      ],
+      "text": "च पूर्वै प्रवत्तं सर्वं वृत्तान्तं सविस्तरं\nनिवेदितवती ।\n। अवराजः शीघ्रम्‌ एव॒ नगरं प्रतिनिवृय\nसेनापतिम्‌ आज्ञापितवान्‌ “भवान्‌ मह्या\nसेनया सह॒ कत्रिस्थानम्‌ आक्रामतु\"\" इति ।\nसः सेनफपतिः कबरिस्थानम्‌ आक्रम्य राजानम्‌\nउपसचिवं च जीवग्राहं गृहीत्वा युवराजस्य समीपे\nआनीतवान्‌ ।\nयुत्रयजः कत्ररिस्थानस्य राजानम्‌ उप-\nसचिवं च महासचिवस्य पुत्र्याः समीपे नीतवान्‌।\n“पूर्वै शिरङ्छेदनतः मां यः रक्षितवान्‌ तं\nवृद्धम्‌ अपि कृपया आनाययतु' इति सा\nप्राथितवती । सैनिकाः तम्‌ अन्विष्य सगौरवम्‌\nआनीतवन्तः ।\nअनन्तर तैः स्वैः सह युवराजः, महा-\nसचिवस्य पुत्री च नगर प्रवि्वन्तो । तत महा-\nसचिवस्य पुत्र्याः अभिप्रायानुसारेण सभा आयो-\nजिता । समायां बहवः जनाः सम्मिलिताः ।\nद्र प्रा > ८ न्य)",
+      "line_count": 19
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1155,
+        198,
+        2146,
+        2012
+      ],
+      "text": "६ समायां सा उपसचितरं सकोपम्‌ उक्तवती -\n“पूर्व प्रत्तं सत्र वृत्तान्तं यथां वदतु\" इति ।\nसः उपसचिः मरणभयेन उक्तवान्‌- “मम\nराज्ञे अहं भवत्याः विषये असत्यं निवेदितवान्‌ ।\nअतः एव एषः अनः सम्पन्नः !!?\nयुवराजः सैनिकान्‌ आज्ञापितवान्‌- ^“एतं\nवराक, मद्भूमो वयजलु\"\" इति । अनन्तरम्‌\n‹“एषः राजा निरपराधिनः ए छमहासचिवस्य\nश्चिरञेदनं कृतवान्‌ । अतः सापराधिनः एतस्य\nशिरङकरेदनं अत्यन्तं समुचितम्‌\" इति निणय\nकृत्वा युवराजः भदै: तस्य शिरः छेदितवान्‌ ।\nतस्मै वृद्धाय युवराजः धनं लघुरा्यं च दत्तान्‌।\nछयुराज्यस्य राजा अपिसः वृद्धः एव इति\nउद्घोषितवान्‌ ।\nप्रतीकारः करतः। अतः महासचििविस्य पुत्र्याः\nमनः शान्तम्‌ अभवत्‌ । बहोः कारतः अनन्तरं\nस्मथमाना सा युवराजं दृष्टवती । विवाहसूचकः\nसः मन्दहासः आसीत्‌ ।\n| |||",
+      "line_count": 19
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "च पूर्वै प्रवत्तं सर्वं वृत्तान्तं सविस्तरं",
+      "bbox": [
+        391,
+        210,
+        1120,
+        291
+      ],
+      "confidence": 79.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "निवेदितवती ।",
+      "bbox": [
+        220,
+        308,
+        497,
+        370
+      ],
+      "confidence": 42.21,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "। अवराजः शीघ्रम्‌ एव॒ नगरं प्रतिनिवृय",
+      "bbox": [
+        197,
+        403,
+        1115,
+        492
+      ],
+      "confidence": 53.37,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "सेनापतिम्‌ आज्ञापितवान्‌ “भवान्‌ मह्या",
+      "bbox": [
+        221,
+        493,
+        1116,
+        567
+      ],
+      "confidence": 33.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "सेनया सह॒ कत्रिस्थानम्‌ आक्रामतु\"\" इति ।",
+      "bbox": [
+        221,
+        587,
+        1113,
+        656
+      ],
+      "confidence": 61.78,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "सः सेनफपतिः कबरिस्थानम्‌ आक्रम्य राजानम्‌",
+      "bbox": [
+        221,
+        678,
+        1122,
+        747
+      ],
+      "confidence": 56.29,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "उपसचिवं च जीवग्राहं गृहीत्वा युवराजस्य समीपे",
+      "bbox": [
+        221,
+        771,
+        1114,
+        841
+      ],
+      "confidence": 75.62,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "आनीतवान्‌ ।",
+      "bbox": [
+        220,
+        868,
+        478,
+        936
+      ],
+      "confidence": 55.53,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "युत्रयजः कत्ररिस्थानस्य राजानम्‌ उप-",
+      "bbox": [
+        305,
+        961,
+        1110,
+        1025
+      ],
+      "confidence": 58.91,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "सचिवं च महासचिवस्य पुत्र्याः समीपे नीतवान्‌।",
+      "bbox": [
+        222,
+        1051,
+        1111,
+        1120
+      ],
+      "confidence": 82.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "“पूर्वै शिरङ्छेदनतः मां यः रक्षितवान्‌ तं",
+      "bbox": [
+        224,
+        1139,
+        1114,
+        1218
+      ],
+      "confidence": 72.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "वृद्धम्‌ अपि कृपया आनाययतु' इति सा",
+      "bbox": [
+        220,
+        1238,
+        1114,
+        1305
+      ],
+      "confidence": 83.69,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "प्राथितवती । सैनिकाः तम्‌ अन्विष्य सगौरवम्‌",
+      "bbox": [
+        223,
+        1325,
+        1120,
+        1395
+      ],
+      "confidence": 91.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "आनीतवन्तः ।",
+      "bbox": [
+        222,
+        1424,
+        495,
+        1480
+      ],
+      "confidence": 86.69,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "left",
+      "text": "अनन्तर तैः स्वैः सह युवराजः, महा-",
+      "bbox": [
+        306,
+        1511,
+        1111,
+        1581
+      ],
+      "confidence": 85.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "left",
+      "text": "सचिवस्य पुत्री च नगर प्रवि्वन्तो । तत महा-",
+      "bbox": [
+        221,
+        1602,
+        1112,
+        1674
+      ],
+      "confidence": 73.37,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "left",
+      "text": "सचिवस्य पुत्र्याः अभिप्रायानुसारेण सभा आयो-",
+      "bbox": [
+        223,
+        1698,
+        1110,
+        1766
+      ],
+      "confidence": 26.09,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "left",
+      "text": "जिता । समायां बहवः जनाः सम्मिलिताः ।",
+      "bbox": [
+        224,
+        1790,
+        1108,
+        1852
+      ],
+      "confidence": 60.08,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "left",
+      "text": "द्र प्रा > ८ न्य)",
+      "bbox": [
+        214,
+        1962,
+        1050,
+        2026
+      ],
+      "confidence": 34.29,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "६ समायां सा उपसचितरं सकोपम्‌ उक्तवती -",
+      "bbox": [
+        1155,
+        198,
+        2070,
+        1960
+      ],
+      "confidence": 71.59,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "“पूर्व प्रत्तं सत्र वृत्तान्तं यथां वदतु\" इति ।",
+      "bbox": [
+        1180,
+        305,
+        2067,
+        393
+      ],
+      "confidence": 46.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "सः उपसचिः मरणभयेन उक्तवान्‌- “मम",
+      "bbox": [
+        1175,
+        403,
+        2069,
+        476
+      ],
+      "confidence": 54.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "राज्ञे अहं भवत्याः विषये असत्यं निवेदितवान्‌ ।",
+      "bbox": [
+        1175,
+        494,
+        2065,
+        569
+      ],
+      "confidence": 78.42,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "अतः एव एषः अनः सम्पन्नः !!?",
+      "bbox": [
+        1177,
+        586,
+        1867,
+        655
+      ],
+      "confidence": 57.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "युवराजः सैनिकान्‌ आज्ञापितवान्‌- ^“एतं",
+      "bbox": [
+        1261,
+        679,
+        2070,
+        755
+      ],
+      "confidence": 18.07,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "वराक, मद्भूमो वयजलु\"\" इति । अनन्तरम्‌",
+      "bbox": [
+        1175,
+        771,
+        2077,
+        852
+      ],
+      "confidence": 71.14,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "‹“एषः राजा निरपराधिनः ए छमहासचिवस्य",
+      "bbox": [
+        1179,
+        870,
+        2070,
+        934
+      ],
+      "confidence": 63.36,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "श्चिरञेदनं कृतवान्‌ । अतः सापराधिनः एतस्य",
+      "bbox": [
+        1175,
+        957,
+        2069,
+        1029
+      ],
+      "confidence": 65.58,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "शिरङकरेदनं अत्यन्तं समुचितम्‌\" इति निणय",
+      "bbox": [
+        1172,
+        1050,
+        2069,
+        1120
+      ],
+      "confidence": 51.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "कृत्वा युवराजः भदै: तस्य शिरः छेदितवान्‌ ।",
+      "bbox": [
+        1171,
+        1142,
+        2036,
+        1227
+      ],
+      "confidence": 64.2,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "तस्मै वृद्धाय युवराजः धनं लघुरा्यं च दत्तान्‌।",
+      "bbox": [
+        1214,
+        1233,
+        2065,
+        1309
+      ],
+      "confidence": 62.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "छयुराज्यस्य राजा अपिसः वृद्धः एव इति",
+      "bbox": [
+        1174,
+        1335,
+        2067,
+        1401
+      ],
+      "confidence": 68.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "उद्घोषितवान्‌ ।",
+      "bbox": [
+        1174,
+        1422,
+        1476,
+        1500
+      ],
+      "confidence": 6.21,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "प्रतीकारः करतः। अतः महासचििविस्य पुत्र्याः",
+      "bbox": [
+        1260,
+        1519,
+        2056,
+        1585
+      ],
+      "confidence": 59.62,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "मनः शान्तम्‌ अभवत्‌ । बहोः कारतः अनन्तरं",
+      "bbox": [
+        1172,
+        1608,
+        2064,
+        1681
+      ],
+      "confidence": 81.37,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 36,
+      "column": "right",
+      "text": "स्मथमाना सा युवराजं दृष्टवती । विवाहसूचकः",
+      "bbox": [
+        1171,
+        1702,
+        2058,
+        1774
+      ],
+      "confidence": 57.58,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 37,
+      "column": "right",
+      "text": "सः मन्दहासः आसीत्‌ ।",
+      "bbox": [
+        1174,
+        1795,
+        1668,
+        1863
+      ],
+      "confidence": 85.44,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 38,
+      "column": "right",
+      "text": "| |||",
+      "bbox": [
+        1151,
+        1950,
+        1307,
+        2028
+      ],
+      "confidence": 44.04,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "च पूर्वै प्रवत्तं सर्वं वृत्तान्तं सविस्तरं\nनिवेदितवती ।\n। अवराजः शीघ्रम्‌ एव॒ नगरं प्रतिनिवृय\nसेनापतिम्‌ आज्ञापितवान्‌ “भवान्‌ मह्या\nसेनया सह॒ कत्रिस्थानम्‌ आक्रामतु\"\" इति ।\nसः सेनफपतिः कबरिस्थानम्‌ आक्रम्य राजानम्‌\nउपसचिवं च जीवग्राहं गृहीत्वा युवराजस्य समीपे\nआनीतवान्‌ ।\nयुत्रयजः कत्ररिस्थानस्य राजानम्‌ उप-\nसचिवं च महासचिवस्य पुत्र्याः समीपे नीतवान्‌।\n“पूर्वै शिरङ्छेदनतः मां यः रक्षितवान्‌ तं\nवृद्धम्‌ अपि कृपया आनाययतु' इति सा\nप्राथितवती । सैनिकाः तम्‌ अन्विष्य सगौरवम्‌\nआनीतवन्तः ।\nअनन्तर तैः स्वैः सह युवराजः, महा-\nसचिवस्य पुत्री च नगर प्रवि्वन्तो । तत महा-\nसचिवस्य पुत्र्याः अभिप्रायानुसारेण सभा आयो-\nजिता । समायां बहवः जनाः सम्मिलिताः ।\nद्र प्रा > ८ न्य)\n\n६ समायां सा उपसचितरं सकोपम्‌ उक्तवती -\n“पूर्व प्रत्तं सत्र वृत्तान्तं यथां वदतु\" इति ।\nसः उपसचिः मरणभयेन उक्तवान्‌- “मम\nराज्ञे अहं भवत्याः विषये असत्यं निवेदितवान्‌ ।\nअतः एव एषः अनः सम्पन्नः !!?\nयुवराजः सैनिकान्‌ आज्ञापितवान्‌- ^“एतं\nवराक, मद्भूमो वयजलु\"\" इति । अनन्तरम्‌\n‹“एषः राजा निरपराधिनः ए छमहासचिवस्य\nश्चिरञेदनं कृतवान्‌ । अतः सापराधिनः एतस्य\nशिरङकरेदनं अत्यन्तं समुचितम्‌\" इति निणय\nकृत्वा युवराजः भदै: तस्य शिरः छेदितवान्‌ ।\nतस्मै वृद्धाय युवराजः धनं लघुरा्यं च दत्तान्‌।\nछयुराज्यस्य राजा अपिसः वृद्धः एव इति\nउद्घोषितवान्‌ ।\nप्रतीकारः करतः। अतः महासचििविस्य पुत्र्याः\nमनः शान्तम्‌ अभवत्‌ । बहोः कारतः अनन्तरं\nस्मथमाना सा युवराजं दृष्टवती । विवाहसूचकः\nसः मन्दहासः आसीत्‌ ।\n| |||",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

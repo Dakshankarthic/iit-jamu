@@ -1,0 +1,454 @@
+{
+  "page": 58,
+  "source_image": "image/Chanda_Mama_58.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        226,
+        1139,
+        1729
+      ],
+      "text": "राम-रावणयोः मध्ये घोरयुद्धम्‌ अभवत्‌ ।\nरामः यावद्रारं रावणस्य रिरङ्छेदनं करोति;\nतावद्ारं॑रारणस्य॒नूतनरिरांसि उत्पद्यन्ते ।\nतदा विभीषणः रामम्‌ उक्तवान्‌- “रावणस्य\nहृदये अमृतभाण्डम्‌ अस्ति । तत्‌ यथा भिन्नं\nभवति तथा प्रहार करोतु\" इति ।\n| रामः ब्रह्मस्रेण तथा कुत्रा रावणस\nशिरङ्छेदनं कृतवान्‌ । रारणः मृतः ।\nलङ्कायां दष्टानां शासनं समा्तम्‌। धमीत्मा\nविभीषणः राजा अभवत्‌ ।\nर्णङ्कम्भक्णयोः मरणेन जयव्रिजययोः\nदवितीयं जन्म समाप्तम्‌ ।\nसीता अशोकव्रनतः रामस्य पुरतः आगत-\nवती । तदा रामः ताम्‌ -उक्तवान्‌- “सीते,\nदृष्टाः स्वरे शिक्षिताः | मया कतेव्यं॑कृतम्‌ ।\nरावणः भवतीम्‌ आनीय र्ङ्कायां स्थापितवान्‌ ।",
+      "line_count": 16
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1168,
+        226,
+        2146,
+        1729
+      ],
+      "text": "भवती यथा इच्छति तथा करोतु\" इति ।\nसीता तत्र स्थितान्‌ प्राथितत्रती- “अत्रैव\nएकस्य अग्निकुण्डस्य निर्माणं कुबन्त॒' इति ।\nअग्निकुण्डं निमितम्‌ । सीता रामं नमसतुत्य\nअग्निप्रवेशं कृतवती ।\nज्ादा-मध्ये अभ्रिदेवः प्रश्नः अमवत्‌ ।\nसः विकसितपद्मम्‌ इव सीतां खाञ्जलिमिध्ये गृी-\nतव्रान्‌ आसीत्‌ । सः उक्तवान्‌- मोः राम !\nसीता अभ्रिः इव प्ररिञुद्रा अस्ति। तां स्वीकरोतु!\nइति |\nतस्मिन्‌ ए समये दशरथः ख्रगेतः विमानेन\nतत्र आगलय उक्तव्रान्‌-- ““वत्स, रामचनद्र\nसीता परिशुद्धा इति अभ्निपरीक्षया निरूपितं\nकिं £ तया सह अयोध्यां गच्छतु । राज्यं\nपरिपाख्यतु\"” इति ।\nरमः विदारे पुष्पकविमाने उपविदय सर्वैः,",
+      "line_count": 16
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "राम-रावणयोः मध्ये घोरयुद्धम्‌ अभवत्‌ ।",
+      "bbox": [
+        325,
+        226,
+        1124,
+        288
+      ],
+      "confidence": 80.64,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "रामः यावद्रारं रावणस्य रिरङ्छेदनं करोति;",
+      "bbox": [
+        241,
+        310,
+        1122,
+        376
+      ],
+      "confidence": 63.64,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "तावद्ारं॑रारणस्य॒नूतनरिरांसि उत्पद्यन्ते ।",
+      "bbox": [
+        244,
+        403,
+        1123,
+        480
+      ],
+      "confidence": 19.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "तदा विभीषणः रामम्‌ उक्तवान्‌- “रावणस्य",
+      "bbox": [
+        242,
+        484,
+        1126,
+        567
+      ],
+      "confidence": 65.53,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "हृदये अमृतभाण्डम्‌ अस्ति । तत्‌ यथा भिन्नं",
+      "bbox": [
+        241,
+        585,
+        1125,
+        661
+      ],
+      "confidence": 79.21,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "भवति तथा प्रहार करोतु\" इति ।",
+      "bbox": [
+        240,
+        683,
+        894,
+        752
+      ],
+      "confidence": 80.87,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "| रामः ब्रह्मस्रेण तथा कुत्रा रावणस",
+      "bbox": [
+        176,
+        784,
+        1123,
+        869
+      ],
+      "confidence": 51.37,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "शिरङ्छेदनं कृतवान्‌ । रारणः मृतः ।",
+      "bbox": [
+        244,
+        880,
+        974,
+        965
+      ],
+      "confidence": 46.67,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "लङ्कायां दष्टानां शासनं समा्तम्‌। धमीत्मा",
+      "bbox": [
+        328,
+        972,
+        1125,
+        1062
+      ],
+      "confidence": 56.9,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "विभीषणः राजा अभवत्‌ ।",
+      "bbox": [
+        244,
+        1079,
+        747,
+        1150
+      ],
+      "confidence": 94.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "र्णङ्कम्भक्णयोः मरणेन जयव्रिजययोः",
+      "bbox": [
+        320,
+        1179,
+        1111,
+        1253
+      ],
+      "confidence": 65.19,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "दवितीयं जन्म समाप्तम्‌ ।",
+      "bbox": [
+        245,
+        1275,
+        700,
+        1336
+      ],
+      "confidence": 72.56,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "सीता अशोकव्रनतः रामस्य पुरतः आगत-",
+      "bbox": [
+        322,
+        1379,
+        1119,
+        1448
+      ],
+      "confidence": 80.71,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "वती । तदा रामः ताम्‌ -उक्तवान्‌- “सीते,",
+      "bbox": [
+        242,
+        1474,
+        1122,
+        1541
+      ],
+      "confidence": 67.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "left",
+      "text": "दृष्टाः स्वरे शिक्षिताः | मया कतेव्यं॑कृतम्‌ ।",
+      "bbox": [
+        242,
+        1560,
+        1132,
+        1647
+      ],
+      "confidence": 61.19,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "left",
+      "text": "रावणः भवतीम्‌ आनीय र्ङ्कायां स्थापितवान्‌ ।",
+      "bbox": [
+        244,
+        1659,
+        1127,
+        1729
+      ],
+      "confidence": 80.38,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "भवती यथा इच्छति तथा करोतु\" इति ।",
+      "bbox": [
+        1186,
+        226,
+        1975,
+        282
+      ],
+      "confidence": 84.43,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "सीता तत्र स्थितान्‌ प्राथितत्रती- “अत्रैव",
+      "bbox": [
+        1272,
+        314,
+        2077,
+        389
+      ],
+      "confidence": 61.95,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "एकस्य अग्निकुण्डस्य निर्माणं कुबन्त॒' इति ।",
+      "bbox": [
+        1186,
+        406,
+        2076,
+        481
+      ],
+      "confidence": 86.03,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "अग्निकुण्डं निमितम्‌ । सीता रामं नमसतुत्य",
+      "bbox": [
+        1179,
+        501,
+        2079,
+        584
+      ],
+      "confidence": 52.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "अग्निप्रवेशं कृतवती ।",
+      "bbox": [
+        1187,
+        598,
+        1590,
+        679
+      ],
+      "confidence": 56.93,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "ज्ादा-मध्ये अभ्रिदेवः प्रश्नः अमवत्‌ ।",
+      "bbox": [
+        1269,
+        698,
+        2071,
+        769
+      ],
+      "confidence": 42.01,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "सः विकसितपद्मम्‌ इव सीतां खाञ्जलिमिध्ये गृी-",
+      "bbox": [
+        1186,
+        788,
+        2079,
+        859
+      ],
+      "confidence": 45.49,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "तव्रान्‌ आसीत्‌ । सः उक्तवान्‌- मोः राम !",
+      "bbox": [
+        1186,
+        879,
+        2072,
+        960
+      ],
+      "confidence": 78.71,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "सीता अभ्रिः इव प्ररिञुद्रा अस्ति। तां स्वीकरोतु!",
+      "bbox": [
+        1186,
+        975,
+        2076,
+        1048
+      ],
+      "confidence": 58.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "इति |",
+      "bbox": [
+        1186,
+        1074,
+        1301,
+        1148
+      ],
+      "confidence": 85.06,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "तस्मिन्‌ ए समये दशरथः ख्रगेतः विमानेन",
+      "bbox": [
+        1269,
+        1169,
+        2082,
+        1243
+      ],
+      "confidence": 78.11,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "तत्र आगलय उक्तव्रान्‌-- ““वत्स, रामचनद्र",
+      "bbox": [
+        1185,
+        1279,
+        2026,
+        1337
+      ],
+      "confidence": 55.71,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "सीता परिशुद्धा इति अभ्निपरीक्षया निरूपितं",
+      "bbox": [
+        1185,
+        1358,
+        2079,
+        1431
+      ],
+      "confidence": 62.14,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "किं £ तया सह अयोध्यां गच्छतु । राज्यं",
+      "bbox": [
+        1188,
+        1448,
+        2081,
+        1518
+      ],
+      "confidence": 65.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "परिपाख्यतु\"” इति ।",
+      "bbox": [
+        1187,
+        1546,
+        1575,
+        1611
+      ],
+      "confidence": 27.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "रमः विदारे पुष्पकविमाने उपविदय सर्वैः,",
+      "bbox": [
+        1272,
+        1652,
+        2086,
+        1725
+      ],
+      "confidence": 59.52,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "राम-रावणयोः मध्ये घोरयुद्धम्‌ अभवत्‌ ।\nरामः यावद्रारं रावणस्य रिरङ्छेदनं करोति;\nतावद्ारं॑रारणस्य॒नूतनरिरांसि उत्पद्यन्ते ।\nतदा विभीषणः रामम्‌ उक्तवान्‌- “रावणस्य\nहृदये अमृतभाण्डम्‌ अस्ति । तत्‌ यथा भिन्नं\nभवति तथा प्रहार करोतु\" इति ।\n| रामः ब्रह्मस्रेण तथा कुत्रा रावणस\nशिरङ्छेदनं कृतवान्‌ । रारणः मृतः ।\nलङ्कायां दष्टानां शासनं समा्तम्‌। धमीत्मा\nविभीषणः राजा अभवत्‌ ।\nर्णङ्कम्भक्णयोः मरणेन जयव्रिजययोः\nदवितीयं जन्म समाप्तम्‌ ।\nसीता अशोकव्रनतः रामस्य पुरतः आगत-\nवती । तदा रामः ताम्‌ -उक्तवान्‌- “सीते,\nदृष्टाः स्वरे शिक्षिताः | मया कतेव्यं॑कृतम्‌ ।\nरावणः भवतीम्‌ आनीय र्ङ्कायां स्थापितवान्‌ ।\n\nभवती यथा इच्छति तथा करोतु\" इति ।\nसीता तत्र स्थितान्‌ प्राथितत्रती- “अत्रैव\nएकस्य अग्निकुण्डस्य निर्माणं कुबन्त॒' इति ।\nअग्निकुण्डं निमितम्‌ । सीता रामं नमसतुत्य\nअग्निप्रवेशं कृतवती ।\nज्ादा-मध्ये अभ्रिदेवः प्रश्नः अमवत्‌ ।\nसः विकसितपद्मम्‌ इव सीतां खाञ्जलिमिध्ये गृी-\nतव्रान्‌ आसीत्‌ । सः उक्तवान्‌- मोः राम !\nसीता अभ्रिः इव प्ररिञुद्रा अस्ति। तां स्वीकरोतु!\nइति |\nतस्मिन्‌ ए समये दशरथः ख्रगेतः विमानेन\nतत्र आगलय उक्तव्रान्‌-- ““वत्स, रामचनद्र\nसीता परिशुद्धा इति अभ्निपरीक्षया निरूपितं\nकिं £ तया सह अयोध्यां गच्छतु । राज्यं\nपरिपाख्यतु\"” इति ।\nरमः विदारे पुष्पकविमाने उपविदय सर्वैः,",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

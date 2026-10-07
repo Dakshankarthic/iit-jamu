@@ -1,0 +1,341 @@
+{
+  "page": 6,
+  "source_image": "image/Chanda_Mama_06.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 3,
+  "reading_order": "Tesseract automatic page layout",
+  "blocks": [
+    {
+      "column": "page",
+      "bbox": [
+        0,
+        0,
+        2271,
+        2835
+      ],
+      "text": "व्योमनोकया नभोमण्डख्विहारः\nअमेरिका देशस्य “नासा'सस्थायाः विज्ञानिनः व्योम-\nनकायाः निर्माणं कुर्वन्तः सन्ति । एषा नौका ७४ जनान्‌\n, “व्योमावरणं' नेतुं शक्नोति। प्रथमगणः १९९.० त्र्तब्दा-\n` नन्तरं एतया नौकया नभोमण्डले विहरिष्यति इति विज्ञानि-\nनाम्‌ सङ्कल्यः। व्योमनौकया विहारार्थं एकैकस्य व्ययः केवटं\nतरिशति-लक्ष-डाटर्‌ !\nउयमानाः डवः\nकोविवर्षेभ्य पूर्वै भूमण्डले विचित्राः पावः आसन्‌ ।\nते पवः पक्षाभ्यां उयमानाः वायौ सञ्चरन्ति स्म। एतेषां पक्षयोः\nदीतौ षोडश्ञ मीटर परिमिता । उक्षवषरपयन्तम्‌ एते जीव-\nन्ति स्म एषः अश्रुतपूरवैः विषयः पूरे टेक्सास्‌ रिटावरो-\nद्पणसशडं सुवणम्‌\nन्यू मेक्सिको देरो लास अल्मसुनामके राष्टि-प्रयोगा-\nटये विज्ञानिनः सुवण तथा सूक्ष्मीकतवन्तः, यथा परस्तात्‌\nस्थितानि अपि वस्तूनि तद्द्वारा द्रष्टु शक्नुमः। तस्य सुवणंस्य\nसूहेमता १/१ ° खक्षाइगुकमिता अस्ति ।\n,4\\ ~<\nभवन्तः जानन्ति वा!\n. कलकत्तानगरं कदा कः निमिततरान्‌ २. करैष्तमत-जिज्ञासुः मागर -चक्रव्ती कः ?\n. अलेग्जीण्डरमहादयस्य भ।रताक्रमण- ४. नवदश-शतकरे भारतदेशस्य विल्चन मू-\nयात्रां कः लिखितवान्‌ भागस्य आक्रमणं विदेङ्गीयः कः राजा\n. भारतदेरो आग्टविद्यायाः अध्यापनस्य कृतवान्‌ ८\nआरम्भं कः कृतवान्‌ ‹ (उत्तराणि ६४तमे परष्)",
+      "line_count": 24
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "page",
+      "text": "व्योमनोकया नभोमण्डख्विहारः",
+      "bbox": [
+        302,
+        810,
+        1348,
+        927
+      ],
+      "confidence": 66.75,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "page",
+      "text": "अमेरिका देशस्य “नासा'सस्थायाः विज्ञानिनः व्योम-",
+      "bbox": [
+        389,
+        931,
+        1435,
+        997
+      ],
+      "confidence": 66.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "page",
+      "text": "नकायाः निर्माणं कुर्वन्तः सन्ति । एषा नौका ७४ जनान्‌",
+      "bbox": [
+        307,
+        1020,
+        1449,
+        1102
+      ],
+      "confidence": 79.07,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "page",
+      "text": ", “व्योमावरणं' नेतुं शक्नोति। प्रथमगणः १९९.० त्र्तब्दा-",
+      "bbox": [
+        277,
+        1114,
+        1435,
+        1189
+      ],
+      "confidence": 54.49,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "page",
+      "text": "` नन्तरं एतया नौकया नभोमण्डले विहरिष्यति इति विज्ञानि-",
+      "bbox": [
+        247,
+        1204,
+        1436,
+        1281
+      ],
+      "confidence": 83.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "page",
+      "text": "नाम्‌ सङ्कल्यः। व्योमनौकया विहारार्थं एकैकस्य व्ययः केवटं",
+      "bbox": [
+        304,
+        1296,
+        1442,
+        1376
+      ],
+      "confidence": 63.62,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "page",
+      "text": "तरिशति-लक्ष-डाटर्‌ !",
+      "bbox": [
+        305,
+        1391,
+        684,
+        1462
+      ],
+      "confidence": 11.62,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "page",
+      "text": "उयमानाः डवः",
+      "bbox": [
+        1207,
+        223,
+        1767,
+        297
+      ],
+      "confidence": 72.03,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "page",
+      "text": "कोविवर्षेभ्य पूर्वै भूमण्डले विचित्राः पावः आसन्‌ ।",
+      "bbox": [
+        985,
+        308,
+        2027,
+        389
+      ],
+      "confidence": 61.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "page",
+      "text": "ते पवः पक्षाभ्यां उयमानाः वायौ सञ्चरन्ति स्म। एतेषां पक्षयोः",
+      "bbox": [
+        901,
+        399,
+        2021,
+        471
+      ],
+      "confidence": 78.7,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "page",
+      "text": "दीतौ षोडश्ञ मीटर परिमिता । उक्षवषरपयन्तम्‌ एते जीव-",
+      "bbox": [
+        901,
+        494,
+        2027,
+        564
+      ],
+      "confidence": 62.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "page",
+      "text": "न्ति स्म एषः अश्रुतपूरवैः विषयः पूरे टेक्सास्‌ रिटावरो-",
+      "bbox": [
+        901,
+        587,
+        2022,
+        668
+      ],
+      "confidence": 61.52,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "page",
+      "text": "द्पणसशडं सुवणम्‌",
+      "bbox": [
+        1122,
+        1532,
+        1777,
+        1651
+      ],
+      "confidence": 12.11,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "page",
+      "text": "न्यू मेक्सिको देरो लास अल्मसुनामके राष्टि-प्रयोगा-",
+      "bbox": [
+        913,
+        1659,
+        1971,
+        1749
+      ],
+      "confidence": 47.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "page",
+      "text": "टये विज्ञानिनः सुवण तथा सूक्ष्मीकतवन्तः, यथा परस्तात्‌",
+      "bbox": [
+        832,
+        1764,
+        1981,
+        1848
+      ],
+      "confidence": 63.36,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "page",
+      "text": "स्थितानि अपि वस्तूनि तद्द्वारा द्रष्टु शक्नुमः। तस्य सुवणंस्य",
+      "bbox": [
+        834,
+        1865,
+        1976,
+        1938
+      ],
+      "confidence": 61.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "page",
+      "text": "सूहेमता १/१ ° खक्षाइगुकमिता अस्ति ।",
+      "bbox": [
+        831,
+        1959,
+        1625,
+        2031
+      ],
+      "confidence": 41.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "page",
+      "text": ",4\\ ~<",
+      "bbox": [
+        242,
+        2280,
+        269,
+        2425
+      ],
+      "confidence": 35.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "page",
+      "text": "भवन्तः जानन्ति वा!",
+      "bbox": [
+        711,
+        2120,
+        1472,
+        2218
+      ],
+      "confidence": 92.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "page",
+      "text": ". कलकत्तानगरं कदा कः निमिततरान्‌ २. करैष्तमत-जिज्ञासुः मागर -चक्रव्ती कः ?",
+      "bbox": [
+        279,
+        2259,
+        2000,
+        2347
+      ],
+      "confidence": 38.51,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "page",
+      "text": ". अलेग्जीण्डरमहादयस्य भ।रताक्रमण- ४. नवदश-शतकरे भारतदेशस्य विल्चन मू-",
+      "bbox": [
+        283,
+        2362,
+        1965,
+        2436
+      ],
+      "confidence": 44.7,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "page",
+      "text": "यात्रां कः लिखितवान्‌ भागस्य आक्रमणं विदेङ्गीयः कः राजा",
+      "bbox": [
+        341,
+        2454,
+        1928,
+        2522
+      ],
+      "confidence": 52.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "page",
+      "text": ". भारतदेरो आग्टविद्यायाः अध्यापनस्य कृतवान्‌ ८",
+      "bbox": [
+        285,
+        2547,
+        1409,
+        2631
+      ],
+      "confidence": 71.51,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "page",
+      "text": "आरम्भं कः कृतवान्‌ ‹ (उत्तराणि ६४तमे परष्)",
+      "bbox": [
+        345,
+        2643,
+        1927,
+        2716
+      ],
+      "confidence": 72.57,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "व्योमनोकया नभोमण्डख्विहारः\nअमेरिका देशस्य “नासा'सस्थायाः विज्ञानिनः व्योम-\nनकायाः निर्माणं कुर्वन्तः सन्ति । एषा नौका ७४ जनान्‌\n, “व्योमावरणं' नेतुं शक्नोति। प्रथमगणः १९९.० त्र्तब्दा-\n` नन्तरं एतया नौकया नभोमण्डले विहरिष्यति इति विज्ञानि-\nनाम्‌ सङ्कल्यः। व्योमनौकया विहारार्थं एकैकस्य व्ययः केवटं\nतरिशति-लक्ष-डाटर्‌ !\nउयमानाः डवः\nकोविवर्षेभ्य पूर्वै भूमण्डले विचित्राः पावः आसन्‌ ।\nते पवः पक्षाभ्यां उयमानाः वायौ सञ्चरन्ति स्म। एतेषां पक्षयोः\nदीतौ षोडश्ञ मीटर परिमिता । उक्षवषरपयन्तम्‌ एते जीव-\nन्ति स्म एषः अश्रुतपूरवैः विषयः पूरे टेक्सास्‌ रिटावरो-\nद्पणसशडं सुवणम्‌\nन्यू मेक्सिको देरो लास अल्मसुनामके राष्टि-प्रयोगा-\nटये विज्ञानिनः सुवण तथा सूक्ष्मीकतवन्तः, यथा परस्तात्‌\nस्थितानि अपि वस्तूनि तद्द्वारा द्रष्टु शक्नुमः। तस्य सुवणंस्य\nसूहेमता १/१ ° खक्षाइगुकमिता अस्ति ।\n,4\\ ~<\nभवन्तः जानन्ति वा!\n. कलकत्तानगरं कदा कः निमिततरान्‌ २. करैष्तमत-जिज्ञासुः मागर -चक्रव्ती कः ?\n. अलेग्जीण्डरमहादयस्य भ।रताक्रमण- ४. नवदश-शतकरे भारतदेशस्य विल्चन मू-\nयात्रां कः लिखितवान्‌ भागस्य आक्रमणं विदेङ्गीयः कः राजा\n. भारतदेरो आग्टविद्यायाः अध्यापनस्य कृतवान्‌ ८\nआरम्भं कः कृतवान्‌ ‹ (उत्तराणि ६४तमे परष्)",
+  "warnings": [
+    "Detected 57 diacritics"
+  ],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

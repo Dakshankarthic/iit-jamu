@@ -1,0 +1,692 @@
+{
+  "source_image": "image/Chanda_Mama_35.jpg",
+  "image_size": [
+    2271,
+    2835
+  ],
+  "method": "manually reviewed layout blocks; column-constrained ink projection",
+  "reading_order": "alternating panel text blocks top-to-bottom",
+  "status": "segmentation only; recognition pending",
+  "blocks": [
+    {
+      "column": "panel-1",
+      "bbox": [
+        1339,
+        147,
+        2066,
+        921
+      ]
+    },
+    {
+      "column": "panel-2",
+      "bbox": [
+        147,
+        1077,
+        862,
+        1743
+      ]
+    },
+    {
+      "column": "panel-3",
+      "bbox": [
+        1317,
+        2035,
+        2066,
+        2622
+      ]
+    }
+  ],
+  "lines": [
+    {
+      "id": "panel-1-01",
+      "column": "panel-1",
+      "reading_order": 1,
+      "bbox": [
+        1365,
+        149,
+        1884,
+        245
+      ],
+      "boundary": [
+        [
+          1365,
+          149
+        ],
+        [
+          1884,
+          149
+        ],
+        [
+          1884,
+          245
+        ],
+        [
+          1365,
+          245
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-1-02",
+      "column": "panel-1",
+      "reading_order": 2,
+      "bbox": [
+        1361,
+        259,
+        1627,
+        329
+      ],
+      "boundary": [
+        [
+          1361,
+          259
+        ],
+        [
+          1627,
+          259
+        ],
+        [
+          1627,
+          329
+        ],
+        [
+          1361,
+          329
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-1-03",
+      "column": "panel-1",
+      "reading_order": 3,
+      "bbox": [
+        1354,
+        370,
+        2051,
+        441
+      ],
+      "boundary": [
+        [
+          1354,
+          370
+        ],
+        [
+          2051,
+          370
+        ],
+        [
+          2051,
+          441
+        ],
+        [
+          1354,
+          441
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-1-04",
+      "column": "panel-1",
+      "reading_order": 4,
+      "bbox": [
+        1354,
+        463,
+        2052,
+        540
+      ],
+      "boundary": [
+        [
+          1354,
+          463
+        ],
+        [
+          2052,
+          463
+        ],
+        [
+          2052,
+          540
+        ],
+        [
+          1354,
+          540
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-1-05",
+      "column": "panel-1",
+      "reading_order": 5,
+      "bbox": [
+        1340,
+        556,
+        2066,
+        639
+      ],
+      "boundary": [
+        [
+          1340,
+          556
+        ],
+        [
+          2066,
+          556
+        ],
+        [
+          2066,
+          639
+        ],
+        [
+          1340,
+          639
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-1-06",
+      "column": "panel-1",
+      "reading_order": 6,
+      "bbox": [
+        1354,
+        651,
+        2049,
+        734
+      ],
+      "boundary": [
+        [
+          1354,
+          651
+        ],
+        [
+          2049,
+          651
+        ],
+        [
+          2049,
+          734
+        ],
+        [
+          1354,
+          734
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-1-07",
+      "column": "panel-1",
+      "reading_order": 7,
+      "bbox": [
+        1351,
+        752,
+        2042,
+        815
+      ],
+      "boundary": [
+        [
+          1351,
+          752
+        ],
+        [
+          2042,
+          752
+        ],
+        [
+          2042,
+          815
+        ],
+        [
+          1351,
+          815
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-1-08",
+      "column": "panel-1",
+      "reading_order": 8,
+      "bbox": [
+        1352,
+        840,
+        1746,
+        907
+      ],
+      "boundary": [
+        [
+          1352,
+          840
+        ],
+        [
+          1746,
+          840
+        ],
+        [
+          1746,
+          907
+        ],
+        [
+          1352,
+          907
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-2-01",
+      "column": "panel-2",
+      "reading_order": 9,
+      "bbox": [
+        147,
+        1085,
+        847,
+        1165
+      ],
+      "boundary": [
+        [
+          147,
+          1085
+        ],
+        [
+          847,
+          1085
+        ],
+        [
+          847,
+          1165
+        ],
+        [
+          147,
+          1165
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-2-02",
+      "column": "panel-2",
+      "reading_order": 10,
+      "bbox": [
+        147,
+        1181,
+        845,
+        1256
+      ],
+      "boundary": [
+        [
+          147,
+          1181
+        ],
+        [
+          845,
+          1181
+        ],
+        [
+          845,
+          1256
+        ],
+        [
+          147,
+          1256
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-2-03",
+      "column": "panel-2",
+      "reading_order": 11,
+      "bbox": [
+        147,
+        1274,
+        850,
+        1345
+      ],
+      "boundary": [
+        [
+          147,
+          1274
+        ],
+        [
+          850,
+          1274
+        ],
+        [
+          850,
+          1345
+        ],
+        [
+          147,
+          1345
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-2-04",
+      "column": "panel-2",
+      "reading_order": 12,
+      "bbox": [
+        147,
+        1369,
+        858,
+        1440
+      ],
+      "boundary": [
+        [
+          147,
+          1369
+        ],
+        [
+          858,
+          1369
+        ],
+        [
+          858,
+          1440
+        ],
+        [
+          147,
+          1440
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-2-05",
+      "column": "panel-2",
+      "reading_order": 13,
+      "bbox": [
+        150,
+        1469,
+        845,
+        1530
+      ],
+      "boundary": [
+        [
+          150,
+          1469
+        ],
+        [
+          845,
+          1469
+        ],
+        [
+          845,
+          1530
+        ],
+        [
+          150,
+          1530
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-2-06",
+      "column": "panel-2",
+      "reading_order": 14,
+      "bbox": [
+        147,
+        1559,
+        855,
+        1623
+      ],
+      "boundary": [
+        [
+          147,
+          1559
+        ],
+        [
+          855,
+          1559
+        ],
+        [
+          855,
+          1623
+        ],
+        [
+          147,
+          1623
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-2-07",
+      "column": "panel-2",
+      "reading_order": 15,
+      "bbox": [
+        147,
+        1667,
+        784,
+        1729
+      ],
+      "boundary": [
+        [
+          147,
+          1667
+        ],
+        [
+          784,
+          1667
+        ],
+        [
+          784,
+          1729
+        ],
+        [
+          147,
+          1729
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-3-01",
+      "column": "panel-3",
+      "reading_order": 16,
+      "bbox": [
+        1335,
+        2047,
+        2009,
+        2106
+      ],
+      "boundary": [
+        [
+          1335,
+          2047
+        ],
+        [
+          2009,
+          2047
+        ],
+        [
+          2009,
+          2106
+        ],
+        [
+          1335,
+          2106
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-3-02",
+      "column": "panel-3",
+      "reading_order": 17,
+      "bbox": [
+        1334,
+        2137,
+        2037,
+        2200
+      ],
+      "boundary": [
+        [
+          1334,
+          2137
+        ],
+        [
+          2037,
+          2137
+        ],
+        [
+          2037,
+          2200
+        ],
+        [
+          1334,
+          2200
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-3-03",
+      "column": "panel-3",
+      "reading_order": 18,
+      "bbox": [
+        1335,
+        2234,
+        2029,
+        2293
+      ],
+      "boundary": [
+        [
+          1335,
+          2234
+        ],
+        [
+          2029,
+          2234
+        ],
+        [
+          2029,
+          2293
+        ],
+        [
+          1335,
+          2293
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-3-04",
+      "column": "panel-3",
+      "reading_order": 19,
+      "bbox": [
+        1336,
+        2326,
+        2025,
+        2387
+      ],
+      "boundary": [
+        [
+          1336,
+          2326
+        ],
+        [
+          2025,
+          2326
+        ],
+        [
+          2025,
+          2387
+        ],
+        [
+          1336,
+          2387
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-3-05",
+      "column": "panel-3",
+      "reading_order": 20,
+      "bbox": [
+        1334,
+        2422,
+        2016,
+        2492
+      ],
+      "boundary": [
+        [
+          1334,
+          2422
+        ],
+        [
+          2016,
+          2422
+        ],
+        [
+          2016,
+          2492
+        ],
+        [
+          1334,
+          2492
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "panel-3-06",
+      "column": "panel-3",
+      "reading_order": 21,
+      "bbox": [
+        1333,
+        2512,
+        1979,
+        2585
+      ],
+      "boundary": [
+        [
+          1333,
+          2512
+        ],
+        [
+          1979,
+          2512
+        ],
+        [
+          1979,
+          2585
+        ],
+        [
+          1333,
+          2585
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    }
+  ]
+}

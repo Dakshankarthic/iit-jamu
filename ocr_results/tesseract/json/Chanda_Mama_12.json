@@ -1,0 +1,467 @@
+{
+  "page": 12,
+  "source_image": "image/Chanda_Mama_12.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        1389,
+        1120,
+        2551
+      ],
+      "text": "भवतः गमनानन्तरं तो मां पीडयित\nताडयित्वा सहस्रदीनरान्‌ अपि वशीक्रतवन्तो ।\nगृहतः निगतौ तौ इदानीम्‌ अपि न आगत-\nचन्तौ | तो कुत्र गतवन्तौ इत्यपि अहं न\nजानामि `` इति उक्तवती ।\n८“जन्मदात्रीं मातरम्‌ एव अग्रनौ प्रीडित-\nवन्तो\" इति ज्ञात्रा सः दुःखितः । पिङ्गटः\nचिन्तयति--- “एकस्याः एव मातुः उदरे\nजातानां सहोदराणाम्‌ शताद्रशाः दुष्टगुणाः\nकथम्‌ ? यत्किमपि भवतु । अहम्‌ अगप्रनयोः",
+      "line_count": 10
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1160,
+        226,
+        2146,
+        2551
+      ],
+      "text": "पिङ्गलः कृदादारीगां मातरं गृहस्य अन्तः\nनीला उक्तवान्‌-- “अम्ब ! इतःपरं भवत्याः\nकृते दुःखस्य अवकाशः एव नास्ति । भाग्ध-\nवदरातः अहं सर्वासु अपि कठिपरीश्ासु\nउत्तीय॑विपुल्धनेन सह आगतवान्‌ अस्मि ।\nअदय आरभ्य कष्टानि सर्वाणि समाप्तानि\nइत्येव चिन्तयतु\" इति । अनन्तरं सः घेन सह\nआनीतं धनकनकादिकं मातुः कृते प्रदशितवान्‌ ।\nराशिरूपेण स्थितं तत्सवै एकस्यां गोण्यां सुरक्षितं\nस्थापितवान्‌ ।\nपिङ्गलस्य माता अतीव सन्तुष्टा । गोण्यां\nस्थितानि वस्तूनि हस्तद्रयेन पुनः पुनः श्पशन्ती\nसा उक्तवती--““ पुत्रक ! भवान्‌ अदृष्टशाटी ।\nअतः एव कष्टशतेषु अपि जितवान्‌ । इदानी\nमम तु अतीव बुसृक्षा । भवतः अपि बुभुक्षा\nअस्ति एव । अतः प्रथमं नगरं गला भोजनाथ\nकिमपि आनयतु । रोटिकाः फटानि वा\nशीघ्रम्‌ आनयतु । अनन्तरम्‌ उपविश्य वार्ता -\nटापं कुर्मः\" इति ।\nतदा पिङ्गलः स्वकीय मन््रसयूतं तस्याः कृते\nपरदररिततान्‌, उक्तवान्‌ च---* \"अम्ब! भवती\nभद्षयमोज्यं यद्‌ यद्‌ इच्छति, तत्सत्रं स्मरतु,\n-----> ~~ जन चनि तवष्ण ११ न्स्ि ॥",
+      "line_count": 23
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "भवतः गमनानन्तरं तो मां पीडयित",
+      "bbox": [
+        225,
+        1512,
+        1110,
+        1576
+      ],
+      "confidence": 65.89,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "ताडयित्वा सहस्रदीनरान्‌ अपि वशीक्रतवन्तो ।",
+      "bbox": [
+        220,
+        1606,
+        1108,
+        1674
+      ],
+      "confidence": 55.93,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "गृहतः निगतौ तौ इदानीम्‌ अपि न आगत-",
+      "bbox": [
+        221,
+        1699,
+        1107,
+        1769
+      ],
+      "confidence": 91.66,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "चन्तौ | तो कुत्र गतवन्तौ इत्यपि अहं न",
+      "bbox": [
+        215,
+        1791,
+        1111,
+        1867
+      ],
+      "confidence": 79.89,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "जानामि `` इति उक्तवती ।",
+      "bbox": [
+        225,
+        1893,
+        744,
+        1955
+      ],
+      "confidence": 85.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "८“जन्मदात्रीं मातरम्‌ एव अग्रनौ प्रीडित-",
+      "bbox": [
+        313,
+        2063,
+        1111,
+        2132
+      ],
+      "confidence": 49.55,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "वन्तो\" इति ज्ञात्रा सः दुःखितः । पिङ्गटः",
+      "bbox": [
+        224,
+        2156,
+        1106,
+        2239
+      ],
+      "confidence": 71.02,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "चिन्तयति--- “एकस्याः एव मातुः उदरे",
+      "bbox": [
+        226,
+        2255,
+        1113,
+        2322
+      ],
+      "confidence": 35.01,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "जातानां सहोदराणाम्‌ शताद्रशाः दुष्टगुणाः",
+      "bbox": [
+        230,
+        2345,
+        1106,
+        2420
+      ],
+      "confidence": 61.51,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "कथम्‌ ? यत्किमपि भवतु । अहम्‌ अगप्रनयोः",
+      "bbox": [
+        226,
+        2443,
+        1107,
+        2508
+      ],
+      "confidence": 65.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "right",
+      "text": "पिङ्गलः कृदादारीगां मातरं गृहस्य अन्तः",
+      "bbox": [
+        1259,
+        303,
+        2051,
+        377
+      ],
+      "confidence": 50.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "right",
+      "text": "नीला उक्तवान्‌-- “अम्ब ! इतःपरं भवत्याः",
+      "bbox": [
+        1172,
+        394,
+        2055,
+        459
+      ],
+      "confidence": 54.35,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "right",
+      "text": "कृते दुःखस्य अवकाशः एव नास्ति । भाग्ध-",
+      "bbox": [
+        1173,
+        488,
+        2057,
+        559
+      ],
+      "confidence": 71.09,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "right",
+      "text": "वदरातः अहं सर्वासु अपि कठिपरीश्ासु",
+      "bbox": [
+        1172,
+        579,
+        2061,
+        649
+      ],
+      "confidence": 50.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "उत्तीय॑विपुल्धनेन सह आगतवान्‌ अस्मि ।",
+      "bbox": [
+        1173,
+        670,
+        2055,
+        743
+      ],
+      "confidence": 55.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "अदय आरभ्य कष्टानि सर्वाणि समाप्तानि",
+      "bbox": [
+        1173,
+        765,
+        2059,
+        826
+      ],
+      "confidence": 86.09,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "इत्येव चिन्तयतु\" इति । अनन्तरं सः घेन सह",
+      "bbox": [
+        1173,
+        856,
+        2063,
+        933
+      ],
+      "confidence": 72.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "आनीतं धनकनकादिकं मातुः कृते प्रदशितवान्‌ ।",
+      "bbox": [
+        1175,
+        947,
+        2063,
+        1034
+      ],
+      "confidence": 70.94,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "राशिरूपेण स्थितं तत्सवै एकस्यां गोण्यां सुरक्षितं",
+      "bbox": [
+        1174,
+        1053,
+        2061,
+        1123
+      ],
+      "confidence": 73.97,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "स्थापितवान्‌ ।",
+      "bbox": [
+        1176,
+        1153,
+        1425,
+        1220
+      ],
+      "confidence": 82.67,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "पिङ्गलस्य माता अतीव सन्तुष्टा । गोण्यां",
+      "bbox": [
+        1260,
+        1311,
+        2065,
+        1395
+      ],
+      "confidence": 50.63,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "स्थितानि वस्तूनि हस्तद्रयेन पुनः पुनः श्पशन्ती",
+      "bbox": [
+        1178,
+        1407,
+        2058,
+        1484
+      ],
+      "confidence": 57.08,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "सा उक्तवती--““ पुत्रक ! भवान्‌ अदृष्टशाटी ।",
+      "bbox": [
+        1175,
+        1503,
+        2057,
+        1572
+      ],
+      "confidence": 57.9,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "अतः एव कष्टशतेषु अपि जितवान्‌ । इदानी",
+      "bbox": [
+        1178,
+        1596,
+        2066,
+        1665
+      ],
+      "confidence": 75.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "मम तु अतीव बुसृक्षा । भवतः अपि बुभुक्षा",
+      "bbox": [
+        1177,
+        1689,
+        2059,
+        1760
+      ],
+      "confidence": 72.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "अस्ति एव । अतः प्रथमं नगरं गला भोजनाथ",
+      "bbox": [
+        1177,
+        1777,
+        2059,
+        1850
+      ],
+      "confidence": 80.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "किमपि आनयतु । रोटिकाः फटानि वा",
+      "bbox": [
+        1181,
+        1875,
+        2058,
+        1945
+      ],
+      "confidence": 61.02,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "शीघ्रम्‌ आनयतु । अनन्तरम्‌ उपविश्य वार्ता -",
+      "bbox": [
+        1177,
+        1963,
+        2054,
+        2043
+      ],
+      "confidence": 72.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "टापं कुर्मः\" इति ।",
+      "bbox": [
+        1178,
+        2063,
+        1558,
+        2138
+      ],
+      "confidence": 60.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "तदा पिङ्गलः स्वकीय मन््रसयूतं तस्याः कृते",
+      "bbox": [
+        1248,
+        2237,
+        2062,
+        2321
+      ],
+      "confidence": 60.22,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "परदररिततान्‌, उक्तवान्‌ च---* \"अम्ब! भवती",
+      "bbox": [
+        1179,
+        2332,
+        2067,
+        2408
+      ],
+      "confidence": 60.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "भद्षयमोज्यं यद्‌ यद्‌ इच्छति, तत्सत्रं स्मरतु,",
+      "bbox": [
+        1179,
+        2419,
+        2056,
+        2503
+      ],
+      "confidence": 67.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "-----> ~~ जन चनि तवष्ण ११ न्स्ि ॥",
+      "bbox": [
+        1180,
+        2514,
+        2026,
+        2564
+      ],
+      "confidence": 25.9,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "भवतः गमनानन्तरं तो मां पीडयित\nताडयित्वा सहस्रदीनरान्‌ अपि वशीक्रतवन्तो ।\nगृहतः निगतौ तौ इदानीम्‌ अपि न आगत-\nचन्तौ | तो कुत्र गतवन्तौ इत्यपि अहं न\nजानामि `` इति उक्तवती ।\n८“जन्मदात्रीं मातरम्‌ एव अग्रनौ प्रीडित-\nवन्तो\" इति ज्ञात्रा सः दुःखितः । पिङ्गटः\nचिन्तयति--- “एकस्याः एव मातुः उदरे\nजातानां सहोदराणाम्‌ शताद्रशाः दुष्टगुणाः\nकथम्‌ ? यत्किमपि भवतु । अहम्‌ अगप्रनयोः\n\nपिङ्गलः कृदादारीगां मातरं गृहस्य अन्तः\nनीला उक्तवान्‌-- “अम्ब ! इतःपरं भवत्याः\nकृते दुःखस्य अवकाशः एव नास्ति । भाग्ध-\nवदरातः अहं सर्वासु अपि कठिपरीश्ासु\nउत्तीय॑विपुल्धनेन सह आगतवान्‌ अस्मि ।\nअदय आरभ्य कष्टानि सर्वाणि समाप्तानि\nइत्येव चिन्तयतु\" इति । अनन्तरं सः घेन सह\nआनीतं धनकनकादिकं मातुः कृते प्रदशितवान्‌ ।\nराशिरूपेण स्थितं तत्सवै एकस्यां गोण्यां सुरक्षितं\nस्थापितवान्‌ ।\nपिङ्गलस्य माता अतीव सन्तुष्टा । गोण्यां\nस्थितानि वस्तूनि हस्तद्रयेन पुनः पुनः श्पशन्ती\nसा उक्तवती--““ पुत्रक ! भवान्‌ अदृष्टशाटी ।\nअतः एव कष्टशतेषु अपि जितवान्‌ । इदानी\nमम तु अतीव बुसृक्षा । भवतः अपि बुभुक्षा\nअस्ति एव । अतः प्रथमं नगरं गला भोजनाथ\nकिमपि आनयतु । रोटिकाः फटानि वा\nशीघ्रम्‌ आनयतु । अनन्तरम्‌ उपविश्य वार्ता -\nटापं कुर्मः\" इति ।\nतदा पिङ्गलः स्वकीय मन््रसयूतं तस्याः कृते\nपरदररिततान्‌, उक्तवान्‌ च---* \"अम्ब! भवती\nभद्षयमोज्यं यद्‌ यद्‌ इच्छति, तत्सत्रं स्मरतु,\n-----> ~~ जन चनि तवष्ण ११ न्स्ि ॥",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

@@ -1,0 +1,404 @@
+{
+  "page": 2,
+  "source_image": "image/Chanda_Mama_02.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 3,
+  "reading_order": "Tesseract automatic page layout",
+  "blocks": [
+    {
+      "column": "page",
+      "bbox": [
+        0,
+        0,
+        2271,
+        2835
+      ],
+      "text": "|\n>\n|\n=\nपि\nनुगा पच्या ाषे\nन्यषद गाः ~~ --------- ल न,\nकाञ्चीपुराधीशेः जगद्गुरु श्री शङ्कराचार्य स्वामिपादैः प्रेषितः शुभसन्देशः\n“श्री चनद्रमोलीश्चराय नमः\"\nश्री शङ्कर-भगवत्पादाचार्य-परम्परागत-\nश्री काञ्चि कामकोटि पीठाधिपति-\nजगद्गुरु श्री शङ्कराचार्य स्वामिनः 3\nश्रीमठसंस्थानम्‌ काञ्चीपुरम्‌ - ६२३१५०२\nश्रीः\n\"चन्दमामा' (संस्कृत) प्रकाशकस्य श्री. बि. विश्वनाथरेडि महाशयस्य सकुटुम्बस्य सर्वीभीष्टसिद्धये\nक्रियते नारायणस्मृतिः ।\nप्रहिता संस्कृतभाषायां प्रकाश्यमाना \"चन्दमामा' पत्रिका दुष्टा । भारतीयभाषाभिः प्रायेण सर्वाभिः\nचिरात्‌ प्रचारं नीयमाना बालानां मनोविनोदन-विषयविज्ञानादिहेतुः “\"चन्दमामा'' नाम मासिकी पत्रिका\nवर्वर्ति निश्चप्रचम्‌ ।\nअमर््यवाणी कालेन अमर्व्यैकसाधारणीं दशां गमिता दिष्ट्या मर्वयेषूवपि प्रचारापादनाय काले\nदत्तावलम्बा प्रयतररीदृशैः तैलोक्यसाधारणीं खां शाश्वतीं समृद्धिं प्राप्स्यतीति विश्वसिमः ।\nसंस्कृतभाषामयी चन्दमामापत्रिका प्राकाश्यं नीयमाना शाश्चतीव पूर्णचन्द्रिका सम्पादकसमित्याः\nसंस्कृतभाषाप्रणयिनां च सर्वेषां मनोरथं पूरयतु भगवतो महात्निपुरसुन्दरीसमेतस्य श्रीचन््रमोलीश्वरस्य\nकृपयेत्याशास्महे ।\nनारायणस्मृतिः\nरा\n|\n|\nत",
+      "line_count": 29
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "page",
+      "text": "|",
+      "bbox": [
+        0,
+        1221,
+        5,
+        1246
+      ],
+      "confidence": 41.32,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "page",
+      "text": ">",
+      "bbox": [
+        0,
+        1240,
+        16,
+        1258
+      ],
+      "confidence": 53.3,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "page",
+      "text": "|",
+      "bbox": [
+        0,
+        1263,
+        12,
+        1272
+      ],
+      "confidence": 80.04,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "page",
+      "text": "=",
+      "bbox": [
+        0,
+        1283,
+        15,
+        1346
+      ],
+      "confidence": 62.56,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "page",
+      "text": "पि",
+      "bbox": [
+        0,
+        1479,
+        20,
+        1606
+      ],
+      "confidence": 17.37,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "page",
+      "text": "नुगा पच्या ाषे",
+      "bbox": [
+        0,
+        2032,
+        31,
+        2449
+      ],
+      "confidence": 16.44,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "page",
+      "text": "न्यषद गाः ~~ --------- ल न,",
+      "bbox": [
+        343,
+        0,
+        1918,
+        23
+      ],
+      "confidence": 26.06,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "page",
+      "text": "काञ्चीपुराधीशेः जगद्गुरु श्री शङ्कराचार्य स्वामिपादैः प्रेषितः शुभसन्देशः",
+      "bbox": [
+        240,
+        214,
+        2006,
+        306
+      ],
+      "confidence": 73.38,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "page",
+      "text": "“श्री चनद्रमोलीश्चराय नमः\"",
+      "bbox": [
+        924,
+        1081,
+        1406,
+        1139
+      ],
+      "confidence": 42.09,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "page",
+      "text": "श्री शङ्कर-भगवत्पादाचार्य-परम्परागत-",
+      "bbox": [
+        783,
+        1153,
+        1513,
+        1229
+      ],
+      "confidence": 82.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "page",
+      "text": "श्री काञ्चि कामकोटि पीठाधिपति-",
+      "bbox": [
+        752,
+        1236,
+        1518,
+        1299
+      ],
+      "confidence": 87.04,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "page",
+      "text": "जगद्गुरु श्री शङ्कराचार्य स्वामिनः 3",
+      "bbox": [
+        643,
+        1315,
+        1895,
+        1411
+      ],
+      "confidence": 75.19,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "page",
+      "text": "श्रीमठसंस्थानम्‌ काञ्चीपुरम्‌ - ६२३१५०२",
+      "bbox": [
+        689,
+        1419,
+        1663,
+        1515
+      ],
+      "confidence": 71.53,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "page",
+      "text": "श्रीः",
+      "bbox": [
+        1094,
+        1598,
+        1157,
+        1646
+      ],
+      "confidence": 91.22,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "page",
+      "text": "\"चन्दमामा' (संस्कृत) प्रकाशकस्य श्री. बि. विश्वनाथरेडि महाशयस्य सकुटुम्बस्य सर्वीभीष्टसिद्धये",
+      "bbox": [
+        309,
+        1702,
+        1949,
+        1767
+      ],
+      "confidence": 58.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "page",
+      "text": "क्रियते नारायणस्मृतिः ।",
+      "bbox": [
+        304,
+        1783,
+        697,
+        1845
+      ],
+      "confidence": 93.51,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "page",
+      "text": "प्रहिता संस्कृतभाषायां प्रकाश्यमाना \"चन्दमामा' पत्रिका दुष्टा । भारतीयभाषाभिः प्रायेण सर्वाभिः",
+      "bbox": [
+        369,
+        1860,
+        1945,
+        1923
+      ],
+      "confidence": 86.87,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "page",
+      "text": "चिरात्‌ प्रचारं नीयमाना बालानां मनोविनोदन-विषयविज्ञानादिहेतुः “\"चन्दमामा'' नाम मासिकी पत्रिका",
+      "bbox": [
+        306,
+        1937,
+        1950,
+        2000
+      ],
+      "confidence": 79.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "page",
+      "text": "वर्वर्ति निश्चप्रचम्‌ ।",
+      "bbox": [
+        306,
+        2018,
+        664,
+        2079
+      ],
+      "confidence": 78.99,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "page",
+      "text": "अमर््यवाणी कालेन अमर्व्यैकसाधारणीं दशां गमिता दिष्ट्या मर्वयेषूवपि प्रचारापादनाय काले",
+      "bbox": [
+        371,
+        2093,
+        1950,
+        2156
+      ],
+      "confidence": 52.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "page",
+      "text": "दत्तावलम्बा प्रयतररीदृशैः तैलोक्यसाधारणीं खां शाश्वतीं समृद्धिं प्राप्स्यतीति विश्वसिमः ।",
+      "bbox": [
+        306,
+        2171,
+        1806,
+        2237
+      ],
+      "confidence": 62.37,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "page",
+      "text": "संस्कृतभाषामयी चन्दमामापत्रिका प्राकाश्यं नीयमाना शाश्चतीव पूर्णचन्द्रिका सम्पादकसमित्याः",
+      "bbox": [
+        369,
+        2252,
+        1946,
+        2315
+      ],
+      "confidence": 69.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "page",
+      "text": "संस्कृतभाषाप्रणयिनां च सर्वेषां मनोरथं पूरयतु भगवतो महात्निपुरसुन्दरीसमेतस्य श्रीचन््रमोलीश्वरस्य",
+      "bbox": [
+        306,
+        2325,
+        1950,
+        2394
+      ],
+      "confidence": 45.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "page",
+      "text": "कृपयेत्याशास्महे ।",
+      "bbox": [
+        306,
+        2409,
+        603,
+        2473
+      ],
+      "confidence": 74.22,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "page",
+      "text": "नारायणस्मृतिः",
+      "bbox": [
+        1731,
+        2489,
+        1947,
+        2549
+      ],
+      "confidence": 93.94,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "page",
+      "text": "रा",
+      "bbox": [
+        2135,
+        0,
+        2271,
+        18
+      ],
+      "confidence": 24.95,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "page",
+      "text": "|",
+      "bbox": [
+        2260,
+        2721,
+        2271,
+        2729
+      ],
+      "confidence": 49.77,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "page",
+      "text": "|",
+      "bbox": [
+        2265,
+        2733,
+        2271,
+        2744
+      ],
+      "confidence": 95.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "page",
+      "text": "त",
+      "bbox": [
+        2253,
+        2790,
+        2271,
+        2811
+      ],
+      "confidence": 52.57,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "|\n>\n|\n=\nपि\nनुगा पच्या ाषे\nन्यषद गाः ~~ --------- ल न,\nकाञ्चीपुराधीशेः जगद्गुरु श्री शङ्कराचार्य स्वामिपादैः प्रेषितः शुभसन्देशः\n“श्री चनद्रमोलीश्चराय नमः\"\nश्री शङ्कर-भगवत्पादाचार्य-परम्परागत-\nश्री काञ्चि कामकोटि पीठाधिपति-\nजगद्गुरु श्री शङ्कराचार्य स्वामिनः 3\nश्रीमठसंस्थानम्‌ काञ्चीपुरम्‌ - ६२३१५०२\nश्रीः\n\"चन्दमामा' (संस्कृत) प्रकाशकस्य श्री. बि. विश्वनाथरेडि महाशयस्य सकुटुम्बस्य सर्वीभीष्टसिद्धये\nक्रियते नारायणस्मृतिः ।\nप्रहिता संस्कृतभाषायां प्रकाश्यमाना \"चन्दमामा' पत्रिका दुष्टा । भारतीयभाषाभिः प्रायेण सर्वाभिः\nचिरात्‌ प्रचारं नीयमाना बालानां मनोविनोदन-विषयविज्ञानादिहेतुः “\"चन्दमामा'' नाम मासिकी पत्रिका\nवर्वर्ति निश्चप्रचम्‌ ।\nअमर््यवाणी कालेन अमर्व्यैकसाधारणीं दशां गमिता दिष्ट्या मर्वयेषूवपि प्रचारापादनाय काले\nदत्तावलम्बा प्रयतररीदृशैः तैलोक्यसाधारणीं खां शाश्वतीं समृद्धिं प्राप्स्यतीति विश्वसिमः ।\nसंस्कृतभाषामयी चन्दमामापत्रिका प्राकाश्यं नीयमाना शाश्चतीव पूर्णचन्द्रिका सम्पादकसमित्याः\nसंस्कृतभाषाप्रणयिनां च सर्वेषां मनोरथं पूरयतु भगवतो महात्निपुरसुन्दरीसमेतस्य श्रीचन््रमोलीश्वरस्य\nकृपयेत्याशास्महे ।\nनारायणस्मृतिः\nरा\n|\n|\nत",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

@@ -1,0 +1,519 @@
+{
+  "page": 44,
+  "source_image": "image/Chanda_Mama_44.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        1559,
+        1115,
+        2636
+      ],
+      "text": "समगरस्दर्‌ रस्छिता गग इतना > लत्ता ` स्च\nनसरोवरस्य जले दीधकालिकतरणमेव राजकुमा-\nयाः आयासस्य कारणम्‌ । नावत्‌ तरणं पुरूा-\nणामपि दुस्साध्यम्‌ । भवती तु ब्रहुसमीचीनतया\nतरणं करतव्रती । प्रधमं नेत्रनिमीटनक्री डतः\nआयासः आसीत्‌ । तदुपरि पनः सरावरजले\nनरणेन मदान्‌ श्रमः जातः” इति उक्तवती ।\nपुनः वज्ञप्रभा क्रोधेन मद्दत्याः कपोट्द्वयमपि\nताटितवती । अनन्तरं मन्दाकिनी नाम तृतीया\nदासी तु शराजक्रुमार्याः आयासस्य कारणं न\nधावनं, न वा तरणम्‌ । अय्य राजकुमारी खय-\nमेव ठताभ्यः पुष्याचचयं कृनवत्ती । तदेव आया-",
+      "line_count": 12
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1157,
+        226,
+        2146,
+        2636
+      ],
+      "text": "सस्य कारणम्‌ । सा अज्ञछिमितानि पुष्पाणि\nआनीय माटां कतं मम हस्ते दत्त्रती । तदा\nएव तस्याः आयासम्‌ अहं टक्षितवती ' ` इति\nउक्तवती |\nमन्दाकिन्याः वचनं श्रुत्वा वज्ञप्रभा सन्तोषेण\nशय्यात; उतिथितवती । रत्नहारे मन्दाकिन्याः\nकण्टे योजितवती । मरीचिकायाः म्ट्रत्याः च\nअनीव आश्चयम्‌ अभवत्‌ । -\nकिचित्‌काटानन्तरं वज्प्रभमा निद्रामग्रा\nजाता । तदा मरीचिका मच्ट्रती च मन्दाकिन्याः\nहस्तं गृहीत्वा अन्तःपुरस्य एकस्मिन्‌ कोणे\nबरटात्कारेण आनीय ‹२ मन्दाकिनि! अस्माकं\nराजकुमार्याः रूपेखाविटासादयः कीदृशाः इति\nभवती न जानाति वा “ अस्माकं राजकुमारी\nयद्यमि स्थूटकाया, तथापि न जडा | अपिच\nधृष्टा अपि, इति भवती एव कदाचित्‌ उक्तवती।\nस्मरति किट ?\" इति पृृष्वत्यौ ।\nआम्‌ . सव्यमेव। तेन इदानीं कि जातम्‌? '\nइति मन्दाकिनी प्ृ्टवती ।\n‹'तादट्रशी राजकुमारी इद नीम्‌ अज्ञटिप्र-\nमाणकं पुष्पावचयं कृता श्रान्ता भव्रति ब्रा सा\nतादृशी सुक्रुमारी अस्ति वरा भवती मिध्या-\nवादिनी अस्ति | भवती केवट स्वाथसाधरनाय\nएवम्‌ उक्तवती किट ८ ` इति मरीचिका मख्टती\nच मन्दाकिनीं मस्सितवत्यौ ।",
+      "line_count": 25
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "समगरस्दर्‌ रस्छिता गग इतना > लत्ता ` स्च",
+      "bbox": [
+        289,
+        1559,
+        1096,
+        1587
+      ],
+      "confidence": 25.77,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "नसरोवरस्य जले दीधकालिकतरणमेव राजकुमा-",
+      "bbox": [
+        206,
+        1619,
+        1095,
+        1690
+      ],
+      "confidence": 68.95,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "याः आयासस्य कारणम्‌ । नावत्‌ तरणं पुरूा-",
+      "bbox": [
+        206,
+        1714,
+        1091,
+        1785
+      ],
+      "confidence": 74.54,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "णामपि दुस्साध्यम्‌ । भवती तु ब्रहुसमीचीनतया",
+      "bbox": [
+        206,
+        1809,
+        1105,
+        1881
+      ],
+      "confidence": 48.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "तरणं करतव्रती । प्रधमं नेत्रनिमीटनक्री डतः",
+      "bbox": [
+        207,
+        1897,
+        1100,
+        1975
+      ],
+      "confidence": 61.05,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "आयासः आसीत्‌ । तदुपरि पनः सरावरजले",
+      "bbox": [
+        208,
+        1997,
+        1104,
+        2069
+      ],
+      "confidence": 68.11,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "नरणेन मदान्‌ श्रमः जातः” इति उक्तवती ।",
+      "bbox": [
+        205,
+        2092,
+        1101,
+        2163
+      ],
+      "confidence": 70.9,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "पुनः वज्ञप्रभा क्रोधेन मद्दत्याः कपोट्द्वयमपि",
+      "bbox": [
+        290,
+        2194,
+        1105,
+        2264
+      ],
+      "confidence": 40.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "ताटितवती । अनन्तरं मन्दाकिनी नाम तृतीया",
+      "bbox": [
+        205,
+        2290,
+        1106,
+        2355
+      ],
+      "confidence": 77.38,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "दासी तु शराजक्रुमार्याः आयासस्य कारणं न",
+      "bbox": [
+        205,
+        2381,
+        1113,
+        2457
+      ],
+      "confidence": 34.26,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "धावनं, न वा तरणम्‌ । अय्य राजकुमारी खय-",
+      "bbox": [
+        207,
+        2465,
+        1103,
+        2553
+      ],
+      "confidence": 81.11,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "मेव ठताभ्यः पुष्याचचयं कृनवत्ती । तदेव आया-",
+      "bbox": [
+        208,
+        2557,
+        1100,
+        2634
+      ],
+      "confidence": 44.77,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "right",
+      "text": "सस्य कारणम्‌ । सा अज्ञछिमितानि पुष्पाणि",
+      "bbox": [
+        1183,
+        288,
+        2067,
+        361
+      ],
+      "confidence": 72.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "right",
+      "text": "आनीय माटां कतं मम हस्ते दत्त्रती । तदा",
+      "bbox": [
+        1176,
+        385,
+        2067,
+        452
+      ],
+      "confidence": 77.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "एव तस्याः आयासम्‌ अहं टक्षितवती ' ` इति",
+      "bbox": [
+        1172,
+        476,
+        2067,
+        549
+      ],
+      "confidence": 74.54,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "उक्तवती |",
+      "bbox": [
+        1177,
+        576,
+        1357,
+        632
+      ],
+      "confidence": 92.85,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "मन्दाकिन्याः वचनं श्रुत्वा वज्ञप्रभा सन्तोषेण",
+      "bbox": [
+        1257,
+        663,
+        2066,
+        742
+      ],
+      "confidence": 70.91,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "शय्यात; उतिथितवती । रत्नहारे मन्दाकिन्याः",
+      "bbox": [
+        1173,
+        761,
+        2063,
+        821
+      ],
+      "confidence": 49.93,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "कण्टे योजितवती । मरीचिकायाः म्ट्रत्याः च",
+      "bbox": [
+        1182,
+        851,
+        2068,
+        912
+      ],
+      "confidence": 72.02,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "अनीव आश्चयम्‌ अभवत्‌ । -",
+      "bbox": [
+        1173,
+        942,
+        1939,
+        1015
+      ],
+      "confidence": 76.57,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "किचित्‌काटानन्तरं वज्प्रभमा निद्रामग्रा",
+      "bbox": [
+        1258,
+        1056,
+        2065,
+        1123
+      ],
+      "confidence": 25.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "जाता । तदा मरीचिका मच्ट्रती च मन्दाकिन्याः",
+      "bbox": [
+        1173,
+        1150,
+        2061,
+        1208
+      ],
+      "confidence": 72.4,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "हस्तं गृहीत्वा अन्तःपुरस्य एकस्मिन्‌ कोणे",
+      "bbox": [
+        1173,
+        1238,
+        2067,
+        1311
+      ],
+      "confidence": 83.09,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "बरटात्कारेण आनीय ‹२ मन्दाकिनि! अस्माकं",
+      "bbox": [
+        1161,
+        1333,
+        2064,
+        1394
+      ],
+      "confidence": 49.95,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "राजकुमार्याः रूपेखाविटासादयः कीदृशाः इति",
+      "bbox": [
+        1162,
+        1426,
+        2066,
+        1497
+      ],
+      "confidence": 52.51,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "भवती न जानाति वा “ अस्माकं राजकुमारी",
+      "bbox": [
+        1174,
+        1522,
+        2065,
+        1590
+      ],
+      "confidence": 79.03,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "यद्यमि स्थूटकाया, तथापि न जडा | अपिच",
+      "bbox": [
+        1170,
+        1616,
+        2070,
+        1687
+      ],
+      "confidence": 66.02,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "धृष्टा अपि, इति भवती एव कदाचित्‌ उक्तवती।",
+      "bbox": [
+        1171,
+        1709,
+        2067,
+        1776
+      ],
+      "confidence": 75.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "स्मरति किट ?\" इति पृृष्वत्यौ ।",
+      "bbox": [
+        1173,
+        1796,
+        1790,
+        1867
+      ],
+      "confidence": 51.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "आम्‌ . सव्यमेव। तेन इदानीं कि जातम्‌? '",
+      "bbox": [
+        1260,
+        1892,
+        2064,
+        1959
+      ],
+      "confidence": 58.52,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "इति मन्दाकिनी प्ृ्टवती ।",
+      "bbox": [
+        1177,
+        1981,
+        1665,
+        2053
+      ],
+      "confidence": 75.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "‹'तादट्रशी राजकुमारी इद नीम्‌ अज्ञटिप्र-",
+      "bbox": [
+        1259,
+        2094,
+        2067,
+        2170
+      ],
+      "confidence": 15.4,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "माणकं पुष्पावचयं कृता श्रान्ता भव्रति ब्रा सा",
+      "bbox": [
+        1174,
+        2191,
+        2068,
+        2257
+      ],
+      "confidence": 66.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "तादृशी सुक्रुमारी अस्ति वरा भवती मिध्या-",
+      "bbox": [
+        1176,
+        2288,
+        2063,
+        2356
+      ],
+      "confidence": 62.94,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "वादिनी अस्ति | भवती केवट स्वाथसाधरनाय",
+      "bbox": [
+        1173,
+        2377,
+        2068,
+        2441
+      ],
+      "confidence": 51.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 36,
+      "column": "right",
+      "text": "एवम्‌ उक्तवती किट ८ ` इति मरीचिका मख्टती",
+      "bbox": [
+        1175,
+        2474,
+        2066,
+        2538
+      ],
+      "confidence": 71.24,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 37,
+      "column": "right",
+      "text": "च मन्दाकिनीं मस्सितवत्यौ ।",
+      "bbox": [
+        1177,
+        2561,
+        1715,
+        2626
+      ],
+      "confidence": 59.34,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "समगरस्दर्‌ रस्छिता गग इतना > लत्ता ` स्च\nनसरोवरस्य जले दीधकालिकतरणमेव राजकुमा-\nयाः आयासस्य कारणम्‌ । नावत्‌ तरणं पुरूा-\nणामपि दुस्साध्यम्‌ । भवती तु ब्रहुसमीचीनतया\nतरणं करतव्रती । प्रधमं नेत्रनिमीटनक्री डतः\nआयासः आसीत्‌ । तदुपरि पनः सरावरजले\nनरणेन मदान्‌ श्रमः जातः” इति उक्तवती ।\nपुनः वज्ञप्रभा क्रोधेन मद्दत्याः कपोट्द्वयमपि\nताटितवती । अनन्तरं मन्दाकिनी नाम तृतीया\nदासी तु शराजक्रुमार्याः आयासस्य कारणं न\nधावनं, न वा तरणम्‌ । अय्य राजकुमारी खय-\nमेव ठताभ्यः पुष्याचचयं कृनवत्ती । तदेव आया-\n\nसस्य कारणम्‌ । सा अज्ञछिमितानि पुष्पाणि\nआनीय माटां कतं मम हस्ते दत्त्रती । तदा\nएव तस्याः आयासम्‌ अहं टक्षितवती ' ` इति\nउक्तवती |\nमन्दाकिन्याः वचनं श्रुत्वा वज्ञप्रभा सन्तोषेण\nशय्यात; उतिथितवती । रत्नहारे मन्दाकिन्याः\nकण्टे योजितवती । मरीचिकायाः म्ट्रत्याः च\nअनीव आश्चयम्‌ अभवत्‌ । -\nकिचित्‌काटानन्तरं वज्प्रभमा निद्रामग्रा\nजाता । तदा मरीचिका मच्ट्रती च मन्दाकिन्याः\nहस्तं गृहीत्वा अन्तःपुरस्य एकस्मिन्‌ कोणे\nबरटात्कारेण आनीय ‹२ मन्दाकिनि! अस्माकं\nराजकुमार्याः रूपेखाविटासादयः कीदृशाः इति\nभवती न जानाति वा “ अस्माकं राजकुमारी\nयद्यमि स्थूटकाया, तथापि न जडा | अपिच\nधृष्टा अपि, इति भवती एव कदाचित्‌ उक्तवती।\nस्मरति किट ?\" इति पृृष्वत्यौ ।\nआम्‌ . सव्यमेव। तेन इदानीं कि जातम्‌? '\nइति मन्दाकिनी प्ृ्टवती ।\n‹'तादट्रशी राजकुमारी इद नीम्‌ अज्ञटिप्र-\nमाणकं पुष्पावचयं कृता श्रान्ता भव्रति ब्रा सा\nतादृशी सुक्रुमारी अस्ति वरा भवती मिध्या-\nवादिनी अस्ति | भवती केवट स्वाथसाधरनाय\nएवम्‌ उक्तवती किट ८ ` इति मरीचिका मख्टती\nच मन्दाकिनीं मस्सितवत्यौ ।",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

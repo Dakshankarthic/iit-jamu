@@ -1,0 +1,415 @@
+{
+  "page": 43,
+  "source_image": "image/Chanda_Mama_43.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        1048,
+        1104,
+        2551
+      ],
+      "text": "विदेहराजस्य एका पुत्री आसीत्‌ । वेज्न-\nप्रभा इति तस्याः नाम । एकदा सा उद्यानवने\nबहुकालपयन्तं क्रीडितवती । ततः सहसा “हन्त !\nनितरां श्रान्ता अस्मि इति दीं निश्वस्य\nअन्तःपुरं गत्वा तत्र पयङ्के उपविष्टवती ।\nक्रीडासमये तथा सह तिखः दास्पः आसन्‌ ।\nसम्भ्रान्ताः ताः तत्क्षणं तस्याः शुश्रूषां कृत्यः ।\nताः तस्याः सख्यः अपि आसन्‌ ।\nवज्ञप्रमा हसतूटिकातल्पे विश्रान्तिं ब्धवती }\nतदा सा “इदानीम्‌ एकं प्रदनं प्रच्छामि। उद्याने\nमम आयासस्य कारणं किम्‌? भवतीषु या समी-\nचीनम्‌ उत्तरं ददाति, सा मम रत्नहार प्राप्तम्‌\nअहतिः इति सखीः उक्तवती ।\nदास्यः परस्परं दृष्तः । अनन्तरे तासु\nमरीचिका नाम दासी “ध्यदि उत्तरं समीचीनं",
+      "line_count": 15
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1135,
+        1048,
+        2146,
+        2551
+      ],
+      "text": "न भवति तहि भवतौ किं कराते तदाप\nज्ञातव्यं किक 2 इति पृष्टवती ।\n८“तदा रत्नहारस्य स्थाने कपौठयस्य चपे-\nिकाद्रयं म्यते\" इति वज्ञप्रभा उक्तवती ।\nतदा मरीचिका राजक्रुमारीम्‌ उक्तवती- \"तहिं\nअहं मम॒ भग्यपरीन्लां करोमि | बहुकाल-\nपर्यन्तं राजकुमारी नेत्रनिमीटनक्री डायां निरता\nआसीत्‌ । तदेव आयासस्य कारणम्‌। मध्याहस्य\nतीरे आतपे तथा धावनेन आयासः अवद्यं\nभवति ए । केवर भवती एव तादशं श्रमं सोद\nशक्नोति । अन्या चेत्‌ मृच्छे प्राप्नोति स्म'\nइति । तदा वज्ञप्रभाः क्रोधेन मरीचिकायाः कपा-\nट्द्रयम्‌ अपि वेगेन ताडितवती । तत्‌ दष्ट्वा\nअन्ये दास्यो सम्यक हसितवत्यौ ।",
+      "line_count": 14
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "विदेहराजस्य एका पुत्री आसीत्‌ । वेज्न-",
+      "bbox": [
+        269,
+        1048,
+        1083,
+        1110
+      ],
+      "confidence": 77.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "प्रभा इति तस्याः नाम । एकदा सा उद्यानवने",
+      "bbox": [
+        187,
+        1133,
+        1086,
+        1203
+      ],
+      "confidence": 85.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "बहुकालपयन्तं क्रीडितवती । ततः सहसा “हन्त !",
+      "bbox": [
+        184,
+        1226,
+        1079,
+        1306
+      ],
+      "confidence": 57.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "नितरां श्रान्ता अस्मि इति दीं निश्वस्य",
+      "bbox": [
+        185,
+        1316,
+        1083,
+        1388
+      ],
+      "confidence": 77.29,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "अन्तःपुरं गत्वा तत्र पयङ्के उपविष्टवती ।",
+      "bbox": [
+        185,
+        1411,
+        1081,
+        1489
+      ],
+      "confidence": 73.25,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "क्रीडासमये तथा सह तिखः दास्पः आसन्‌ ।",
+      "bbox": [
+        185,
+        1513,
+        1079,
+        1583
+      ],
+      "confidence": 70.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "सम्भ्रान्ताः ताः तत्क्षणं तस्याः शुश्रूषां कृत्यः ।",
+      "bbox": [
+        186,
+        1607,
+        1079,
+        1689
+      ],
+      "confidence": 57.65,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "ताः तस्याः सख्यः अपि आसन्‌ ।",
+      "bbox": [
+        185,
+        1703,
+        842,
+        1772
+      ],
+      "confidence": 81.28,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "वज्ञप्रमा हसतूटिकातल्पे विश्रान्तिं ब्धवती }",
+      "bbox": [
+        187,
+        1855,
+        1080,
+        1930
+      ],
+      "confidence": 51.37,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "तदा सा “इदानीम्‌ एकं प्रदनं प्रच्छामि। उद्याने",
+      "bbox": [
+        188,
+        1949,
+        1084,
+        2016
+      ],
+      "confidence": 59.75,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "मम आयासस्य कारणं किम्‌? भवतीषु या समी-",
+      "bbox": [
+        188,
+        2043,
+        1086,
+        2110
+      ],
+      "confidence": 92.64,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "चीनम्‌ उत्तरं ददाति, सा मम रत्नहार प्राप्तम्‌",
+      "bbox": [
+        188,
+        2133,
+        1097,
+        2200
+      ],
+      "confidence": 61.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "अहतिः इति सखीः उक्तवती ।",
+      "bbox": [
+        189,
+        2227,
+        821,
+        2294
+      ],
+      "confidence": 64.87,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "दास्यः परस्परं दृष्तः । अनन्तरे तासु",
+      "bbox": [
+        273,
+        2382,
+        1094,
+        2449
+      ],
+      "confidence": 64.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "left",
+      "text": "मरीचिका नाम दासी “ध्यदि उत्तरं समीचीनं",
+      "bbox": [
+        188,
+        2475,
+        1096,
+        2536
+      ],
+      "confidence": 83.89,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "न भवति तहि भवतौ किं कराते तदाप",
+      "bbox": [
+        1154,
+        1048,
+        2063,
+        1100
+      ],
+      "confidence": 75.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "ज्ञातव्यं किक 2 इति पृष्टवती ।",
+      "bbox": [
+        1151,
+        1140,
+        1776,
+        1208
+      ],
+      "confidence": 70.54,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "८“तदा रत्नहारस्य स्थाने कपौठयस्य चपे-",
+      "bbox": [
+        1241,
+        1294,
+        2053,
+        1360
+      ],
+      "confidence": 48.44,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "िकाद्रयं म्यते\" इति वज्ञप्रभा उक्तवती ।",
+      "bbox": [
+        1150,
+        1402,
+        2048,
+        1466
+      ],
+      "confidence": 46.47,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "तदा मरीचिका राजक्रुमारीम्‌ उक्तवती- \"तहिं",
+      "bbox": [
+        1230,
+        1551,
+        2061,
+        1627
+      ],
+      "confidence": 67.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "अहं मम॒ भग्यपरीन्लां करोमि | बहुकाल-",
+      "bbox": [
+        1148,
+        1659,
+        2055,
+        1733
+      ],
+      "confidence": 37.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "पर्यन्तं राजकुमारी नेत्रनिमीटनक्री डायां निरता",
+      "bbox": [
+        1148,
+        1758,
+        2054,
+        1841
+      ],
+      "confidence": 64.53,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "आसीत्‌ । तदेव आयासस्य कारणम्‌। मध्याहस्य",
+      "bbox": [
+        1153,
+        1871,
+        2053,
+        1940
+      ],
+      "confidence": 79.24,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "तीरे आतपे तथा धावनेन आयासः अवद्यं",
+      "bbox": [
+        1150,
+        1974,
+        2057,
+        2032
+      ],
+      "confidence": 63.2,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "भवति ए । केवर भवती एव तादशं श्रमं सोद",
+      "bbox": [
+        1152,
+        2074,
+        2060,
+        2146
+      ],
+      "confidence": 83.57,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "शक्नोति । अन्या चेत्‌ मृच्छे प्राप्नोति स्म'",
+      "bbox": [
+        1154,
+        2180,
+        2052,
+        2253
+      ],
+      "confidence": 74.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "इति । तदा वज्ञप्रभाः क्रोधेन मरीचिकायाः कपा-",
+      "bbox": [
+        1155,
+        2283,
+        2057,
+        2352
+      ],
+      "confidence": 63.53,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "ट्द्रयम्‌ अपि वेगेन ताडितवती । तत्‌ दष्ट्वा",
+      "bbox": [
+        1157,
+        2378,
+        2060,
+        2453
+      ],
+      "confidence": 68.55,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "अन्ये दास्यो सम्यक हसितवत्यौ ।",
+      "bbox": [
+        1160,
+        2466,
+        1808,
+        2540
+      ],
+      "confidence": 72.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "विदेहराजस्य एका पुत्री आसीत्‌ । वेज्न-\nप्रभा इति तस्याः नाम । एकदा सा उद्यानवने\nबहुकालपयन्तं क्रीडितवती । ततः सहसा “हन्त !\nनितरां श्रान्ता अस्मि इति दीं निश्वस्य\nअन्तःपुरं गत्वा तत्र पयङ्के उपविष्टवती ।\nक्रीडासमये तथा सह तिखः दास्पः आसन्‌ ।\nसम्भ्रान्ताः ताः तत्क्षणं तस्याः शुश्रूषां कृत्यः ।\nताः तस्याः सख्यः अपि आसन्‌ ।\nवज्ञप्रमा हसतूटिकातल्पे विश्रान्तिं ब्धवती }\nतदा सा “इदानीम्‌ एकं प्रदनं प्रच्छामि। उद्याने\nमम आयासस्य कारणं किम्‌? भवतीषु या समी-\nचीनम्‌ उत्तरं ददाति, सा मम रत्नहार प्राप्तम्‌\nअहतिः इति सखीः उक्तवती ।\nदास्यः परस्परं दृष्तः । अनन्तरे तासु\nमरीचिका नाम दासी “ध्यदि उत्तरं समीचीनं\n\nन भवति तहि भवतौ किं कराते तदाप\nज्ञातव्यं किक 2 इति पृष्टवती ।\n८“तदा रत्नहारस्य स्थाने कपौठयस्य चपे-\nिकाद्रयं म्यते\" इति वज्ञप्रभा उक्तवती ।\nतदा मरीचिका राजक्रुमारीम्‌ उक्तवती- \"तहिं\nअहं मम॒ भग्यपरीन्लां करोमि | बहुकाल-\nपर्यन्तं राजकुमारी नेत्रनिमीटनक्री डायां निरता\nआसीत्‌ । तदेव आयासस्य कारणम्‌। मध्याहस्य\nतीरे आतपे तथा धावनेन आयासः अवद्यं\nभवति ए । केवर भवती एव तादशं श्रमं सोद\nशक्नोति । अन्या चेत्‌ मृच्छे प्राप्नोति स्म'\nइति । तदा वज्ञप्रभाः क्रोधेन मरीचिकायाः कपा-\nट्द्रयम्‌ अपि वेगेन ताडितवती । तत्‌ दष्ट्वा\nअन्ये दास्यो सम्यक हसितवत्यौ ।",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

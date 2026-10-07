@@ -1,0 +1,467 @@
+{
+  "page": 31,
+  "source_image": "image/Chanda_Mama_31.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        226,
+        1219,
+        2126
+      ],
+      "text": "करोति । तेन अहं मूर्खान्‌ जानामि\" इति उक्त-\nवान्‌ कान्तेशः ।\n“इदानीं भवान्‌ गृहं गच्छति वा ^' इति\nकोटीशः पृष्टवान्‌ । (न, नगरमध्ये किंचित्‌\nकार्यान्तरम्‌ अस्ति\" इति उक्तवान्‌ कान्तेः ।\n-अस्तु । वयं गच्छामः) । इति उक्ता ते स्व\nपुनः साक्षात्‌ कान्तेशस्य गृहमेव गतवन्तः ।\n| कान्तेरास्य पुत्रम्‌ उक्तवन्तः-- \"भाः! अत्र\nअस्माकम्‌ आगमनविचारः सम्भाषणविपयः च\n| भवतः जनकस्य समीपे न वक्तव्यः । नदथ\nत्रयम्‌ सव्र एकैकं सुवणनाणवं दद्मः उति\n| काटीश्चः उक्तवान्‌ । |\n| अस्तुः इनि कान्तेशम्य पुत्रः अङ्गीकृत-\n। वान्‌ । तदा कोटीश्च सरपं हस्ततः दशनाण-\n| कानि सङ्गृह्य कान्तेशस्य पुत्रस्य हस्ते दत्तवान्‌\n| ॥.“^ ^ ॥॥॥॥ | 1 | |",
+      "line_count": 16
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1223,
+        226,
+        2146,
+        2126
+      ],
+      "text": "कान्तेशः रात्रो गृहं॑प्र्यागतवान्‌ । तद्‌\nपुत्रः उक्तवान्‌-“प्रातः आरभ्य सायङ्काट-\nपर्यन्तम्‌ अद्भूतविषयं द्रष्टुम्‌ आगतेभ्यः आहट\nशतं नाणकानि मिलितानि । इदानीं भवानं\nऋणादिग्रहणं विना अत्र बाणिज्यं कतु शक्नोटि\nइति ।\nआम्‌, यत्र केवट मन्दा मूर्खाः च सन्ति,\nतदपेक्षया यत्र ते मूर्वाः स्वीय -अङ्ञानसय प्रदं\nकत न इच्छन्ति तत्र टाभः अधिकतरः मिरति\nअस्मिन्‌ नगे ताद्रश्ाः वहवः जनाः सन्ति\nइति कान्तेः टक्तवान्‌ ।\nकान्तः तेन ध्रनन महिषीः क्रीतवान्‌\nक्षीरवाणिव्यस्य आरम्भं कृतवान्‌ । . तर\nवाणिज्ये प्रतिदिनं अभित्रधते स्म। उत्तमः क्षीर्‌\nव्रणिक्‌ इति मः प्रसिद्धः अपि अभवत्‌ ।\n7 ~~~ |\n(१० _ -",
+      "line_count": 17
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "करोति । तेन अहं मूर्खान्‌ जानामि\" इति उक्त-",
+      "bbox": [
+        303,
+        278,
+        1195,
+        351
+      ],
+      "confidence": 73.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "वान्‌ कान्तेशः ।",
+      "bbox": [
+        309,
+        377,
+        611,
+        449
+      ],
+      "confidence": 87.2,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "“इदानीं भवान्‌ गृहं गच्छति वा ^' इति",
+      "bbox": [
+        395,
+        529,
+        1201,
+        613
+      ],
+      "confidence": 72.08,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "कोटीशः पृष्टवान्‌ । (न, नगरमध्ये किंचित्‌",
+      "bbox": [
+        307,
+        620,
+        1214,
+        697
+      ],
+      "confidence": 69.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "कार्यान्तरम्‌ अस्ति\" इति उक्तवान्‌ कान्तेः ।",
+      "bbox": [
+        310,
+        716,
+        1202,
+        786
+      ],
+      "confidence": 67.69,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "-अस्तु । वयं गच्छामः) । इति उक्ता ते स्व",
+      "bbox": [
+        315,
+        808,
+        1204,
+        882
+      ],
+      "confidence": 45.43,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "पुनः साक्षात्‌ कान्तेशस्य गृहमेव गतवन्तः ।",
+      "bbox": [
+        310,
+        903,
+        1203,
+        977
+      ],
+      "confidence": 78.3,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "| कान्तेरास्य पुत्रम्‌ उक्तवन्तः-- \"भाः! अत्र",
+      "bbox": [
+        256,
+        937,
+        1205,
+        1069
+      ],
+      "confidence": 56.33,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "अस्माकम्‌ आगमनविचारः सम्भाषणविपयः च",
+      "bbox": [
+        313,
+        1093,
+        1208,
+        1160
+      ],
+      "confidence": 75.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "| भवतः जनकस्य समीपे न वक्तव्यः । नदथ",
+      "bbox": [
+        256,
+        1139,
+        1207,
+        1285
+      ],
+      "confidence": 72.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "त्रयम्‌ सव्र एकैकं सुवणनाणवं दद्मः उति",
+      "bbox": [
+        316,
+        1275,
+        1209,
+        1347
+      ],
+      "confidence": 66.53,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "| काटीश्चः उक्तवान्‌ । |",
+      "bbox": [
+        257,
+        1287,
+        1012,
+        1461
+      ],
+      "confidence": 77.05,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "| अस्तुः इनि कान्तेशम्य पुत्रः अङ्गीकृत-",
+      "bbox": [
+        257,
+        1527,
+        1210,
+        1599
+      ],
+      "confidence": 44.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "। वान्‌ । तदा कोटीश्च सरपं हस्ततः दशनाण-",
+      "bbox": [
+        258,
+        1609,
+        1210,
+        1687
+      ],
+      "confidence": 52.83,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "left",
+      "text": "| कानि सङ्गृह्य कान्तेशस्य पुत्रस्य हस्ते दत्तवान्‌",
+      "bbox": [
+        258,
+        1694,
+        1211,
+        1801
+      ],
+      "confidence": 63.61,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "left",
+      "text": "| ॥.“^ ^ ॥॥॥॥ | 1 | |",
+      "bbox": [
+        267,
+        1932,
+        1219,
+        2140
+      ],
+      "confidence": 24.29,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "कान्तेशः रात्रो गृहं॑प्र्यागतवान्‌ । तद्‌",
+      "bbox": [
+        1343,
+        262,
+        2146,
+        349
+      ],
+      "confidence": 69.85,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "पुत्रः उक्तवान्‌-“प्रातः आरभ्य सायङ्काट-",
+      "bbox": [
+        1261,
+        361,
+        2146,
+        434
+      ],
+      "confidence": 72.77,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "पर्यन्तम्‌ अद्भूतविषयं द्रष्टुम्‌ आगतेभ्यः आहट",
+      "bbox": [
+        1262,
+        451,
+        2146,
+        533
+      ],
+      "confidence": 67.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "शतं नाणकानि मिलितानि । इदानीं भवानं",
+      "bbox": [
+        1263,
+        547,
+        2146,
+        611
+      ],
+      "confidence": 74.03,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "ऋणादिग्रहणं विना अत्र बाणिज्यं कतु शक्नोटि",
+      "bbox": [
+        1262,
+        636,
+        2146,
+        706
+      ],
+      "confidence": 65.2,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "इति ।",
+      "bbox": [
+        1266,
+        740,
+        1370,
+        802
+      ],
+      "confidence": 26.4,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "आम्‌, यत्र केवट मन्दा मूर्खाः च सन्ति,",
+      "bbox": [
+        1312,
+        886,
+        2146,
+        960
+      ],
+      "confidence": 70.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "तदपेक्षया यत्र ते मूर्वाः स्वीय -अङ्ञानसय प्रदं",
+      "bbox": [
+        1267,
+        963,
+        2146,
+        1063
+      ],
+      "confidence": 63.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "कत न इच्छन्ति तत्र टाभः अधिकतरः मिरति",
+      "bbox": [
+        1268,
+        1086,
+        2146,
+        1157
+      ],
+      "confidence": 81.3,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "अस्मिन्‌ नगे ताद्रश्ाः वहवः जनाः सन्ति",
+      "bbox": [
+        1272,
+        1181,
+        2142,
+        1244
+      ],
+      "confidence": 74.92,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "इति कान्तेः टक्तवान्‌ ।",
+      "bbox": [
+        1272,
+        1280,
+        1744,
+        1347
+      ],
+      "confidence": 65.75,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "कान्तः तेन ध्रनन महिषीः क्रीतवान्‌",
+      "bbox": [
+        1359,
+        1434,
+        2146,
+        1496
+      ],
+      "confidence": 45.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "क्षीरवाणिव्यस्य आरम्भं कृतवान्‌ । . तर",
+      "bbox": [
+        1274,
+        1525,
+        2146,
+        1593
+      ],
+      "confidence": 29.26,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "वाणिज्ये प्रतिदिनं अभित्रधते स्म। उत्तमः क्षीर्‌",
+      "bbox": [
+        1274,
+        1615,
+        2141,
+        1681
+      ],
+      "confidence": 74.35,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "व्रणिक्‌ इति मः प्रसिद्धः अपि अभवत्‌ ।",
+      "bbox": [
+        1275,
+        1715,
+        2057,
+        1784
+      ],
+      "confidence": 48.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "7 ~~~ |",
+      "bbox": [
+        1223,
+        1838,
+        2146,
+        2142
+      ],
+      "confidence": 66.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "(१० _ -",
+      "bbox": [
+        1223,
+        2016,
+        1534,
+        2142
+      ],
+      "confidence": 43.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "करोति । तेन अहं मूर्खान्‌ जानामि\" इति उक्त-\nवान्‌ कान्तेशः ।\n“इदानीं भवान्‌ गृहं गच्छति वा ^' इति\nकोटीशः पृष्टवान्‌ । (न, नगरमध्ये किंचित्‌\nकार्यान्तरम्‌ अस्ति\" इति उक्तवान्‌ कान्तेः ।\n-अस्तु । वयं गच्छामः) । इति उक्ता ते स्व\nपुनः साक्षात्‌ कान्तेशस्य गृहमेव गतवन्तः ।\n| कान्तेरास्य पुत्रम्‌ उक्तवन्तः-- \"भाः! अत्र\nअस्माकम्‌ आगमनविचारः सम्भाषणविपयः च\n| भवतः जनकस्य समीपे न वक्तव्यः । नदथ\nत्रयम्‌ सव्र एकैकं सुवणनाणवं दद्मः उति\n| काटीश्चः उक्तवान्‌ । |\n| अस्तुः इनि कान्तेशम्य पुत्रः अङ्गीकृत-\n। वान्‌ । तदा कोटीश्च सरपं हस्ततः दशनाण-\n| कानि सङ्गृह्य कान्तेशस्य पुत्रस्य हस्ते दत्तवान्‌\n| ॥.“^ ^ ॥॥॥॥ | 1 | |\n\nकान्तेशः रात्रो गृहं॑प्र्यागतवान्‌ । तद्‌\nपुत्रः उक्तवान्‌-“प्रातः आरभ्य सायङ्काट-\nपर्यन्तम्‌ अद्भूतविषयं द्रष्टुम्‌ आगतेभ्यः आहट\nशतं नाणकानि मिलितानि । इदानीं भवानं\nऋणादिग्रहणं विना अत्र बाणिज्यं कतु शक्नोटि\nइति ।\nआम्‌, यत्र केवट मन्दा मूर्खाः च सन्ति,\nतदपेक्षया यत्र ते मूर्वाः स्वीय -अङ्ञानसय प्रदं\nकत न इच्छन्ति तत्र टाभः अधिकतरः मिरति\nअस्मिन्‌ नगे ताद्रश्ाः वहवः जनाः सन्ति\nइति कान्तेः टक्तवान्‌ ।\nकान्तः तेन ध्रनन महिषीः क्रीतवान्‌\nक्षीरवाणिव्यस्य आरम्भं कृतवान्‌ । . तर\nवाणिज्ये प्रतिदिनं अभित्रधते स्म। उत्तमः क्षीर्‌\nव्रणिक्‌ इति मः प्रसिद्धः अपि अभवत्‌ ।\n7 ~~~ |\n(१० _ -",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

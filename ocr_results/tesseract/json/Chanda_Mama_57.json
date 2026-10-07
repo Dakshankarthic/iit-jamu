@@ -1,0 +1,157 @@
+{
+  "page": 57,
+  "source_image": "image/Chanda_Mama_57.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 3,
+  "reading_order": "Tesseract automatic page layout",
+  "blocks": [
+    {
+      "column": "page",
+      "bbox": [
+        0,
+        0,
+        2271,
+        2835
+      ],
+      "text": "(ॐ 4 16 ॥ 1 ५८ ॥\n1 (५); ॥॥*५५॥॥ ५८९१५ |\n1101 ॥ | `\n|||, /^ 411) ॥.41; 11111 |||\n= र |\n१.\n(ग छ + ८\n0 >+ ५\n1 ५6\nच (1",
+      "line_count": 10
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "page",
+      "text": "(ॐ 4 16 ॥ 1 ५८ ॥",
+      "bbox": [
+        10,
+        0,
+        774,
+        295
+      ],
+      "confidence": 50.8,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "page",
+      "text": "1 (५); ॥॥*५५॥॥ ५८९१५ |",
+      "bbox": [
+        17,
+        152,
+        805,
+        267
+      ],
+      "confidence": 24.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "page",
+      "text": "1101 ॥ | `",
+      "bbox": [
+        14,
+        173,
+        970,
+        356
+      ],
+      "confidence": 49.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "page",
+      "text": "|||, /^ 411) ॥.41; 11111 |||",
+      "bbox": [
+        12,
+        286,
+        903,
+        382
+      ],
+      "confidence": 5.14,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "page",
+      "text": "= र |",
+      "bbox": [
+        0,
+        748,
+        893,
+        1936
+      ],
+      "confidence": 34.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "page",
+      "text": "१.",
+      "bbox": [
+        293,
+        1918,
+        339,
+        1934
+      ],
+      "confidence": 59.3,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "page",
+      "text": "(ग छ + ८",
+      "bbox": [
+        122,
+        1930,
+        345,
+        1991
+      ],
+      "confidence": 46.93,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "page",
+      "text": "0 >+ ५",
+      "bbox": [
+        15,
+        1952,
+        344,
+        2096
+      ],
+      "confidence": 55.42,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "page",
+      "text": "1 ५6",
+      "bbox": [
+        244,
+        1960,
+        417,
+        2096
+      ],
+      "confidence": 38.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "page",
+      "text": "च (1",
+      "bbox": [
+        381,
+        1998,
+        600,
+        2146
+      ],
+      "confidence": 47.94,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "(ॐ 4 16 ॥ 1 ५८ ॥\n1 (५); ॥॥*५५॥॥ ५८९१५ |\n1101 ॥ | `\n|||, /^ 411) ॥.41; 11111 |||\n= र |\n१.\n(ग छ + ८\n0 >+ ५\n1 ५6\nच (1",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

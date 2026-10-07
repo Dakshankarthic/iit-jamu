@@ -1,0 +1,441 @@
+{
+  "page": 7,
+  "source_image": "image/Chanda_Mama_07.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        992,
+        1115,
+        2523
+      ],
+      "text": "र नाम प्रामः । तत्र रमणः नाम\nपरोपकारी वसति स्म । एकदा महत्या वृष्ट्या\nचण्डमास्तेन च वृक्षाः पतिताः, गृहाणि रिचि-\nलानि जातानि । बहवः निगतिकाः अभवन्‌ ।\nरमणः गृहं गृहम्‌ अटित्वा धनं सङ्गृहीतवान्‌।\nनिगतिकानां कृते तेन धनेन कुटीरान्‌ नि्माप्य\nदत्तवान्‌ । एतत्‌-पुण्यकार्यर्थ ग्रामीणाः स्वे धनं\nदत्तन्तः । किन्तु घनगुप्तः नाम धनिकः एकं\nनाणकम्‌ अपि न दत्तान्‌ ।\nअधिकदानं ये कृतवन्तः तेषां नामानि\nरमणः सवत्र उद्धोषयति स्म । धनगुप्तः रमणम्‌\nआहूय भत्सयिता उक्तवान्‌ “भोः! महोपका-\nरिन्‌ किमथ दातृणां नामानि सदा रतिः ।\nयेषां गृहं धनं च नष्टं तेषु कथित्‌ अपि भिक्षां -\nन याचितवान्‌ । अत्र रहस्य किं भवान्‌ जानाति?\nश्रणोत | भिश्ां याचिनम अग्मन मि",
+      "line_count": 16
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1146,
+        992,
+        2146,
+        2523
+      ],
+      "text": "€ न इच्छति । भवादृशाः ख परोपकार\nव्याजेन धनसड्प्रहं कुवन्ति । सङ्गृहीते धने\nकिञ्चन अश भवान्‌ गिटति इत्यपि अहं ज्ञात-\nवान्‌ । अतः भवादृशस्य व्चकस्य॒कृते अहं\nसहकारं क्तु न सिद्धः।' |\nरामे स्व रमणं प्रशसन्ति स्म। तथापि\nतस्य न तृप्तिः । धनगु्तः अपमानं कृतवान्‌ ।\nअतः यथाकथञ्चित्‌ प्रतीकारः करणीयः एव इति\nतदय सङ्कलः ।\nएकदा रमणः धनगुप्तस्य गृहं गत्रा उक्त-\nवान्‌ “भवान्‌ मां वञ्चक मन्यते। किन्तु\nप्रामीणाः सवे मां प्रशंसन्ति । प्रामे सामान्य-\nजनाः अपि कुटीरनिर्माणा्थं धनं दत्ततन्तः ।\nभवान्‌ एकः एव एक नाणकम्‌ अपि न दत्त-\nठाम ।१",
+      "line_count": 15
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "र नाम प्रामः । तत्र रमणः नाम",
+      "bbox": [
+        147,
+        999,
+        1100,
+        2523
+      ],
+      "confidence": 86.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "परोपकारी वसति स्म । एकदा महत्या वृष्ट्या",
+      "bbox": [
+        197,
+        1162,
+        1097,
+        1241
+      ],
+      "confidence": 88.55,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "चण्डमास्तेन च वृक्षाः पतिताः, गृहाणि रिचि-",
+      "bbox": [
+        198,
+        1253,
+        1094,
+        1335
+      ],
+      "confidence": 67.56,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "लानि जातानि । बहवः निगतिकाः अभवन्‌ ।",
+      "bbox": [
+        195,
+        1349,
+        1095,
+        1428
+      ],
+      "confidence": 78.54,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "रमणः गृहं गृहम्‌ अटित्वा धनं सङ्गृहीतवान्‌।",
+      "bbox": [
+        195,
+        1447,
+        1111,
+        1523
+      ],
+      "confidence": 79.07,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "निगतिकानां कृते तेन धनेन कुटीरान्‌ नि्माप्य",
+      "bbox": [
+        197,
+        1536,
+        1097,
+        1622
+      ],
+      "confidence": 59.18,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "दत्तवान्‌ । एतत्‌-पुण्यकार्यर्थ ग्रामीणाः स्वे धनं",
+      "bbox": [
+        199,
+        1630,
+        1094,
+        1703
+      ],
+      "confidence": 46.49,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "दत्तन्तः । किन्तु घनगुप्तः नाम धनिकः एकं",
+      "bbox": [
+        193,
+        1729,
+        1095,
+        1798
+      ],
+      "confidence": 61.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "नाणकम्‌ अपि न दत्तान्‌ ।",
+      "bbox": [
+        194,
+        1822,
+        726,
+        1891
+      ],
+      "confidence": 80.73,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "अधिकदानं ये कृतवन्तः तेषां नामानि",
+      "bbox": [
+        276,
+        1912,
+        1093,
+        1979
+      ],
+      "confidence": 82.95,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "रमणः सवत्र उद्धोषयति स्म । धनगुप्तः रमणम्‌",
+      "bbox": [
+        191,
+        2003,
+        1101,
+        2082
+      ],
+      "confidence": 57.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "आहूय भत्सयिता उक्तवान्‌ “भोः! महोपका-",
+      "bbox": [
+        190,
+        2098,
+        1089,
+        2175
+      ],
+      "confidence": 51.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "रिन्‌ किमथ दातृणां नामानि सदा रतिः ।",
+      "bbox": [
+        185,
+        2187,
+        1090,
+        2283
+      ],
+      "confidence": 68.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "येषां गृहं धनं च नष्टं तेषु कथित्‌ अपि भिक्षां -",
+      "bbox": [
+        187,
+        2281,
+        1094,
+        2367
+      ],
+      "confidence": 83.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "left",
+      "text": "न याचितवान्‌ । अत्र रहस्य किं भवान्‌ जानाति?",
+      "bbox": [
+        186,
+        2384,
+        1087,
+        2452
+      ],
+      "confidence": 88.16,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "left",
+      "text": "श्रणोत | भिश्ां याचिनम अग्मन मि",
+      "bbox": [
+        187,
+        2475,
+        1089,
+        2523
+      ],
+      "confidence": 36.12,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "€ न इच्छति । भवादृशाः ख परोपकार",
+      "bbox": [
+        1146,
+        996,
+        2060,
+        2523
+      ],
+      "confidence": 36.35,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "व्याजेन धनसड्प्रहं कुवन्ति । सङ्गृहीते धने",
+      "bbox": [
+        1159,
+        1163,
+        2065,
+        1243
+      ],
+      "confidence": 53.91,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "किञ्चन अश भवान्‌ गिटति इत्यपि अहं ज्ञात-",
+      "bbox": [
+        1163,
+        1255,
+        2061,
+        1330
+      ],
+      "confidence": 84.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "वान्‌ । अतः भवादृशस्य व्चकस्य॒कृते अहं",
+      "bbox": [
+        1160,
+        1354,
+        2066,
+        1437
+      ],
+      "confidence": 64.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "सहकारं क्तु न सिद्धः।' |",
+      "bbox": [
+        1160,
+        1443,
+        1974,
+        1515
+      ],
+      "confidence": 80.47,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "रामे स्व रमणं प्रशसन्ति स्म। तथापि",
+      "bbox": [
+        1242,
+        1587,
+        2059,
+        1649
+      ],
+      "confidence": 80.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "तस्य न तृप्तिः । धनगु्तः अपमानं कृतवान्‌ ।",
+      "bbox": [
+        1157,
+        1683,
+        2060,
+        1767
+      ],
+      "confidence": 76.26,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "अतः यथाकथञ्चित्‌ प्रतीकारः करणीयः एव इति",
+      "bbox": [
+        1156,
+        1778,
+        2060,
+        1847
+      ],
+      "confidence": 72.64,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "तदय सङ्कलः ।",
+      "bbox": [
+        1156,
+        1884,
+        1469,
+        1947
+      ],
+      "confidence": 67.61,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "एकदा रमणः धनगुप्तस्य गृहं गत्रा उक्त-",
+      "bbox": [
+        1240,
+        2012,
+        2055,
+        2084
+      ],
+      "confidence": 76.05,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "वान्‌ “भवान्‌ मां वञ्चक मन्यते। किन्तु",
+      "bbox": [
+        1156,
+        2105,
+        2055,
+        2177
+      ],
+      "confidence": 66.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "प्रामीणाः सवे मां प्रशंसन्ति । प्रामे सामान्य-",
+      "bbox": [
+        1155,
+        2200,
+        2053,
+        2261
+      ],
+      "confidence": 82.55,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "जनाः अपि कुटीरनिर्माणा्थं धनं दत्ततन्तः ।",
+      "bbox": [
+        1156,
+        2293,
+        2055,
+        2365
+      ],
+      "confidence": 44.21,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "भवान्‌ एकः एव एक नाणकम्‌ अपि न दत्त-",
+      "bbox": [
+        1154,
+        2390,
+        2087,
+        2459
+      ],
+      "confidence": 90.47,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "ठाम ।१",
+      "bbox": [
+        1154,
+        2493,
+        1315,
+        2523
+      ],
+      "confidence": 35.56,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "र नाम प्रामः । तत्र रमणः नाम\nपरोपकारी वसति स्म । एकदा महत्या वृष्ट्या\nचण्डमास्तेन च वृक्षाः पतिताः, गृहाणि रिचि-\nलानि जातानि । बहवः निगतिकाः अभवन्‌ ।\nरमणः गृहं गृहम्‌ अटित्वा धनं सङ्गृहीतवान्‌।\nनिगतिकानां कृते तेन धनेन कुटीरान्‌ नि्माप्य\nदत्तवान्‌ । एतत्‌-पुण्यकार्यर्थ ग्रामीणाः स्वे धनं\nदत्तन्तः । किन्तु घनगुप्तः नाम धनिकः एकं\nनाणकम्‌ अपि न दत्तान्‌ ।\nअधिकदानं ये कृतवन्तः तेषां नामानि\nरमणः सवत्र उद्धोषयति स्म । धनगुप्तः रमणम्‌\nआहूय भत्सयिता उक्तवान्‌ “भोः! महोपका-\nरिन्‌ किमथ दातृणां नामानि सदा रतिः ।\nयेषां गृहं धनं च नष्टं तेषु कथित्‌ अपि भिक्षां -\nन याचितवान्‌ । अत्र रहस्य किं भवान्‌ जानाति?\nश्रणोत | भिश्ां याचिनम अग्मन मि\n\n€ न इच्छति । भवादृशाः ख परोपकार\nव्याजेन धनसड्प्रहं कुवन्ति । सङ्गृहीते धने\nकिञ्चन अश भवान्‌ गिटति इत्यपि अहं ज्ञात-\nवान्‌ । अतः भवादृशस्य व्चकस्य॒कृते अहं\nसहकारं क्तु न सिद्धः।' |\nरामे स्व रमणं प्रशसन्ति स्म। तथापि\nतस्य न तृप्तिः । धनगु्तः अपमानं कृतवान्‌ ।\nअतः यथाकथञ्चित्‌ प्रतीकारः करणीयः एव इति\nतदय सङ्कलः ।\nएकदा रमणः धनगुप्तस्य गृहं गत्रा उक्त-\nवान्‌ “भवान्‌ मां वञ्चक मन्यते। किन्तु\nप्रामीणाः सवे मां प्रशंसन्ति । प्रामे सामान्य-\nजनाः अपि कुटीरनिर्माणा्थं धनं दत्ततन्तः ।\nभवान्‌ एकः एव एक नाणकम्‌ अपि न दत्त-\nठाम ।१",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

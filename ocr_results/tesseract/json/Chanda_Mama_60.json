@@ -1,0 +1,545 @@
+{
+  "page": 60,
+  "source_image": "image/Chanda_Mama_60.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        1360,
+        1101,
+        2608
+      ],
+      "text": "| प्रवृत्तः । गुप्तचराणां द्वारा एतं वृत्तान्तं राजा\n ज्ञाला अङ्गरक्षकः सह तथोः प्रहाणा्थ अश्वम्‌\n। आद्य ध्रावितवान्‌ ।\n| एकषण्टात्मकः काठः अतीतः। राजा महा-\nसचिव तथा तस्य पुत्रीं गृहीतवान्‌ । राजा\n। निष्कच्णं महासचिवस्य शिरः खडगेन छिनि-\n| वान्‌ । तस्य पुत्री च ब्रटात्कारेण ख्नगर\n। प्रयानीतवान्‌ ।\n। “'अहो ! कियान्‌ गवः ! महाराजेन मया\n। सह विवाहं निराकरोति !! इदानीं को वा\n। भवतीं रक्षति ? इति महासचिरस्य पुत्री राजा\nकोपेन पृष्टवान्‌ ।\n८“इदानीं स्वयं किमपि कतु न शक्नोमि ।",
+      "line_count": 13
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1132,
+        226,
+        2146,
+        2608
+      ],
+      "text": "सः परमात्मा एव मम गातः` इति सा उक्तवता । ¦\nपरस्मिन्‌ दिने एव- ““तस्य राज्यस्य एकस्मिन्‌ |\nमागे प्रजाः राजानं विय राजधानीम्‌ आक्र |\nभितं प्रस्थिता: सन्ति\" इति वार्ता राजा श्जुतवान्‌। |\nक्षटिति एव सेनया सह राजा तत्‌ राजविरोधि- |\nकृत्यं समूटम्‌ उत्पाटयितुं प्रस्थितवान्‌ । महा- |\nसचिवस्य पुत्री कारागृहात्‌ पटायन कुर्यात्‌ इति |\nतस्याः रक्षणाथम्‌ उपसचिवं प्रस्थानसमये |\nनियोजितवान्‌ । |\nअन्तःपुरस्य प्रकीष्ठे बद्धां महासचिवस्य पुत्री\nउपसचिवः गवाक्षदरारा दृष्ट्वा तस्याः सौन्दर्येण\nआङ्रष्टः । अतः विश्वास दासीम्‌ एकां\nतस्याः समीपे प्रेषितवान्‌ ।\nसा दासी गत्वा महासचिवस्य पुत्रं प्रति\nउक्तवती- (अस्माकं सवामी उपसच्छिः भवयाः ।\nविषये बहु आद्रवान्‌ । पाश्वस्थे -उद्याने उप-\nसचिवेन विहारं कृत्वा भवती पुनः अत्र॒ एव\nआगन्तुं शक्नोति । एतद्विषयं राजा तु स्वधा\nन जानाति । । |\nएतत्‌ श्चुता महासचविस्य पुत्री व्याकुटेन |\nउक्तवती- “एतस्यां दुरस्थाय।म्‌ उद्याने विहारं\nक्तु मम मनः प्रतते वा १ मम प्रयक्षे एव ¦\nमम पिता मारितः । अहम्‌ अपि वटात्कारेण |\nआनीता, अत्र बद्धा अस्मि। अतः उपसचिविं |\nप्रति वदतु “इतः परम्‌ एतादृशीं वातौ मा श्राव- ¦\nयतु\" इति । |",
+      "line_count": 26
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "| प्रवृत्तः । गुप्तचराणां द्वारा एतं वृत्तान्तं राजा",
+      "bbox": [
+        147,
+        1360,
+        1080,
+        1512
+      ],
+      "confidence": 70.65,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": " ज्ञाला अङ्गरक्षकः सह तथोः प्रहाणा्थ अश्वम्‌",
+      "bbox": [
+        148,
+        1498,
+        1093,
+        1611
+      ],
+      "confidence": 42.54,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "। आद्य ध्रावितवान्‌ ।",
+      "bbox": [
+        149,
+        1617,
+        578,
+        1697
+      ],
+      "confidence": 62.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "| एकषण्टात्मकः काठः अतीतः। राजा महा-",
+      "bbox": [
+        150,
+        1699,
+        1082,
+        1819
+      ],
+      "confidence": 71.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "सचिव तथा तस्य पुत्रीं गृहीतवान्‌ । राजा",
+      "bbox": [
+        197,
+        1801,
+        1085,
+        1872
+      ],
+      "confidence": 76.93,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "। निष्कच्णं महासचिवस्य शिरः खडगेन छिनि-",
+      "bbox": [
+        152,
+        1894,
+        1083,
+        1971
+      ],
+      "confidence": 52.93,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "| वान्‌ । तस्य पुत्री च ब्रटात्कारेण ख्नगर",
+      "bbox": [
+        152,
+        1974,
+        1088,
+        2079
+      ],
+      "confidence": 29.22,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "। प्रयानीतवान्‌ ।",
+      "bbox": [
+        154,
+        2089,
+        481,
+        2155
+      ],
+      "confidence": 61.64,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "। “'अहो ! कियान्‌ गवः ! महाराजेन मया",
+      "bbox": [
+        154,
+        2162,
+        1089,
+        2239
+      ],
+      "confidence": 86.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "। सह विवाहं निराकरोति !! इदानीं को वा",
+      "bbox": [
+        156,
+        2242,
+        1089,
+        2338
+      ],
+      "confidence": 71.8,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "। भवतीं रक्षति ? इति महासचिरस्य पुत्री राजा",
+      "bbox": [
+        157,
+        2342,
+        1088,
+        2422
+      ],
+      "confidence": 52.16,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "कोपेन पृष्टवान्‌ ।",
+      "bbox": [
+        197,
+        2446,
+        514,
+        2518
+      ],
+      "confidence": 73.4,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "८“इदानीं स्वयं किमपि कतु न शक्नोमि ।",
+      "bbox": [
+        285,
+        2525,
+        1084,
+        2597
+      ],
+      "confidence": 65.07,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "right",
+      "text": "सः परमात्मा एव मम गातः` इति सा उक्तवता । ¦",
+      "bbox": [
+        1146,
+        226,
+        2087,
+        277
+      ],
+      "confidence": 79.83,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "परस्मिन्‌ दिने एव- ““तस्य राज्यस्य एकस्मिन्‌ |",
+      "bbox": [
+        1144,
+        260,
+        2087,
+        374
+      ],
+      "confidence": 70.94,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "मागे प्रजाः राजानं विय राजधानीम्‌ आक्र |",
+      "bbox": [
+        1149,
+        369,
+        2088,
+        463
+      ],
+      "confidence": 51.47,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "भितं प्रस्थिता: सन्ति\" इति वार्ता राजा श्जुतवान्‌। |",
+      "bbox": [
+        1142,
+        486,
+        2088,
+        560
+      ],
+      "confidence": 62.22,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "क्षटिति एव सेनया सह राजा तत्‌ राजविरोधि- |",
+      "bbox": [
+        1142,
+        558,
+        2088,
+        653
+      ],
+      "confidence": 85.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "कृत्यं समूटम्‌ उत्पाटयितुं प्रस्थितवान्‌ । महा- |",
+      "bbox": [
+        1142,
+        664,
+        2090,
+        777
+      ],
+      "confidence": 68.49,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "सचिवस्य पुत्री कारागृहात्‌ पटायन कुर्यात्‌ इति |",
+      "bbox": [
+        1141,
+        765,
+        2090,
+        872
+      ],
+      "confidence": 84.87,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "तस्याः रक्षणाथम्‌ उपसचिवं प्रस्थानसमये |",
+      "bbox": [
+        1142,
+        855,
+        2091,
+        931
+      ],
+      "confidence": 79.26,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "नियोजितवान्‌ । |",
+      "bbox": [
+        1145,
+        942,
+        2091,
+        1020
+      ],
+      "confidence": 89.18,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "अन्तःपुरस्य प्रकीष्ठे बद्धां महासचिवस्य पुत्री",
+      "bbox": [
+        1230,
+        1044,
+        2041,
+        1114
+      ],
+      "confidence": 75.26,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "उपसचिवः गवाक्षदरारा दृष्ट्वा तस्याः सौन्दर्येण",
+      "bbox": [
+        1145,
+        1133,
+        2042,
+        1212
+      ],
+      "confidence": 53.87,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "आङ्रष्टः । अतः विश्वास दासीम्‌ एकां",
+      "bbox": [
+        1149,
+        1227,
+        2043,
+        1297
+      ],
+      "confidence": 54.12,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "तस्याः समीपे प्रेषितवान्‌ ।",
+      "bbox": [
+        1147,
+        1322,
+        1656,
+        1393
+      ],
+      "confidence": 86.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "सा दासी गत्वा महासचिवस्य पुत्रं प्रति",
+      "bbox": [
+        1231,
+        1417,
+        2042,
+        1484
+      ],
+      "confidence": 83.66,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "उक्तवती- (अस्माकं सवामी उपसच्छिः भवयाः ।",
+      "bbox": [
+        1147,
+        1504,
+        2094,
+        1576
+      ],
+      "confidence": 58.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "विषये बहु आद्रवान्‌ । पाश्वस्थे -उद्याने उप-",
+      "bbox": [
+        1149,
+        1598,
+        2038,
+        1676
+      ],
+      "confidence": 83.28,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "सचिवेन विहारं कृत्वा भवती पुनः अत्र॒ एव",
+      "bbox": [
+        1148,
+        1692,
+        2046,
+        1765
+      ],
+      "confidence": 83.87,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "आगन्तुं शक्नोति । एतद्विषयं राजा तु स्वधा",
+      "bbox": [
+        1151,
+        1785,
+        2044,
+        1857
+      ],
+      "confidence": 73.66,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "न जानाति । । |",
+      "bbox": [
+        1151,
+        1866,
+        2095,
+        1949
+      ],
+      "confidence": 62.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "एतत्‌ श्चुता महासचविस्य पुत्री व्याकुटेन |",
+      "bbox": [
+        1235,
+        1955,
+        2095,
+        2048
+      ],
+      "confidence": 53.07,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "उक्तवती- “एतस्यां दुरस्थाय।म्‌ उद्याने विहारं",
+      "bbox": [
+        1153,
+        2067,
+        2051,
+        2137
+      ],
+      "confidence": 71.62,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "क्तु मम मनः प्रतते वा १ मम प्रयक्षे एव ¦",
+      "bbox": [
+        1154,
+        2153,
+        2097,
+        2231
+      ],
+      "confidence": 67.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 36,
+      "column": "right",
+      "text": "मम पिता मारितः । अहम्‌ अपि वटात्कारेण |",
+      "bbox": [
+        1152,
+        2253,
+        2100,
+        2378
+      ],
+      "confidence": 62.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 37,
+      "column": "right",
+      "text": "आनीता, अत्र बद्धा अस्मि। अतः उपसचिविं |",
+      "bbox": [
+        1152,
+        2344,
+        2101,
+        2425
+      ],
+      "confidence": 79.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 38,
+      "column": "right",
+      "text": "प्रति वदतु “इतः परम्‌ एतादृशीं वातौ मा श्राव- ¦",
+      "bbox": [
+        1150,
+        2433,
+        2098,
+        2514
+      ],
+      "confidence": 81.75,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 39,
+      "column": "right",
+      "text": "यतु\" इति । |",
+      "bbox": [
+        1151,
+        2535,
+        2100,
+        2601
+      ],
+      "confidence": 65.19,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "| प्रवृत्तः । गुप्तचराणां द्वारा एतं वृत्तान्तं राजा\n ज्ञाला अङ्गरक्षकः सह तथोः प्रहाणा्थ अश्वम्‌\n। आद्य ध्रावितवान्‌ ।\n| एकषण्टात्मकः काठः अतीतः। राजा महा-\nसचिव तथा तस्य पुत्रीं गृहीतवान्‌ । राजा\n। निष्कच्णं महासचिवस्य शिरः खडगेन छिनि-\n| वान्‌ । तस्य पुत्री च ब्रटात्कारेण ख्नगर\n। प्रयानीतवान्‌ ।\n। “'अहो ! कियान्‌ गवः ! महाराजेन मया\n। सह विवाहं निराकरोति !! इदानीं को वा\n। भवतीं रक्षति ? इति महासचिरस्य पुत्री राजा\nकोपेन पृष्टवान्‌ ।\n८“इदानीं स्वयं किमपि कतु न शक्नोमि ।\n\nसः परमात्मा एव मम गातः` इति सा उक्तवता । ¦\nपरस्मिन्‌ दिने एव- ““तस्य राज्यस्य एकस्मिन्‌ |\nमागे प्रजाः राजानं विय राजधानीम्‌ आक्र |\nभितं प्रस्थिता: सन्ति\" इति वार्ता राजा श्जुतवान्‌। |\nक्षटिति एव सेनया सह राजा तत्‌ राजविरोधि- |\nकृत्यं समूटम्‌ उत्पाटयितुं प्रस्थितवान्‌ । महा- |\nसचिवस्य पुत्री कारागृहात्‌ पटायन कुर्यात्‌ इति |\nतस्याः रक्षणाथम्‌ उपसचिवं प्रस्थानसमये |\nनियोजितवान्‌ । |\nअन्तःपुरस्य प्रकीष्ठे बद्धां महासचिवस्य पुत्री\nउपसचिवः गवाक्षदरारा दृष्ट्वा तस्याः सौन्दर्येण\nआङ्रष्टः । अतः विश्वास दासीम्‌ एकां\nतस्याः समीपे प्रेषितवान्‌ ।\nसा दासी गत्वा महासचिवस्य पुत्रं प्रति\nउक्तवती- (अस्माकं सवामी उपसच्छिः भवयाः ।\nविषये बहु आद्रवान्‌ । पाश्वस्थे -उद्याने उप-\nसचिवेन विहारं कृत्वा भवती पुनः अत्र॒ एव\nआगन्तुं शक्नोति । एतद्विषयं राजा तु स्वधा\nन जानाति । । |\nएतत्‌ श्चुता महासचविस्य पुत्री व्याकुटेन |\nउक्तवती- “एतस्यां दुरस्थाय।म्‌ उद्याने विहारं\nक्तु मम मनः प्रतते वा १ मम प्रयक्षे एव ¦\nमम पिता मारितः । अहम्‌ अपि वटात्कारेण |\nआनीता, अत्र बद्धा अस्मि। अतः उपसचिविं |\nप्रति वदतु “इतः परम्‌ एतादृशीं वातौ मा श्राव- ¦\nयतु\" इति । |",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

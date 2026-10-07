@@ -1,0 +1,389 @@
+{
+  "page": 15,
+  "source_image": "image/Chanda_Mama_15.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        226,
+        1107,
+        1559
+      ],
+      "text": "सूचयतु । मवान्‌ अप मस्मन्‌\n्षायम्तु। पद्यतु, इदानीं गच्छामः 1 इतः परम्‌\nअस्माकं समुखदशेनं न॒ भविष्यति!\" इति । एं\nस्टन्तो तो दूरं गतो पवर । पिङ्गलः तयोः\nअवरोधं कुवन्‌ उक्तवान्‌-- ` ^“ कुत्र\nगमनम्‌ ९ किमथ प्राणयगेच्छ 2\nउभावपि उन्मत्तौ इव हसितवन्तौ। जीवदत्तः\nउक्तत्रान्‌ ~ ““सहोदर ! अस्माकं पापस्य प्राय-\nधित्तं॑भवेत्‌ एव । मातुः कृते वयं बहु कष्ट\nदत्तवन्तः। महत्‌ पापं कृतवन्तः । इतःपरं अस्माकं\nगयुकसरोवरः एव शरणम्‌ । अवरोधं न करोत ।\nमातरम्‌ अपि निवेदयतु\" इति। एवम्‌ उक्वा\nउमावपि अत्रे गन्तुं प्रवृतो । |\nतावति काटे माता अपि बहिः आगतवती ।",
+      "line_count": 14
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1137,
+        226,
+        2146,
+        1559
+      ],
+      "text": "दृष्टवा सा कख्णया द्वावता | त्मन्‌\nक्षणे पूरव कृतम्‌ अपराधं सवम्‌ अपि विस्मृत-\nवती । अनन्यपुत्त्रम्णा सा समीपम्‌ आगवय\nउक्तवती-- ‹*अये ! रोदनं मास्तु, दरैवानुप्रहेण `\nभवतोः अनुजः ययेष्ठं घनं सम्पाद्य अगतवरान्‌ ।\nइतःपरं सुखसन्तोषेण जीवनं यप्रथामः ।\nआगच्छन्तु, परस्परं सह कुबन्तः निरिचन्ताः\nएकत्र निव्रसामः'* इति ।\n*-मवत्याः क्षमादानेन अपि अस्माकं पापं\nतयेव तिष्ठति किट : बुद्धिहीनौ किं सामान्य-\nपापम्‌ अनुश्ठितन्तौ : अस्य पापस्य प्रायरिचत्त\nकिम्‌ ? वयं भवत्या सह वासं कर्ठुम्‌ अयोग्याः\nएव\" इति उक्तवान्‌ टक्षदत्तः ।",
+      "line_count": 13
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "सूचयतु । मवान्‌ अप मस्मन्‌",
+      "bbox": [
+        442,
+        226,
+        1098,
+        277
+      ],
+      "confidence": 74.63,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "्षायम्तु। पद्यतु, इदानीं गच्छामः 1 इतः परम्‌",
+      "bbox": [
+        192,
+        300,
+        1096,
+        366
+      ],
+      "confidence": 66.2,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "अस्माकं समुखदशेनं न॒ भविष्यति!\" इति । एं",
+      "bbox": [
+        195,
+        388,
+        1091,
+        459
+      ],
+      "confidence": 59.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "स्टन्तो तो दूरं गतो पवर । पिङ्गलः तयोः",
+      "bbox": [
+        202,
+        480,
+        1083,
+        564
+      ],
+      "confidence": 65.71,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "अवरोधं कुवन्‌ उक्तवान्‌-- ` ^“ कुत्र",
+      "bbox": [
+        201,
+        571,
+        1090,
+        655
+      ],
+      "confidence": 74.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "गमनम्‌ ९ किमथ प्राणयगेच्छ 2",
+      "bbox": [
+        197,
+        669,
+        889,
+        730
+      ],
+      "confidence": 64.2,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "उभावपि उन्मत्तौ इव हसितवन्तौ। जीवदत्तः",
+      "bbox": [
+        278,
+        750,
+        1085,
+        831
+      ],
+      "confidence": 60.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "उक्तत्रान्‌ ~ ““सहोदर ! अस्माकं पापस्य प्राय-",
+      "bbox": [
+        196,
+        857,
+        1090,
+        922
+      ],
+      "confidence": 73.34,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "धित्तं॑भवेत्‌ एव । मातुः कृते वयं बहु कष्ट",
+      "bbox": [
+        196,
+        953,
+        1089,
+        1028
+      ],
+      "confidence": 50.03,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "दत्तवन्तः। महत्‌ पापं कृतवन्तः । इतःपरं अस्माकं",
+      "bbox": [
+        199,
+        1041,
+        1090,
+        1129
+      ],
+      "confidence": 76.04,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "गयुकसरोवरः एव शरणम्‌ । अवरोधं न करोत ।",
+      "bbox": [
+        194,
+        1137,
+        1086,
+        1212
+      ],
+      "confidence": 53.14,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "मातरम्‌ अपि निवेदयतु\" इति। एवम्‌ उक्वा",
+      "bbox": [
+        195,
+        1229,
+        1090,
+        1299
+      ],
+      "confidence": 81.85,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "उमावपि अत्रे गन्तुं प्रवृतो । |",
+      "bbox": [
+        192,
+        1320,
+        1070,
+        1403
+      ],
+      "confidence": 75.16,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "तावति काटे माता अपि बहिः आगतवती ।",
+      "bbox": [
+        277,
+        1417,
+        1088,
+        1480
+      ],
+      "confidence": 91.61,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "दृष्टवा सा कख्णया द्वावता | त्मन्‌",
+      "bbox": [
+        1300,
+        226,
+        2057,
+        282
+      ],
+      "confidence": 37.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "क्षणे पूरव कृतम्‌ अपराधं सवम्‌ अपि विस्मृत-",
+      "bbox": [
+        1153,
+        305,
+        2046,
+        384
+      ],
+      "confidence": 78.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "वती । अनन्यपुत्त्रम्णा सा समीपम्‌ आगवय",
+      "bbox": [
+        1154,
+        381,
+        2048,
+        473
+      ],
+      "confidence": 56.39,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "उक्तवती-- ‹*अये ! रोदनं मास्तु, दरैवानुप्रहेण `",
+      "bbox": [
+        1156,
+        493,
+        2095,
+        563
+      ],
+      "confidence": 43.14,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "भवतोः अनुजः ययेष्ठं घनं सम्पाद्य अगतवरान्‌ ।",
+      "bbox": [
+        1154,
+        586,
+        2038,
+        660
+      ],
+      "confidence": 61.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "इतःपरं सुखसन्तोषेण जीवनं यप्रथामः ।",
+      "bbox": [
+        1156,
+        680,
+        2043,
+        748
+      ],
+      "confidence": 67.9,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "आगच्छन्तु, परस्परं सह कुबन्तः निरिचन्ताः",
+      "bbox": [
+        1156,
+        773,
+        2043,
+        846
+      ],
+      "confidence": 81.4,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "एकत्र निव्रसामः'* इति ।",
+      "bbox": [
+        1155,
+        870,
+        1634,
+        933
+      ],
+      "confidence": 69.07,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "*-मवत्याः क्षमादानेन अपि अस्माकं पापं",
+      "bbox": [
+        1247,
+        1037,
+        2043,
+        1093
+      ],
+      "confidence": 49.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "तयेव तिष्ठति किट : बुद्धिहीनौ किं सामान्य-",
+      "bbox": [
+        1154,
+        1134,
+        2072,
+        1206
+      ],
+      "confidence": 76.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "पापम्‌ अनुश्ठितन्तौ : अस्य पापस्य प्रायरिचत्त",
+      "bbox": [
+        1155,
+        1229,
+        2049,
+        1306
+      ],
+      "confidence": 47.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "किम्‌ ? वयं भवत्या सह वासं कर्ठुम्‌ अयोग्याः",
+      "bbox": [
+        1157,
+        1313,
+        2044,
+        1392
+      ],
+      "confidence": 59.26,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "एव\" इति उक्तवान्‌ टक्षदत्तः ।",
+      "bbox": [
+        1156,
+        1415,
+        1754,
+        1492
+      ],
+      "confidence": 71.23,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "सूचयतु । मवान्‌ अप मस्मन्‌\n्षायम्तु। पद्यतु, इदानीं गच्छामः 1 इतः परम्‌\nअस्माकं समुखदशेनं न॒ भविष्यति!\" इति । एं\nस्टन्तो तो दूरं गतो पवर । पिङ्गलः तयोः\nअवरोधं कुवन्‌ उक्तवान्‌-- ` ^“ कुत्र\nगमनम्‌ ९ किमथ प्राणयगेच्छ 2\nउभावपि उन्मत्तौ इव हसितवन्तौ। जीवदत्तः\nउक्तत्रान्‌ ~ ““सहोदर ! अस्माकं पापस्य प्राय-\nधित्तं॑भवेत्‌ एव । मातुः कृते वयं बहु कष्ट\nदत्तवन्तः। महत्‌ पापं कृतवन्तः । इतःपरं अस्माकं\nगयुकसरोवरः एव शरणम्‌ । अवरोधं न करोत ।\nमातरम्‌ अपि निवेदयतु\" इति। एवम्‌ उक्वा\nउमावपि अत्रे गन्तुं प्रवृतो । |\nतावति काटे माता अपि बहिः आगतवती ।\n\nदृष्टवा सा कख्णया द्वावता | त्मन्‌\nक्षणे पूरव कृतम्‌ अपराधं सवम्‌ अपि विस्मृत-\nवती । अनन्यपुत्त्रम्णा सा समीपम्‌ आगवय\nउक्तवती-- ‹*अये ! रोदनं मास्तु, दरैवानुप्रहेण `\nभवतोः अनुजः ययेष्ठं घनं सम्पाद्य अगतवरान्‌ ।\nइतःपरं सुखसन्तोषेण जीवनं यप्रथामः ।\nआगच्छन्तु, परस्परं सह कुबन्तः निरिचन्ताः\nएकत्र निव्रसामः'* इति ।\n*-मवत्याः क्षमादानेन अपि अस्माकं पापं\nतयेव तिष्ठति किट : बुद्धिहीनौ किं सामान्य-\nपापम्‌ अनुश्ठितन्तौ : अस्य पापस्य प्रायरिचत्त\nकिम्‌ ? वयं भवत्या सह वासं कर्ठुम्‌ अयोग्याः\nएव\" इति उक्तवान्‌ टक्षदत्तः ।",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

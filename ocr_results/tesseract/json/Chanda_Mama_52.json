@@ -1,0 +1,519 @@
+{
+  "page": 52,
+  "source_image": "image/Chanda_Mama_52.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        1304,
+        1082,
+        2579
+      ],
+      "text": "आञ्जनेयप्रभृतयः वानराः पर्वतान्‌, महा-\nपाषाणान्‌. उक्षान्‌ शिलाः, च सहस्रशः\nआनीय समुद्रे क्षिपन्ति स्म|\nठड्कापयन्तं शतयोजनविस्तीर्णः सेतुः\nनिमितः । समुद्रे स्थपितं सवै वस्तु जले यथा\nन मज्जेत्‌ तथा . स्थापथितं नीटः समथः\nनादृशं करं सः पूवं प्राप्तवान्‌ आसीत्‌ ।\nतस्य उपयोगः इदानीं जातः ।\nतस्मिन्‌ एर काले रावणेन व्रहिष्कृतः\nविभीषणः आकाशमार्गण रामसमीपम्‌ आगत-\nवान्‌ । रामः तस्य कृते अभयं दत्तवान्‌ । उक्त-\nवान्‌ च ^“भवन्तम्‌ एव्र॒टङ्कायाः महाराजं\nकरिष्यामि । तत्र संडायः एव मास्तु '` इति।\n> ज्म तप तता ष्की च्य",
+      "line_count": 14
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1124,
+        226,
+        2146,
+        2579
+      ],
+      "text": "विभीषणस्य समुद्रनठेन अभिषेकम्‌ अपि\nकृतवान्‌ ।\nरमिः सेतोः उपरि प्रसितवान्‌ । तद्य\nहस्तयोः कोदण्ड-धनुः बाणाः च आसन्‌ ।\nविभीष्रणः बानराः च तम्‌ अनुसृतवन्तः ।\nटङ्कायाः गुप्तचराः रामस्य आगमनं ज्ञात-\nवन्तः | एते रावणं निवेदितवन्तः- ८८ रामः\nवानरसैन्येन सह समुद्रं तीर्वा आगच्छन्‌ अस्ति\"\nइति । एतद्विषये रा्रणस्य विश्वासः न उप्तननः.\nयतः एकः सामान्यपुस्घः वानरसेनया सह\nआगच्छति, शतयोजनक्छ्तीर्ण सेतुं\nनिर्माति, त्रिटोकवीरं रवरणं विजि\nसपत्नीं नेतं शक्नोति! किम्‌ एतत्‌ सर्वं शक्थते?\nएवमपि भवितुं शक्यम्‌ ? गुप्तचराः श्रान्या न\nवदन्ति किल !\nराणः एवं चिन्तामग्नः आसीत्‌ । तदा तस्य\nमन्त्री प्रहस्तः तत्र आगतवान्‌ । उक्तवान्‌ च\n““शचरूणां कते अत्र आगन्तुम्‌ एव अवकाशः न\nदातव्यः । मर्गे एव तान्‌ अवश्य समुद्रे पात-\nयामः इति मम अभिप्रायः'` इति ।\nरावणः हसन्‌ उक्तवान्‌ “किमर्थं त्रा १\nअस्माकं कुम्भकणस्य त॒ इदानीं आहारः पर्याप्तः\n= ष्णात ॥",
+      "line_count": 23
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "आञ्जनेयप्रभृतयः वानराः पर्वतान्‌, महा-",
+      "bbox": [
+        276,
+        1342,
+        1071,
+        1416
+      ],
+      "confidence": 66.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "पाषाणान्‌. उक्षान्‌ शिलाः, च सहस्रशः",
+      "bbox": [
+        192,
+        1439,
+        1068,
+        1508
+      ],
+      "confidence": 66.73,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "आनीय समुद्रे क्षिपन्ति स्म|",
+      "bbox": [
+        194,
+        1531,
+        744,
+        1595
+      ],
+      "confidence": 79.23,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "ठड्कापयन्तं शतयोजनविस्तीर्णः सेतुः",
+      "bbox": [
+        274,
+        1618,
+        1067,
+        1690
+      ],
+      "confidence": 30.8,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "निमितः । समुद्रे स्थपितं सवै वस्तु जले यथा",
+      "bbox": [
+        193,
+        1711,
+        1074,
+        1783
+      ],
+      "confidence": 80.42,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "न मज्जेत्‌ तथा . स्थापथितं नीटः समथः",
+      "bbox": [
+        190,
+        1805,
+        1073,
+        1876
+      ],
+      "confidence": 54.34,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "नादृशं करं सः पूवं प्राप्तवान्‌ आसीत्‌ ।",
+      "bbox": [
+        191,
+        1897,
+        1074,
+        1973
+      ],
+      "confidence": 62.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "तस्य उपयोगः इदानीं जातः ।",
+      "bbox": [
+        190,
+        1991,
+        754,
+        2057
+      ],
+      "confidence": 92.01,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "तस्मिन्‌ एर काले रावणेन व्रहिष्कृतः",
+      "bbox": [
+        271,
+        2085,
+        1069,
+        2155
+      ],
+      "confidence": 70.33,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "विभीषणः आकाशमार्गण रामसमीपम्‌ आगत-",
+      "bbox": [
+        187,
+        2177,
+        1070,
+        2242
+      ],
+      "confidence": 83.06,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "वान्‌ । रामः तस्य कृते अभयं दत्तवान्‌ । उक्त-",
+      "bbox": [
+        187,
+        2270,
+        1066,
+        2341
+      ],
+      "confidence": 84.94,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "वान्‌ च ^“भवन्तम्‌ एव्र॒टङ्कायाः महाराजं",
+      "bbox": [
+        189,
+        2360,
+        1072,
+        2444
+      ],
+      "confidence": 50.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "करिष्यामि । तत्र संडायः एव मास्तु '` इति।",
+      "bbox": [
+        187,
+        2455,
+        1066,
+        2520
+      ],
+      "confidence": 63.66,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "> ज्म तप तता ष्की च्य",
+      "bbox": [
+        212,
+        2544,
+        1067,
+        2579
+      ],
+      "confidence": 17.9,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "विभीषणस्य समुद्रनठेन अभिषेकम्‌ अपि",
+      "bbox": [
+        1141,
+        247,
+        2024,
+        316
+      ],
+      "confidence": 73.61,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "कृतवान्‌ ।",
+      "bbox": [
+        1140,
+        352,
+        1315,
+        420
+      ],
+      "confidence": 84.34,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "रमिः सेतोः उपरि प्रसितवान्‌ । तद्य",
+      "bbox": [
+        1222,
+        465,
+        2022,
+        539
+      ],
+      "confidence": 70.6,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "हस्तयोः कोदण्ड-धनुः बाणाः च आसन्‌ ।",
+      "bbox": [
+        1137,
+        557,
+        2023,
+        632
+      ],
+      "confidence": 73.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "विभीष्रणः बानराः च तम्‌ अनुसृतवन्तः ।",
+      "bbox": [
+        1139,
+        653,
+        1939,
+        720
+      ],
+      "confidence": 84.53,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "टङ्कायाः गुप्तचराः रामस्य आगमनं ज्ञात-",
+      "bbox": [
+        1220,
+        796,
+        2019,
+        865
+      ],
+      "confidence": 80.55,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "वन्तः | एते रावणं निवेदितवन्तः- ८८ रामः",
+      "bbox": [
+        1136,
+        894,
+        2019,
+        959
+      ],
+      "confidence": 78.97,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "वानरसैन्येन सह समुद्रं तीर्वा आगच्छन्‌ अस्ति\"",
+      "bbox": [
+        1136,
+        996,
+        2022,
+        1071
+      ],
+      "confidence": 57.24,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "इति । एतद्विषये रा्रणस्य विश्वासः न उप्तननः.",
+      "bbox": [
+        1137,
+        1101,
+        2021,
+        1167
+      ],
+      "confidence": 70.49,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "यतः एकः सामान्यपुस्घः वानरसेनया सह",
+      "bbox": [
+        1137,
+        1183,
+        2023,
+        1279
+      ],
+      "confidence": 51.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "आगच्छति, शतयोजनक्छ्तीर्ण सेतुं",
+      "bbox": [
+        1142,
+        1308,
+        2016,
+        1382
+      ],
+      "confidence": 51.44,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "निर्माति, त्रिटोकवीरं रवरणं विजि",
+      "bbox": [
+        1142,
+        1402,
+        2021,
+        1467
+      ],
+      "confidence": 58.3,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "सपत्नीं नेतं शक्नोति! किम्‌ एतत्‌ सर्वं शक्थते?",
+      "bbox": [
+        1142,
+        1506,
+        2019,
+        1592
+      ],
+      "confidence": 77.85,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "एवमपि भवितुं शक्यम्‌ ? गुप्तचराः श्रान्या न",
+      "bbox": [
+        1141,
+        1618,
+        2029,
+        1687
+      ],
+      "confidence": 78.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "वदन्ति किल !",
+      "bbox": [
+        1143,
+        1713,
+        1411,
+        1771
+      ],
+      "confidence": 52.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "राणः एवं चिन्तामग्नः आसीत्‌ । तदा तस्य",
+      "bbox": [
+        1226,
+        1860,
+        2026,
+        1930
+      ],
+      "confidence": 79.26,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "मन्त्री प्रहस्तः तत्र आगतवान्‌ । उक्तवान्‌ च",
+      "bbox": [
+        1143,
+        1955,
+        2027,
+        2025
+      ],
+      "confidence": 84.44,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "““शचरूणां कते अत्र आगन्तुम्‌ एव अवकाशः न",
+      "bbox": [
+        1147,
+        2050,
+        2029,
+        2131
+      ],
+      "confidence": 65.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "दातव्यः । मर्गे एव तान्‌ अवश्य समुद्रे पात-",
+      "bbox": [
+        1141,
+        2142,
+        2025,
+        2211
+      ],
+      "confidence": 69.91,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "यामः इति मम अभिप्रायः'` इति ।",
+      "bbox": [
+        1139,
+        2238,
+        1819,
+        2301
+      ],
+      "confidence": 74.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "रावणः हसन्‌ उक्तवान्‌ “किमर्थं त्रा १",
+      "bbox": [
+        1218,
+        2356,
+        2031,
+        2430
+      ],
+      "confidence": 66.69,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 36,
+      "column": "right",
+      "text": "अस्माकं कुम्भकणस्य त॒ इदानीं आहारः पर्याप्तः",
+      "bbox": [
+        1138,
+        2449,
+        2024,
+        2523
+      ],
+      "confidence": 80.51,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 37,
+      "column": "right",
+      "text": "= ष्णात ॥",
+      "bbox": [
+        1135,
+        2547,
+        1355,
+        2579
+      ],
+      "confidence": 17.35,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "आञ्जनेयप्रभृतयः वानराः पर्वतान्‌, महा-\nपाषाणान्‌. उक्षान्‌ शिलाः, च सहस्रशः\nआनीय समुद्रे क्षिपन्ति स्म|\nठड्कापयन्तं शतयोजनविस्तीर्णः सेतुः\nनिमितः । समुद्रे स्थपितं सवै वस्तु जले यथा\nन मज्जेत्‌ तथा . स्थापथितं नीटः समथः\nनादृशं करं सः पूवं प्राप्तवान्‌ आसीत्‌ ।\nतस्य उपयोगः इदानीं जातः ।\nतस्मिन्‌ एर काले रावणेन व्रहिष्कृतः\nविभीषणः आकाशमार्गण रामसमीपम्‌ आगत-\nवान्‌ । रामः तस्य कृते अभयं दत्तवान्‌ । उक्त-\nवान्‌ च ^“भवन्तम्‌ एव्र॒टङ्कायाः महाराजं\nकरिष्यामि । तत्र संडायः एव मास्तु '` इति।\n> ज्म तप तता ष्की च्य\n\nविभीषणस्य समुद्रनठेन अभिषेकम्‌ अपि\nकृतवान्‌ ।\nरमिः सेतोः उपरि प्रसितवान्‌ । तद्य\nहस्तयोः कोदण्ड-धनुः बाणाः च आसन्‌ ।\nविभीष्रणः बानराः च तम्‌ अनुसृतवन्तः ।\nटङ्कायाः गुप्तचराः रामस्य आगमनं ज्ञात-\nवन्तः | एते रावणं निवेदितवन्तः- ८८ रामः\nवानरसैन्येन सह समुद्रं तीर्वा आगच्छन्‌ अस्ति\"\nइति । एतद्विषये रा्रणस्य विश्वासः न उप्तननः.\nयतः एकः सामान्यपुस्घः वानरसेनया सह\nआगच्छति, शतयोजनक्छ्तीर्ण सेतुं\nनिर्माति, त्रिटोकवीरं रवरणं विजि\nसपत्नीं नेतं शक्नोति! किम्‌ एतत्‌ सर्वं शक्थते?\nएवमपि भवितुं शक्यम्‌ ? गुप्तचराः श्रान्या न\nवदन्ति किल !\nराणः एवं चिन्तामग्नः आसीत्‌ । तदा तस्य\nमन्त्री प्रहस्तः तत्र आगतवान्‌ । उक्तवान्‌ च\n““शचरूणां कते अत्र आगन्तुम्‌ एव अवकाशः न\nदातव्यः । मर्गे एव तान्‌ अवश्य समुद्रे पात-\nयामः इति मम अभिप्रायः'` इति ।\nरावणः हसन्‌ उक्तवान्‌ “किमर्थं त्रा १\nअस्माकं कुम्भकणस्य त॒ इदानीं आहारः पर्याप्तः\n= ष्णात ॥",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

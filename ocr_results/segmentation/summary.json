@@ -1,0 +1,483 @@
+[
+  {
+    "page": 7,
+    "lines": 31,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 16,
+      "right": 15
+    }
+  },
+  {
+    "page": 8,
+    "lines": 36,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 12,
+      "right": 24
+    }
+  },
+  {
+    "page": 9,
+    "lines": 25,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 12,
+      "right": 13
+    }
+  },
+  {
+    "page": 10,
+    "lines": 37,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 19,
+      "right": 18
+    }
+  },
+  {
+    "page": 11,
+    "lines": 21,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 11,
+      "right": 10
+    }
+  },
+  {
+    "page": 12,
+    "lines": 34,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 11,
+      "right": 23
+    }
+  },
+  {
+    "page": 13,
+    "lines": 37,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 26,
+      "right": 11
+    }
+  },
+  {
+    "page": 14,
+    "lines": 26,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 13,
+      "right": 13
+    }
+  },
+  {
+    "page": 15,
+    "lines": 27,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 14,
+      "right": 13
+    }
+  },
+  {
+    "page": 16,
+    "lines": 37,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 13,
+      "right": 24
+    }
+  },
+  {
+    "page": 17,
+    "lines": 38,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 26,
+      "right": 12
+    }
+  },
+  {
+    "page": 18,
+    "lines": 34,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 16,
+      "right": 18
+    }
+  },
+  {
+    "page": 20,
+    "lines": 37,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 12,
+      "right": 25
+    }
+  },
+  {
+    "page": 21,
+    "lines": 33,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 22,
+      "right": 11
+    }
+  },
+  {
+    "page": 22,
+    "lines": 37,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 12,
+      "right": 25
+    }
+  },
+  {
+    "page": 23,
+    "lines": 30,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 21,
+      "right": 9
+    }
+  },
+  {
+    "page": 24,
+    "lines": 34,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 11,
+      "right": 23
+    }
+  },
+  {
+    "page": 25,
+    "lines": 36,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 19,
+      "right": 17
+    }
+  },
+  {
+    "page": 27,
+    "lines": 30,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 15,
+      "right": 15
+    }
+  },
+  {
+    "page": 28,
+    "lines": 26,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 13,
+      "right": 13
+    }
+  },
+  {
+    "page": 29,
+    "lines": 26,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 13,
+      "right": 13
+    }
+  },
+  {
+    "page": 30,
+    "lines": 39,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 13,
+      "right": 26
+    }
+  },
+  {
+    "page": 31,
+    "lines": 31,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 16,
+      "right": 15
+    }
+  },
+  {
+    "page": 32,
+    "lines": 28,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 14,
+      "right": 14
+    }
+  },
+  {
+    "page": 33,
+    "lines": 34,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 24,
+      "right": 10
+    }
+  },
+  {
+    "page": 34,
+    "lines": 34,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 17,
+      "right": 17
+    }
+  },
+  {
+    "page": 35,
+    "lines": 21,
+    "layout": "alternating panel text blocks top-to-bottom",
+    "columns": {
+      "panel-1": 8,
+      "panel-2": 7,
+      "panel-3": 6
+    }
+  },
+  {
+    "page": 36,
+    "lines": 21,
+    "layout": "alternating panel text blocks top-to-bottom",
+    "columns": {
+      "panel-1": 6,
+      "panel-2": 8,
+      "panel-3": 7
+    }
+  },
+  {
+    "page": 37,
+    "lines": 23,
+    "layout": "alternating panel text blocks top-to-bottom",
+    "columns": {
+      "panel-1": 7,
+      "panel-2": 8,
+      "panel-3": 8
+    }
+  },
+  {
+    "page": 38,
+    "lines": 24,
+    "layout": "alternating panel text blocks top-to-bottom",
+    "columns": {
+      "panel-1": 8,
+      "panel-2": 9,
+      "panel-3": 7
+    }
+  },
+  {
+    "page": 39,
+    "lines": 28,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 14,
+      "right": 14
+    }
+  },
+  {
+    "page": 40,
+    "lines": 35,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 12,
+      "right": 23
+    }
+  },
+  {
+    "page": 41,
+    "lines": 35,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 18,
+      "right": 17
+    }
+  },
+  {
+    "page": 43,
+    "lines": 29,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 15,
+      "right": 14
+    }
+  },
+  {
+    "page": 44,
+    "lines": 37,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 12,
+      "right": 25
+    }
+  },
+  {
+    "page": 45,
+    "lines": 38,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 19,
+      "right": 19
+    }
+  },
+  {
+    "page": 46,
+    "lines": 30,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 14,
+      "right": 16
+    }
+  },
+  {
+    "page": 47,
+    "lines": 25,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 12,
+      "right": 13
+    }
+  },
+  {
+    "page": 48,
+    "lines": 37,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 19,
+      "right": 18
+    }
+  },
+  {
+    "page": 49,
+    "lines": 28,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 13,
+      "right": 15
+    }
+  },
+  {
+    "page": 50,
+    "lines": 32,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 16,
+      "right": 16
+    }
+  },
+  {
+    "page": 51,
+    "lines": 26,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 13,
+      "right": 13
+    }
+  },
+  {
+    "page": 52,
+    "lines": 37,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 14,
+      "right": 23
+    }
+  },
+  {
+    "page": 53,
+    "lines": 36,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 25,
+      "right": 11
+    }
+  },
+  {
+    "page": 54,
+    "lines": 37,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 12,
+      "right": 25
+    }
+  },
+  {
+    "page": 55,
+    "lines": 35,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 22,
+      "right": 13
+    }
+  },
+  {
+    "page": 56,
+    "lines": 36,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 12,
+      "right": 24
+    }
+  },
+  {
+    "page": 58,
+    "lines": 32,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 16,
+      "right": 16
+    }
+  },
+  {
+    "page": 59,
+    "lines": 32,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 16,
+      "right": 16
+    }
+  },
+  {
+    "page": 60,
+    "lines": 39,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 13,
+      "right": 26
+    }
+  },
+  {
+    "page": 61,
+    "lines": 37,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 26,
+      "right": 11
+    }
+  },
+  {
+    "page": 62,
+    "lines": 39,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 13,
+      "right": 26
+    }
+  },
+  {
+    "page": 63,
+    "lines": 38,
+    "layout": "left column top-to-bottom, then right column top-to-bottom",
+    "columns": {
+      "left": 19,
+      "right": 19
+    }
+  }
+]

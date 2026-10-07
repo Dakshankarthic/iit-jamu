@@ -1,0 +1,532 @@
+{
+  "page": 17,
+  "source_image": "image/Chanda_Mama_17.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        226,
+        1148,
+        2664
+      ],
+      "text": "£ ॥रन््व जण श्ना जानन; रगततष्दस\nसज्ञया किमपि सूचितवान्‌ । लक्षदत्तः विषयं\nज्ञातवान्‌ इव शिरः कम्पयन्‌ मोनं भोजनं कठुम्‌\nआरब्धवान्‌ । |\nतदिने रात्रो भोजनानन्तरं «किचित्‌ वायु-\nसननारं कुता आगच्छावः\" इति उक्त्वा जीवदत्तः\nलक्षदत्तः च बहिः गतवन्तौ ।\nपिङ्गलः यथेष्टं घनं सम्पाद्य आगतवान्‌ इति\nउभौ अपि जानीतः। “एतस्य वह्लीकरणं कथम्‌?\"\nइत्येव तयोः इदानीं चिन्ता माता तु मध्याहे\nसायम्‌ वा चुष्टीं नं ज्वालितिवती एव ! जीवदत्तः\nपाकशालां प्रविदय परीक्षां कृतवान्‌ आसीत्‌ ।\nपाकेन विना एव एतावन्ति वस्तूनि कुतः आग-\nच्छन्ति इति सः न ज्ञातवान्‌। पिङ्गरस्य व्यव-\nहारे उभयोः अपि आशङ्का ।\n“पिङ्कः कथमपि यथेष्ठं धनम्‌ अनीतवान्‌।\nतत्र सदाः एव नास्ति । त्च ऋमशः वशीकर्त\nशक्यते । वयं प्श्वात्तापदग्धाः इति माता इव\nपिड्गटः अपि विश्वसिति । तत्‌ ठु तिष्ठत |\nमध्याहे सायं च भूरि भोजनं कृतम्‌ । पाकशा-\nटायां पाकस्य वार्ता अपि नास्ति । एतत्‌ एकं\nविचित्रम्‌ एव॒ किट ` इति उक्तवान्‌\nजीवदत्तः ।\nठक्षदत्तः दिरः कम्पयन्‌ उक्तवान्‌- (तन्नाम,\nपिद्धाटः केनाऽपि मन्त्रेण एतत्सव. करोति\nइति चिन्तयामि | अतः ए नगरीयाणां द रिद्रा-",
+      "line_count": 26
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1181,
+        1389,
+        2146,
+        2664
+      ],
+      "text": "4 अपि समीचीनं भोजनं दातुं शक्यम्‌ इति\nसधे वदति । पिङ्गलं प्च्छामः. चेत्‌ प्रयो-\nजनं नास्ति । समये मातरम्‌ ए प््छमः चेत्‌\nरहस्यं ज्ञायते णव\" इति ।\nअनन्तरदिने कदाचित्‌ पिद्ाटः बहिः\nगतवान्‌ । तदा तो दुष्टभ्रातरौ मातुः समीपं\nगतवन्तो । वातार पसमये भोजनप्रस्तावं कूत।\n“रहस्य किम्‌ £ इति पृष्टवन्तौ । माता वहु-\nकाख्पयन्तं पिङ्मटेन अनीतस्य स्यूतस्य विषये\nकिमपि न उक्तवती । किन्तु उभौ अपि सदैन्यं\nप्रार्थितवन्तौ । तदा “अन्यान्‌ न वदन्तु\" इति\nवदन्ती माता मन््रस्यूतम्‌ आनीय तयोः कृत",
+      "line_count": 12
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "£ ॥रन््व जण श्ना जानन; रगततष्दस",
+      "bbox": [
+        169,
+        226,
+        1148,
+        2650
+      ],
+      "confidence": 18.56,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "सज्ञया किमपि सूचितवान्‌ । लक्षदत्तः विषयं",
+      "bbox": [
+        216,
+        280,
+        1120,
+        363
+      ],
+      "confidence": 73.22,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "ज्ञातवान्‌ इव शिरः कम्पयन्‌ मोनं भोजनं कठुम्‌",
+      "bbox": [
+        215,
+        377,
+        1132,
+        458
+      ],
+      "confidence": 74.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "आरब्धवान्‌ । |",
+      "bbox": [
+        217,
+        466,
+        942,
+        548
+      ],
+      "confidence": 70.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "तदिने रात्रो भोजनानन्तरं «किचित्‌ वायु-",
+      "bbox": [
+        301,
+        567,
+        1122,
+        644
+      ],
+      "confidence": 58.53,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "सननारं कुता आगच्छावः\" इति उक्त्वा जीवदत्तः",
+      "bbox": [
+        222,
+        653,
+        1117,
+        754
+      ],
+      "confidence": 59.18,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "लक्षदत्तः च बहिः गतवन्तौ ।",
+      "bbox": [
+        226,
+        753,
+        801,
+        823
+      ],
+      "confidence": 39.32,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "पिङ्गलः यथेष्टं घनं सम्पाद्य आगतवान्‌ इति",
+      "bbox": [
+        277,
+        852,
+        1125,
+        928
+      ],
+      "confidence": 70.94,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "उभौ अपि जानीतः। “एतस्य वह्लीकरणं कथम्‌?\"",
+      "bbox": [
+        223,
+        944,
+        1117,
+        1013
+      ],
+      "confidence": 44.26,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "इत्येव तयोः इदानीं चिन्ता माता तु मध्याहे",
+      "bbox": [
+        221,
+        1033,
+        1124,
+        1109
+      ],
+      "confidence": 74.47,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "सायम्‌ वा चुष्टीं नं ज्वालितिवती एव ! जीवदत्तः",
+      "bbox": [
+        223,
+        1136,
+        1116,
+        1207
+      ],
+      "confidence": 64.16,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "पाकशालां प्रविदय परीक्षां कृतवान्‌ आसीत्‌ ।",
+      "bbox": [
+        226,
+        1230,
+        1117,
+        1299
+      ],
+      "confidence": 67.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "पाकेन विना एव एतावन्ति वस्तूनि कुतः आग-",
+      "bbox": [
+        224,
+        1324,
+        1119,
+        1396
+      ],
+      "confidence": 89.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "च्छन्ति इति सः न ज्ञातवान्‌। पिङ्गरस्य व्यव-",
+      "bbox": [
+        226,
+        1401,
+        1121,
+        1492
+      ],
+      "confidence": 76.25,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "left",
+      "text": "हारे उभयोः अपि आशङ्का ।",
+      "bbox": [
+        226,
+        1512,
+        815,
+        1585
+      ],
+      "confidence": 74.06,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "left",
+      "text": "“पिङ्कः कथमपि यथेष्ठं धनम्‌ अनीतवान्‌।",
+      "bbox": [
+        276,
+        1603,
+        1127,
+        1682
+      ],
+      "confidence": 55.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "left",
+      "text": "तत्र सदाः एव नास्ति । त्च ऋमशः वशीकर्त",
+      "bbox": [
+        227,
+        1693,
+        1131,
+        1765
+      ],
+      "confidence": 57.22,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "left",
+      "text": "शक्यते । वयं प्श्वात्तापदग्धाः इति माता इव",
+      "bbox": [
+        229,
+        1793,
+        1132,
+        1856
+      ],
+      "confidence": 77.2,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "left",
+      "text": "पिड्गटः अपि विश्वसिति । तत्‌ ठु तिष्ठत |",
+      "bbox": [
+        235,
+        1887,
+        1129,
+        1959
+      ],
+      "confidence": 72.18,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "left",
+      "text": "मध्याहे सायं च भूरि भोजनं कृतम्‌ । पाकशा-",
+      "bbox": [
+        230,
+        1972,
+        1129,
+        2061
+      ],
+      "confidence": 64.54,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "left",
+      "text": "टायां पाकस्य वार्ता अपि नास्ति । एतत्‌ एकं",
+      "bbox": [
+        231,
+        2071,
+        1131,
+        2143
+      ],
+      "confidence": 83.22,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "left",
+      "text": "विचित्रम्‌ एव॒ किट ` इति उक्तवान्‌",
+      "bbox": [
+        233,
+        2168,
+        1142,
+        2236
+      ],
+      "confidence": 70.47,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "left",
+      "text": "जीवदत्तः ।",
+      "bbox": [
+        226,
+        2266,
+        435,
+        2323
+      ],
+      "confidence": 78.29,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "left",
+      "text": "ठक्षदत्तः दिरः कम्पयन्‌ उक्तवान्‌- (तन्नाम,",
+      "bbox": [
+        232,
+        2358,
+        1128,
+        2422
+      ],
+      "confidence": 60.8,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "left",
+      "text": "पिद्धाटः केनाऽपि मन्त्रेण एतत्सव. करोति",
+      "bbox": [
+        237,
+        2443,
+        1134,
+        2524
+      ],
+      "confidence": 68.42,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "left",
+      "text": "इति चिन्तयामि | अतः ए नगरीयाणां द रिद्रा-",
+      "bbox": [
+        233,
+        2548,
+        1131,
+        2614
+      ],
+      "confidence": 77.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "4 अपि समीचीनं भोजनं दातुं शक्यम्‌ इति",
+      "bbox": [
+        1181,
+        1389,
+        2128,
+        2649
+      ],
+      "confidence": 90.94,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "सधे वदति । पिङ्गलं प्च्छामः. चेत्‌ प्रयो-",
+      "bbox": [
+        1194,
+        1582,
+        2090,
+        1661
+      ],
+      "confidence": 53.71,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "जनं नास्ति । समये मातरम्‌ ए प््छमः चेत्‌",
+      "bbox": [
+        1197,
+        1677,
+        2093,
+        1748
+      ],
+      "confidence": 78.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "रहस्यं ज्ञायते णव\" इति ।",
+      "bbox": [
+        1195,
+        1774,
+        1692,
+        1840
+      ],
+      "confidence": 79.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "अनन्तरदिने कदाचित्‌ पिद्ाटः बहिः",
+      "bbox": [
+        1283,
+        1879,
+        2077,
+        1952
+      ],
+      "confidence": 72.55,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "गतवान्‌ । तदा तो दुष्टभ्रातरौ मातुः समीपं",
+      "bbox": [
+        1197,
+        1972,
+        2089,
+        2050
+      ],
+      "confidence": 69.43,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "गतवन्तो । वातार पसमये भोजनप्रस्तावं कूत।",
+      "bbox": [
+        1199,
+        2062,
+        2084,
+        2158
+      ],
+      "confidence": 38.25,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "“रहस्य किम्‌ £ इति पृष्टवन्तौ । माता वहु-",
+      "bbox": [
+        1202,
+        2162,
+        2077,
+        2240
+      ],
+      "confidence": 81.6,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "काख्पयन्तं पिङ्मटेन अनीतस्य स्यूतस्य विषये",
+      "bbox": [
+        1198,
+        2257,
+        2089,
+        2332
+      ],
+      "confidence": 40.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 36,
+      "column": "right",
+      "text": "किमपि न उक्तवती । किन्तु उभौ अपि सदैन्यं",
+      "bbox": [
+        1200,
+        2349,
+        2094,
+        2420
+      ],
+      "confidence": 91.89,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 37,
+      "column": "right",
+      "text": "प्रार्थितवन्तौ । तदा “अन्यान्‌ न वदन्तु\" इति",
+      "bbox": [
+        1198,
+        2444,
+        2087,
+        2517
+      ],
+      "confidence": 59.67,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 38,
+      "column": "right",
+      "text": "वदन्ती माता मन््रस्यूतम्‌ आनीय तयोः कृत",
+      "bbox": [
+        1200,
+        2538,
+        2091,
+        2623
+      ],
+      "confidence": 72.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "£ ॥रन््व जण श्ना जानन; रगततष्दस\nसज्ञया किमपि सूचितवान्‌ । लक्षदत्तः विषयं\nज्ञातवान्‌ इव शिरः कम्पयन्‌ मोनं भोजनं कठुम्‌\nआरब्धवान्‌ । |\nतदिने रात्रो भोजनानन्तरं «किचित्‌ वायु-\nसननारं कुता आगच्छावः\" इति उक्त्वा जीवदत्तः\nलक्षदत्तः च बहिः गतवन्तौ ।\nपिङ्गलः यथेष्टं घनं सम्पाद्य आगतवान्‌ इति\nउभौ अपि जानीतः। “एतस्य वह्लीकरणं कथम्‌?\"\nइत्येव तयोः इदानीं चिन्ता माता तु मध्याहे\nसायम्‌ वा चुष्टीं नं ज्वालितिवती एव ! जीवदत्तः\nपाकशालां प्रविदय परीक्षां कृतवान्‌ आसीत्‌ ।\nपाकेन विना एव एतावन्ति वस्तूनि कुतः आग-\nच्छन्ति इति सः न ज्ञातवान्‌। पिङ्गरस्य व्यव-\nहारे उभयोः अपि आशङ्का ।\n“पिङ्कः कथमपि यथेष्ठं धनम्‌ अनीतवान्‌।\nतत्र सदाः एव नास्ति । त्च ऋमशः वशीकर्त\nशक्यते । वयं प्श्वात्तापदग्धाः इति माता इव\nपिड्गटः अपि विश्वसिति । तत्‌ ठु तिष्ठत |\nमध्याहे सायं च भूरि भोजनं कृतम्‌ । पाकशा-\nटायां पाकस्य वार्ता अपि नास्ति । एतत्‌ एकं\nविचित्रम्‌ एव॒ किट ` इति उक्तवान्‌\nजीवदत्तः ।\nठक्षदत्तः दिरः कम्पयन्‌ उक्तवान्‌- (तन्नाम,\nपिद्धाटः केनाऽपि मन्त्रेण एतत्सव. करोति\nइति चिन्तयामि | अतः ए नगरीयाणां द रिद्रा-\n\n4 अपि समीचीनं भोजनं दातुं शक्यम्‌ इति\nसधे वदति । पिङ्गलं प्च्छामः. चेत्‌ प्रयो-\nजनं नास्ति । समये मातरम्‌ ए प््छमः चेत्‌\nरहस्यं ज्ञायते णव\" इति ।\nअनन्तरदिने कदाचित्‌ पिद्ाटः बहिः\nगतवान्‌ । तदा तो दुष्टभ्रातरौ मातुः समीपं\nगतवन्तो । वातार पसमये भोजनप्रस्तावं कूत।\n“रहस्य किम्‌ £ इति पृष्टवन्तौ । माता वहु-\nकाख्पयन्तं पिङ्मटेन अनीतस्य स्यूतस्य विषये\nकिमपि न उक्तवती । किन्तु उभौ अपि सदैन्यं\nप्रार्थितवन्तौ । तदा “अन्यान्‌ न वदन्तु\" इति\nवदन्ती माता मन््रस्यूतम्‌ आनीय तयोः कृत",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

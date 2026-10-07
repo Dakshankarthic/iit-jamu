@@ -1,0 +1,519 @@
+{
+  "page": 22,
+  "source_image": "image/Chanda_Mama_22.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        1417,
+        1091,
+        2608
+      ],
+      "text": "्षेमकरम्‌ '› इति उक्तवन्तः । ¦\nएतत्‌ श्चुता सुदशनः श॒वां॒ पृष्टवान्‌ “दहे\nशुक!एकः सन्देहः मां बाधते । साधारणतया\nपक्षिणाम्‌ उपदेश्न- शक्तिः न भवति । विन्त\nभवान्‌ कथम्‌ एतादृशीम्‌ उपदेशनशक्ति प्रा्त-\nवान्‌ £ भवत्सटृशः पक्षी अन्यत्र कुत्रापि\nअस्ति वा? इति ।\n८८एकदा विक्रमाकनामकः राजा युकरूपं\nधृत्वा जीवितवान्‌ । तदा सः शुकीम्‌ एकां पतनी-\nरूपेण खीकरृतवान्‌ 1 मम पवनाः तयोः शुक-\nदम्पत्योः पुत्राः । मम बन्धुजनाः सर्वे हिमाल-\nयस्य समीपे एव वसन्ति । केवटम्‌ अहम्‌ एकः",
+      "line_count": 12
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1127,
+        226,
+        2146,
+        2608
+      ],
+      "text": "एव चापल्यतः अत्र॒ आगतवान्‌!' इति शुक\nउक्तवान्‌ ।\nशुकस्य उत्तरं शयुत्रा सुददीनः तृप्तः जातः ।\nविन्तु तस्य पत्राणां तृप्तिः न अभवत्‌ । सुद-\nदीनः तु ञ्युकस्य वचनाचसरिण दानं करोति स्म।\nयुकः एकदा “आयि! भवन्‌ महादाता-अतः प्रा्थ-\nयामि। मर्यं स्वातन्त्यं ददाति वा!\" इति पृष्टवान्‌]\n“हे शुकः अन्यत्‌ यतिकिमपि पृच्छतु\nददामि । किन्तु सखातन्त्यं॒दत्वा भवता व्रिना\nअहं जीवितुं न शक्नोमि'' इति सुदानः\nटृरटतया उक्तवान्‌ । अनन्तरम्‌ अपरि अनेकवारं\nशकः “स्वातन्त्यं ददातु\" इति पृष्टवान्‌ । किन्तु\nसुदीनः न अङ्गीकृतवान्‌ ।\nएकदा सुदानः कार्यान्ते मग्रः पज्ञरस्य\nद्वारं पिधा विस्मृतवान्‌ । किन्तु युकः उड्ीय\nन गतवान्‌ ।\nएतत्‌ दुष्ट्वा सुदशनः आशवर्थेण शुकं पृष्टवान्‌\nभवान्‌ स्वातन्यम्‌ इच्छति । इदानीं पज्ञरस्य\nद्वारम्‌ उद्घाटितम्‌ एव आसीत्‌ । किमर्थम्‌\nउड़ीय न गतवान्‌!\" ?\n८८अहं कस्मिन्‌ व॑रो जातः इति पू्मेव उक्तवान्‌\nअहं दृष्टकायै कु न शक्नोमि। भवान्‌ बहु धनं\nद्त्वा मां क्रीतवान्‌ । अतः मम उपरि सवेत्रिधाः\nअधिकाराः सन्ति । भवान्‌ मनःपूरैकम्‌ अनु-\nमति न ददति चेत्‌, अहं गन्तु न इच्छामि",
+      "line_count": 25
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "्षेमकरम्‌ '› इति उक्तवन्तः । ¦",
+      "bbox": [
+        185,
+        1456,
+        983,
+        1523
+      ],
+      "confidence": 78.63,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "एतत्‌ श्चुता सुदशनः श॒वां॒ पृष्टवान्‌ “दहे",
+      "bbox": [
+        267,
+        1546,
+        1082,
+        1620
+      ],
+      "confidence": 51.65,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "शुक!एकः सन्देहः मां बाधते । साधारणतया",
+      "bbox": [
+        182,
+        1642,
+        1081,
+        1712
+      ],
+      "confidence": 84.33,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "पक्षिणाम्‌ उपदेश्न- शक्तिः न भवति । विन्त",
+      "bbox": [
+        183,
+        1734,
+        1082,
+        1802
+      ],
+      "confidence": 62.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "भवान्‌ कथम्‌ एतादृशीम्‌ उपदेशनशक्ति प्रा्त-",
+      "bbox": [
+        183,
+        1826,
+        1080,
+        1896
+      ],
+      "confidence": 58.55,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "वान्‌ £ भवत्सटृशः पक्षी अन्यत्र कुत्रापि",
+      "bbox": [
+        189,
+        1921,
+        1084,
+        1990
+      ],
+      "confidence": 69.24,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "अस्ति वा? इति ।",
+      "bbox": [
+        192,
+        2014,
+        579,
+        2083
+      ],
+      "confidence": 72.32,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "८८एकदा विक्रमाकनामकः राजा युकरूपं",
+      "bbox": [
+        282,
+        2163,
+        1082,
+        2237
+      ],
+      "confidence": 50.9,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "धृत्वा जीवितवान्‌ । तदा सः शुकीम्‌ एकां पतनी-",
+      "bbox": [
+        189,
+        2262,
+        1077,
+        2331
+      ],
+      "confidence": 73.3,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "रूपेण खीकरृतवान्‌ 1 मम पवनाः तयोः शुक-",
+      "bbox": [
+        183,
+        2348,
+        1076,
+        2426
+      ],
+      "confidence": 56.93,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "दम्पत्योः पुत्राः । मम बन्धुजनाः सर्वे हिमाल-",
+      "bbox": [
+        189,
+        2443,
+        1077,
+        2513
+      ],
+      "confidence": 72.33,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "यस्य समीपे एव वसन्ति । केवटम्‌ अहम्‌ एकः",
+      "bbox": [
+        183,
+        2537,
+        1069,
+        2604
+      ],
+      "confidence": 86.64,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "right",
+      "text": "एव चापल्यतः अत्र॒ आगतवान्‌!' इति शुक",
+      "bbox": [
+        1144,
+        336,
+        2044,
+        407
+      ],
+      "confidence": 54.6,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "right",
+      "text": "उक्तवान्‌ ।",
+      "bbox": [
+        1146,
+        441,
+        1334,
+        488
+      ],
+      "confidence": 91.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "शुकस्य उत्तरं शयुत्रा सुददीनः तृप्तः जातः ।",
+      "bbox": [
+        1223,
+        506,
+        2024,
+        579
+      ],
+      "confidence": 68.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "विन्तु तस्य पत्राणां तृप्तिः न अभवत्‌ । सुद-",
+      "bbox": [
+        1142,
+        603,
+        2019,
+        671
+      ],
+      "confidence": 75.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "दीनः तु ञ्युकस्य वचनाचसरिण दानं करोति स्म।",
+      "bbox": [
+        1140,
+        691,
+        2019,
+        764
+      ],
+      "confidence": 45.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "युकः एकदा “आयि! भवन्‌ महादाता-अतः प्रा्थ-",
+      "bbox": [
+        1141,
+        783,
+        2046,
+        858
+      ],
+      "confidence": 73.74,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "यामि। मर्यं स्वातन्त्यं ददाति वा!\" इति पृष्टवान्‌]",
+      "bbox": [
+        1140,
+        882,
+        2026,
+        947
+      ],
+      "confidence": 57.39,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "“हे शुकः अन्यत्‌ यतिकिमपि पृच्छतु",
+      "bbox": [
+        1230,
+        972,
+        2026,
+        1043
+      ],
+      "confidence": 51.83,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "ददामि । किन्तु सखातन्त्यं॒दत्वा भवता व्रिना",
+      "bbox": [
+        1141,
+        1062,
+        2027,
+        1132
+      ],
+      "confidence": 45.18,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "अहं जीवितुं न शक्नोमि'' इति सुदानः",
+      "bbox": [
+        1145,
+        1154,
+        2019,
+        1225
+      ],
+      "confidence": 66.58,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "टृरटतया उक्तवान्‌ । अनन्तरम्‌ अपरि अनेकवारं",
+      "bbox": [
+        1145,
+        1251,
+        2032,
+        1320
+      ],
+      "confidence": 76.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "शकः “स्वातन्त्यं ददातु\" इति पृष्टवान्‌ । किन्तु",
+      "bbox": [
+        1144,
+        1345,
+        2031,
+        1414
+      ],
+      "confidence": 60.92,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "सुदीनः न अङ्गीकृतवान्‌ ।",
+      "bbox": [
+        1147,
+        1432,
+        1697,
+        1518
+      ],
+      "confidence": 58.08,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "एकदा सुदानः कार्यान्ते मग्रः पज्ञरस्य",
+      "bbox": [
+        1230,
+        1524,
+        2028,
+        1597
+      ],
+      "confidence": 62.53,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "द्वारं पिधा विस्मृतवान्‌ । किन्तु युकः उड्ीय",
+      "bbox": [
+        1147,
+        1623,
+        2030,
+        1703
+      ],
+      "confidence": 53.7,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "न गतवान्‌ ।",
+      "bbox": [
+        1147,
+        1729,
+        1385,
+        1782
+      ],
+      "confidence": 92.03,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "एतत्‌ दुष्ट्वा सुदशनः आशवर्थेण शुकं पृष्टवान्‌",
+      "bbox": [
+        1189,
+        1791,
+        2041,
+        1878
+      ],
+      "confidence": 62.1,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "भवान्‌ स्वातन्यम्‌ इच्छति । इदानीं पज्ञरस्य",
+      "bbox": [
+        1152,
+        1889,
+        2030,
+        1957
+      ],
+      "confidence": 55.09,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "द्वारम्‌ उद्घाटितम्‌ एव आसीत्‌ । किमर्थम्‌",
+      "bbox": [
+        1145,
+        1976,
+        2036,
+        2055
+      ],
+      "confidence": 42.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "उड़ीय न गतवान्‌!\" ?",
+      "bbox": [
+        1145,
+        2077,
+        1572,
+        2136
+      ],
+      "confidence": 48.93,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "८८अहं कस्मिन्‌ व॑रो जातः इति पू्मेव उक्तवान्‌",
+      "bbox": [
+        1149,
+        2161,
+        2030,
+        2242
+      ],
+      "confidence": 63.69,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "अहं दृष्टकायै कु न शक्नोमि। भवान्‌ बहु धनं",
+      "bbox": [
+        1144,
+        2255,
+        2032,
+        2332
+      ],
+      "confidence": 83.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "द्त्वा मां क्रीतवान्‌ । अतः मम उपरि सवेत्रिधाः",
+      "bbox": [
+        1143,
+        2348,
+        2022,
+        2426
+      ],
+      "confidence": 78.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 36,
+      "column": "right",
+      "text": "अधिकाराः सन्ति । भवान्‌ मनःपूरैकम्‌ अनु-",
+      "bbox": [
+        1144,
+        2441,
+        2024,
+        2520
+      ],
+      "confidence": 62.42,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 37,
+      "column": "right",
+      "text": "मति न ददति चेत्‌, अहं गन्तु न इच्छामि",
+      "bbox": [
+        1144,
+        2536,
+        2033,
+        2608
+      ],
+      "confidence": 84.36,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "्षेमकरम्‌ '› इति उक्तवन्तः । ¦\nएतत्‌ श्चुता सुदशनः श॒वां॒ पृष्टवान्‌ “दहे\nशुक!एकः सन्देहः मां बाधते । साधारणतया\nपक्षिणाम्‌ उपदेश्न- शक्तिः न भवति । विन्त\nभवान्‌ कथम्‌ एतादृशीम्‌ उपदेशनशक्ति प्रा्त-\nवान्‌ £ भवत्सटृशः पक्षी अन्यत्र कुत्रापि\nअस्ति वा? इति ।\n८८एकदा विक्रमाकनामकः राजा युकरूपं\nधृत्वा जीवितवान्‌ । तदा सः शुकीम्‌ एकां पतनी-\nरूपेण खीकरृतवान्‌ 1 मम पवनाः तयोः शुक-\nदम्पत्योः पुत्राः । मम बन्धुजनाः सर्वे हिमाल-\nयस्य समीपे एव वसन्ति । केवटम्‌ अहम्‌ एकः\n\nएव चापल्यतः अत्र॒ आगतवान्‌!' इति शुक\nउक्तवान्‌ ।\nशुकस्य उत्तरं शयुत्रा सुददीनः तृप्तः जातः ।\nविन्तु तस्य पत्राणां तृप्तिः न अभवत्‌ । सुद-\nदीनः तु ञ्युकस्य वचनाचसरिण दानं करोति स्म।\nयुकः एकदा “आयि! भवन्‌ महादाता-अतः प्रा्थ-\nयामि। मर्यं स्वातन्त्यं ददाति वा!\" इति पृष्टवान्‌]\n“हे शुकः अन्यत्‌ यतिकिमपि पृच्छतु\nददामि । किन्तु सखातन्त्यं॒दत्वा भवता व्रिना\nअहं जीवितुं न शक्नोमि'' इति सुदानः\nटृरटतया उक्तवान्‌ । अनन्तरम्‌ अपरि अनेकवारं\nशकः “स्वातन्त्यं ददातु\" इति पृष्टवान्‌ । किन्तु\nसुदीनः न अङ्गीकृतवान्‌ ।\nएकदा सुदानः कार्यान्ते मग्रः पज्ञरस्य\nद्वारं पिधा विस्मृतवान्‌ । किन्तु युकः उड्ीय\nन गतवान्‌ ।\nएतत्‌ दुष्ट्वा सुदशनः आशवर्थेण शुकं पृष्टवान्‌\nभवान्‌ स्वातन्यम्‌ इच्छति । इदानीं पज्ञरस्य\nद्वारम्‌ उद्घाटितम्‌ एव आसीत्‌ । किमर्थम्‌\nउड़ीय न गतवान्‌!\" ?\n८८अहं कस्मिन्‌ व॑रो जातः इति पू्मेव उक्तवान्‌\nअहं दृष्टकायै कु न शक्नोमि। भवान्‌ बहु धनं\nद्त्वा मां क्रीतवान्‌ । अतः मम उपरि सवेत्रिधाः\nअधिकाराः सन्ति । भवान्‌ मनःपूरैकम्‌ अनु-\nमति न ददति चेत्‌, अहं गन्तु न इच्छामि",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

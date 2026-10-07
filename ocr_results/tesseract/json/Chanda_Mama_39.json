@@ -1,0 +1,404 @@
+{
+  "page": 39,
+  "source_image": "image/Chanda_Mama_39.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        992,
+        1121,
+        2494
+      ],
+      "text": "एकस्मिन्‌ प्रामे खोपराजः इति धनिकः\nआसीत्‌ । तस्य गृहे शरभनामकः एकः अनाथः\nसेवकः आसीत्‌ । सः सवथा बधिरः। यजमानेन\nएकम्‌ उक्तं चेत्‌, शरभः कदाचित्‌ अन्यत्‌ करो-\nति स्म एतेन कृतम्‌ एव काय पुनःकरएणीयं भवति\nस्म । तथापि छोपराजः शरभं न निन्दति ।\nछोपरराजस्य पुत्रः वीरराजः । र्वरराजस्य\nकृते शरभस्य व्यवहारः न रोचते स्म । सः तदा\nतदा पितर वदति स्म-- श्रधिरेण सह कः\nभोः! व्यवहरति? ठ्घुकार्याधिम्‌ अपि बहु उचैः\nवक्तव्यम्‌ ! एषः दारमः विना वेतनं तु काय न.\nकरोति। एषः एव मवेत्‌ इति न॒ सज्ञा ।\nअतः एत निष्कास्य अन्य सेवक कार्ये नियोज-\nयामः । तदेव वरम्‌” इति।",
+      "line_count": 14
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1153,
+        992,
+        2146,
+        2494
+      ],
+      "text": "ोपराजः एतत्‌ न अङ्गीकरोति। सः\nवदति स्म- “बधिरः चेत्‌ अपि, शरभः विश्वा-\nसादेः । बहुकालतः अस्मान्‌ एव विश्वस्य सः\nजीवति । अतः गृहतः निष्कासनं न उचितम्‌\"\nइति ।\nवस्तुतः शरभः बीरराजसमीपे अपि विन-\nयेन विधेयतया एव व्यवहरति स्म । तथ,पि\nवीरराजः शरभस्य विषये सवदा कुप्यति । समये\nपराप्ते, यथधाकथच्चित्‌ एषः कायतः निष्कास- ।\nनीयः' इति वीरराजः मनसि एव॒ निश्चय |\nकृतवान्‌ ।\nएकदा रोपराजः पल्या सह॒ तीयात्रां\nप्रसितः । गृहस्य समग्रम्‌ अधिकारं पुत्राय\nसमर्पित्वान्‌ ।",
+      "line_count": 14
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "एकस्मिन्‌ प्रामे खोपराजः इति धनिकः",
+      "bbox": [
+        284,
+        998,
+        1105,
+        1070
+      ],
+      "confidence": 72.44,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "आसीत्‌ । तस्य गृहे शरभनामकः एकः अनाथः",
+      "bbox": [
+        206,
+        1104,
+        1108,
+        1175
+      ],
+      "confidence": 84.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "सेवकः आसीत्‌ । सः सवथा बधिरः। यजमानेन",
+      "bbox": [
+        201,
+        1206,
+        1114,
+        1274
+      ],
+      "confidence": 87.57,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "एकम्‌ उक्तं चेत्‌, शरभः कदाचित्‌ अन्यत्‌ करो-",
+      "bbox": [
+        204,
+        1313,
+        1111,
+        1388
+      ],
+      "confidence": 90.12,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "ति स्म एतेन कृतम्‌ एव काय पुनःकरएणीयं भवति",
+      "bbox": [
+        199,
+        1418,
+        1113,
+        1505
+      ],
+      "confidence": 55.49,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "स्म । तथापि छोपराजः शरभं न निन्दति ।",
+      "bbox": [
+        200,
+        1524,
+        1006,
+        1590
+      ],
+      "confidence": 50.36,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "छोपरराजस्य पुत्रः वीरराजः । र्वरराजस्य",
+      "bbox": [
+        284,
+        1678,
+        1104,
+        1751
+      ],
+      "confidence": 46.62,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "कृते शरभस्य व्यवहारः न रोचते स्म । सः तदा",
+      "bbox": [
+        195,
+        1785,
+        1105,
+        1853
+      ],
+      "confidence": 91.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "तदा पितर वदति स्म-- श्रधिरेण सह कः",
+      "bbox": [
+        196,
+        1893,
+        1096,
+        1959
+      ],
+      "confidence": 61.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "भोः! व्यवहरति? ठ्घुकार्याधिम्‌ अपि बहु उचैः",
+      "bbox": [
+        196,
+        1994,
+        1096,
+        2077
+      ],
+      "confidence": 67.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "वक्तव्यम्‌ ! एषः दारमः विना वेतनं तु काय न.",
+      "bbox": [
+        194,
+        2102,
+        1110,
+        2175
+      ],
+      "confidence": 80.73,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "करोति। एषः एव मवेत्‌ इति न॒ सज्ञा ।",
+      "bbox": [
+        199,
+        2196,
+        1096,
+        2280
+      ],
+      "confidence": 58.22,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "अतः एत निष्कास्य अन्य सेवक कार्ये नियोज-",
+      "bbox": [
+        191,
+        2311,
+        1091,
+        2376
+      ],
+      "confidence": 59.33,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "यामः । तदेव वरम्‌” इति।",
+      "bbox": [
+        196,
+        2415,
+        711,
+        2483
+      ],
+      "confidence": 81.16,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "ोपराजः एतत्‌ न अङ्गीकरोति। सः",
+      "bbox": [
+        1262,
+        999,
+        2081,
+        1080
+      ],
+      "confidence": 50.35,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "वदति स्म- “बधिरः चेत्‌ अपि, शरभः विश्वा-",
+      "bbox": [
+        1181,
+        1102,
+        2083,
+        1186
+      ],
+      "confidence": 85.62,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "सादेः । बहुकालतः अस्मान्‌ एव विश्वस्य सः",
+      "bbox": [
+        1179,
+        1210,
+        2072,
+        1291
+      ],
+      "confidence": 65.29,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "जीवति । अतः गृहतः निष्कासनं न उचितम्‌\"",
+      "bbox": [
+        1178,
+        1322,
+        2078,
+        1393
+      ],
+      "confidence": 83.12,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "इति ।",
+      "bbox": [
+        1176,
+        1416,
+        1285,
+        1479
+      ],
+      "confidence": 79.12,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "वस्तुतः शरभः बीरराजसमीपे अपि विन-",
+      "bbox": [
+        1260,
+        1577,
+        2077,
+        1642
+      ],
+      "confidence": 77.5,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "येन विधेयतया एव व्यवहरति स्म । तथ,पि",
+      "bbox": [
+        1173,
+        1676,
+        2078,
+        1748
+      ],
+      "confidence": 87.43,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "वीरराजः शरभस्य विषये सवदा कुप्यति । समये",
+      "bbox": [
+        1170,
+        1785,
+        2076,
+        1861
+      ],
+      "confidence": 81.52,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "पराप्ते, यथधाकथच्चित्‌ एषः कायतः निष्कास- ।",
+      "bbox": [
+        1170,
+        1892,
+        2122,
+        1965
+      ],
+      "confidence": 63.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "नीयः' इति वीरराजः मनसि एव॒ निश्चय |",
+      "bbox": [
+        1169,
+        1939,
+        2123,
+        2056
+      ],
+      "confidence": 60.3,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "कृतवान्‌ ।",
+      "bbox": [
+        1168,
+        2095,
+        1348,
+        2152
+      ],
+      "confidence": 49.56,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "एकदा रोपराजः पल्या सह॒ तीयात्रां",
+      "bbox": [
+        1252,
+        2236,
+        2065,
+        2305
+      ],
+      "confidence": 60.83,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "प्रसितः । गृहस्य समग्रम्‌ अधिकारं पुत्राय",
+      "bbox": [
+        1167,
+        2332,
+        2071,
+        2412
+      ],
+      "confidence": 81.35,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "समर्पित्वान्‌ ।",
+      "bbox": [
+        1167,
+        2422,
+        1424,
+        2494
+      ],
+      "confidence": 26.23,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "एकस्मिन्‌ प्रामे खोपराजः इति धनिकः\nआसीत्‌ । तस्य गृहे शरभनामकः एकः अनाथः\nसेवकः आसीत्‌ । सः सवथा बधिरः। यजमानेन\nएकम्‌ उक्तं चेत्‌, शरभः कदाचित्‌ अन्यत्‌ करो-\nति स्म एतेन कृतम्‌ एव काय पुनःकरएणीयं भवति\nस्म । तथापि छोपराजः शरभं न निन्दति ।\nछोपरराजस्य पुत्रः वीरराजः । र्वरराजस्य\nकृते शरभस्य व्यवहारः न रोचते स्म । सः तदा\nतदा पितर वदति स्म-- श्रधिरेण सह कः\nभोः! व्यवहरति? ठ्घुकार्याधिम्‌ अपि बहु उचैः\nवक्तव्यम्‌ ! एषः दारमः विना वेतनं तु काय न.\nकरोति। एषः एव मवेत्‌ इति न॒ सज्ञा ।\nअतः एत निष्कास्य अन्य सेवक कार्ये नियोज-\nयामः । तदेव वरम्‌” इति।\n\nोपराजः एतत्‌ न अङ्गीकरोति। सः\nवदति स्म- “बधिरः चेत्‌ अपि, शरभः विश्वा-\nसादेः । बहुकालतः अस्मान्‌ एव विश्वस्य सः\nजीवति । अतः गृहतः निष्कासनं न उचितम्‌\"\nइति ।\nवस्तुतः शरभः बीरराजसमीपे अपि विन-\nयेन विधेयतया एव व्यवहरति स्म । तथ,पि\nवीरराजः शरभस्य विषये सवदा कुप्यति । समये\nपराप्ते, यथधाकथच्चित्‌ एषः कायतः निष्कास- ।\nनीयः' इति वीरराजः मनसि एव॒ निश्चय |\nकृतवान्‌ ।\nएकदा रोपराजः पल्या सह॒ तीयात्रां\nप्रसितः । गृहस्य समग्रम्‌ अधिकारं पुत्राय\nसमर्पित्वान्‌ ।",
+  "warnings": [
+    "Image too small to scale!! (1x36 vs min width of 3)\nLine cannot be recognized!!"
+  ],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

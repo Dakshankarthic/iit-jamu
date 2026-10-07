@@ -1,0 +1,322 @@
+{
+  "page": 35,
+  "source_image": "image/Chanda_Mama_35.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "alternating panel text blocks top-to-bottom",
+  "blocks": [
+    {
+      "column": "panel-1",
+      "bbox": [
+        1339,
+        147,
+        2066,
+        921
+      ],
+      "text": "आग््टासनस्य\nअरम्मः,\n पश्चदशहातके इटलि\" देष्षस्य नाविकः\nकोटम्बस्‌ स्पेयिन्‌ देशस्य राजदम्पत्योः\nप्रोत्सहेत, भारतदेशं प्रति सम॒द्र-\nमार्गम्‌ अन्वेष्टुं प्रस्थितवान्‌ । विन्त\nसः १४९८ वत्से “अमेरिका\nदेशम्‌ अन्विष्टवान्‌ ।",
+      "line_count": 8
+    },
+    {
+      "column": "panel-2",
+      "bbox": [
+        147,
+        1077,
+        862,
+        1743
+      ],
+      "text": "त॒स्मिन्‌ एव वर्प पोचुगीस्‌ नाविकः\nवास्कोडिगामा, समुद्रमार्गेण भारतदेश\nप्राप्तवान्‌ । फष्िकाटे प्रदेशस्य राजा\nजवोरिन्‌ महाद्रयः तस्मे स्वागतम्‌\nउक्तवान्‌ । अनन्तरं आगम्टाः.\nफरजनाः सऽपि वाणिच्यव्याजेन\nभारतम्‌ आगन्तुम्‌ आरब्धवन्तः ।",
+      "line_count": 7
+    },
+    {
+      "column": "panel-3",
+      "bbox": [
+        1317,
+        2035,
+        2066,
+        2622
+      ],
+      "text": "क्रश्चजनाः आग्टाः च वाणिज्यरू\nपेण आगत्य भारते एव॒ स्थिराः\nस्ञाताः । पं वाणिज्य- व्याजेन\nआगताः आ्ाः क्रश्चजनाः च भारते\nराज्यं स्थापयित॒म्‌ इच्छन्तः. कमः\nप्यर्घारूपेण युद्धम्‌ आरन्धवन्तः ।",
+      "line_count": 6
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "panel-1",
+      "text": "आग््टासनस्य",
+      "bbox": [
+        1368,
+        169,
+        1881,
+        247
+      ],
+      "confidence": 0.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "panel-1",
+      "text": "अरम्मः,",
+      "bbox": [
+        1364,
+        264,
+        1647,
+        337
+      ],
+      "confidence": 54.93,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "panel-1",
+      "text": " पश्चदशहातके इटलि\" देष्षस्य नाविकः",
+      "bbox": [
+        1339,
+        372,
+        2048,
+        441
+      ],
+      "confidence": 44.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "panel-1",
+      "text": "कोटम्बस्‌ स्पेयिन्‌ देशस्य राजदम्पत्योः",
+      "bbox": [
+        1357,
+        460,
+        2052,
+        538
+      ],
+      "confidence": 86.42,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "panel-1",
+      "text": "प्रोत्सहेत, भारतदेशं प्रति सम॒द्र-",
+      "bbox": [
+        1343,
+        559,
+        2066,
+        636
+      ],
+      "confidence": 59.99,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "panel-1",
+      "text": "मार्गम्‌ अन्वेष्टुं प्रस्थितवान्‌ । विन्त",
+      "bbox": [
+        1357,
+        653,
+        2046,
+        730
+      ],
+      "confidence": 72.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "panel-1",
+      "text": "सः १४९८ वत्से “अमेरिका",
+      "bbox": [
+        1354,
+        754,
+        2039,
+        813
+      ],
+      "confidence": 53.85,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "panel-1",
+      "text": "देशम्‌ अन्विष्टवान्‌ ।",
+      "bbox": [
+        1354,
+        842,
+        1743,
+        915
+      ],
+      "confidence": 66.91,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "panel-2",
+      "text": "त॒स्मिन्‌ एव वर्प पोचुगीस्‌ नाविकः",
+      "bbox": [
+        148,
+        1088,
+        844,
+        1165
+      ],
+      "confidence": 47.47,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "panel-2",
+      "text": "वास्कोडिगामा, समुद्रमार्गेण भारतदेश",
+      "bbox": [
+        148,
+        1183,
+        843,
+        1252
+      ],
+      "confidence": 61.11,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "panel-2",
+      "text": "प्राप्तवान्‌ । फष्िकाटे प्रदेशस्य राजा",
+      "bbox": [
+        150,
+        1277,
+        848,
+        1351
+      ],
+      "confidence": 75.38,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "panel-2",
+      "text": "जवोरिन्‌ महाद्रयः तस्मे स्वागतम्‌",
+      "bbox": [
+        150,
+        1371,
+        862,
+        1444
+      ],
+      "confidence": 76.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "panel-2",
+      "text": "उक्तवान्‌ । अनन्तरं आगम्टाः.",
+      "bbox": [
+        152,
+        1471,
+        842,
+        1532
+      ],
+      "confidence": 70.2,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "panel-2",
+      "text": "फरजनाः सऽपि वाणिच्यव्याजेन",
+      "bbox": [
+        148,
+        1561,
+        853,
+        1620
+      ],
+      "confidence": 27.37,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "panel-2",
+      "text": "भारतम्‌ आगन्तुम्‌ आरब्धवन्तः ।",
+      "bbox": [
+        150,
+        1670,
+        781,
+        1726
+      ],
+      "confidence": 69.36,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "panel-3",
+      "text": "क्रश्चजनाः आग्टाः च वाणिज्यरू",
+      "bbox": [
+        1338,
+        2050,
+        2008,
+        2104
+      ],
+      "confidence": 50.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "panel-3",
+      "text": "पेण आगत्य भारते एव॒ स्थिराः",
+      "bbox": [
+        1337,
+        2140,
+        2034,
+        2209
+      ],
+      "confidence": 70.06,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "panel-3",
+      "text": "स्ञाताः । पं वाणिज्य- व्याजेन",
+      "bbox": [
+        1338,
+        2235,
+        2027,
+        2300
+      ],
+      "confidence": 42.6,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "panel-3",
+      "text": "आगताः आ्ाः क्रश्चजनाः च भारते",
+      "bbox": [
+        1338,
+        2328,
+        2023,
+        2384
+      ],
+      "confidence": 58.02,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "panel-3",
+      "text": "राज्यं स्थापयित॒म्‌ इच्छन्तः. कमः",
+      "bbox": [
+        1337,
+        2424,
+        2014,
+        2488
+      ],
+      "confidence": 51.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "panel-3",
+      "text": "प्यर्घारूपेण युद्धम्‌ आरन्धवन्तः ।",
+      "bbox": [
+        1336,
+        2512,
+        1976,
+        2582
+      ],
+      "confidence": 43.22,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "आग््टासनस्य\nअरम्मः,\n पश्चदशहातके इटलि\" देष्षस्य नाविकः\nकोटम्बस्‌ स्पेयिन्‌ देशस्य राजदम्पत्योः\nप्रोत्सहेत, भारतदेशं प्रति सम॒द्र-\nमार्गम्‌ अन्वेष्टुं प्रस्थितवान्‌ । विन्त\nसः १४९८ वत्से “अमेरिका\nदेशम्‌ अन्विष्टवान्‌ ।\n\nत॒स्मिन्‌ एव वर्प पोचुगीस्‌ नाविकः\nवास्कोडिगामा, समुद्रमार्गेण भारतदेश\nप्राप्तवान्‌ । फष्िकाटे प्रदेशस्य राजा\nजवोरिन्‌ महाद्रयः तस्मे स्वागतम्‌\nउक्तवान्‌ । अनन्तरं आगम्टाः.\nफरजनाः सऽपि वाणिच्यव्याजेन\nभारतम्‌ आगन्तुम्‌ आरब्धवन्तः ।\n\nक्रश्चजनाः आग्टाः च वाणिज्यरू\nपेण आगत्य भारते एव॒ स्थिराः\nस्ञाताः । पं वाणिज्य- व्याजेन\nआगताः आ्ाः क्रश्चजनाः च भारते\nराज्यं स्थापयित॒म्‌ इच्छन्तः. कमः\nप्यर्घारूपेण युद्धम्‌ आरन्धवन्तः ।",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

@@ -1,0 +1,1024 @@
+{
+  "source_image": "image/Chanda_Mama_58.jpg",
+  "image_size": [
+    2271,
+    2835
+  ],
+  "method": "manually reviewed layout blocks; column-constrained ink projection",
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "status": "segmentation only; recognition pending",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        226,
+        1139,
+        1729
+      ]
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1168,
+        226,
+        2146,
+        1729
+      ]
+    }
+  ],
+  "lines": [
+    {
+      "id": "left-01",
+      "column": "left",
+      "reading_order": 1,
+      "bbox": [
+        182,
+        226,
+        1127,
+        288
+      ],
+      "boundary": [
+        [
+          182,
+          226
+        ],
+        [
+          1127,
+          226
+        ],
+        [
+          1127,
+          288
+        ],
+        [
+          182,
+          288
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "left-02",
+      "column": "left",
+      "reading_order": 2,
+      "bbox": [
+        183,
+        307,
+        1124,
+        376
+      ],
+      "boundary": [
+        [
+          183,
+          307
+        ],
+        [
+          1124,
+          307
+        ],
+        [
+          1124,
+          376
+        ],
+        [
+          183,
+          376
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "left-03",
+      "column": "left",
+      "reading_order": 3,
+      "bbox": [
+        182,
+        401,
+        1126,
+        469
+      ],
+      "boundary": [
+        [
+          182,
+          401
+        ],
+        [
+          1126,
+          401
+        ],
+        [
+          1126,
+          469
+        ],
+        [
+          182,
+          469
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "left-04",
+      "column": "left",
+      "reading_order": 4,
+      "bbox": [
+        182,
+        499,
+        1129,
+        565
+      ],
+      "boundary": [
+        [
+          182,
+          499
+        ],
+        [
+          1129,
+          499
+        ],
+        [
+          1129,
+          565
+        ],
+        [
+          182,
+          565
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "left-05",
+      "column": "left",
+      "reading_order": 5,
+      "bbox": [
+        182,
+        586,
+        1128,
+        664
+      ],
+      "boundary": [
+        [
+          182,
+          586
+        ],
+        [
+          1128,
+          586
+        ],
+        [
+          1128,
+          664
+        ],
+        [
+          182,
+          664
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "left-06",
+      "column": "left",
+      "reading_order": 6,
+      "bbox": [
+        182,
+        681,
+        896,
+        754
+      ],
+      "boundary": [
+        [
+          182,
+          681
+        ],
+        [
+          896,
+          681
+        ],
+        [
+          896,
+          754
+        ],
+        [
+          182,
+          754
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "left-07",
+      "column": "left",
+      "reading_order": 7,
+      "bbox": [
+        183,
+        791,
+        1126,
+        872
+      ],
+      "boundary": [
+        [
+          183,
+          791
+        ],
+        [
+          1126,
+          791
+        ],
+        [
+          1126,
+          872
+        ],
+        [
+          183,
+          872
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "left-08",
+      "column": "left",
+      "reading_order": 8,
+      "bbox": [
+        183,
+        878,
+        976,
+        952
+      ],
+      "boundary": [
+        [
+          183,
+          878
+        ],
+        [
+          976,
+          878
+        ],
+        [
+          976,
+          952
+        ],
+        [
+          183,
+          952
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "left-09",
+      "column": "left",
+      "reading_order": 9,
+      "bbox": [
+        183,
+        979,
+        1128,
+        1061
+      ],
+      "boundary": [
+        [
+          183,
+          979
+        ],
+        [
+          1128,
+          979
+        ],
+        [
+          1128,
+          1061
+        ],
+        [
+          183,
+          1061
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "left-10",
+      "column": "left",
+      "reading_order": 10,
+      "bbox": [
+        182,
+        1076,
+        999,
+        1143
+      ],
+      "boundary": [
+        [
+          182,
+          1076
+        ],
+        [
+          999,
+          1076
+        ],
+        [
+          999,
+          1143
+        ],
+        [
+          182,
+          1143
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "left-11",
+      "column": "left",
+      "reading_order": 11,
+      "bbox": [
+        182,
+        1178,
+        1114,
+        1257
+      ],
+      "boundary": [
+        [
+          182,
+          1178
+        ],
+        [
+          1114,
+          1178
+        ],
+        [
+          1114,
+          1257
+        ],
+        [
+          182,
+          1257
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "left-12",
+      "column": "left",
+      "reading_order": 12,
+      "bbox": [
+        182,
+        1273,
+        703,
+        1338
+      ],
+      "boundary": [
+        [
+          182,
+          1273
+        ],
+        [
+          703,
+          1273
+        ],
+        [
+          703,
+          1338
+        ],
+        [
+          182,
+          1338
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "left-13",
+      "column": "left",
+      "reading_order": 13,
+      "bbox": [
+        181,
+        1378,
+        1122,
+        1450
+      ],
+      "boundary": [
+        [
+          181,
+          1378
+        ],
+        [
+          1122,
+          1378
+        ],
+        [
+          1122,
+          1450
+        ],
+        [
+          181,
+          1450
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "left-14",
+      "column": "left",
+      "reading_order": 14,
+      "bbox": [
+        179,
+        1470,
+        1126,
+        1542
+      ],
+      "boundary": [
+        [
+          179,
+          1470
+        ],
+        [
+          1126,
+          1470
+        ],
+        [
+          1126,
+          1542
+        ],
+        [
+          179,
+          1542
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "left-15",
+      "column": "left",
+      "reading_order": 15,
+      "bbox": [
+        178,
+        1557,
+        1130,
+        1650
+      ],
+      "boundary": [
+        [
+          178,
+          1557
+        ],
+        [
+          1130,
+          1557
+        ],
+        [
+          1130,
+          1650
+        ],
+        [
+          178,
+          1650
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "left-16",
+      "column": "left",
+      "reading_order": 16,
+      "bbox": [
+        177,
+        1655,
+        1131,
+        1728
+      ],
+      "boundary": [
+        [
+          177,
+          1655
+        ],
+        [
+          1131,
+          1655
+        ],
+        [
+          1131,
+          1728
+        ],
+        [
+          177,
+          1728
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "right-01",
+      "column": "right",
+      "reading_order": 17,
+      "bbox": [
+        1183,
+        226,
+        2129,
+        285
+      ],
+      "boundary": [
+        [
+          1183,
+          226
+        ],
+        [
+          2129,
+          226
+        ],
+        [
+          2129,
+          285
+        ],
+        [
+          1183,
+          285
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "right-02",
+      "column": "right",
+      "reading_order": 18,
+      "bbox": [
+        1269,
+        312,
+        2128,
+        379
+      ],
+      "boundary": [
+        [
+          1269,
+          312
+        ],
+        [
+          2128,
+          312
+        ],
+        [
+          2128,
+          379
+        ],
+        [
+          1269,
+          379
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "right-03",
+      "column": "right",
+      "reading_order": 19,
+      "bbox": [
+        1183,
+        405,
+        2129,
+        485
+      ],
+      "boundary": [
+        [
+          1183,
+          405
+        ],
+        [
+          2129,
+          405
+        ],
+        [
+          2129,
+          485
+        ],
+        [
+          1183,
+          485
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "right-04",
+      "column": "right",
+      "reading_order": 20,
+      "bbox": [
+        1184,
+        502,
+        2128,
+        588
+      ],
+      "boundary": [
+        [
+          1184,
+          502
+        ],
+        [
+          2128,
+          502
+        ],
+        [
+          2128,
+          588
+        ],
+        [
+          1184,
+          588
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "right-05",
+      "column": "right",
+      "reading_order": 21,
+      "bbox": [
+        1184,
+        595,
+        2128,
+        657
+      ],
+      "boundary": [
+        [
+          1184,
+          595
+        ],
+        [
+          2128,
+          595
+        ],
+        [
+          2128,
+          657
+        ],
+        [
+          1184,
+          657
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "right-06",
+      "column": "right",
+      "reading_order": 22,
+      "bbox": [
+        1266,
+        696,
+        2129,
+        762
+      ],
+      "boundary": [
+        [
+          1266,
+          696
+        ],
+        [
+          2129,
+          696
+        ],
+        [
+          2129,
+          762
+        ],
+        [
+          1266,
+          762
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "right-07",
+      "column": "right",
+      "reading_order": 23,
+      "bbox": [
+        1183,
+        790,
+        2130,
+        860
+      ],
+      "boundary": [
+        [
+          1183,
+          790
+        ],
+        [
+          2130,
+          790
+        ],
+        [
+          2130,
+          860
+        ],
+        [
+          1183,
+          860
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "right-08",
+      "column": "right",
+      "reading_order": 24,
+      "bbox": [
+        1183,
+        882,
+        2130,
+        956
+      ],
+      "boundary": [
+        [
+          1183,
+          882
+        ],
+        [
+          2130,
+          882
+        ],
+        [
+          2130,
+          956
+        ],
+        [
+          1183,
+          956
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "right-09",
+      "column": "right",
+      "reading_order": 25,
+      "bbox": [
+        1183,
+        976,
+        2131,
+        1051
+      ],
+      "boundary": [
+        [
+          1183,
+          976
+        ],
+        [
+          2131,
+          976
+        ],
+        [
+          2131,
+          1051
+        ],
+        [
+          1183,
+          1051
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "right-10",
+      "column": "right",
+      "reading_order": 26,
+      "bbox": [
+        1183,
+        1071,
+        2131,
+        1130
+      ],
+      "boundary": [
+        [
+          1183,
+          1071
+        ],
+        [
+          2131,
+          1071
+        ],
+        [
+          2131,
+          1130
+        ],
+        [
+          1183,
+          1130
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "right-11",
+      "column": "right",
+      "reading_order": 27,
+      "bbox": [
+        1266,
+        1167,
+        2130,
+        1236
+      ],
+      "boundary": [
+        [
+          1266,
+          1167
+        ],
+        [
+          2130,
+          1167
+        ],
+        [
+          2130,
+          1236
+        ],
+        [
+          1266,
+          1236
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "right-12",
+      "column": "right",
+      "reading_order": 28,
+      "bbox": [
+        1183,
+        1279,
+        2131,
+        1329
+      ],
+      "boundary": [
+        [
+          1183,
+          1279
+        ],
+        [
+          2131,
+          1279
+        ],
+        [
+          2131,
+          1329
+        ],
+        [
+          1183,
+          1329
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "right-13",
+      "column": "right",
+      "reading_order": 29,
+      "bbox": [
+        1182,
+        1356,
+        2131,
+        1434
+      ],
+      "boundary": [
+        [
+          1182,
+          1356
+        ],
+        [
+          2131,
+          1356
+        ],
+        [
+          2131,
+          1434
+        ],
+        [
+          1182,
+          1434
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "right-14",
+      "column": "right",
+      "reading_order": 30,
+      "bbox": [
+        1185,
+        1447,
+        2131,
+        1521
+      ],
+      "boundary": [
+        [
+          1185,
+          1447
+        ],
+        [
+          2131,
+          1447
+        ],
+        [
+          2131,
+          1521
+        ],
+        [
+          1185,
+          1521
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "right-15",
+      "column": "right",
+      "reading_order": 31,
+      "bbox": [
+        1184,
+        1543,
+        2131,
+        1614
+      ],
+      "boundary": [
+        [
+          1184,
+          1543
+        ],
+        [
+          2131,
+          1543
+        ],
+        [
+          2131,
+          1614
+        ],
+        [
+          1184,
+          1614
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    },
+    {
+      "id": "right-16",
+      "column": "right",
+      "reading_order": 32,
+      "bbox": [
+        1269,
+        1653,
+        2131,
+        1728
+      ],
+      "boundary": [
+        [
+          1269,
+          1653
+        ],
+        [
+          2131,
+          1653
+        ],
+        [
+          2131,
+          1728
+        ],
+        [
+          1269,
+          1728
+        ]
+      ],
+      "text": null,
+      "requires_recognition": true
+    }
+  ]
+}

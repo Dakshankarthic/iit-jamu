@@ -1,0 +1,493 @@
+{
+  "page": 8,
+  "source_image": "image/Chanda_Mama_08.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        1417,
+        1106,
+        2664
+      ],
+      "text": "| धनगुप्तः कोपेन रमणं प्रति उक्तवान्‌\n(करणा बहवः जनाः अत्र आगच्छन्ति । मम\nसकाशतः ऋणं खीक्रय मम प्रशंसां क्रा ते\nगच्छति । मयि यावत्काठं धनं भवति ताव-\nत्कार जनाः प्रशसन्ति एव । भवादृशाः निग-\nतिका: धनिकः दत्तं धनं सङ्गृह्य द्राणां\nकृते द्त्वा महान्‌ पतेपकादै' इति कीति\nसम्बद्रयन्ति | माद्रश्चस्य धनिकस्य कृते एतादशी\nकीति: मास्तु\" । इति अवमाने करता रमणं\nप्रेषितवान्‌ ।\nरमणः अतीव कुपितः दुःखितः च अभ-\nवत्‌ । प्रवृत्तं सवर वृत्तान्तं युता रमणघ्य पिता",
+      "line_count": 12
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1139,
+        283,
+        2146,
+        2664
+      ],
+      "text": "उक्तवान्‌ -- वत्स! धनगु्तः सदा ॒ब्हुगद्यै `\nवदति, अन्यान्‌ निन्दति च| सा्धजनिक-\nकायर प्रवृत्ताः प्रशंसया सन्तुष्टाः, निन्दा\nविन्नाः च न भवन्ति । अतः धनगुप्तस्य विषये\nमा चिन्तयतु | ।\nपितु: उपदेदोन रमणस्य कोपः न शान्तः। ,\nसः भित्राणां समीपे स्वीयम्‌ अपमानं निवेदित.\nवान्‌ । ते अपि उक्तवन्तः--शवनगुप्तस्य वचन- `\nमात्रेण भवान्‌ वञ्चकः मृखः वा न भवति । ताट- ,\nशानि वचनानि श्रवणसमनन्तरम्‌ ए ॒विस्मर्‌- ।\nणीयानि' इति । |\nरमणसकारातः उपक्रताः अपि तं प्रति |\nएवम्‌ उक्तवन्तः-- “मवान्‌ देवसदशः मानवः। |\nअतः एव भत्सनानि शला अमि अस्माकं कृते\nउपकारं करोति\" इति । एव सवै रमणं प्रशंसि- |\nतवन्तः एव, न त॒ धनगुत्तस्य प्रवृत्तिं खण्डित- `\n` केचित्‌ प्रामवृद्धाः रमणस्य॒ धनगुक्तस्य च |\nमध्ये प्रवृत्त वृत्तान्तं तवन्तः । ते म्रामतरेदि-\nकायां रमणम्‌ आहूध उपदिष्टवन्तः-““वत्स)\nघनगुप्तः वाचाटः, सदा कुत्सितानि वचनानि\nएव रटति । एतदथ भवान्‌ मा चिन्तयतु । यदि ,\nनकः भपति तेन टोकस्य को वा ामः१ कावा |\nहानिः ।",
+      "line_count": 23
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "| धनगुप्तः कोपेन रमणं प्रति उक्तवान्‌",
+      "bbox": [
+        162,
+        1417,
+        1097,
+        1539
+      ],
+      "confidence": 39.89,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "(करणा बहवः जनाः अत्र आगच्छन्ति । मम",
+      "bbox": [
+        204,
+        1558,
+        1099,
+        1632
+      ],
+      "confidence": 47.7,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "सकाशतः ऋणं खीक्रय मम प्रशंसां क्रा ते",
+      "bbox": [
+        196,
+        1663,
+        1098,
+        1729
+      ],
+      "confidence": 72.95,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "गच्छति । मयि यावत्काठं धनं भवति ताव-",
+      "bbox": [
+        197,
+        1766,
+        1096,
+        1825
+      ],
+      "confidence": 52.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "त्कार जनाः प्रशसन्ति एव । भवादृशाः निग-",
+      "bbox": [
+        197,
+        1856,
+        1095,
+        1925
+      ],
+      "confidence": 70.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "तिका: धनिकः दत्तं धनं सङ्गृह्य द्राणां",
+      "bbox": [
+        197,
+        1958,
+        1094,
+        2040
+      ],
+      "confidence": 47.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "कृते द्त्वा महान्‌ पतेपकादै' इति कीति",
+      "bbox": [
+        197,
+        2051,
+        1091,
+        2125
+      ],
+      "confidence": 47.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "सम्बद्रयन्ति | माद्रश्चस्य धनिकस्य कृते एतादशी",
+      "bbox": [
+        201,
+        2149,
+        1093,
+        2216
+      ],
+      "confidence": 37.26,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "कीति: मास्तु\" । इति अवमाने करता रमणं",
+      "bbox": [
+        192,
+        2235,
+        1096,
+        2308
+      ],
+      "confidence": 66.79,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "प्रेषितवान्‌ ।",
+      "bbox": [
+        196,
+        2332,
+        422,
+        2401
+      ],
+      "confidence": 55.9,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "रमणः अतीव कुपितः दुःखितः च अभ-",
+      "bbox": [
+        279,
+        2477,
+        1091,
+        2546
+      ],
+      "confidence": 87.28,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "वत्‌ । प्रवृत्तं सवर वृत्तान्तं युता रमणघ्य पिता",
+      "bbox": [
+        192,
+        2564,
+        1091,
+        2641
+      ],
+      "confidence": 68.59,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "right",
+      "text": "उक्तवान्‌ -- वत्स! धनगु्तः सदा ॒ब्हुगद्यै `",
+      "bbox": [
+        1167,
+        310,
+        2111,
+        388
+      ],
+      "confidence": 58.34,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "right",
+      "text": "वदति, अन्यान्‌ निन्दति च| सा्धजनिक-",
+      "bbox": [
+        1166,
+        398,
+        2061,
+        471
+      ],
+      "confidence": 78.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "right",
+      "text": "कायर प्रवृत्ताः प्रशंसया सन्तुष्टाः, निन्दा",
+      "bbox": [
+        1167,
+        486,
+        2061,
+        564
+      ],
+      "confidence": 66.94,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "विन्नाः च न भवन्ति । अतः धनगुप्तस्य विषये",
+      "bbox": [
+        1169,
+        587,
+        2060,
+        662
+      ],
+      "confidence": 71.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "मा चिन्तयतु | ।",
+      "bbox": [
+        1165,
+        681,
+        2108,
+        766
+      ],
+      "confidence": 84.09,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "पितु: उपदेदोन रमणस्य कोपः न शान्तः। ,",
+      "bbox": [
+        1250,
+        817,
+        2109,
+        883
+      ],
+      "confidence": 77.2,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "सः भित्राणां समीपे स्वीयम्‌ अपमानं निवेदित.",
+      "bbox": [
+        1162,
+        912,
+        2058,
+        978
+      ],
+      "confidence": 70.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "वान्‌ । ते अपि उक्तवन्तः--शवनगुप्तस्य वचन- `",
+      "bbox": [
+        1161,
+        1002,
+        2109,
+        1076
+      ],
+      "confidence": 36.77,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "मात्रेण भवान्‌ वञ्चकः मृखः वा न भवति । ताट- ,",
+      "bbox": [
+        1162,
+        1094,
+        2110,
+        1169
+      ],
+      "confidence": 81.77,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "शानि वचनानि श्रवणसमनन्तरम्‌ ए ॒विस्मर्‌- ।",
+      "bbox": [
+        1163,
+        1188,
+        2109,
+        1257
+      ],
+      "confidence": 67.01,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "णीयानि' इति । |",
+      "bbox": [
+        1162,
+        1283,
+        2107,
+        1370
+      ],
+      "confidence": 56.92,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "रमणसकारातः उपक्रताः अपि तं प्रति |",
+      "bbox": [
+        1245,
+        1396,
+        2109,
+        1485
+      ],
+      "confidence": 55.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "एवम्‌ उक्तवन्तः-- “मवान्‌ देवसदशः मानवः। |",
+      "bbox": [
+        1160,
+        1514,
+        2108,
+        1587
+      ],
+      "confidence": 56.58,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "अतः एव भत्सनानि शला अमि अस्माकं कृते",
+      "bbox": [
+        1159,
+        1602,
+        2054,
+        1693
+      ],
+      "confidence": 74.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "उपकारं करोति\" इति । एव सवै रमणं प्रशंसि- |",
+      "bbox": [
+        1160,
+        1697,
+        2109,
+        1787
+      ],
+      "confidence": 62.52,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "तवन्तः एव, न त॒ धनगुत्तस्य प्रवृत्तिं खण्डित- `",
+      "bbox": [
+        1158,
+        1797,
+        2107,
+        1864
+      ],
+      "confidence": 72.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "` केचित्‌ प्रामवृद्धाः रमणस्य॒ धनगुक्तस्य च |",
+      "bbox": [
+        1201,
+        1992,
+        2108,
+        2091
+      ],
+      "confidence": 48.53,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "मध्ये प्रवृत्त वृत्तान्तं तवन्तः । ते म्रामतरेदि-",
+      "bbox": [
+        1157,
+        2105,
+        2054,
+        2181
+      ],
+      "confidence": 60.82,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "कायां रमणम्‌ आहूध उपदिष्टवन्तः-““वत्स)",
+      "bbox": [
+        1156,
+        2207,
+        2050,
+        2275
+      ],
+      "confidence": 42.73,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "घनगुप्तः वाचाटः, सदा कुत्सितानि वचनानि",
+      "bbox": [
+        1154,
+        2300,
+        2056,
+        2368
+      ],
+      "confidence": 86.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "एव रटति । एतदथ भवान्‌ मा चिन्तयतु । यदि ,",
+      "bbox": [
+        1150,
+        2386,
+        2107,
+        2460
+      ],
+      "confidence": 75.06,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "नकः भपति तेन टोकस्य को वा ामः१ कावा |",
+      "bbox": [
+        1160,
+        2478,
+        2111,
+        2571
+      ],
+      "confidence": 58.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "हानिः ।",
+      "bbox": [
+        1151,
+        2574,
+        1620,
+        2640
+      ],
+      "confidence": 71.51,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "| धनगुप्तः कोपेन रमणं प्रति उक्तवान्‌\n(करणा बहवः जनाः अत्र आगच्छन्ति । मम\nसकाशतः ऋणं खीक्रय मम प्रशंसां क्रा ते\nगच्छति । मयि यावत्काठं धनं भवति ताव-\nत्कार जनाः प्रशसन्ति एव । भवादृशाः निग-\nतिका: धनिकः दत्तं धनं सङ्गृह्य द्राणां\nकृते द्त्वा महान्‌ पतेपकादै' इति कीति\nसम्बद्रयन्ति | माद्रश्चस्य धनिकस्य कृते एतादशी\nकीति: मास्तु\" । इति अवमाने करता रमणं\nप्रेषितवान्‌ ।\nरमणः अतीव कुपितः दुःखितः च अभ-\nवत्‌ । प्रवृत्तं सवर वृत्तान्तं युता रमणघ्य पिता\n\nउक्तवान्‌ -- वत्स! धनगु्तः सदा ॒ब्हुगद्यै `\nवदति, अन्यान्‌ निन्दति च| सा्धजनिक-\nकायर प्रवृत्ताः प्रशंसया सन्तुष्टाः, निन्दा\nविन्नाः च न भवन्ति । अतः धनगुप्तस्य विषये\nमा चिन्तयतु | ।\nपितु: उपदेदोन रमणस्य कोपः न शान्तः। ,\nसः भित्राणां समीपे स्वीयम्‌ अपमानं निवेदित.\nवान्‌ । ते अपि उक्तवन्तः--शवनगुप्तस्य वचन- `\nमात्रेण भवान्‌ वञ्चकः मृखः वा न भवति । ताट- ,\nशानि वचनानि श्रवणसमनन्तरम्‌ ए ॒विस्मर्‌- ।\nणीयानि' इति । |\nरमणसकारातः उपक्रताः अपि तं प्रति |\nएवम्‌ उक्तवन्तः-- “मवान्‌ देवसदशः मानवः। |\nअतः एव भत्सनानि शला अमि अस्माकं कृते\nउपकारं करोति\" इति । एव सवै रमणं प्रशंसि- |\nतवन्तः एव, न त॒ धनगुत्तस्य प्रवृत्तिं खण्डित- `\n` केचित्‌ प्रामवृद्धाः रमणस्य॒ धनगुक्तस्य च |\nमध्ये प्रवृत्त वृत्तान्तं तवन्तः । ते म्रामतरेदि-\nकायां रमणम्‌ आहूध उपदिष्टवन्तः-““वत्स)\nघनगुप्तः वाचाटः, सदा कुत्सितानि वचनानि\nएव रटति । एतदथ भवान्‌ मा चिन्तयतु । यदि ,\nनकः भपति तेन टोकस्य को वा ामः१ कावा |\nहानिः ।",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

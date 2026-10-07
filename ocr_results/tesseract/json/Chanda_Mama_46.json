@@ -1,0 +1,428 @@
+{
+  "page": 46,
+  "source_image": "image/Chanda_Mama_46.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        1134,
+        1134,
+        2608
+      ],
+      "text": "दासः (हरिकथावाचकः) अस्ति । सः म्रामं प्रामं\nगल्रा श्रोतारः यधा आनन्दं प्राप्नुवन्ति तधा हरि-\nकथां वदति । जनाः धनं सन्तषेण ददति।\nअनेन मार्गेण विष्णुदत्तः जीवननिव्रहणं करोति।\nएकदा विष्णुदत्तः एकं ग्राम प्रति गतवान्‌ ।\nतत्रत्याः जनाः सन्तोषेण भिष्णुदत्तन हरिकथां\nवाचयितुं निश्चये कृतवन्तः । तस्मिन्‌ प्रामे\nरमगुप्तः इति एकः धनिकः आसीत्‌। तस्य\nगृहे विशाम्‌ अङ्गणम्‌ आसीत्‌ । अतः\n८“तत्रैव कार्यक्रमं कुर्मः ' इति जनाः निश्चय\nकत्रा , विष्णुदत्तन सह रामगुप्तस्य गृह गत्वा तस्य\nसमीपे एवम्‌ टक्तवन्तः “*भोः! एतेन विष्णु-\nदत्तन हरिकिधां वाचयितुं वयं सं निश्चय करत\nवन्तः । सः काचक्रमः भवतः गृहे भवतु ।\nकार्यक्रमानन्तरं वय यथाद्राक्ति धनं दतरा",
+      "line_count": 15
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1163,
+        1134,
+        2146,
+        2608
+      ],
+      "text": "यद्यपि रामगुप्तः एतादृशत्रिषये अनासक्तः;\nतथापि एतेन कार्यक्रमेण अहं गोरखस्यं॒पात्र\nभवामि इति आढोच्य उक्तव्रान्‌ “अस्तु नाम,\nब्रह समीचीनम्‌ । अत्रेव कार्यक्रमः भवतु इति\nस्वे निश्चयं कृतवन्तः चेत्‌. अहं धन्यः। काय\nक्रमं चाट्यामः। अपि च विष्णुदत्तस्य वसतिरपि\nअत्रैव भवतु! ' | ।\nरामगुप्तगृदस्य अङ्गणे मण्टपस्य निर्माणं\nकरा वेद्विकानिर्माणम्‌ अपि कृतवन्तः । रात्रौ\nवेदिकाया; मध्ये देवस्य चित्रं स्थापवित्रा दीप-\nमपि ज्वाटितवन्तः। देवस्य समीपे शराव\nस्थापितवन्तः । हरिकथां श्रोतुं सव मण्टपे उव-\nविष्वन्तः। तेषु केचित्‌ जनाः कथायाः आरम्भे\nएव॒ यथाशक्ति धनं समपितवन्तः । अन्ये\nकेचित्‌ कथायाः अन्ते समपधितु निश्चयं कृत-",
+      "line_count": 15
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "दासः (हरिकथावाचकः) अस्ति । सः म्रामं प्रामं",
+      "bbox": [
+        213,
+        1185,
+        1105,
+        1259
+      ],
+      "confidence": 38.48,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "गल्रा श्रोतारः यधा आनन्दं प्राप्नुवन्ति तधा हरि-",
+      "bbox": [
+        215,
+        1278,
+        1128,
+        1347
+      ],
+      "confidence": 76.91,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "कथां वदति । जनाः धनं सन्तषेण ददति।",
+      "bbox": [
+        216,
+        1371,
+        1110,
+        1436
+      ],
+      "confidence": 83.78,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "अनेन मार्गेण विष्णुदत्तः जीवननिव्रहणं करोति।",
+      "bbox": [
+        219,
+        1461,
+        1110,
+        1534
+      ],
+      "confidence": 79.56,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "एकदा विष्णुदत्तः एकं ग्राम प्रति गतवान्‌ ।",
+      "bbox": [
+        303,
+        1561,
+        1111,
+        1629
+      ],
+      "confidence": 64.37,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "तत्रत्याः जनाः सन्तोषेण भिष्णुदत्तन हरिकथां",
+      "bbox": [
+        223,
+        1651,
+        1112,
+        1719
+      ],
+      "confidence": 59.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "वाचयितुं निश्चये कृतवन्तः । तस्मिन्‌ प्रामे",
+      "bbox": [
+        223,
+        1739,
+        1114,
+        1815
+      ],
+      "confidence": 47.24,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "रमगुप्तः इति एकः धनिकः आसीत्‌। तस्य",
+      "bbox": [
+        225,
+        1841,
+        1115,
+        1911
+      ],
+      "confidence": 79.71,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "गृहे विशाम्‌ अङ्गणम्‌ आसीत्‌ । अतः",
+      "bbox": [
+        226,
+        1934,
+        1111,
+        2017
+      ],
+      "confidence": 54.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "८“तत्रैव कार्यक्रमं कुर्मः ' इति जनाः निश्चय",
+      "bbox": [
+        232,
+        2021,
+        1118,
+        2095
+      ],
+      "confidence": 54.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "कत्रा , विष्णुदत्तन सह रामगुप्तस्य गृह गत्वा तस्य",
+      "bbox": [
+        231,
+        2115,
+        1121,
+        2201
+      ],
+      "confidence": 77.63,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "समीपे एवम्‌ टक्तवन्तः “*भोः! एतेन विष्णु-",
+      "bbox": [
+        232,
+        2207,
+        1116,
+        2277
+      ],
+      "confidence": 63.08,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "दत्तन हरिकिधां वाचयितुं वयं सं निश्चय करत",
+      "bbox": [
+        234,
+        2298,
+        1101,
+        2369
+      ],
+      "confidence": 65.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "वन्तः । सः काचक्रमः भवतः गृहे भवतु ।",
+      "bbox": [
+        235,
+        2392,
+        1121,
+        2458
+      ],
+      "confidence": 56.28,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "left",
+      "text": "कार्यक्रमानन्तरं वय यथाद्राक्ति धनं दतरा",
+      "bbox": [
+        237,
+        2486,
+        1128,
+        2548
+      ],
+      "confidence": 59.32,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "right",
+      "text": "यद्यपि रामगुप्तः एतादृशत्रिषये अनासक्तः;",
+      "bbox": [
+        1254,
+        1174,
+        2061,
+        1248
+      ],
+      "confidence": 56.32,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "right",
+      "text": "तथापि एतेन कार्यक्रमेण अहं गोरखस्यं॒पात्र",
+      "bbox": [
+        1174,
+        1264,
+        2070,
+        1339
+      ],
+      "confidence": 66.6,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "right",
+      "text": "भवामि इति आढोच्य उक्तव्रान्‌ “अस्तु नाम,",
+      "bbox": [
+        1177,
+        1364,
+        2061,
+        1432
+      ],
+      "confidence": 61.66,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "right",
+      "text": "ब्रह समीचीनम्‌ । अत्रेव कार्यक्रमः भवतु इति",
+      "bbox": [
+        1177,
+        1452,
+        2066,
+        1532
+      ],
+      "confidence": 78.73,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "right",
+      "text": "स्वे निश्चयं कृतवन्तः चेत्‌. अहं धन्यः। काय",
+      "bbox": [
+        1177,
+        1541,
+        2068,
+        1620
+      ],
+      "confidence": 67.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "right",
+      "text": "क्रमं चाट्यामः। अपि च विष्णुदत्तस्य वसतिरपि",
+      "bbox": [
+        1178,
+        1640,
+        2070,
+        1707
+      ],
+      "confidence": 76.09,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "right",
+      "text": "अत्रैव भवतु! ' | ।",
+      "bbox": [
+        1180,
+        1722,
+        1858,
+        1805
+      ],
+      "confidence": 51.75,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "right",
+      "text": "रामगुप्तगृदस्य अङ्गणे मण्टपस्य निर्माणं",
+      "bbox": [
+        1264,
+        1815,
+        2078,
+        1901
+      ],
+      "confidence": 70.16,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "right",
+      "text": "करा वेद्विकानिर्माणम्‌ अपि कृतवन्तः । रात्रौ",
+      "bbox": [
+        1183,
+        1911,
+        2069,
+        1989
+      ],
+      "confidence": 66.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "right",
+      "text": "वेदिकाया; मध्ये देवस्य चित्रं स्थापवित्रा दीप-",
+      "bbox": [
+        1181,
+        2009,
+        2069,
+        2076
+      ],
+      "confidence": 72.69,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "मपि ज्वाटितवन्तः। देवस्य समीपे शराव",
+      "bbox": [
+        1182,
+        2097,
+        2074,
+        2166
+      ],
+      "confidence": 75.88,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "स्थापितवन्तः । हरिकथां श्रोतुं सव मण्टपे उव-",
+      "bbox": [
+        1184,
+        2187,
+        2069,
+        2262
+      ],
+      "confidence": 83.99,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "विष्वन्तः। तेषु केचित्‌ जनाः कथायाः आरम्भे",
+      "bbox": [
+        1189,
+        2284,
+        2074,
+        2359
+      ],
+      "confidence": 77.71,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "एव॒ यथाशक्ति धनं समपितवन्तः । अन्ये",
+      "bbox": [
+        1188,
+        2376,
+        2075,
+        2454
+      ],
+      "confidence": 62.73,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "केचित्‌ कथायाः अन्ते समपधितु निश्चयं कृत-",
+      "bbox": [
+        1188,
+        2468,
+        2070,
+        2547
+      ],
+      "confidence": 58.71,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "दासः (हरिकथावाचकः) अस्ति । सः म्रामं प्रामं\nगल्रा श्रोतारः यधा आनन्दं प्राप्नुवन्ति तधा हरि-\nकथां वदति । जनाः धनं सन्तषेण ददति।\nअनेन मार्गेण विष्णुदत्तः जीवननिव्रहणं करोति।\nएकदा विष्णुदत्तः एकं ग्राम प्रति गतवान्‌ ।\nतत्रत्याः जनाः सन्तोषेण भिष्णुदत्तन हरिकथां\nवाचयितुं निश्चये कृतवन्तः । तस्मिन्‌ प्रामे\nरमगुप्तः इति एकः धनिकः आसीत्‌। तस्य\nगृहे विशाम्‌ अङ्गणम्‌ आसीत्‌ । अतः\n८“तत्रैव कार्यक्रमं कुर्मः ' इति जनाः निश्चय\nकत्रा , विष्णुदत्तन सह रामगुप्तस्य गृह गत्वा तस्य\nसमीपे एवम्‌ टक्तवन्तः “*भोः! एतेन विष्णु-\nदत्तन हरिकिधां वाचयितुं वयं सं निश्चय करत\nवन्तः । सः काचक्रमः भवतः गृहे भवतु ।\nकार्यक्रमानन्तरं वय यथाद्राक्ति धनं दतरा\n\nयद्यपि रामगुप्तः एतादृशत्रिषये अनासक्तः;\nतथापि एतेन कार्यक्रमेण अहं गोरखस्यं॒पात्र\nभवामि इति आढोच्य उक्तव्रान्‌ “अस्तु नाम,\nब्रह समीचीनम्‌ । अत्रेव कार्यक्रमः भवतु इति\nस्वे निश्चयं कृतवन्तः चेत्‌. अहं धन्यः। काय\nक्रमं चाट्यामः। अपि च विष्णुदत्तस्य वसतिरपि\nअत्रैव भवतु! ' | ।\nरामगुप्तगृदस्य अङ्गणे मण्टपस्य निर्माणं\nकरा वेद्विकानिर्माणम्‌ अपि कृतवन्तः । रात्रौ\nवेदिकाया; मध्ये देवस्य चित्रं स्थापवित्रा दीप-\nमपि ज्वाटितवन्तः। देवस्य समीपे शराव\nस्थापितवन्तः । हरिकथां श्रोतुं सव मण्टपे उव-\nविष्वन्तः। तेषु केचित्‌ जनाः कथायाः आरम्भे\nएव॒ यथाशक्ति धनं समपितवन्तः । अन्ये\nकेचित्‌ कथायाः अन्ते समपधितु निश्चयं कृत-",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

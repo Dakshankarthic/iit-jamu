@@ -1,0 +1,348 @@
+{
+  "page": 38,
+  "source_image": "image/Chanda_Mama_38.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "alternating panel text blocks top-to-bottom",
+  "blocks": [
+    {
+      "column": "panel-1",
+      "bbox": [
+        1403,
+        172,
+        2127,
+        921
+      ],
+      "text": "मिर्जाफरम्य व्यवहारः तृप्िक\nनास्तीति कृत्वा आंग्लेयाः तस्य जामा-\nतरं मीरखामिमं, सिहासने स्थापित-\nवन्तः। सः अपि आगग्लेयानाम्‌ आज्ञा न\nपालितवान्‌ । १७६४ वत्सरे रक्सार\nयुध्दम्‌ अभवत्‌ । मीरखासिमः दिष्टि\nराज्यपाल्कस्य प्रा आटम' महादयम्य\nमाहाग्यं च्च्धवान्‌ ।",
+      "line_count": 8
+    },
+    {
+      "column": "panel-2",
+      "bbox": [
+        211,
+        1074,
+        940,
+        1800
+      ],
+      "text": "युषे मीरग्वासिमः पराजितः । मः\nदिष्टी गल्ला तत्रे अतीव शाचनीया-\nवस्थायां मरणं प्राप्तवान्‌ । व राजा\nभूत्रा ओरिह्सा, वडगाद, व्रिहाग\nप्रान्तेभ्यः करस्वीकरणस्य अविकार\nमोगल-पालकस्य करते दातुम्‌ अङ्गी -\nकृतवान्‌ । एतेन शव॒ महोदयस्य\nअधिकः धनलाभः अभवत्‌।",
+      "line_count": 8
+    },
+    {
+      "column": "panel-3",
+      "bbox": [
+        1398,
+        1984,
+        2150,
+        2679
+      ],
+      "text": "केव्‌ वीराचिनं स्वागतं निरीघ्तेमाणः\nइग्टेण्ड देदां गतवान्‌ । विन्तु तत्र\nतस्य द्राहचिन्तने दुष्टव्यवहरि च\nज्ञात्रा बहवः तस्य द्रेपम्‌ अपि कृत\nवन्तः । एतन्‌ असहमानः छ्ेव महा -\nदयः, ह्भुरिकया आत्महत्यां कततरान्‌ ।\nएवं ङ्केवस्य अन्यम्‌ अभवत्‌।",
+      "line_count": 7
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "panel-1",
+      "text": "मिर्जाफरम्य व्यवहारः तृप्िक",
+      "bbox": [
+        1414,
+        172,
+        2108,
+        244
+      ],
+      "confidence": 58.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "panel-1",
+      "text": "नास्तीति कृत्वा आंग्लेयाः तस्य जामा-",
+      "bbox": [
+        1406,
+        266,
+        2118,
+        352
+      ],
+      "confidence": 73.6,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "panel-1",
+      "text": "तरं मीरखामिमं, सिहासने स्थापित-",
+      "bbox": [
+        1411,
+        365,
+        2115,
+        430
+      ],
+      "confidence": 66.61,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "panel-1",
+      "text": "वन्तः। सः अपि आगग्लेयानाम्‌ आज्ञा न",
+      "bbox": [
+        1410,
+        461,
+        2121,
+        528
+      ],
+      "confidence": 60.3,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "panel-1",
+      "text": "पालितवान्‌ । १७६४ वत्सरे रक्सार",
+      "bbox": [
+        1409,
+        553,
+        2127,
+        620
+      ],
+      "confidence": 46.32,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "panel-1",
+      "text": "युध्दम्‌ अभवत्‌ । मीरखासिमः दिष्टि",
+      "bbox": [
+        1411,
+        653,
+        2104,
+        719
+      ],
+      "confidence": 79.42,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "panel-1",
+      "text": "राज्यपाल्कस्य प्रा आटम' महादयम्य",
+      "bbox": [
+        1409,
+        746,
+        2120,
+        803
+      ],
+      "confidence": 61.9,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "panel-1",
+      "text": "माहाग्यं च्च्धवान्‌ ।",
+      "bbox": [
+        1409,
+        839,
+        1779,
+        895
+      ],
+      "confidence": 32.8,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "panel-2",
+      "text": "युषे मीरग्वासिमः पराजितः । मः",
+      "bbox": [
+        216,
+        1074,
+        920,
+        1133
+      ],
+      "confidence": 41.64,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "panel-2",
+      "text": "दिष्टी गल्ला तत्रे अतीव शाचनीया-",
+      "bbox": [
+        216,
+        1167,
+        918,
+        1235
+      ],
+      "confidence": 42.18,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "panel-2",
+      "text": "वस्थायां मरणं प्राप्तवान्‌ । व राजा",
+      "bbox": [
+        214,
+        1260,
+        922,
+        1330
+      ],
+      "confidence": 89.64,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "panel-2",
+      "text": "भूत्रा ओरिह्सा, वडगाद, व्रिहाग",
+      "bbox": [
+        216,
+        1356,
+        919,
+        1431
+      ],
+      "confidence": 46.39,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "panel-2",
+      "text": "प्रान्तेभ्यः करस्वीकरणस्य अविकार",
+      "bbox": [
+        213,
+        1452,
+        912,
+        1510
+      ],
+      "confidence": 34.97,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "panel-2",
+      "text": "मोगल-पालकस्य करते दातुम्‌ अङ्गी -",
+      "bbox": [
+        216,
+        1542,
+        914,
+        1627
+      ],
+      "confidence": 14.29,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "panel-2",
+      "text": "कृतवान्‌ । एतेन शव॒ महोदयस्य",
+      "bbox": [
+        216,
+        1638,
+        920,
+        1725
+      ],
+      "confidence": 66.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "panel-2",
+      "text": "अधिकः धनलाभः अभवत्‌।",
+      "bbox": [
+        219,
+        1739,
+        743,
+        1798
+      ],
+      "confidence": 67.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "panel-3",
+      "text": "केव्‌ वीराचिनं स्वागतं निरीघ्तेमाणः",
+      "bbox": [
+        1413,
+        2015,
+        2132,
+        2073
+      ],
+      "confidence": 47.27,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "panel-3",
+      "text": "इग्टेण्ड देदां गतवान्‌ । विन्तु तत्र",
+      "bbox": [
+        1410,
+        2109,
+        2121,
+        2184
+      ],
+      "confidence": 76.0,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "panel-3",
+      "text": "तस्य द्राहचिन्तने दुष्टव्यवहरि च",
+      "bbox": [
+        1410,
+        2203,
+        2108,
+        2274
+      ],
+      "confidence": 54.33,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "panel-3",
+      "text": "ज्ञात्रा बहवः तस्य द्रेपम्‌ अपि कृत",
+      "bbox": [
+        1411,
+        2298,
+        2091,
+        2361
+      ],
+      "confidence": 81.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "panel-3",
+      "text": "वन्तः । एतन्‌ असहमानः छ्ेव महा -",
+      "bbox": [
+        1412,
+        2368,
+        2119,
+        2472
+      ],
+      "confidence": 60.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "panel-3",
+      "text": "दयः, ह्भुरिकया आत्महत्यां कततरान्‌ ।",
+      "bbox": [
+        1413,
+        2489,
+        2115,
+        2562
+      ],
+      "confidence": 50.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "panel-3",
+      "text": "एवं ङ्केवस्य अन्यम्‌ अभवत्‌।",
+      "bbox": [
+        1413,
+        2557,
+        1968,
+        2652
+      ],
+      "confidence": 51.37,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "मिर्जाफरम्य व्यवहारः तृप्िक\nनास्तीति कृत्वा आंग्लेयाः तस्य जामा-\nतरं मीरखामिमं, सिहासने स्थापित-\nवन्तः। सः अपि आगग्लेयानाम्‌ आज्ञा न\nपालितवान्‌ । १७६४ वत्सरे रक्सार\nयुध्दम्‌ अभवत्‌ । मीरखासिमः दिष्टि\nराज्यपाल्कस्य प्रा आटम' महादयम्य\nमाहाग्यं च्च्धवान्‌ ।\n\nयुषे मीरग्वासिमः पराजितः । मः\nदिष्टी गल्ला तत्रे अतीव शाचनीया-\nवस्थायां मरणं प्राप्तवान्‌ । व राजा\nभूत्रा ओरिह्सा, वडगाद, व्रिहाग\nप्रान्तेभ्यः करस्वीकरणस्य अविकार\nमोगल-पालकस्य करते दातुम्‌ अङ्गी -\nकृतवान्‌ । एतेन शव॒ महोदयस्य\nअधिकः धनलाभः अभवत्‌।\n\nकेव्‌ वीराचिनं स्वागतं निरीघ्तेमाणः\nइग्टेण्ड देदां गतवान्‌ । विन्तु तत्र\nतस्य द्राहचिन्तने दुष्टव्यवहरि च\nज्ञात्रा बहवः तस्य द्रेपम्‌ अपि कृत\nवन्तः । एतन्‌ असहमानः छ्ेव महा -\nदयः, ह्भुरिकया आत्महत्यां कततरान्‌ ।\nएवं ङ्केवस्य अन्यम्‌ अभवत्‌।",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

@@ -1,0 +1,612 @@
+{
+  "page": 65,
+  "source_image": "image/Chanda_Mama_65.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "eng+san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 3,
+  "reading_order": "Tesseract automatic page layout",
+  "blocks": [
+    {
+      "column": "page",
+      "bbox": [
+        0,
+        0,
+        2271,
+        2835
+      ],
+      "text": "शिष्टाचारः\nहरिः ओम्‌\nसुप्रभातम्‌\nनमस्ते\nAAA:\nनमोनमः\nशुभरात्रिः\nधन्यवादः\nस्वागतम्‌\nगणना मास्तु\nक्षम्यताम्‌\nचिन्ता मास्तु\nकृपया\nपुनः मिलामः\nअस्तु\nश्रीमन्‌\nमान्ये/ आर्ये\nसाधु साधु/समीचीनम्‌\nभवतः नाम किम्‌ ?\nभवत्याः नाम किम्‌ ?\nमम नाम ---ः\nभवान्‌ कस्यां कक्ष्यायां पठति ?\nभवती कस्यां कक्ष्यायां पठति ?\nHallo\nGood morning.\nGood afternoon/Good evening.\nGood night.\nThank you.\nWelcome.\nNo mention.\nExcuse/pardon me.\nDon’t worry.\nPlease.\nLet us meet again.\nAll right/O.K.\nSir.\nMadam.\nVery good.\nWhat is your name? (male).\nWhat is your name? (fem).\n>\nMy name is ‘\nWhich class are you in? (male).\nWhich class are you in? (fem).\nअहं ‘——’ meat पठामि | lamin‘ ;",
+      "line_count": 45
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "page",
+      "text": "शिष्टाचारः",
+      "bbox": [
+        969,
+        221,
+        1353,
+        337
+      ],
+      "confidence": 40.77,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "page",
+      "text": "हरिः ओम्‌",
+      "bbox": [
+        288,
+        443,
+        567,
+        529
+      ],
+      "confidence": 94.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "page",
+      "text": "सुप्रभातम्‌",
+      "bbox": [
+        285,
+        557,
+        538,
+        622
+      ],
+      "confidence": 93.24,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "page",
+      "text": "नमस्ते",
+      "bbox": [
+        285,
+        634,
+        430,
+        701
+      ],
+      "confidence": 92.22,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "page",
+      "text": "AAA:",
+      "bbox": [
+        286,
+        745,
+        505,
+        793
+      ],
+      "confidence": 42.28,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "page",
+      "text": "नमोनमः",
+      "bbox": [
+        287,
+        817,
+        491,
+        887
+      ],
+      "confidence": 96.21,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "page",
+      "text": "शुभरात्रिः",
+      "bbox": [
+        275,
+        899,
+        498,
+        977
+      ],
+      "confidence": 92.4,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "page",
+      "text": "धन्यवादः",
+      "bbox": [
+        280,
+        1007,
+        491,
+        1061
+      ],
+      "confidence": 50.33,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "page",
+      "text": "स्वागतम्‌",
+      "bbox": [
+        271,
+        1099,
+        493,
+        1163
+      ],
+      "confidence": 96.25,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "page",
+      "text": "गणना मास्तु",
+      "bbox": [
+        272,
+        1191,
+        588,
+        1255
+      ],
+      "confidence": 95.64,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "page",
+      "text": "क्षम्यताम्‌",
+      "bbox": [
+        277,
+        1282,
+        503,
+        1347
+      ],
+      "confidence": 83.94,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "page",
+      "text": "चिन्ता मास्तु",
+      "bbox": [
+        271,
+        1357,
+        577,
+        1438
+      ],
+      "confidence": 90.49,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "page",
+      "text": "कृपया",
+      "bbox": [
+        269,
+        1466,
+        425,
+        1527
+      ],
+      "confidence": 95.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "page",
+      "text": "पुनः मिलामः",
+      "bbox": [
+        268,
+        1541,
+        599,
+        1620
+      ],
+      "confidence": 92.89,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "page",
+      "text": "अस्तु",
+      "bbox": [
+        271,
+        1649,
+        389,
+        1712
+      ],
+      "confidence": 96.36,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "page",
+      "text": "श्रीमन्‌",
+      "bbox": [
+        268,
+        1724,
+        433,
+        1805
+      ],
+      "confidence": 93.56,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "page",
+      "text": "मान्ये/ आर्ये",
+      "bbox": [
+        262,
+        1810,
+        538,
+        1902
+      ],
+      "confidence": 50.11,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "page",
+      "text": "साधु साधु/समीचीनम्‌",
+      "bbox": [
+        264,
+        1911,
+        825,
+        1993
+      ],
+      "confidence": 79.89,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "page",
+      "text": "भवतः नाम किम्‌ ?",
+      "bbox": [
+        261,
+        2010,
+        777,
+        2086
+      ],
+      "confidence": 88.83,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "page",
+      "text": "भवत्याः नाम किम्‌ ?",
+      "bbox": [
+        262,
+        2100,
+        816,
+        2178
+      ],
+      "confidence": 88.59,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "page",
+      "text": "मम नाम ---ः",
+      "bbox": [
+        256,
+        2196,
+        731,
+        2257
+      ],
+      "confidence": 61.67,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "page",
+      "text": "भवान्‌ कस्यां कक्ष्यायां पठति ?",
+      "bbox": [
+        263,
+        2283,
+        1071,
+        2367
+      ],
+      "confidence": 79.62,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "page",
+      "text": "भवती कस्यां कक्ष्यायां पठति ?",
+      "bbox": [
+        264,
+        2375,
+        1072,
+        2449
+      ],
+      "confidence": 89.06,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "page",
+      "text": "Hallo",
+      "bbox": [
+        1154,
+        458,
+        1307,
+        505
+      ],
+      "confidence": 96.49,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "page",
+      "text": "Good morning.",
+      "bbox": [
+        1155,
+        550,
+        1563,
+        609
+      ],
+      "confidence": 96.61,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "page",
+      "text": "Good afternoon/Good evening.",
+      "bbox": [
+        1154,
+        746,
+        1994,
+        805
+      ],
+      "confidence": 92.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "page",
+      "text": "Good night.",
+      "bbox": [
+        1153,
+        913,
+        1473,
+        973
+      ],
+      "confidence": 95.93,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "page",
+      "text": "Thank you.",
+      "bbox": [
+        1152,
+        1005,
+        1456,
+        1064
+      ],
+      "confidence": 96.56,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "page",
+      "text": "Welcome.",
+      "bbox": [
+        1153,
+        1097,
+        1421,
+        1144
+      ],
+      "confidence": 96.62,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "page",
+      "text": "No mention.",
+      "bbox": [
+        1153,
+        1190,
+        1486,
+        1236
+      ],
+      "confidence": 95.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "page",
+      "text": "Excuse/pardon me.",
+      "bbox": [
+        1153,
+        1282,
+        1666,
+        1341
+      ],
+      "confidence": 93.17,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "page",
+      "text": "Don’t worry.",
+      "bbox": [
+        1153,
+        1374,
+        1497,
+        1433
+      ],
+      "confidence": 96.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "page",
+      "text": "Please.",
+      "bbox": [
+        1153,
+        1467,
+        1338,
+        1512
+      ],
+      "confidence": 96.81,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "page",
+      "text": "Let us meet again.",
+      "bbox": [
+        1153,
+        1558,
+        1638,
+        1617
+      ],
+      "confidence": 96.01,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "page",
+      "text": "All right/O.K.",
+      "bbox": [
+        1152,
+        1652,
+        1531,
+        1712
+      ],
+      "confidence": 81.36,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 36,
+      "column": "page",
+      "text": "Sir.",
+      "bbox": [
+        1153,
+        1746,
+        1241,
+        1792
+      ],
+      "confidence": 96.65,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 37,
+      "column": "page",
+      "text": "Madam.",
+      "bbox": [
+        1153,
+        1837,
+        1373,
+        1884
+      ],
+      "confidence": 96.41,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 38,
+      "column": "page",
+      "text": "Very good.",
+      "bbox": [
+        1153,
+        1930,
+        1448,
+        1989
+      ],
+      "confidence": 96.75,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 39,
+      "column": "page",
+      "text": "What is your name? (male).",
+      "bbox": [
+        1153,
+        2020,
+        1891,
+        2081
+      ],
+      "confidence": 96.28,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 40,
+      "column": "page",
+      "text": "What is your name? (fem).",
+      "bbox": [
+        1153,
+        2113,
+        1865,
+        2173
+      ],
+      "confidence": 96.28,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 41,
+      "column": "page",
+      "text": ">",
+      "bbox": [
+        1709,
+        2208,
+        1720,
+        2224
+      ],
+      "confidence": 43.53,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 42,
+      "column": "page",
+      "text": "My name is ‘",
+      "bbox": [
+        1152,
+        2206,
+        1486,
+        2266
+      ],
+      "confidence": 91.93,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 43,
+      "column": "page",
+      "text": "Which class are you in? (male).",
+      "bbox": [
+        1152,
+        2296,
+        1980,
+        2357
+      ],
+      "confidence": 96.51,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 44,
+      "column": "page",
+      "text": "Which class are you in? (fem).",
+      "bbox": [
+        1153,
+        2388,
+        1954,
+        2449
+      ],
+      "confidence": 96.04,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 45,
+      "column": "page",
+      "text": "अहं ‘——’ meat पठामि | lamin‘ ;",
+      "bbox": [
+        266,
+        2467,
+        1600,
+        2542
+      ],
+      "confidence": 73.13,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "शिष्टाचारः\nहरिः ओम्‌\nसुप्रभातम्‌\nनमस्ते\nAAA:\nनमोनमः\nशुभरात्रिः\nधन्यवादः\nस्वागतम्‌\nगणना मास्तु\nक्षम्यताम्‌\nचिन्ता मास्तु\nकृपया\nपुनः मिलामः\nअस्तु\nश्रीमन्‌\nमान्ये/ आर्ये\nसाधु साधु/समीचीनम्‌\nभवतः नाम किम्‌ ?\nभवत्याः नाम किम्‌ ?\nमम नाम ---ः\nभवान्‌ कस्यां कक्ष्यायां पठति ?\nभवती कस्यां कक्ष्यायां पठति ?\nHallo\nGood morning.\nGood afternoon/Good evening.\nGood night.\nThank you.\nWelcome.\nNo mention.\nExcuse/pardon me.\nDon’t worry.\nPlease.\nLet us meet again.\nAll right/O.K.\nSir.\nMadam.\nVery good.\nWhat is your name? (male).\nWhat is your name? (fem).\n>\nMy name is ‘\nWhich class are you in? (male).\nWhich class are you in? (fem).\nअहं ‘——’ meat पठामि | lamin‘ ;",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

@@ -1,0 +1,172 @@
+{
+  "page": 68,
+  "source_image": "image/Chanda_Mama_68.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 3,
+  "reading_order": "Tesseract automatic page layout",
+  "blocks": [
+    {
+      "column": "page",
+      "bbox": [
+        0,
+        0,
+        2271,
+        2835
+      ],
+      "text": "(^^ 1114 (5451 13४ 1984\nसाहसस्य तथा\n[54 ५. 0.\nउडुयितुम्‌ इच्छति\nमूल्यं केवलं रू. २.५०-एकस्याः प्रतिकृतेः ।\nसुलभतया प्राप्तुं शक्या एषा प्रथमा\nकामिक्स्‌ पत्रिका अद्वितीया एव ।\nअस्याः ३६ वर्णमयपृष्ठानि भवन्तं वीरपरुषैः\nसह रहस्यं तथा रोमाश्चकारिविश्वं नयन्ति ।\nडालूटन्‌ 6.2\nमद्रास्‌ ६०० ०२६",
+      "line_count": 11
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "page",
+      "text": "(^^ 1114 (5451 13४ 1984",
+      "bbox": [
+        275,
+        34,
+        1394,
+        75
+      ],
+      "confidence": 34.08,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "page",
+      "text": "साहसस्य तथा",
+      "bbox": [
+        223,
+        181,
+        966,
+        317
+      ],
+      "confidence": 94.18,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "page",
+      "text": "[54 ५. 0.",
+      "bbox": [
+        1757,
+        4,
+        1956,
+        72
+      ],
+      "confidence": 47.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "page",
+      "text": "उडुयितुम्‌ इच्छति",
+      "bbox": [
+        224,
+        660,
+        1023,
+        873
+      ],
+      "confidence": 57.61,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "page",
+      "text": "मूल्यं केवलं रू. २.५०-एकस्याः प्रतिकृतेः ।",
+      "bbox": [
+        1269,
+        1668,
+        2012,
+        1733
+      ],
+      "confidence": 90.02,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "page",
+      "text": "सुलभतया प्राप्तुं शक्या एषा प्रथमा",
+      "bbox": [
+        1273,
+        1747,
+        1901,
+        1804
+      ],
+      "confidence": 90.43,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "page",
+      "text": "कामिक्स्‌ पत्रिका अद्वितीया एव ।",
+      "bbox": [
+        1273,
+        1813,
+        1852,
+        1873
+      ],
+      "confidence": 83.56,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "page",
+      "text": "अस्याः ३६ वर्णमयपृष्ठानि भवन्तं वीरपरुषैः",
+      "bbox": [
+        1287,
+        1903,
+        1933,
+        1960
+      ],
+      "confidence": 54.86,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "page",
+      "text": "सह रहस्यं तथा रोमाश्चकारिविश्वं नयन्ति ।",
+      "bbox": [
+        1285,
+        1974,
+        1896,
+        2034
+      ],
+      "confidence": 53.22,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "page",
+      "text": "डालूटन्‌ 6.2",
+      "bbox": [
+        1527,
+        2510,
+        1965,
+        2623
+      ],
+      "confidence": 20.68,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "page",
+      "text": "मद्रास्‌ ६०० ०२६",
+      "bbox": [
+        1539,
+        2622,
+        1862,
+        2671
+      ],
+      "confidence": 94.56,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "(^^ 1114 (5451 13४ 1984\nसाहसस्य तथा\n[54 ५. 0.\nउडुयितुम्‌ इच्छति\nमूल्यं केवलं रू. २.५०-एकस्याः प्रतिकृतेः ।\nसुलभतया प्राप्तुं शक्या एषा प्रथमा\nकामिक्स्‌ पत्रिका अद्वितीया एव ।\nअस्याः ३६ वर्णमयपृष्ठानि भवन्तं वीरपरुषैः\nसह रहस्यं तथा रोमाश्चकारिविश्वं नयन्ति ।\nडालूटन्‌ 6.2\nमद्रास्‌ ६०० ०२६",
+  "warnings": [
+    "Detected 18 diacritics"
+  ],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}

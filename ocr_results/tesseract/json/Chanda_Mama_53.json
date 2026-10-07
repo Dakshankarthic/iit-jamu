@@ -1,0 +1,506 @@
+{
+  "page": 53,
+  "source_image": "image/Chanda_Mama_53.jpg",
+  "engine": "Tesseract 5.5.0",
+  "languages": "san",
+  "model": "tessdata_best/san; system eng",
+  "psm": 6,
+  "reading_order": "left column top-to-bottom, then right column top-to-bottom",
+  "blocks": [
+    {
+      "column": "left",
+      "bbox": [
+        147,
+        226,
+        1138,
+        2608
+      ],
+      "text": "ते सवै अत्र आगत्य कुम्भकणस्य आहाराः\nभवन्ति । महावीरः कुम्भकणः एव अस्माकं पक्षे\nअस्ति । एवं सति, किमर्थ भीतिः ।१३ति ।\nरामः महत्याः वानरसेनायाः साहास्येन समुद्रं\nनिरातङ्क तीर्त्वा टङ्कातीरं प्राप्तवान्‌ । तत्र\nसवत्र वानरसेना व्याप्ता | `\nठड्कानगरम्‌ उन्नतस्य॒पवेतस्य शिखर\nनिर्मितम्‌ आसीत्‌ । पर्वताग्रे सोधस्य उप-\nरिभागे स्थिता रावणः सर्वं पुद्यति स्म-\nविस्तृतं स्थलम्‌ आक्रम्य स्थितं रामसैन्यम्‌ ।\nदूरे दृद्यमान रावणं दृष्ट्वा अङ्गदस्य\nउत्साहः प्रवृद्धः । बाटभवेन प्रचोदितः सः\n*अर्हं॑ रावणसमीपं गत्वा किचित्‌ वाताटापं\nकुत्वा आगच्छामि\" इति उक्तवान्‌ । वेगेन\nआकाशम्‌ उल्दुत्य रावणस्य सोस्य उपरि\nआपतितवान्‌ ।\nअये} रावण ! पूवम्‌ एकदा वाटी भवन्तं\nस्वखाङ्गूलेन बद्धवा क्षिप्तवान्‌ आसीत्‌ किल ¶\nतस्य एव वालिनः पुत्रः अहम्‌ अङ्गदः ।\nमम पितुः विषये गौरवादरं प्रदशयन्‌ मित्रवत्‌\nआचरितवान्‌ । अतः एव॒ वदामि- ““इदानीम्‌\nअपि समयः न अतिक्रान्तः । रामेण सह वैरं\nत्यजतु । रामं शरण गच्छतु । वानराः कीदशाः\nइति भवतः कृते पुनः वक्तव्यं नास्ति ।\nतावन्तः वानराः विशशाठं समुद्रं॑विना आयासं",
+      "line_count": 25
+    },
+    {
+      "column": "right",
+      "bbox": [
+        1168,
+        1389,
+        2146,
+        2608
+      ],
+      "text": "तीर््वा आगताः सन्ति ।. तेषां शक्तौ एतत्‌ एव\nप्रमाणम्‌! इति उक्तवान्‌ अङ्गदः ।\nएतत्‌ वचनं श्जुत्रा रवणः कुपितः ।\nअङ्गदं प्रहत खडग॑ गृहीतवान्‌। तदा अङ्गदः\n८“धिगस्तु ते\" इति वदन्‌ रावणस्य मुकुट\nपादप्रहारेण . पातितवान्‌ । ततः वेगेन निशेव\nवानरसैन्यं प्राप्तवान्‌ ।\nवानरसैन्यं महता उत्साहेन ल्ड्कानगरम्‌\nआक्रम्य राक्षस-सहाराथ प्रवृत्तम्‌ । रावणः एतत्‌\nज्ञाता निद्रातः कुम्भकणम्‌ उत्थापितवान्‌। युद्धा\nशीघ्रम्‌ एव गन्तुम्‌ आज्ञप्तवान्‌ च ।",
+      "line_count": 11
+    }
+  ],
+  "lines": [
+    {
+      "reading_order": 1,
+      "column": "left",
+      "text": "ते सवै अत्र आगत्य कुम्भकणस्य आहाराः",
+      "bbox": [
+        242,
+        277,
+        1127,
+        364
+      ],
+      "confidence": 70.16,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 2,
+      "column": "left",
+      "text": "भवन्ति । महावीरः कुम्भकणः एव अस्माकं पक्षे",
+      "bbox": [
+        242,
+        372,
+        1136,
+        447
+      ],
+      "confidence": 87.05,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 3,
+      "column": "left",
+      "text": "अस्ति । एवं सति, किमर्थ भीतिः ।१३ति ।",
+      "bbox": [
+        243,
+        462,
+        1077,
+        542
+      ],
+      "confidence": 81.84,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 4,
+      "column": "left",
+      "text": "रामः महत्याः वानरसेनायाः साहास्येन समुद्रं",
+      "bbox": [
+        324,
+        561,
+        1138,
+        629
+      ],
+      "confidence": 60.22,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 5,
+      "column": "left",
+      "text": "निरातङ्क तीर्त्वा टङ्कातीरं प्राप्तवान्‌ । तत्र",
+      "bbox": [
+        242,
+        651,
+        1137,
+        728
+      ],
+      "confidence": 53.89,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 6,
+      "column": "left",
+      "text": "सवत्र वानरसेना व्याप्ता | `",
+      "bbox": [
+        241,
+        742,
+        807,
+        804
+      ],
+      "confidence": 81.8,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 7,
+      "column": "left",
+      "text": "ठड्कानगरम्‌ उन्नतस्य॒पवेतस्य शिखर",
+      "bbox": [
+        327,
+        834,
+        1138,
+        914
+      ],
+      "confidence": 48.04,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 8,
+      "column": "left",
+      "text": "निर्मितम्‌ आसीत्‌ । पर्वताग्रे सोधस्य उप-",
+      "bbox": [
+        242,
+        925,
+        1138,
+        1001
+      ],
+      "confidence": 75.11,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 9,
+      "column": "left",
+      "text": "रिभागे स्थिता रावणः सर्वं पुद्यति स्म-",
+      "bbox": [
+        241,
+        1018,
+        1136,
+        1095
+      ],
+      "confidence": 70.61,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 10,
+      "column": "left",
+      "text": "विस्तृतं स्थलम्‌ आक्रम्य स्थितं रामसैन्यम्‌ ।",
+      "bbox": [
+        242,
+        1112,
+        1080,
+        1185
+      ],
+      "confidence": 74.93,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 11,
+      "column": "left",
+      "text": "दूरे दृद्यमान रावणं दृष्ट्वा अङ्गदस्य",
+      "bbox": [
+        320,
+        1204,
+        1137,
+        1285
+      ],
+      "confidence": 38.66,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 12,
+      "column": "left",
+      "text": "उत्साहः प्रवृद्धः । बाटभवेन प्रचोदितः सः",
+      "bbox": [
+        241,
+        1298,
+        1128,
+        1364
+      ],
+      "confidence": 90.4,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 13,
+      "column": "left",
+      "text": "*अर्हं॑ रावणसमीपं गत्वा किचित्‌ वाताटापं",
+      "bbox": [
+        248,
+        1388,
+        1130,
+        1464
+      ],
+      "confidence": 34.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 14,
+      "column": "left",
+      "text": "कुत्वा आगच्छामि\" इति उक्तवान्‌ । वेगेन",
+      "bbox": [
+        242,
+        1484,
+        1128,
+        1566
+      ],
+      "confidence": 63.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 15,
+      "column": "left",
+      "text": "आकाशम्‌ उल्दुत्य रावणस्य सोस्य उपरि",
+      "bbox": [
+        238,
+        1583,
+        1126,
+        1657
+      ],
+      "confidence": 65.31,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 16,
+      "column": "left",
+      "text": "आपतितवान्‌ ।",
+      "bbox": [
+        238,
+        1683,
+        516,
+        1749
+      ],
+      "confidence": 57.96,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 17,
+      "column": "left",
+      "text": "अये} रावण ! पूवम्‌ एकदा वाटी भवन्तं",
+      "bbox": [
+        324,
+        1770,
+        1123,
+        1847
+      ],
+      "confidence": 70.99,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 18,
+      "column": "left",
+      "text": "स्वखाङ्गूलेन बद्धवा क्षिप्तवान्‌ आसीत्‌ किल ¶",
+      "bbox": [
+        236,
+        1863,
+        1119,
+        1940
+      ],
+      "confidence": 62.45,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 19,
+      "column": "left",
+      "text": "तस्य एव वालिनः पुत्रः अहम्‌ अङ्गदः ।",
+      "bbox": [
+        237,
+        1959,
+        1119,
+        2031
+      ],
+      "confidence": 73.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 20,
+      "column": "left",
+      "text": "मम पितुः विषये गौरवादरं प्रदशयन्‌ मित्रवत्‌",
+      "bbox": [
+        237,
+        2043,
+        1126,
+        2120
+      ],
+      "confidence": 71.47,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 21,
+      "column": "left",
+      "text": "आचरितवान्‌ । अतः एव॒ वदामि- ““इदानीम्‌",
+      "bbox": [
+        237,
+        2142,
+        1129,
+        2207
+      ],
+      "confidence": 48.2,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 22,
+      "column": "left",
+      "text": "अपि समयः न अतिक्रान्तः । रामेण सह वैरं",
+      "bbox": [
+        236,
+        2240,
+        1127,
+        2305
+      ],
+      "confidence": 83.98,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 23,
+      "column": "left",
+      "text": "त्यजतु । रामं शरण गच्छतु । वानराः कीदशाः",
+      "bbox": [
+        234,
+        2333,
+        1112,
+        2401
+      ],
+      "confidence": 71.78,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 24,
+      "column": "left",
+      "text": "इति भवतः कृते पुनः वक्तव्यं नास्ति ।",
+      "bbox": [
+        235,
+        2422,
+        1115,
+        2494
+      ],
+      "confidence": 71.72,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 25,
+      "column": "left",
+      "text": "तावन्तः वानराः विशशाठं समुद्रं॑विना आयासं",
+      "bbox": [
+        234,
+        2504,
+        1119,
+        2584
+      ],
+      "confidence": 64.76,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 26,
+      "column": "right",
+      "text": "तीर््वा आगताः सन्ति ।. तेषां शक्तौ एतत्‌ एव",
+      "bbox": [
+        1191,
+        1517,
+        2076,
+        1592
+      ],
+      "confidence": 87.14,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 27,
+      "column": "right",
+      "text": "प्रमाणम्‌! इति उक्तवान्‌ अङ्गदः ।",
+      "bbox": [
+        1191,
+        1613,
+        1959,
+        1687
+      ],
+      "confidence": 76.3,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 28,
+      "column": "right",
+      "text": "एतत्‌ वचनं श्जुत्रा रवणः कुपितः ।",
+      "bbox": [
+        1273,
+        1745,
+        2072,
+        1816
+      ],
+      "confidence": 61.89,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 29,
+      "column": "right",
+      "text": "अङ्गदं प्रहत खडग॑ गृहीतवान्‌। तदा अङ्गदः",
+      "bbox": [
+        1187,
+        1833,
+        2067,
+        1915
+      ],
+      "confidence": 52.58,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 30,
+      "column": "right",
+      "text": "८“धिगस्तु ते\" इति वदन्‌ रावणस्य मुकुट",
+      "bbox": [
+        1190,
+        1928,
+        2077,
+        2000
+      ],
+      "confidence": 75.91,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 31,
+      "column": "right",
+      "text": "पादप्रहारेण . पातितवान्‌ । ततः वेगेन निशेव",
+      "bbox": [
+        1184,
+        2016,
+        2072,
+        2096
+      ],
+      "confidence": 74.89,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 32,
+      "column": "right",
+      "text": "वानरसैन्यं प्राप्तवान्‌ ।",
+      "bbox": [
+        1184,
+        2108,
+        1601,
+        2176
+      ],
+      "confidence": 67.57,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 33,
+      "column": "right",
+      "text": "वानरसैन्यं महता उत्साहेन ल्ड्कानगरम्‌",
+      "bbox": [
+        1267,
+        2245,
+        2077,
+        2326
+      ],
+      "confidence": 62.46,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 34,
+      "column": "right",
+      "text": "आक्रम्य राक्षस-सहाराथ प्रवृत्तम्‌ । रावणः एतत्‌",
+      "bbox": [
+        1183,
+        2338,
+        2075,
+        2411
+      ],
+      "confidence": 75.15,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 35,
+      "column": "right",
+      "text": "ज्ञाता निद्रातः कुम्भकणम्‌ उत्थापितवान्‌। युद्धा",
+      "bbox": [
+        1182,
+        2432,
+        2076,
+        2506
+      ],
+      "confidence": 78.28,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    },
+    {
+      "reading_order": 36,
+      "column": "right",
+      "text": "शीघ्रम्‌ एव गन्तुम्‌ आज्ञप्तवान्‌ च ।",
+      "bbox": [
+        1182,
+        2527,
+        1866,
+        2597
+      ],
+      "confidence": 83.58,
+      "confidence_scale": "0-100; character-weighted Tesseract word confidence"
+    }
+  ],
+  "text": "ते सवै अत्र आगत्य कुम्भकणस्य आहाराः\nभवन्ति । महावीरः कुम्भकणः एव अस्माकं पक्षे\nअस्ति । एवं सति, किमर्थ भीतिः ।१३ति ।\nरामः महत्याः वानरसेनायाः साहास्येन समुद्रं\nनिरातङ्क तीर्त्वा टङ्कातीरं प्राप्तवान्‌ । तत्र\nसवत्र वानरसेना व्याप्ता | `\nठड्कानगरम्‌ उन्नतस्य॒पवेतस्य शिखर\nनिर्मितम्‌ आसीत्‌ । पर्वताग्रे सोधस्य उप-\nरिभागे स्थिता रावणः सर्वं पुद्यति स्म-\nविस्तृतं स्थलम्‌ आक्रम्य स्थितं रामसैन्यम्‌ ।\nदूरे दृद्यमान रावणं दृष्ट्वा अङ्गदस्य\nउत्साहः प्रवृद्धः । बाटभवेन प्रचोदितः सः\n*अर्हं॑ रावणसमीपं गत्वा किचित्‌ वाताटापं\nकुत्वा आगच्छामि\" इति उक्तवान्‌ । वेगेन\nआकाशम्‌ उल्दुत्य रावणस्य सोस्य उपरि\nआपतितवान्‌ ।\nअये} रावण ! पूवम्‌ एकदा वाटी भवन्तं\nस्वखाङ्गूलेन बद्धवा क्षिप्तवान्‌ आसीत्‌ किल ¶\nतस्य एव वालिनः पुत्रः अहम्‌ अङ्गदः ।\nमम पितुः विषये गौरवादरं प्रदशयन्‌ मित्रवत्‌\nआचरितवान्‌ । अतः एव॒ वदामि- ““इदानीम्‌\nअपि समयः न अतिक्रान्तः । रामेण सह वैरं\nत्यजतु । रामं शरण गच्छतु । वानराः कीदशाः\nइति भवतः कृते पुनः वक्तव्यं नास्ति ।\nतावन्तः वानराः विशशाठं समुद्रं॑विना आयासं\n\nतीर््वा आगताः सन्ति ।. तेषां शक्तौ एतत्‌ एव\nप्रमाणम्‌! इति उक्तवान्‌ अङ्गदः ।\nएतत्‌ वचनं श्जुत्रा रवणः कुपितः ।\nअङ्गदं प्रहत खडग॑ गृहीतवान्‌। तदा अङ्गदः\n८“धिगस्तु ते\" इति वदन्‌ रावणस्य मुकुट\nपादप्रहारेण . पातितवान्‌ । ततः वेगेन निशेव\nवानरसैन्यं प्राप्तवान्‌ ।\nवानरसैन्यं महता उत्साहेन ल्ड्कानगरम्‌\nआक्रम्य राक्षस-सहाराथ प्रवृत्तम्‌ । रावणः एतत्‌\nज्ञाता निद्रातः कुम्भकणम्‌ उत्थापितवान्‌। युद्धा\nशीघ्रम्‌ एव गन्तुम्‌ आज्ञप्तवान्‌ च ।",
+  "warnings": [],
+  "limitations": "Machine OCR, not proofread. Hand-selected text blocks may omit headings or marginal text; automatic layouts on covers and tables need review."
+}
