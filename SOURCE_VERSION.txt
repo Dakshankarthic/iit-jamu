@@ -1,0 +1,4 @@
+Repository: https://github.com/Dakshankarthic/iit-jamu
+Branch: ocr-results-column-segmentation
+Commit: 8ec01a401466e215b9b5e02237ff0aec761d8526
+Surya inference has not been run.
